@@ -14,6 +14,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myshop',
+    'futupayments',
 ]
 
 ROOT_URLCONF = 'myshop.urls'
@@ -45,6 +46,10 @@ TEMPLATES = [{
     }
 }]
 
+MIDDLEWARE = [
+    'django.contrib.sessions.middleware.SessionMiddleware',
+]
+
 LANGUAGE_CODE = 'ru-ru'
 TIME_ZONE = 'Europe/Moscow'
 USE_I18N = True
@@ -54,3 +59,11 @@ USE_TZ = True
 MAX_POOL_SIZE = 50
 
 STATIC_URL = '/static/'
+
+FUTUPAYMENTS_MERCHANT_ID = 'demoshops'
+FUTUPAYMENTS_SECRET_KEY = 'F87939421C1826BF920927395C61BA2C'
+FUTUPAYMENTS_RECIEPTS = True
+FUTUPAYMENTS_SUCCESS_URL = '/django/futupayments/success/'
+FUTUPAYMENTS_FAIL_URL = '/django/futupayments/fail/'
+FUTUPAYMENTS_HOST = 'https://dev.futubank.com/'
+FUTUPAYMENTS_TEST_MODE = True

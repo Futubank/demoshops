@@ -1,9 +1,9 @@
 FROM python:3.5
 
-RUN pip install \
-    Django \
-    mysqlclient \
-    git+https://github.com/Futubank/django-futupayments@a3a40f972b6b56ccedd119ac6de0311d5ead5037
+RUN mkdir /opt/myshop
+
+COPY requirements.txt /opt/myshop/requirements.txt
+RUN pip install -r /opt/myshop/requirements.txt
 
 COPY myshop /opt/myshop
 

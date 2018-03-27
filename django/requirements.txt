@@ -1,0 +1,3 @@
+Django
+mysqlclient
+git+https://github.com/Futubank/django-futupayments@e0b49bde605b74a84998480428aef96cfbd7a322

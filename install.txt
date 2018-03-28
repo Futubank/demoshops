@@ -1,5 +1,0 @@
-docker-machine create \
-  --driver generic \
-  --generic-ip-address=46.101.101.6 \
-  --generic-ssh-key ~/.ssh/id_rsa \
-  demoshops

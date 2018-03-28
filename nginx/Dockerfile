@@ -1,5 +1,5 @@
 FROM nginx:1.13
 
 COPY nginx.conf /etc/nginx/nginx.conf
-COPY hosts/ /etc/nginx/hosts/
+COPY locations /etc/nginx/locations/
 COPY home/ /var/www/home/

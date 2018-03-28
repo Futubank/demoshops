@@ -1,5 +1,5 @@
 #FROM mysql:8
-FROM ubuntu:latest
+FROM ubuntu:xenial
 
 ENV MYSQL_ROOT_PASSWORD=gfgefg297rgfwefr927g3fg23dg413g4d7g348d72384dg29734gd
 

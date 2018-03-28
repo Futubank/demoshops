@@ -6,10 +6,21 @@ services:
     ports:
       - "80:80"
     depends_on:
+      - phpfpm
       - django
+      - wordpress
+    volumes:
+      - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
   mysql:
     build: ./mysql
     restart: always
+  phpfpm:
+    build: ./phpfpm
+    restart: always
+    depends_on:
+      - mysql
+    volumes:
+      - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
   django:
     build: ./django
     restart: always
@@ -18,3 +29,8 @@ services:
       - ./django/myshop/:/opt/myshop
     depends_on:
       - mysql
+  wordpress:
+    build: ./wordpress
+    restart: "no"
+    volumes:
+      - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/

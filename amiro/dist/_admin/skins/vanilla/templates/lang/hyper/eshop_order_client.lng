@@ -1,0 +1,32 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%caption_print_form%en%%
+Select type of printed form
+%%caption_print_form%ru%%
+Выберите тип печатной формы
+
+%%grp_change_status%en%%
+Change status
+%%grp_change_status%ru%%
+Назначить статус
+
+%%grp_change_status_warn%en%%
+Are you sure to change status of selected orders?
+%%grp_change_status_warn%ru%%
+Вы уверены, что хотите назначить статус выбранным заказам?
+
+%%grp_change_status_warn_over_100%en%%
+Select less than 100 orders!
+%%grp_change_status_warn_over_100%ru%%
+Выберите менее 100 заказов!
+
+%%grp_change_status_warn_over_10%en%%
+In can be long operation because of sending notifications.
+%%grp_change_status_warn_over_10%ru%%
+Из-за отправки уведомлений это может быть длительной операцией.
+
+%%grp_change_status_popup_header%en%%
+Changing status of orders
+%%grp_change_status_popup_header%ru%%
+Изменение статуса заказов

@@ -1,0 +1,22 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/eshop_datasets_def.lng"%%
+
+%%sku_map%en%%
+Sku template
+%%sku_map%ru%%
+Шаблон кода товаров
+
+%%fields_no%en%%
+Not attributes created. Please go to the "Products attribute descriptions" module and create required attributes first.
+%%fields_no%ru%%
+Не создано ни одно свойство. Зайдите в модуль "Описание свойств товаров" и создайте требуемые свойства.
+
+%%hardcoded_restFrom%en%%
+Existent products only
+%%hardcoded_restFrom%ru%%
+Только товары в наличии

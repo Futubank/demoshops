@@ -1,0 +1,6 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    core 
+ * @version    $Id$ 
+ * @size       2024 xkqwguwiwtkunmlsqpwiusngqgnlxnmmxmtgxxpktxzpikklunxgmtzixpityryzstyupnir
+ */ ?><?php foreach(array(4562=>"ZSv|WZIGZMPnD") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class ExtAdvAudit extends ExtAudit {function ExtAdvAudit() {parent::ExtAudit(); }function GetModuleName() {return "ext_adv_audit"; }function TITTlII(&$cms, &$module, &$db){ if($module->Name == "adv_banners" || $module->Name == I4562){ if(is_object($cms->Member) && $cms->Member->isLoggedIn()){ $sql ="select id from cms_adv_advertisers where id_member='".$cms->Member->getUserInfo("id")."' and active=1"; $db->query($sql); if($db->next_record()) return true; }return false; }else return parent::TITTlII($cms, $module, $db); }}?>

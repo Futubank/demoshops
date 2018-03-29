@@ -1,0 +1,27 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%list_action_grp_lock%en%%
+Lock selected topics
+%%list_action_grp_lock%ru%%
+Закрыть выбранные темы
+
+%%list_action_grp_unlock%en%%
+Unlock selected topics
+%%list_action_grp_unlock%ru%%
+Открыть выбранные темы
+
+%%list_confirm_grp_lock%en%%
+Lock selected topics?
+%%list_confirm_grp_lock%ru%%
+Закрыть выбранные темы?
+
+%%list_confirm_grp_unlock%en%%
+Unlock selected topics?
+%%list_confirm_grp_unlock%ru%%
+Открыть выбранные темы?
+
+
+##--
+Удалить темы? Все сообщения тем будут удалены
+--##

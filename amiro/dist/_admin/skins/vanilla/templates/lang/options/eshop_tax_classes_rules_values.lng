@@ -1,0 +1,34 @@
+%%tax_system_RU%en%%
+Russian Federation/International
+%%tax_system_RU%ru%%
+Российская Федерация/Международная
+
+%%tax_system_US%en%%
+United States
+%%tax_system_US%ru%%
+Соединенные Штаты Америки (США)
+
+%%tax_scheme_SUM%en%%
+The sum on all products
+%%tax_scheme_SUM%ru%%
+Сумма по всем товарам
+
+%%tax_scheme_NO%en%%
+Is not calculated
+%%tax_scheme_NO%ru%%
+Не вычисляется
+
+%%charge_tax_type_CHARGE%en%%
+Charge
+%%charge_tax_type_CHARGE%ru%%
+Начисляемый
+
+%%charge_tax_type_DETACH%en%%
+Detach
+%%charge_tax_type_DETACH%ru%%
+Выделяемый
+
+%%charge_tax_type_NONE%en%%
+None
+%%charge_tax_type_NONE%ru%%
+Отсутствует

@@ -1,0 +1,39 @@
+%%username%en%%
+Username
+%%username%ru%%
+Логин
+
+%%firstname%en%%
+First name
+%%firstname%ru%%
+Имя
+
+%%lastname%en%%
+Last name
+%%lastname%ru%%
+Фамилия
+
+%%address%en%%
+Shipping Address
+%%address%ru%%
+Адрес для доставки
+
+%%balance%en%%
+Balance
+%%balance%ru%%
+Баланс
+
+%%balance_history%en%%
+Balance history (last 20 records)
+%%balance_history%ru%%
+История (последние 20)
+
+%%personal_discount%en%%
+Personal discount
+%%personal_discount%ru%%
+Персональная скидка
+
+%%personal_discount_exp_date%en%%
+Expire date
+%%personal_discount_exp_date%ru%%
+Дата завершения действия скидки

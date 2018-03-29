@@ -1,0 +1,32 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_login%en%%
+Login
+%%list_col_login%ru%%
+Логин
+
+%%list_col_domain%en%%
+Domain
+%%list_col_domain%ru%%
+Домен
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_ip%en%%
+IP
+%%list_col_ip%ru%%
+IP
+
+%%success%en%%
+Success
+%%success%ru%%
+Успех
+
+%%fail%en%%
+Fail
+%%fail%ru%%
+Неудача

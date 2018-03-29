@@ -1,0 +1,25 @@
+
+%%traffic_charge%en%%
+Charge for traffic for
+%%traffic_charge%ru%%
+Плата за трафик за период
+
+%%hosting_charge%en%%
+Charge for hosting
+%%hosting_charge%ru%%
+Оплата хостинга
+
+%%total_month%en%%
+Hosting totals for
+%%total_month%ru%%
+Суммарная оплата хостинга за 
+
+%%balance_is_minimal%en%%
+Balance has reached it miminal value
+%%balance_is_minimal%ru%%
+Баланс достиг минимального значения
+
+%%balance_less_minimal%en%%
+Balance is less than miminal value
+%%balance_less_minimal%ru%%
+Баланс меньше допустимого значения

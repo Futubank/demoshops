@@ -1,0 +1,52 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+
+%%status_add%en%%
+Email was added.
+%%status_add%ru%%
+Почтовый ящик добавлен.
+
+%%status_add_fail%en%%
+Email was not added.
+%%status_add_fail%ru%%
+Почтовый ящик не добавлен.
+
+%%status_apply%en%%
+Email was updated.
+%%status_apply%ru%%
+Почтовый ящик изменен.
+
+%%status_apply_fail%en%%
+Email was not updated.
+%%status_apply_fail%ru%%
+Почтовый ящик не изменен.
+
+%%status_del%en%%
+Email was deleted.
+%%status_del%ru%%
+Почтовый ящик удален.
+
+%%status_del_fail%en%%
+Email was not deleted.
+%%status_del_fail%ru%%
+Почтовый ящик не удален.
+
+%%purge_mbox_confirm%en%%
+Are you sure, you want purge mailbox
+%%purge_mbox_confirm%ru%%
+Вы уверены что хотите очистить почтовый ящик
+
+%%delete_mbox_confirm%en%%
+Are you sure, you want delete mailbox
+%%delete_mbox_confirm%ru%%
+Вы уверены что хотите удалить почтовый ящик
+
+%%mbox_purge_failed%en%%
+Cannot purge mailbox
+%%mbox_purge_failed%ru%%
+Ошибка при очистке почтового ящика
+
+%%mbox_purge_ok%en%%
+Mailbox has been purged
+%%mbox_purge_ok%ru%%
+Почтовый ящик очищен

@@ -1,0 +1,22 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%list_action_grp_add%en%%
+Add selected items to list
+%%list_action_grp_add%ru%%
+Добавить выбранные элементы в список
+
+%%list_action_grp_remove%en%%
+Remove selected items from list
+%%list_action_grp_remove%ru%%
+Исключить выбранные элементы из списка
+
+%%grp_add_warn%en%%
+Add selected to list?
+%%grp_add_warn%ru%%
+Добавить выбранные элементы в список?
+
+%%grp_remove_warn%en%%
+Remove selected from list?
+%%grp_remove_warn%ru%%
+Исключить выбранные элементы из списка?

@@ -1,0 +1,24 @@
+%%default_currency%en%%
+Default currency
+%%default_currency%ru%%
+Валюта по умолчанию
+
+%%allow_to_select_currency%en%%
+Allow visitor to select cart currency
+%%allow_to_select_currency%ru%%
+Позволять посетителю выбирать валюту корзины
+
+%%store_cart_after_logout%en%%
+Cart expiration period after user logout
+%%store_cart_after_logout%ru%%
+Время жизни корзины после деавторизации пользователя
+
+%%rule_for_carts_joining%en%%
+Rule for the joining guest and user carts
+%%rule_for_carts_joining%ru%%
+Правило объединения гостевой и сохраненной корзин
+
+%%mark_items_in_cart%en%%
+Indicate in list/detail that item in the cart.
+%%mark_items_in_cart%ru%%
+Отображать в списках и карточке признак наличия данного товара в корзине. (Товар уже в корзине)

@@ -1,0 +1,11 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/_eshop_coupons_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_coupons_msgs.lng"%%
+%%include_language "templates/lang/options/eshop_coupons_rules_captions.lng"%%
+%%include_language "templates/lang/options/eshop_coupons_rules_values.lng"%%
+%%include_language "templates/lang/eshop_coupons_def.lng"%%

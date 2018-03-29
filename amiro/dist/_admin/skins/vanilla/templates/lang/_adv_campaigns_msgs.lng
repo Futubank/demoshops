@@ -1,0 +1,31 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Campaign was added.
+%%status_add%ru%%
+Кампания добавлена.
+
+%%status_apply%en%%
+Campaign was updated.
+%%status_apply%ru%%
+Кампания изменена.
+
+%%status_del%en%%
+Campaign was deleted.
+%%status_del%ru%%
+Кампания удалена.
+
+%%status_del_fail%en%%
+Campaign was not deleted.
+%%status_del_fail%ru%%
+Кампания не удалена.
+
+%%name_warn%en%%
+Please, enter the name
+%%name_warn%ru%%
+Пожалуйста, введите название
+
+%%start_date_warn%en%%
+Please, enter the start date
+%%start_date_warn%ru%%
+Пожалуйста, введите дату начала

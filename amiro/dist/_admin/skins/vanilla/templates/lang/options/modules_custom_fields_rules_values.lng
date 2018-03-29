@@ -1,0 +1,19 @@
+%%admin_form_NONE%en%%
+None
+%%admin_form_NONE%ru%%
+Не отображать
+
+%%admin_form_TOP%en%%
+Main form (up)
+%%admin_form_TOP%ru%%
+Основная форма (верх)
+
+%%admin_form_TAB%en%%
+&laquo;Custom fields&raquo; tab 
+%%admin_form_TAB%ru%%
+Закладка &laquo;Дополнительные поля&raquo;
+
+%%admin_form_BOTTOM%en%%
+Main form (down)
+%%admin_form_BOTTOM%ru%%
+Основная форма (низ)

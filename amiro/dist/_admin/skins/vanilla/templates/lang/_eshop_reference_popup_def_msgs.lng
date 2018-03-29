@@ -1,0 +1,24 @@
+%%status_apply%en%%
+Reference element was changed.
+%%status_apply%ru%%
+Данные элемента справочника изменены.
+
+%%status_del%en%%
+Reference element was deleted.
+%%status_del%ru%%
+Данные элемента справочника удалены.
+
+%%status_del_fail%en%%
+Reference element was not deleted.
+%%status_del_fail%ru%%
+Данные элемента справочника не удалены.
+
+%%status_add%en%%
+Reference element was added.
+%%status_add%ru%%
+Данные для справочника добавлены.
+
+%%status_add_fail%en%%
+Reference element was not added.
+%%status_add_fail%ru%%
+Данные для справочника не добавлены.

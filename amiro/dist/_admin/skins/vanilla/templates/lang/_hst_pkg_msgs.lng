@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Package was added.
+%%status_add%ru%%
+Пакет добавлен.
+
+%%status_apply%en%%
+Package was updated.
+%%status_apply%ru%%
+Пакет изменен.
+
+%%status_del%en%%
+Package was deleted.
+%%status_del%ru%%
+Пакет удален.
+
+%%status_del_fail%en%%
+Package was not deleted.
+%%status_del_fail%ru%%
+Пакет не удален.
+
+%%status_del_fail_tariff_exists%en%%
+Package was not deleted. There is a tariff using this package
+%%status_del_fail_tariff_exists%ru%%
+Пакет не удален. Существует тариф с данным пакетом

@@ -1,0 +1,40 @@
+%%include_language "templates/lang/start.lng"%%
+
+%%default%en%%
+%%default%ru%%
+
+%%empty%en%%
+You have all available modules
+%%empty%ru%%
+Вам доступны Все модули системы.
+
+%%disabled_msg%en%%
+%%disabled_msg%ru%%
+
+%%welcome%en%%
+%%welcome%ru%%
+
+%%order%en%%
+Order &raquo;
+%%order%ru%%
+Заказать &raquo;
+
+%%comments%en%%
+Additional info you want to let us know:
+%%comments%ru%%
+Дополнительная информация:
+
+%%no_modules_selected%en%%
+You need to choose at least one module to continue
+%%no_modules_selected%ru%%
+Необходимо выбрать хотя бы один модуль
+
+%%thanks%en%%
+Thank you for your order. You will be notified about the status of your request via email asap.
+%%thanks%ru%%
+Спасибо за заказ. Вы будете уведомлены о статусе Вашего заказ по электронной почте.
+
+%%mail_subj%en%%
+Upgrade request
+%%mail_subj%ru%%
+Запрос на обновление

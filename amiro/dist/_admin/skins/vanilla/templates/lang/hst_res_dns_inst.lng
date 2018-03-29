@@ -1,0 +1,83 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/hst_res_inst.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_dns_inst_msgs.lng"%%
+
+%%hst_res_dns_inst_add%en%%
+Add DNS
+%%hst_res_dns_inst_add%ru%%
+Добавить DNS
+
+%%hst_res_dns_inst_apply%en%%
+Edit DNS
+%%hst_res_dns_inst_apply%ru%%
+Редактировать DNS
+
+%%name%en%%
+Name
+%%name%ru%%
+Имя
+
+%%ttl%en%%
+TTL
+%%ttl%ru%%
+TTL
+
+%%type%en%%
+Type
+%%type%ru%%
+Тип
+
+%%priority%en%%
+Priority
+%%priority%ru%%
+Приоритет
+
+%%value%en%%
+Value
+%%value%ru%%
+Значение
+
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%records_count%en%%
+Rocords count
+%%records_count%ru%%
+Количество записей
+
+%%add_record%en%%
+Add record
+%%add_record%ru%%
+Добавить запись
+
+%%remove_record%en%%
+Remove record
+%%remove_record%ru%%
+Удалить запись
+
+
+%%dns_help_hint%en%%
+Examples:<p>
+<table style='border: 1px solid black;' cellspacing=0>
+<tr><td class=row1>Name</td><td class=row1>TTL</td><td class=row1>Type</td><td class=row1>Priority</td><td class=row1>Value</td></tr>
+<tr><td class=row1>qwe.ru</td><td class=row1>600</td><td class=row1>A</td><td class=row1>&nbsp;</td><td class=row1>123.123.123.123</td></tr>
+<tr><td class=row1>qwe.ru</td><td class=row1>600</td><td class=row1>MX</td><td class=row1>10</td><td class=row1>123.123.123.123</td></tr>
+<tr><td class=row1>www</td><td class=row1>600</td><td class=row1>CNAME</td><td class=row1>&nbsp;</td><td class=row1>qwe.ru</td></tr>
+</table></p>
+
+%%dns_help_hint%ru%%
+Примеры заполнения:<p>
+<table style='border: 1px solid black;' cellspacing=0>
+<tr><td class=row1>Имя</td><td class=row1>TTL</td><td class=row1>Тип</td><td class=row1>Приоритет</td><td class=row1>Значение</td></tr>
+<tr><td class=row1>qwe.ru</td><td class=row1>600</td><td class=row1>A</td><td class=row1>&nbsp;</td><td class=row1>123.123.123.123</td></tr>
+<tr><td class=row1>qwe.ru</td><td class=row1>600</td><td class=row1>MX</td><td class=row1>10</td><td class=row1>123.123.123.123</td></tr>
+<tr><td class=row1>www</td><td class=row1>600</td><td class=row1>CNAME</td><td class=row1>&nbsp;</td><td class=row1>qwe.ru</td></tr>
+</table></p>
+

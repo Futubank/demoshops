@@ -1,0 +1,58 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+
+%%status_add%en%%
+Dns was added.
+%%status_add%ru%%
+Dns добавлен.
+
+%%status_add_fail%en%%
+Dns was not added.
+%%status_add_fail%ru%%
+Dns не добавлен.
+
+%%status_apply%en%%
+Dns records was saved.
+%%status_apply%ru%%
+DNS записи сохранены.
+
+%%status_apply_fail%en%%
+Dns records was not saved.
+%%status_apply_fail%ru%%
+DNS записи не сохранены.
+
+%%status_apply_partially%en%%
+Dns records was saved partially.
+%%status_apply_partially%ru%%
+DNS записи сохранены частично.
+
+%%status_del%en%%
+Dns was deleted.
+%%status_del%ru%%
+Dns удален.
+
+%%status_del_fail%en%%
+Dns was not deleted.
+%%status_del_fail%ru%%
+Dns не удален.
+
+%%hst_status_del_obsolete_records_fail%en%%
+Obsolete records cannot be deleted. Hosting error: _text_
+%%hst_status_del_obsolete_records_fail%ru%%
+Устаревшие записи не могут быть удалены. Ошибка хостинга: _text_
+
+%%status_del_obsolete_records_fail%en%%
+Deleting obsolete records fail.
+%%status_del_obsolete_records_fail%ru%%
+Не удалось удалить устаревшие записи.
+
+%%hst_status_deleting_empty_resource%en%%
+This DNS resource have no records and will be deleted.
+%%hst_status_deleting_empty_resource%ru%%
+Данный ресурс DNS не имеет записей, поэтому будет удалён.
+
+%%hst_status_apply_fail%en%%
+Hosting error when saving DNS records: _text_
+%%hst_status_apply_fail%ru%%
+Ошибка хостинга при сохранении записей: _text_
+

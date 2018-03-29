@@ -1,0 +1,37 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_id_user%en%%
+Application User
+%%list_col_id_user%ru%%
+Пользователь приложения
+
+%%list_col_api_key%en%%
+API Key
+%%list_col_api_key%ru%%
+Ключ API
+
+%%list_col_announce%en%%
+Description
+%%list_col_announce%ru%%
+Описание
+
+%%deleted%en%%
+deleted
+%%deleted%ru%%
+удален
+
+%%system%en%%
+SYSTEM
+%%system%ru%%
+СИСТЕМА
+
+%%list_col_icon_public%en%%
+On
+%%list_col_icon_public%ru%%
+Включен
+
+%%list_col_modules%en%%
+Modules
+%%list_col_modules%ru%%
+Модулей

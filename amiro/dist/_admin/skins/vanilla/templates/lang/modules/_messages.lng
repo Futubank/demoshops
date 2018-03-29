@@ -1,0 +1,170 @@
+##--system info: module_owner="" module="" system="1"--##
+%%custom_message%en%%
+_message_
+%%custom_message%ru%%
+_message_
+
+%%status_add%en%%
+Added
+%%status_add%ru%%
+Добавлено
+
+%%status_add_fail%en%%
+Nothing is added!
+%%status_add_fail%ru%%
+Не добавлено!
+
+%%status_apply%en%%
+Updated
+%%status_apply%ru%%
+Обновлено
+
+%%status_apply_fail%en%%
+Nothing is updated!
+%%status_apply_fail%ru%%
+Не обновлено!
+
+%%status_del%en%%
+Deleted
+%%status_del%ru%%
+Удалено
+
+%%status_del_fail%en%%
+Nothing is deleted!
+%%status_del_fail%ru%%
+Не удалено!
+
+%%status_publish%en%%
+Item publish status was changed.
+%%status_publish%ru%%
+Статус опубликования изменен.
+
+%%status_grp_del%en%%
+Deleted: _num_items_
+%%status_grp_del%ru%%
+Удалено: _num_items_
+
+%%status_grp_publish%en%%
+Updated: _num_items_
+%%status_grp_publish%ru%%
+Обновлено: _num_items_
+
+%%status_grp_unpublish%en%%
+Updated: _num_items_
+%%status_grp_unpublish%ru%%
+Обновлено: _num_items_
+
+%%status_grp_copy%en%%
+Copied: _num_items_
+%%status_grp_copy%ru%%
+Скопировано: _num_items_
+
+%%status_position_changed%en%%
+Updated
+%%status_position_changed%ru%%
+Обновлено
+
+%%status_grp_position_changed%en%%
+Updated
+%%status_grp_position_changed%ru%%
+Обновлено
+
+%%status_grp_position_max_warn%en%%
+There is no such position, no changes were applied!
+%%status_grp_position_max_warn%ru%%
+Такой позиции нет, измененения не произведены!
+
+%%status_grp_index_details%en%%
+Updated: _num_items_
+%%status_grp_index_details%ru%%
+Обновлено: _num_items_
+
+%%status_grp_id_page_copy%en%%
+Copied to page "_page_name_". Total: _num_items_
+%%status_grp_id_page_copy%ru%%
+Скопировано на страницу "_page_name_". Всего: _num_items_
+
+%%status_grp_id_page_move%en%%
+Moved to page "_page_name_". Total: _num_items_
+%%status_grp_id_page_move%ru%%
+Перемещено на страницу "_page_name_". Всего: _num_items_
+
+%%status_grp_id_page_copy_common%en%%
+Copied and shared. Total: _num_items_
+%%status_grp_id_page_copy_common%ru%%
+Элементы скопированы и сделаны общими. Всего: _num_items_
+
+%%status_grp_id_page_move_common%en%%
+Shared. Total: _num_items_
+%%status_grp_id_page_move_common%ru%%
+Элементы сделаны общими. Всего: _num_items_
+
+%%status_grp_id_cat_copy%en%%
+Copied to category "_cat_name_". Total: _num_items_
+%%status_grp_id_cat_copy%ru%%
+Скопировано в категорию "_cat_name_". Всего: _num_items_
+
+%%status_grp_id_cat_move%en%%
+Moved to category "_cat_name_". Total: _num_items_
+%%status_grp_id_cat_move%ru%%
+Перемещено в категорию "_cat_name_". Всего: _num_items_
+
+%%status_apply_note_kwauto%en%%
+Page title and keywords have generated.
+%%status_apply_note_kwauto%ru%%
+Заголовок и ключевые слова сгенерированы автоматически.
+
+%%status_apply_note_linkauto%en%%
+Automatically created URL [_link_]
+%%status_apply_note_linkauto%ru%%
+Ссылка создана автоматически [_link_]
+
+%%status_apply_linkauto_item_found_warn%en%%
+Link [<a href="_front_link_" target="_blank">_front_link_</a>] already exists. Item: [<a href="#" onclick="if('_mod_id_' == module_name){AMI.Page.doModuleAction('_mod_id_', '_mod_id__1', 'list_edit', {'id': '_id_'})}else{document.location.href='engine.php?mod_id=_mod_id_&id=_id_'};return false;">_name_</a>].
+%%status_apply_linkauto_item_found_warn%ru%%
+Ссылка [<a href="_front_link_" target="_blank">_front_link_</a>] уже существует. Элемент: [<a href="#" onclick="if('_mod_id_' == module_name){AMI.Page.doModuleAction('_mod_id_', '_mod_id__1', 'list_edit', {'id': '_id_'})}else{document.location.href='engine.php?mod_id=_mod_id_&id=_id_'};return false;">_name_</a>].
+
+%%status_grp_note_linkauto%en%%
+Automatically created URLs. Updated: _num_items_
+%%status_grp_note_linkauto%ru%%
+Ссылки созданы автоматически. Обновлено: _num_items_
+
+%%status_grp_note_kwauto%en%%
+Automatically created titles, keywords and descriptions. Updated: _num_items_
+%%status_grp_note_kwauto%ru%%
+Заголовки, ключевые слова и описания созданы автоматически. Обновлено: _num_items_
+
+%%status_category_add%en%%
+Added
+%%status_category_add%ru%%
+Добавлено
+
+%%status_sending_email_failed%en%%
+Email was not sent!
+%%status_sending_email_failed%ru%%
+Письмо не было отправлено!
+
+%%status_activate%en%%
+Item "active" status was changed.
+%%status_activate%ru%%
+Статус активности изменен.
+
+%%status_activate_fail%en%%
+Item "active" status was not changed!
+%%status_activate_fail%ru%%
+Статус активности не изменен!
+
+%%status_action_sign_missing%en%%
+Action is not signed!
+%%status_action_sign_missing%ru%%
+Действие не подписано!
+
+%%status_action_sign_expired%en%%
+Action sign expired!
+%%status_action_sign_expired%ru%%
+Подпись действия устарела!
+
+%%status_action_sign_invalid%en%%
+Ivalid action sign, reload the page!
+%%status_action_sign_invalid%ru%%
+Подпись действия недействительна, перезагрузите страницу!

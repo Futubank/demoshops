@@ -1,0 +1,39 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%act_gen_sitemap%en%%
+Sitemap creation
+%%act_gen_sitemap%ru%%
+Создание Sitemap
+
+%%act_auto_gen_sitemap%en%%
+Sitemap auto-creation
+%%act_auto_gen_sitemap%ru%%
+Автоматическое создание Sitemap
+
+%%act_send_sitemap%en%%
+Sending Sitemap to Google manually
+%%act_send_sitemap%ru%%
+Ручная отправка Sitemap в Google
+
+%%act_auto_send_sitemap%en%%
+Auto-sending Sitemap to Google
+%%act_auto_send_sitemap%ru%%
+Автоматическая отправка Sitemap в Google
+
+%%act_output_sitemap%en%%
+Request
+%%act_output_sitemap%ru%%
+Запрос
+
+%%filter_field_action%en%%
+Action
+%%filter_field_action%ru%%
+Действие
+
+%%filter_field_useragent%en%%
+User-Agent
+%%filter_field_useragent%ru%%
+User-Agent
+
+

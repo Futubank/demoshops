@@ -1,0 +1,107 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_kb_msgs.lng"%%
+%%include_language "templates/lang/eshop_custom_types_def.lng"%%
+
+%%kb_custom_types_add%en%%
+Add attribute
+%%kb_custom_types_add%ru%%
+Добавление свойства
+
+%%kb_custom_types_apply%en%%
+Edit attribute
+%%kb_custom_types_apply%ru%%
+Редактирование свойства
+
+%%empty%en%%
+No data for attributes
+%%empty%ru%%             
+Нет данных для свойств элемента
+
+%%ftype_related_items%en%%
+Related elements
+%%ftype_related_items%ru%%
+Связанные элементы
+
+%%is_prop_yes%en%%
+Is element option
+%%is_prop_yes%ru%%
+Является подвидом элемента
+
+%%prop_description%en%%
+<b>Regular attribute:</b> Attributes for elements group (within one and more categories, meant within elements attributes list). These attributes
+could be used in the filter for search by elements group within one element attributes list (except attributes added to attributes list as "common" because
+they are belong to each element and used for global search). This type works more faster and more convenient in use.<br>
+<b>Element option:</b> This type is required for ability to create different element options (SKU), which are the same element but could have different rests in
+warehouse, different prices that depends on different characteristics (color, material, coverage etc). The filtering by this field could be within one
+element only because this is its options. But it is possible to set up price, weight or size influence individually and using rules. This type slows down the
+speed.<br>
+<b><font color=red>It is impossible to change attribute type!</font></b>
+%%prop_description%ru%%
+<b>Обычные свойства элемента:</b> Свойства характерные для группы элементов (в пределах категории и более, т.е. в пределах
+набора свойств элементов). Данные свойства можно использовать в фильтре для поиска по группам элементов в пределах одного
+набора свойств (за исключением свойств, добавленных в набор как "общие", т.к. они принадлежат всем элементам и по ним можно
+осуществлять глобальный поиск). Данный тип свойств быстрее работает и более удобен для использования.<br>
+<b>Подвид элемента:</b> Данный тип необходим только для возможности создания различных подвидов элементов (артикулов),
+которые являются тем же элементом, но могут иметь различные остатки на складе, различные цены, зависящие от характеристик
+(цвет, материал, покрытия и т.п.). По данному типу можно осуществлять фильтрацию только в пределах одного элемента, т.к. это
+его подвиды. Но можно задавать влияние на цену, массу, габариты как индивидуально так и с помощью правил. Замедляет
+быстродействие.<br>
+<b><font color=red>Сменить тип свойства после его создания невозможно!</font></b>
+
+%%body_type_body_items%en%%
+Elements list
+%%body_type_body_items%ru%%
+Список элементов
+
+%%body_type_body_itemD%en%%
+Element details
+%%body_type_body_itemD%ru%%
+Карточка элемента
+
+%%body_type_body_cats%en%%
+Subitems list
+%%body_type_body_cats%ru%%
+Список подчиненных элементов
+
+%%body_type_slow%en%%
+This will slow down the filter selection process!
+%%body_type_slow%ru%%
+Использование свойства в фильтре на странице поиска или списка элементов замедлит процесс выбора элементов!
+
+%%show_in_admin_form%en%%
+Show in element form (admin)
+%%show_in_admin_form%ru%%
+Показывать в форме элемента (админ)
+
+%%admin_form_3%en%%
+Tab (element properties)
+%%admin_form_3%ru%%
+Закладка (Свойства элемента)
+
+%%show_in_user_form%en%%
+Show in user element form (frontend)
+%%show_in_user_form%ru%%
+Показывать в собственных элементах пользователя
+
+%%user_form_desc%en%%
+User can choose himself the property on the form of own elements manipulating on frontend.
+%%user_form_desc%ru%%
+Пользователь сможет выбирать данное свойство в форме редактирования собственных элементов на публичной части сайта.
+
+%%no_rest%en%%
+Do not apply element rest
+%%no_rest%ru%%
+Не учитывать остатки
+
+%%show_empty_in_search%en%%
+Include empty values (frontend)
+%%show_empty_in_search%ru%%
+Включать с незаданными значениями
+
+%%empty_in_search_desc%en%%
+The filter result will contain items with empty values for this property
+%%empty_in_search_desc%ru%%
+В результаты фильтра будут включены элементы у которых для этого свойства значение не задано.

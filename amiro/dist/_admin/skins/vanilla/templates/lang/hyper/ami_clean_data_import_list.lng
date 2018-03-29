@@ -1,0 +1,95 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_id%en%%
+ID
+%%list_col_id%ru%%
+ID
+
+%%list_col_public%en%%
+%%list_col_public%ru%%
+
+%%list_action_public%en%%
+Task is active, click to make unactive
+%%list_action_public%ru%%
+Задача активна
+
+%%list_action_unpublic%en%%
+Not active , click to set active
+%%list_action_unpublic%ru%%
+Задача не активна
+
+%%list_col_header%en%%
+Task name
+%%list_col_header%ru%%
+Название задачи
+
+%%list_col_driver_name%en%%
+Import type
+%%list_col_driver_name%ru%%
+Тип импорта
+
+%%list_col_frequency%en%%
+Frequency
+%%list_col_frequency%ru%%
+Частота импортa
+
+%%list_col_date_lastimport%en%%
+Last import
+%%list_col_date_lastimport%ru%%
+Последний импорт
+
+%%list_col_date_nextimport%en%%
+Next import
+%%list_col_date_nextimport%ru%%
+Следующий импорт
+
+%%list_col_errors_num%en%%
+Errors
+%%list_col_errors_num%ru%%
+Ошибок
+
+%%list_action_execute%en%%
+Execute import
+%%list_action_execute%ru%%
+Выполнить импорт
+
+%%list_frequency_manual_start%en%%
+Manual start
+%%list_frequency_manual_start%ru%%
+Запускается пользователем
+
+%%frequency_0%en%%
+Only by user executing
+%%frequency_0%ru%%
+Запускается пользователем
+
+%%frequency_12h%en%%
+Two times per day
+%%frequency_12h%ru%%
+Два раза в сутки
+
+%%frequency_24h%en%%
+One time per day
+%%frequency_24h%ru%%
+Раз в сутки
+
+%%frequency_1w%en%%
+One time per week
+%%frequency_1w%ru%%
+Раз в неделю
+
+%%frequency_1m%en%%
+One time per month
+%%frequency_1m%ru%%
+Раз в месяц
+
+%%ami_rss_driver_name%en%%
+RSS import
+%%ami_rss_driver_name%ru%%
+Импорт RSS
+
+%%ami_csv_driver_name%en%%
+CSV import
+%%ami_csv_driver_name%ru%%
+Импорт из CSV

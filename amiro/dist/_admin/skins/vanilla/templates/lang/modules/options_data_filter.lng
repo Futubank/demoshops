@@ -1,0 +1,37 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_datefrom%en%%
+From:
+%%filter_field_datefrom%ru%%
+С даты:
+
+%%filter_field_dateto%en%%
+To:
+%%filter_field_dateto%ru%%
+По дату:
+
+%%filter_field_login%en%%
+Username
+%%filter_field_login%ru%%
+Логин
+
+%%filter_field_ip%en%%
+IP address
+%%filter_field_ip%ru%%
+IP адрес
+
+%%filter_field_module%en%%
+Module
+%%filter_field_module%ru%%
+Модуль
+
+%%filter_field_option%en%%
+Parametr
+%%filter_field_option%ru%%
+Параметр
+
+%%filter_field_option_value%en%%
+Value (before/after)
+%%filter_field_option_value%ru%%
+Значение (до/после)

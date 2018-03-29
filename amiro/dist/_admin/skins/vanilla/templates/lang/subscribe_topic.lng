@@ -1,0 +1,26 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_subscribe_topic_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_subscribe_topic_msgs.lng"%%
+
+%%empty%en%%
+No data
+%%empty%ru%%
+Нет данных
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена

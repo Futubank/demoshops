@@ -1,0 +1,159 @@
+img.dialogSpecBlock{
+    width: 130px;
+    height: 40px;
+    padding: 2px 2px;
+}
+img.editorSpecBlock{
+    width: 130px;
+    height: 40px;
+    margin: 2px 2px;
+    cursor: default;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+
+img.ru_spec_adv_places{ background-image: url(../images/specblocks/ru/spec_adv_places.gif); }
+img.ru_spec_bottom_menu{ background-image: url(../images/specblocks/ru/spec_bottom_menu.gif); }
+img.ru_spec_custom_block{ background-image: url(../images/specblocks/ru/spec_custom_block.gif); }
+img.ru_spec_eshop_cart{ background-image: url(../images/specblocks/ru/spec_eshop_cart.gif); }
+img.ru_spec_eshop_cat{ background-image: url(../images/specblocks/ru/spec_eshop_cat.gif); }
+img.ru_spec_eshop_compare{ background-image: url(../images/specblocks/ru/spec_eshop_compare.gif); }
+img.ru_spec_eshop_currency{ background-image: url(../images/specblocks/ru/spec_eshop_currency.gif); }
+img.ru_spec_eshop_reference_types{ background-image: url(../images/specblocks/ru/spec_eshop_reference_types.gif); }
+img.ru_spec_eshop_special{ background-image: url(../images/specblocks/ru/spec_eshop_special.gif); }
+img.ru_spec_kb_cat{ background-image: url(../images/specblocks/ru/spec_kb_cat.gif); }
+img.ru_spec_kb_reference_types{ background-image: url(../images/specblocks/ru/spec_kb_reference_types.gif); }
+img.ru_spec_kb_special{ background-image: url(../images/specblocks/ru/spec_kb_special.gif); }
+img.ru_spec_lang_select{ background-image: url(../images/specblocks/ru/spec_lang_select.gif); }
+img.ru_spec_main_menu{ background-image: url(../images/specblocks/ru/spec_main_menu.gif); }
+img.ru_spec_member_menu{ background-image: url(../images/specblocks/ru/spec_member_menu.gif); }
+img.ru_spec_page_header{ background-image: url(../images/specblocks/ru/spec_page_header.gif); }
+img.ru_spec_portfolio_cat{ background-image: url(../images/specblocks/ru/spec_portfolio_cat.gif); }
+img.ru_spec_portfolio_reference_types{ background-image: url(../images/specblocks/ru/spec_portfolio_reference_types.gif); }
+img.ru_spec_portfolio_special{ background-image: url(../images/specblocks/ru/spec_portfolio_special.gif); }
+img.ru_spec_prev_next{ background-image: url(../images/specblocks/ru/spec_prev_next.gif); }
+img.ru_spec_section_map{ background-image: url(../images/specblocks/ru/spec_section_map.gif); }
+img.ru_spec_small_articles{ background-image: url(../images/specblocks/ru/spec_small_articles.gif); }
+img.ru_spec_small_blog{ background-image: url(../images/specblocks/ru/spec_small_blog.gif); }
+img.ru_spec_small_classifieds{ background-image: url(../images/specblocks/ru/spec_small_classifieds.gif); }
+img.ru_spec_small_faq{ background-image: url(../images/specblocks/ru/spec_small_faq.gif); }
+img.ru_spec_small_forum{ background-image: url(../images/specblocks/ru/spec_small_forum.gif); }
+img.ru_spec_small_jobs{ background-image: url(../images/specblocks/ru/spec_small_jobs.gif); }
+img.ru_spec_small_jobs_resume{ background-image: url(../images/specblocks/ru/spec_small_jobs_resume.gif); }
+img.ru_spec_small_news{ background-image: url(../images/specblocks/ru/spec_small_news.gif); }
+img.ru_spec_small_photoalbum{ background-image: url(../images/specblocks/ru/spec_small_photoalbum.gif); }
+img.ru_spec_small_relations{ background-image: url(../images/specblocks/ru/spec_small_relations.gif); }
+img.ru_spec_small_search{ background-image: url(../images/specblocks/ru/spec_small_search.gif); }
+img.ru_spec_small_stickers{ background-image: url(../images/specblocks/ru/spec_small_stickers.gif); }
+img.ru_spec_small_subscribe{ background-image: url(../images/specblocks/ru/spec_small_subscribe.gif); }
+img.ru_spec_small_tags{ background-image: url(../images/specblocks/ru/spec_small_tags.gif); }
+img.ru_spec_small_votes{ background-image: url(../images/specblocks/ru/spec_small_votes.gif); }
+img.ru_spec_top_menu{ background-image: url(../images/specblocks/ru/spec_top_menu.gif); }
+img.ru_spec_module_body{ background-image: url(../images/specblocks/ru/spec_module_body.gif); }
+img.ru_spec_small_plugin{ background-image: url(../images/specblocks/ru/spec_small_plugin.gif); }
+img.ru_spec_eshop_filter{ background-image: url(../images/specblocks/ru/spec_eshop_filter.gif); }
+img.ru_spec_kb_filter{ background-image: url(../images/specblocks/ru/spec_kb_filter.gif); }
+img.ru_spec_portfolio_filter{ background-image: url(../images/specblocks/ru/spec_portfolio_filter.gif); }
+
+img.en_spec_adv_places{ background-image: url(../images/specblocks/en/spec_adv_places.gif); }
+img.en_spec_bottom_menu{ background-image: url(../images/specblocks/en/spec_bottom_menu.gif); }
+img.en_spec_custom_block{ background-image: url(../images/specblocks/en/spec_custom_block.gif); }
+img.en_spec_eshop_cart{ background-image: url(../images/specblocks/en/spec_eshop_cart.gif); }
+img.en_spec_eshop_cat{ background-image: url(../images/specblocks/en/spec_eshop_cat.gif); }
+img.en_spec_eshop_compare{ background-image: url(../images/specblocks/en/spec_eshop_compare.gif); }
+img.en_spec_eshop_currency{ background-image: url(../images/specblocks/en/spec_eshop_currency.gif); }
+img.en_spec_eshop_reference_types{ background-image: url(../images/specblocks/en/spec_eshop_reference_types.gif); }
+img.en_spec_eshop_special{ background-image: url(../images/specblocks/en/spec_eshop_special.gif); }
+img.en_spec_kb_cat{ background-image: url(../images/specblocks/en/spec_kb_cat.gif); }
+img.en_spec_kb_reference_types{ background-image: url(../images/specblocks/en/spec_kb_reference_types.gif); }
+img.en_spec_kb_special{ background-image: url(../images/specblocks/en/spec_kb_special.gif); }
+img.en_spec_lang_select{ background-image: url(../images/specblocks/en/spec_lang_select.gif); }
+img.en_spec_main_menu{ background-image: url(../images/specblocks/en/spec_main_menu.gif); }
+img.en_spec_member_menu{ background-image: url(../images/specblocks/en/spec_member_menu.gif); }
+img.en_spec_page_header{ background-image: url(../images/specblocks/en/spec_page_header.gif); }
+img.en_spec_portfolio_cat{ background-image: url(../images/specblocks/en/spec_portfolio_cat.gif); }
+img.en_spec_portfolio_reference_types{ background-image: url(../images/specblocks/en/spec_portfolio_reference_types.gif); }
+img.en_spec_portfolio_special{ background-image: url(../images/specblocks/en/spec_portfolio_special.gif); }
+img.en_spec_prev_next{ background-image: url(../images/specblocks/en/spec_prev_next.gif); }
+img.en_spec_section_map{ background-image: url(../images/specblocks/en/spec_section_map.gif); }
+img.en_spec_small_articles{ background-image: url(../images/specblocks/en/spec_small_articles.gif); }
+img.en_spec_small_blog{ background-image: url(../images/specblocks/en/spec_small_blog.gif); }
+img.en_spec_small_classifieds{ background-image: url(../images/specblocks/en/spec_small_classifieds.gif); }
+img.en_spec_small_faq{ background-image: url(../images/specblocks/en/spec_small_faq.gif); }
+img.en_spec_small_forum{ background-image: url(../images/specblocks/en/spec_small_forum.gif); }
+img.en_spec_small_jobs{ background-image: url(../images/specblocks/en/spec_small_jobs.gif); }
+img.en_spec_small_jobs_resume{ background-image: url(../images/specblocks/en/spec_small_jobs_resume.gif); }
+img.en_spec_small_news{ background-image: url(../images/specblocks/en/spec_small_news.gif); }
+img.en_spec_small_photoalbum{ background-image: url(../images/specblocks/en/spec_small_photoalbum.gif); }
+img.en_spec_small_relations{ background-image: url(../images/specblocks/en/spec_small_relations.gif); }
+img.en_spec_small_search{ background-image: url(../images/specblocks/en/spec_small_search.gif); }
+img.en_spec_small_stickers{ background-image: url(../images/specblocks/en/spec_small_stickers.gif); }
+img.en_spec_small_subscribe{ background-image: url(../images/specblocks/en/spec_small_subscribe.gif); }
+img.en_spec_small_tags{ background-image: url(../images/specblocks/en/spec_small_tags.gif); }
+img.en_spec_small_votes{ background-image: url(../images/specblocks/en/spec_small_votes.gif); }
+img.en_spec_module_body{ background-image: url(../images/specblocks/en/spec_module_body.gif); }
+img.en_spec_small_plugin{ background-image: url(../images/specblocks/en/spec_small_plugin.gif); }
+img.en_spec_eshop_filter{ background-image: url(../images/specblocks/en/spec_eshop_filter.gif); }
+img.en_spec_kb_filter{ background-image: url(../images/specblocks/en/spec_kb_filter.gif); }
+img.en_spec_portfolio_filter{ background-image: url(../images/specblocks/en/spec_portfolio_filter.gif); }
+
+img.ui_script{
+    width: 22px;
+    height: 26px;
+    background-image: url(../images/javascript.gif);
+}
+
+img.ui_flash{
+    width: 100px;
+    height: 100px;
+    background-image: url(../images/mtype-swf.png);
+}
+
+img.ui_gadget{
+	margin: 3px;
+}
+
+img.body_page_break{
+  background-color: transparent;
+  background-image: url(../images/ed_page_split_line.gif);
+  background-repeat: repeat-x;
+  background-position: 0px 5px;
+  text-align: center;
+  width: 100%;
+  height: 10px;
+  border: 0px;
+  display: block;
+  margin: 20px 0px;
+}
+
+/* Specblock popup menu called from visual editor */
+
+div.specblockMenu{
+    z-index: 4;
+    display: none;
+    position: absolute;
+    padding: 5px;
+    border: 1px solid #888;
+    background: #f0f0f0;
+    line-height: 18px;
+	border:2px #fff solid;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0px 0px 10px 1px #333;
+	-webkit-box-shadow: 0px 0px 10px 1px #333;
+	box-shadow: 0px 0px 10px 1px #333;
+}
+div.specblockMenu a{
+    display: block;
+	text-decoration:none;
+	padding:0px 5px 0px 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+div.specblockMenu a:hover{
+	background-color:#183264;
+	color:#fff;
+}

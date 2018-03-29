@@ -1,0 +1,559 @@
+%%page_sort_col_COMPANY%en%%
+By company
+%%page_sort_col_COMPANY%ru%%
+По компании
+
+%%page_sort_col_ACTIVE%en%%
+By status 'active'
+%%page_sort_col_ACTIVE%ru%%
+По статусу активности
+
+%%admin_email%en%%
+Administrator's e-mail
+%%admin_email%ru%%
+E-mail администратора
+
+%%forgot_custom_%en%%
+Not required
+%%forgot_custom_%ru%%
+Не требуется
+
+%%forgot_custom_USERNAME%en%%
+Login
+%%forgot_custom_USERNAME%ru%%
+Логин
+
+%%forgot_custom_FIRSTNAME%en%%
+Firstname
+%%forgot_custom_FIRSTNAME%ru%%
+Имя
+
+%%forgot_custom_LASTNAME%en%%
+Lastname
+%%forgot_custom_LASTNAME%ru%%
+Фамилия
+
+%%forgot_custom_CITY%en%%
+City
+%%forgot_custom_CITY%ru%%
+Город
+
+%%forgot_custom_PHONE%en%%
+Phone
+%%forgot_custom_PHONE%ru%%
+Телефон
+
+%%forgot_custom_EMAIL%en%%
+E-mail
+%%forgot_custom_EMAIL%ru%%
+E-mail
+
+%%forgot_custom_ICQ%en%%
+Icq
+%%forgot_custom_ICQ%ru%%
+Icq
+
+%%confirmation_type_NONE%en%%
+None
+%%confirmation_type_NONE%ru%%
+Отсутствует
+
+%%confirmation_type_EMAIL%en%%
+E-mail
+%%confirmation_type_EMAIL%ru%%
+E-mail
+
+%%confirmation_type_ADMIN%en%%
+Admin
+%%confirmation_type_ADMIN%ru%%
+Администратор
+
+%%notify_on_status_changing_ACTIVE%en%%
+On active
+%%notify_on_status_changing_ACTIVE%ru%%
+На активный
+
+%%notify_on_status_changing_NOT_ACTIVE%en%%
+On not active
+%%notify_on_status_changing_NOT_ACTIVE%ru%%
+На неактивный
+
+%%used_fields_FIRSTNAME%en%%
+First name
+%%used_fields_FIRSTNAME%ru%%
+Имя
+
+%%used_fields_LASTNAME%en%%
+Last name
+%%used_fields_LASTNAME%ru%%
+Фамилия
+
+%%used_fields_USERNAME%en%%
+Login
+%%used_fields_USERNAME%ru%%
+Логин
+
+%%used_fields_EMAIL%en%%
+E-mail
+%%used_fields_EMAIL%ru%%
+E-mail
+
+%%used_fields_NICKNAME%en%%
+Nickname
+%%used_fields_NICKNAME%ru%%
+Псевдоним (Nickname)
+
+%%used_fields_ADDRESS1%en%%
+Address
+%%used_fields_ADDRESS1%ru%%
+Адрес
+
+%%used_fields_ADDRESS2%en%%
+Address 2
+%%used_fields_ADDRESS2%ru%%
+Адрес 2
+
+%%used_fields_ZIP%en%%
+Zip
+%%used_fields_ZIP%ru%%
+Почтовый индекс
+
+%%used_fields_COUNTRY%en%%
+Country
+%%used_fields_COUNTRY%ru%%
+Страна
+
+%%used_fields_STATE%en%%
+State
+%%used_fields_STATE%ru%%
+Штат
+
+%%used_fields_CITY%en%%
+City
+%%used_fields_CITY%ru%%
+Город
+
+%%used_fields_PHONE%en%%
+Phone
+%%used_fields_PHONE%ru%%
+Телефон
+
+%%used_fields_PHONE_WORK%en%%
+Phone work
+%%used_fields_PHONE_WORK%ru%%
+Рабочий телефон
+
+%%used_fields_PHONE_CELL%en%%
+Phone cell
+%%used_fields_PHONE_CELL%ru%%
+Мобильный телефон
+
+%%used_fields_COMPANY%en%%
+Company
+%%used_fields_COMPANY%ru%%
+Компания
+
+%%used_fields_COMPANYWEB%en%%
+Company web site
+%%used_fields_COMPANYWEB%ru%%
+Веб сайт компании
+
+%%used_fields_ICQ%en%%
+Icq
+%%used_fields_ICQ%ru%%
+Icq
+
+%%used_fields_PHOTO%en%%
+Photo
+%%used_fields_PHOTO%ru%%
+Фотография
+
+%%used_fields_PASSWORD%en%%
+Password
+%%used_fields_PASSWORD%ru%%
+Пароль
+
+%%used_fields_IP%en%%
+Ip
+%%used_fields_IP%ru%%
+Ip адрес
+
+%%used_fields_POSTS_COUNT%en%%
+Posts count
+%%used_fields_POSTS_COUNT%ru%%
+Количество сообщений
+
+%%used_fields_FORUM_SIGN%en%%
+Message Board sign
+%%used_fields_FORUM_SIGN%ru%%
+Подпись в форуме
+
+%%required_fields_FIRSTNAME%en%%
+First name
+%%required_fields_FIRSTNAME%ru%%
+Имя
+
+%%required_fields_LASTNAME%en%%
+Last name
+%%required_fields_LASTNAME%ru%%
+Фамилия
+
+%%required_fields_USERNAME%en%%
+Login
+%%required_fields_USERNAME%ru%%
+Логин
+
+%%required_fields_EMAIL%en%%
+E-mail
+%%required_fields_EMAIL%ru%%
+E-mail
+
+%%required_fields_NICKNAME%en%%
+Nickname
+%%required_fields_NICKNAME%ru%%
+Псевдоним (Nickname)
+
+%%required_fields_ADDRESS1%en%%
+Address
+%%required_fields_ADDRESS1%ru%%
+Адрес
+
+%%required_fields_ADDRESS2%en%%
+Address 2
+%%required_fields_ADDRESS2%ru%%
+Адрес 2
+
+%%required_fields_ZIP%en%%
+Zip
+%%required_fields_ZIP%ru%%
+Почтовый индекс
+
+%%required_fields_COUNTRY%en%%
+Country
+%%required_fields_COUNTRY%ru%%
+Страна
+
+%%required_fields_STATE%en%%
+State
+%%required_fields_STATE%ru%%
+Штат
+
+%%required_fields_CITY%en%%
+City
+%%required_fields_CITY%ru%%
+Город
+
+%%required_fields_PHONE%en%%
+Phone
+%%required_fields_PHONE%ru%%
+Телефон
+
+%%required_fields_PHONE_WORK%en%%
+Phone work
+%%required_fields_PHONE_WORK%ru%%
+Рабочий телефон
+
+%%required_fields_PHONE_CELL%en%%
+Phone cell
+%%required_fields_PHONE_CELL%ru%%
+Мобильный телефон
+
+%%required_fields_COMPANY%en%%
+Company
+%%required_fields_COMPANY%ru%%
+Компания
+
+%%required_fields_COMPANYWEB%en%%
+Company web site
+%%required_fields_COMPANYWEB%ru%%
+Веб сайт компании
+
+%%required_fields_ICQ%en%%
+Icq
+%%required_fields_ICQ%ru%%
+Icq
+
+%%required_fields_PHOTO%en%%
+Photo
+%%required_fields_PHOTO%ru%%
+Фотография
+
+%%required_fields_PASSWORD%en%%
+Password
+%%required_fields_PASSWORD%ru%%
+Пароль
+
+%%required_fields_IP%en%%
+Ip
+%%required_fields_IP%ru%%
+Ip адрес
+
+%%required_fields_FORUM_SIGN%en%%
+Message Board sign
+%%required_fields_FORUM_SIGN%ru%%
+Подпись в форуме
+
+%%admin_required_fields_FIRSTNAME%en%%
+First name
+%%admin_required_fields_FIRSTNAME%ru%%
+Имя
+
+%%admin_required_fields_LASTNAME%en%%
+Last name
+%%admin_required_fields_LASTNAME%ru%%
+Фамилия
+
+%%admin_required_fields_USERNAME%en%%
+Login
+%%admin_required_fields_USERNAME%ru%%
+Логин
+
+%%admin_required_fields_EMAIL%en%%
+E-mail
+%%admin_required_fields_EMAIL%ru%%
+E-mail
+
+%%admin_required_fields_NICKNAME%en%%
+Nickname
+%%admin_required_fields_NICKNAME%ru%%
+Псевдоним (Nickname)
+
+%%admin_required_fields_ADDRESS1%en%%
+Address
+%%admin_required_fields_ADDRESS1%ru%%
+Адрес
+
+%%admin_required_fields_ADDRESS2%en%%
+Address 2
+%%admin_required_fields_ADDRESS2%ru%%
+Адрес 2
+
+%%admin_required_fields_ZIP%en%%
+Zip
+%%admin_required_fields_ZIP%ru%%
+Почтовый индекс
+
+%%admin_required_fields_COUNTRY%en%%
+Country
+%%admin_required_fields_COUNTRY%ru%%
+Страна
+
+%%admin_required_fields_STATE%en%%
+State
+%%admin_required_fields_STATE%ru%%
+Штат
+
+%%admin_required_fields_CITY%en%%
+City
+%%admin_required_fields_CITY%ru%%
+Город
+
+%%admin_required_fields_PHONE%en%%
+Phone
+%%admin_required_fields_PHONE%ru%%
+Телефон
+
+%%admin_required_fields_PHONE_WORK%en%%
+Phone work
+%%admin_required_fields_PHONE_WORK%ru%%
+Рабочий телефон
+
+%%admin_required_fields_PHONE_CELL%en%%
+Phone cell
+%%admin_required_fields_PHONE_CELL%ru%%
+Мобильный телефон
+
+%%admin_required_fields_COMPANY%en%%
+Company
+%%admin_required_fields_COMPANY%ru%%
+Компания
+
+%%admin_required_fields_ICQ%en%%
+Icq
+%%admin_required_fields_ICQ%ru%%
+Icq
+
+%%admin_required_fields_COMPANYWEB%en%%
+Company web site
+%%admin_required_fields_COMPANYWEB%ru%%
+Веб сайт компании
+
+%%admin_required_fields_PASSWORD%en%%
+Password
+%%admin_required_fields_PASSWORD%ru%%
+Пароль
+
+%%admin_required_fields_IP%en%%
+Ip
+%%admin_required_fields_IP%ru%%
+Ip адрес
+
+%%admin_required_fields_PHOTO%en%%
+Photo
+%%admin_required_fields_PHOTO%ru%%
+Фотография
+
+%%admin_required_fields_FORUM_SIGN%en%%
+Message Board sign
+%%admin_required_fields_FORUM_SIGN%ru%%
+Подпись в форуме
+
+%%view_fields_FIRSTNAME%en%%
+First name
+%%view_fields_FIRSTNAME%ru%%
+Имя
+
+%%view_fields_LASTNAME%en%%
+Last name
+%%view_fields_LASTNAME%ru%%
+Фамилия
+
+%%view_fields_USERNAME%en%%
+Login
+%%view_fields_USERNAME%ru%%
+Логин
+
+%%view_fields_REGISTRATION_DATE%en%%
+Registration date
+%%view_fields_REGISTRATION_DATE%ru%%
+Дата регистрации
+
+%%view_fields_EMAIL%en%%
+E-mail
+%%view_fields_EMAIL%ru%%
+E-mail
+
+%%view_fields_NICKNAME%en%%
+Nickname
+%%view_fields_NICKNAME%ru%%
+Псевдоним (Nickname)
+
+%%view_fields_ADDRESS1%en%%
+Address
+%%view_fields_ADDRESS1%ru%%
+Адрес
+
+%%view_fields_ADDRESS2%en%%
+Address 2
+%%view_fields_ADDRESS2%ru%%
+Адрес 2
+
+%%view_fields_ZIP%en%%
+Zip
+%%view_fields_ZIP%ru%%
+Почтовый индекс
+
+%%view_fields_COUNTRY%en%%
+Country
+%%view_fields_COUNTRY%ru%%
+Страна
+
+%%view_fields_STATE%en%%
+State
+%%view_fields_STATE%ru%%
+Штат
+
+%%view_fields_CITY%en%%
+City
+%%view_fields_CITY%ru%%
+Город
+
+%%view_fields_PHONE%en%%
+Phone
+%%view_fields_PHONE%ru%%
+Телефон
+
+%%view_fields_PHONE_WORK%en%%
+Phone work
+%%view_fields_PHONE_WORK%ru%%
+Рабочий телефон
+
+%%view_fields_PHONE_CELL%en%%
+Phone cell
+%%view_fields_PHONE_CELL%ru%%
+Мобильный телефон
+
+%%view_fields_COMPANY%en%%
+Company
+%%view_fields_COMPANY%ru%%
+Компания
+
+%%view_fields_COMPANYWEB%en%%
+Company web site
+%%view_fields_COMPANYWEB%ru%%
+Веб сайт компании
+
+%%view_fields_ICQ%en%%
+Icq
+%%view_fields_ICQ%ru%%
+Icq
+
+%%view_fields_PHOTO%en%%
+Photo
+%%view_fields_PHOTO%ru%%
+Фотография
+
+%%view_fields_IP%en%%
+Ip
+%%view_fields_IP%ru%%
+Ip адрес
+
+%%view_fields_POSTS_COUNT%en%%
+Posts count
+%%view_fields_POSTS_COUNT%ru%%
+Количество сообщений
+
+%%view_fields_FORUM_SIGN%en%%
+Message Board sign
+%%view_fields_FORUM_SIGN%ru%%
+Подпись в форуме
+
+%%view_fields_USER_STATUS%en%%
+User status
+%%view_fields_USER_STATUS%ru%%
+Статус пользователя
+
+%%login_field_USERNAME%en%%
+Login
+%%login_field_USERNAME%ru%%
+Логин
+
+%%login_field_EMAIL%en%%
+E-mail
+%%login_field_EMAIL%ru%%
+E-mail
+
+%%login_field_PHONE%en%%
+Phone
+%%login_field_PHONE%ru%%
+Телефон
+
+%%autoredirect_forms_ADD%en%%
+User registration
+%%autoredirect_forms_ADD%ru%%
+Регистрация пользователя
+
+%%autoredirect_forms_FORGOT%en%%
+Password reminder
+%%autoredirect_forms_FORGOT%ru%%
+Напоминание пароля
+
+%%autoredirect_forms_LOGIN%en%%
+User login
+%%autoredirect_forms_LOGIN%ru%%
+Вход пользователя
+
+%%autoredirect_forms_CHANGE_SETTINGS%en%%
+Change user profile
+%%autoredirect_forms_CHANGE_SETTINGS%ru%%
+Изменение персональных данных
+
+%%autoredirect_forms_SIGNUP%en%%
+User signup
+%%autoredirect_forms_SIGNUP%ru%%
+Подписка пользователя
+
+%%rating_data%en%%
+Rating
+%%rating_data%ru%%
+Репутация

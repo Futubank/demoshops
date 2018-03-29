@@ -1,0 +1,22 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_cat_list.lng"%%
+
+%%list_col_description%en%%
+Description
+%%list_col_description%ru%%
+Описание
+
+%%list_col_bind_member%en%%
+Apply to customer
+%%list_col_bind_member%ru%%
+Привязка&nbsp;к<br/>пользователю
+
+%%bind_member_0%en%%
+No
+%%bind_member_0%ru%%
+Нет
+
+%%bind_member_1%en%%
+Yes
+%%bind_member_1%ru%%
+Да

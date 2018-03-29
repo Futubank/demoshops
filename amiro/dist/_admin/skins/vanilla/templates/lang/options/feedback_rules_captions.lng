@@ -1,0 +1,34 @@
+%%email_to%en%%
+Email for notification about posted question
+%%email_to%ru%%
+Email для получения уведомлений о запросах с сайта
+
+%%enabled_fields%en%%
+Displayed fields
+%%enabled_fields%ru%%
+Отображаемые поля
+
+%%required_fields%en%%
+Required fields
+%%required_fields%ru%%
+Обязательные поля
+
+%%feedback_text_mode_html%en%%
+Send in HTML format
+%%feedback_text_mode_html%ru%%
+Отправлять в HTML формате
+
+%%feedback_copy_send%en%%
+Email copy to user
+%%feedback_copy_send%ru%%
+Отправлять копию письма пользователю
+
+%%form_template%en%%
+E-mail template file
+%%form_template%ru%%
+Файл шаблона письма
+
+%%email_subject%en%%
+Email subject
+%%email_subject%ru%%
+Заголовок письма

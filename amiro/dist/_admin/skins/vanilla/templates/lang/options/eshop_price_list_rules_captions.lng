@@ -1,0 +1,44 @@
+%%cat_page_size%en%%
+Count of categories per page
+%%cat_page_size%ru%%
+Количество категорий на странице
+
+%%page_sort_col_cats%en%%
+The order of sorting of categories
+%%page_sort_col_cats%ru%%
+Порядок сортировки категорий
+
+%%page_sort_dim_cats%en%%
+Dimension of order for categories
+%%page_sort_dim_cats%ru%%
+Направление сортировки категорий
+
+%%page_sort_col_pricecats%en%%
+The order of sorting of categories inside price list
+%%page_sort_col_pricecats%ru%%
+Порядок сортировки категорий внутри прайс-листа
+
+%%page_sort_dim_pricecats%en%%
+Dimension of order for categories inside price list
+%%page_sort_dim_pricecats%ru%%
+Направление сортировки категорий внутри прайс-листа
+
+%%show_empty_cats%en%%
+Show empty categories inside price list
+%%show_empty_cats%ru%%
+Показывать пустые категории внутри прайс-листа
+
+%%show_buy_links%en%%
+Show buy links
+%%show_buy_links%ru%%
+Показывать ссылки добавления в корзину и покупки
+
+%%show_empty_captions%en%%
+Show columns with empty price's caption
+%%show_empty_captions%ru%%
+Показывать столбцы цен, для которых не задан заголовок
+
+%%splitter_period%en%%
+The number of items after which the splitter is inserted
+%%splitter_period%ru%%
+Количество товаров, после которого вставляется разделитель

@@ -1,0 +1,71 @@
+%%include_language "templates/lang/rating.lng"%%
+
+%%rating_by_registered_only%en%%
+Only registered users are allowed to rate
+%%rating_by_registered_only%ru%%
+Разрешить голосовать только зарегистрированным
+
+%%weighted_rating%en%%
+Consider to user weight
+%%weighted_rating%ru%%
+Учитывать вес голосующего
+
+%%weight_formula%en%%
+User weight formula
+%%weight_formula%ru%%
+Формула расчета веса голосующего
+
+%%minimum_votes_to_display%en%%
+Minimum votes needed to display ratings
+%%minimum_votes_to_display%ru%%
+Минимальное кол-во голосов для показа рейтинга
+
+%%history_allow_same_ip%en%%
+Allow rating from the same IP after
+%%history_allow_same_ip%ru%%
+Разрешить голосовать с того же IP-адреса через
+
+%%history_allow_same_user%en%%
+Allow rating by the same user after
+%%history_allow_same_user%ru%%
+Разрешить голосовать тому же пользователю через
+
+%%history_clear_interval%en%%
+Clear rating history once in
+%%history_clear_interval%ru%%
+Очищать историю голосований раз в
+
+%%new_items_defaults%en%%
+Default rating settings for new items
+%%new_items_defaults%ru%%
+Настройки рейтинга для новых элементов "по умолчанию"
+
+%%show_form_in%en%%
+Show rating form in:
+%%show_form_in%ru%%
+Отображать форму рейтинга в:
+
+%%form_type%en%%
+Rating form type
+%%form_type%ru%%
+Тип формы рейтинга
+
+%%grade_size%en%%
+Rating grade size
+%%grade_size%ru%%
+Количество градаций рейтинга
+
+%%default_rating%en%%
+Default rating
+%%default_rating%ru%%
+Рейтинг по умолчанию
+
+%%rating_decimal_places%en%%
+Decimal places displayed in rating value
+%%rating_decimal_places%ru%%
+Кол-во знаков после запятой в значении рейтинга
+
+%%form_template%en%%
+Rating form template
+%%form_template%ru%%
+Имя шаблона для формы рейтинга

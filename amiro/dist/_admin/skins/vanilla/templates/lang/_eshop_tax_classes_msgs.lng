@@ -1,0 +1,31 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Tax class was added.
+%%status_add%ru%%
+Тип налога добавлен.
+
+%%status_apply%en%%
+Tax class was updated.
+%%status_apply%ru%%
+Тип налога изменен.
+
+%%status_del%en%%
+Tax class was deleted.
+%%status_del%ru%%
+Тип налога удален.
+
+%%status_del_fail%en%%
+Tax class was not deleted.
+%%status_del_fail%ru%%
+Тип налога не удален.
+
+%%tax_class_code_warn%en%%
+Please, enter the tax class code!
+%%tax_class_code_warn%ru%%
+Пожалуйста, введите код типа налога!
+
+%%tax_rate_warn%en%%
+Please, enter the tax rate!
+%%tax_rate_warn%ru%%
+Пожалуйста, введите ставку налога!

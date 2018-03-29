@@ -1,0 +1,106 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_num%en%%
+no.
+%%list_col_num%ru%%
+№
+
+%%list_col_title%en%%
+Position
+%%list_col_title%ru%%
+Вакансия
+
+%%list_col_lname%en%%
+Name
+%%list_col_lname%ru%%
+ФИО
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_department%en%%
+Department
+%%list_col_department%ru%%
+Отдел
+
+%%list_col_phone%en%%
+Phone
+%%list_col_phone%ru%%
+Телефон
+
+%%list_col_login%en%%
+Login
+%%list_col_login%ru%%
+Логин
+
+%%status_not viewed%en%%
+not views
+%%status_not viewed%ru%%
+не рассмотрена
+
+%%status_marked%en%%
+marked
+%%status_marked%ru%%
+помечена
+
+%%status_ignored%en%%
+ignore
+%%status_ignored%ru%%
+игнорировать
+
+%%status_replied%en%%
+replied
+%%status_replied%ru%%
+отвечена
+
+%%status_accepted%en%%
+accepted
+%%status_accepted%ru%%
+принят
+
+%%status_request%en%%
+request new position
+%%status_request%ru%%
+запрос на новую позицию
+
+%%status_moved%en%%
+moved to competitors
+%%status_moved%ru%%
+перемещён в соискатели
+
+%%list_action_move%en%%
+Move to competitors
+%%list_action_move%ru%%
+Переместить в соискатели
+
+%%list_action_move-off%en%%
+The competitor was moved
+%%list_action_move-off%ru%%
+Соискатель перемещён
+
+%%list_action_attach%en%%
+File attached
+%%list_action_attach%ru%%
+Файл присоединен
+
+%%list_action_attach-off%en%%
+File no attached
+%%list_action_attach-off%ru%%
+Файл не присоединен
+
+%%list_action_reply%en%%
+Reply Item
+%%list_action_reply%ru%%
+Ответить
+
+%%list_col_fname%en%%
+%%list_col_fname%ru%%
+
+%%list_col_id_file%en%%
+%%list_col_id_file%ru%%
+
+%%list_col_resume_id%en%%
+%%list_col_resume_id%ru%%

@@ -1,0 +1,1156 @@
+%%include_language "_shared/code/skins/ami_touch/templates/lang/_menu_owners.lng"%%
+
+%%subscribe%en%%
+Mailing list/Subscribe
+%%subscribe%ru%%
+Рассылка/подписка
+
+%%calendar_grid%en%%
+Calendar
+%%calendar_grid%ru%%
+Календарь
+
+%%ext_rating%en%%
+Ratings
+%%ext_rating%ru%%
+Рейтинги
+
+%%private_messages%en%%
+Private Messages
+%%private_messages%ru%%
+Личные сообщения
+
+%%stats%en%%
+Visitor Statistics
+%%stats%ru%%
+Статистика посещений
+
+%%visual_editor%en%%
+Visual editor
+%%visual_editor%ru%%
+Визуальный редактор
+
+%%templates%en%%
+Code Gallery
+%%templates%ru%%
+Заготовки
+
+%%layouts%en%%
+Page Layouts
+%%layouts%ru%%
+Макеты страниц
+
+%%modules_templates%en%%
+Site Templates
+%%modules_templates%ru%%
+Шаблоны модулей
+
+%%modules_templates_langs%en%%
+Localizations
+%%modules_templates_langs%ru%%
+Локализации
+
+%%srv_tags_reindex%en%%
+Indexation
+%%srv_tags_reindex%ru%%
+Индексация
+
+%%iplist%en%%
+IP List
+%%iplist%ru%%
+Список IP
+
+%%eshop%en%%
+E-Commerce
+%%eshop%ru%%
+Каталог товаров
+
+%%eshop_home%en%%
+Products announce
+%%eshop_home%ru%%
+Анонс товаров
+
+%%eshop_cat%en%%
+Categories
+%%eshop_cat%ru%%
+Категории
+
+%%eshop_view%en%%
+Views
+%%eshop_view%ru%%
+Отображения
+
+%%eshop_catalog%en%%
+Catalog
+%%eshop_catalog%ru%%
+Каталог
+
+%%eshop_item%en%%
+Products
+%%eshop_item%ru%%
+Товары
+
+%%eshop_digitals%en%%
+Import files
+%%eshop_digitals%ru%%
+Импорт файлов
+
+%%eshop_user%en%%
+Customers
+%%eshop_user%ru%%
+Покупатели
+
+%%eshop_currency%en%%
+Currency
+%%eshop_currency%ru%%
+Валюта
+
+%%eshop_reference%en%%
+Data references
+%%eshop_reference%ru%%
+Данные справочников
+
+%%eshop_datasets%en%%
+Product properties
+%%eshop_datasets%ru%%
+Наборы свойств
+
+%%eshop_reference_types%en%%
+References
+%%eshop_reference_types%ru%%
+Справочники
+
+%%eshop_custom_types%en%%
+Property description
+%%eshop_custom_types%ru%%
+Описания свойств
+
+%%eshop_letters%en%%
+Starting letters
+%%eshop_letters%ru%%
+Начальные буквы
+
+%%pay_drivers%en%%
+Pay systems
+%%pay_drivers%ru%%
+Платежные системы
+
+%%eshop_cart%en%%
+Shopping Cart
+%%eshop_cart%ru%%
+Корзина
+
+%%eshop_purchase%en%%
+Purchasing
+%%eshop_purchase%ru%%
+Оформление заказа
+
+%%eshop_price_list%en%%
+Price list
+%%eshop_price_list%ru%%
+Прайс-лист
+
+%%eshop_agreement%en%%
+Agreement
+%%eshop_agreement%ru%%
+Соглашение
+
+%%eshop_discounts%en%%
+Discounts
+%%eshop_discounts%ru%%
+Скидки
+
+%%eshop_coupons%en%%
+Coupons
+%%eshop_coupons%ru%%
+Купоны
+
+%%eshop_coupons_cat%en%%
+Categories
+%%eshop_coupons_cat%ru%%
+Категории
+
+%%eshop_shipping_methods%en%%
+Shipping
+%%eshop_shipping_methods%ru%%
+Доставка
+
+%%eshop_shipping_types%en%%
+Shipping categories
+%%eshop_shipping_types%ru%%
+Наборы способов доставки
+
+%%eshop_shipping_regions%en%%
+Shipping regions
+%%eshop_shipping_regions%ru%%
+Регионы доставки
+
+%%eshop_tax_classes%en%%
+Taxes
+%%eshop_tax_classes%ru%%
+Налоги
+
+%%eshop_order_reports%en%%
+Reports
+%%eshop_order_reports%ru%%
+Отчеты о заказах
+
+%%eshop_order_reports_wizard%en%%
+Order reports wizard
+%%eshop_order_reports_wizard%ru%%
+Мастер отчетов о заказах
+
+%%exit%en%%
+Exit
+%%exit%ru%%
+Выход
+
+%%sitemap%en%%
+Site Map
+%%sitemap%ru%%
+Карта сайта
+
+%%members%en%%
+Members
+%%members%ru%%
+Пользователи
+
+%%show_pic%en%%
+Show picture
+%%show_pic%ru%%
+Показать изображение
+
+%%wz_designs%en%%
+Designs
+%%wz_designs%ru%%
+Дизайны
+
+%%wz_sitemaps%en%%
+Packages
+%%wz_sitemaps%ru%%
+Пакеты
+
+%%srv_sysinfo%en%%
+System Info
+%%srv_sysinfo%ru%%
+Состояние системы
+
+%%wz_host_users%en%%
+Sites
+%%wz_host_users%ru%%
+Сайты
+
+%%srv_order%en%%
+Order Modules
+%%srv_order%ru%%
+Заказать модули
+
+%%eshop_srv_options%en%%
+Online Store
+%%eshop_srv_options%ru%%
+Каталог товаров
+
+%%srv_host_payments%en%%
+Payments
+%%srv_host_payments%ru%%
+Платежи
+
+%%srv_host_payments_history%en%%
+History
+%%srv_host_payments_history%ru%%
+История
+
+%%srv_host_payments_add%en%%
+Add funds
+%%srv_host_payments_add%ru%%
+Пополнение баланса
+
+%%srv_host_payments_props%en%%
+Properties
+%%srv_host_payments_props%ru%%
+Реквизиты
+
+%%srv_host_payments_docs%en%%
+Documents
+%%srv_host_payments_docs%ru%%
+Документы
+
+%%srv_host_mailmanage%en%%
+Hosting, Statistics
+%%srv_host_mailmanage%ru%%
+Хостинг, статистика
+
+%%srv_host_trafic%en%%
+Traffic usage
+%%srv_host_trafic%ru%%
+Трафик
+
+%%srv_host_webstat%en%%
+Web Statistic
+%%srv_host_webstat%ru%%
+Веб статистика
+
+%%srv_host_support%en%%
+Support
+%%srv_host_support%ru%%
+Поддержка
+
+%%srv_chooselang%en%%
+Interface settings
+%%srv_chooselang%ru%%
+Настройки интерфейса
+
+%%pages%en%%
+Site Manager
+%%pages%ru%%
+Менеджер Сайта
+
+%%print_version%en%%
+Print Version
+%%print_version%ru%%
+Версия для печати
+
+%%page_404%en%%
+Page not found (404)
+%%page_404%ru%%
+Страница не найдена (404)
+
+%%custom_module%en%%
+Custom Module
+%%custom_module%ru%%
+Настраиваемый модуль
+
+%%srv_multi_sites%en%%
+Sites
+%%srv_multi_sites%ru%%
+Сайты
+
+%%smpl_sample%en%%
+Sample Module
+%%smpl_sample%ru%%
+Образец модуля
+
+%%eshop_user_items%en%%
+User items
+%%eshop_user_items%ru%%
+Товары пользователей
+
+%%sys_groups%en%%
+Access rights
+%%sys_groups%ru%%
+Права доступа
+
+%%sys_users%en%%
+Users
+%%sys_users%ru%%
+Пользователи
+
+%%sys_departments%en%%
+Departments
+%%sys_departments%ru%%
+Отделы
+
+%%srv_options%en%%
+System Options
+%%srv_options%ru%%
+Настройка системы
+
+%%srv_licence%en%%
+License activation
+%%srv_licence%ru%%
+Активация лицензии
+
+%%ami_service%en%%
+Maintenance
+%%ami_service%ru%%
+Обслуживание
+
+%%options_data%en%%
+Options log
+%%options_data%ru%%
+Журнал настроек
+
+%%sectionmap%en%%
+Section Map
+%%sectionmap%ru%%
+Карта раздела
+
+%%ce%en%%
+Visual Editor
+%%ce%ru%%
+Визуальный редактор
+
+%%ce_img_proc%en%%
+Images Processing
+%%ce_img_proc%ru%%
+Обработка Изображений
+
+%%ce_specblocks%en%%
+Special Blocks Processing
+%%ce_specblocks%ru%%
+Обработка специальных блоков
+
+%%ce_url_proc%en%%
+Links Processing
+%%ce_url_proc%ru%%
+Обработка ссылок
+
+%%choose_lang%en%%
+Choose language module
+%%choose_lang%ru%%
+Выбор языка
+
+%%eshop_account%en%%
+Virtual Cards
+%%eshop_account%ru%%
+Карты Виртуальной Оплаты
+
+%%eshop_files%en%%
+Files Processing
+%%eshop_files%ru%%
+Выбор Файлов
+
+%%eshop_final%en%%
+Payments Callback
+%%eshop_final%ru%%
+Прием платежей
+
+%%eshop_goods%en%%
+Shippable goods
+%%eshop_goods%ru%%
+Физические товары
+
+%%eshop_reference_popup%en%%
+Items References
+%%eshop_reference_popup%ru%%
+Выбор из справочника
+
+%%eshop_user_items_popup%en%%
+User products
+%%eshop_user_items_popup%ru%%
+Товары пользователя
+
+%%ext_eshop_custom_fields%en%%
+Extra fields for products
+%%ext_eshop_custom_fields%ru%%
+Дополнительные поля товаров
+
+%%eshop_compare%en%%
+Comparison
+%%eshop_compare%ru%%
+Сравнение
+
+%%ce_page_break%en%%
+Module extension: page break
+%%ce_page_break%ru%%
+Расширение модуля: постраничное разбиение элемента
+
+%%rating%en%%
+Ratings
+%%rating%ru%%
+Рейтинги
+
+%%ext_rating%en%%
+Settings
+%%ext_rating%ru%%
+Настройки рейтингов
+
+%%help%en%%
+Help
+%%help%ru%%
+Справка
+
+%%news_archive%en%%
+Archive
+%%news_archive%ru%%
+Архив
+
+%%blog_archive%en%%
+Archive
+%%blog_archive%ru%%
+Архив
+
+%%popup%en%%
+Popup Windows
+%%popup%ru%%
+Детали изображения
+
+%%session%en%%
+Sessions
+%%session%ru%%
+Сессии
+
+%%show_num_image%en%%
+Imaged Numbers
+%%show_num_image%ru%%
+Изображение с цифрами
+
+%%spell%en%%
+Spell Checking
+%%spell%ru%%
+Орфография
+
+%%start%en%%
+Start Page
+%%start%ru%%
+Стартовая страница
+
+%%sys_groups_popup%en%%
+Popup: system groups
+%%sys_groups_popup%ru%%
+Всплывающее окно: системные группы
+
+%%sys_modules_popup%en%%
+Popup: modules
+%%sys_modules_popup%ru%%
+Всплывающее окно: модули
+
+%%sys_users_popup%en%%
+Popup: system users
+%%sys_users_popup%ru%%
+Всплывающее окно: системные пользователи
+
+%%wz_design_cat%en%%
+Designs Categories
+%%wz_design_cat%ru%%
+Категории дизайнов
+
+%%wz_design_layouts%en%%
+Designs Layouts
+%%wz_design_layouts%ru%%
+Макеты дизайнов
+
+%%eshop_data_exchange%en%%
+Data exchange
+%%eshop_data_exchange%ru%%
+Обмен данными
+
+%%srv_backups%en%%
+Backups
+%%srv_backups%ru%%
+Резервное копирование
+
+%%srv_updates%en%%
+Updates
+%%srv_updates%ru%%
+Обновления
+
+%%adv_places%en%%
+Advertisement manager
+%%adv_places%ru%%
+Управление рекламой
+
+%%adv_groups%en%%
+Places groups
+%%adv_groups%ru%%
+Группы мест
+
+%%adv_campaign_types%en%%
+Campaign types
+%%adv_campaign_types%ru%%
+Типы кампаний
+
+%%adv_campaign_types_groups%en%%
+Campaign types groups
+%%adv_campaign_types_groups%ru%%
+Группы типов кампаний
+
+%%adv_campaigns%en%%
+Campaigns
+%%adv_campaigns%ru%%
+Кампании
+
+%%adv_banners%en%%
+Banners
+%%adv_banners%ru%%
+Баннеры
+
+%%adv_stats%en%%
+Statistics-banners
+%%adv_stats%ru%%
+Статистика-баннеры
+
+%%adv_modules_stats%en%%
+Statistics-modules
+%%adv_modules_stats%ru%%
+Статистика-модули
+
+%%adv_links_stats%en%%
+Statistics-links
+%%adv_links_stats%ru%%
+Статистика-ссылки
+
+%%adv_advertisers%en%%
+Advertisers
+%%adv_advertisers%ru%%
+Рекламодатели
+
+%%wz_host_admin%en%%
+Administration
+%%wz_host_admin%ru%%
+Администрирование
+
+%%portfolio_home%en%%
+Projects announce
+%%portfolio_home%ru%%
+Анонс проектов
+
+%%portfolio_item%en%%
+Projects
+%%portfolio_item%ru%%
+Проекты
+
+%%portfolio_cat%en%%
+Categories
+%%portfolio_cat%ru%%
+Категории
+
+%%portfolio_user%en%%
+Users
+%%portfolio_user%ru%%
+Пользователи
+
+%%portfolio_user_items%en%%
+User items
+%%portfolio_user_items%ru%%
+Проекты пользователей
+
+%%portfolio_datasets%en%%
+Datasets
+%%portfolio_datasets%ru%%
+Наборы свойств
+
+%%portfolio_view%en%%
+Views
+%%portfolio_view%ru%%
+Отображения
+
+%%portfolio_reference%en%%
+Data references
+%%portfolio_reference%ru%%
+Данные справочников
+
+%%portfolio_reference_types%en%%
+References
+%%portfolio_reference_types%ru%%
+Справочники
+
+%%portfolio_custom_types%en%%
+Property description
+%%portfolio_custom_types%ru%%
+Описания свойств
+
+%%portfolio_letters%en%%
+Starting letters
+%%portfolio_letters%ru%%
+Начальные буквы
+
+%%ext_portfolio_custom_fields%en%%
+Extra fields for projects
+%%ext_portfolio_custom_fields%ru%%
+Дополнительные поля проектов
+
+%%portfolio_reference_popup%en%%
+Items References
+%%portfolio_reference_popup%ru%%
+Выбор из справочника
+
+%%kb_item%en%%
+Items
+%%kb_item%ru%%
+Элементы
+
+%%kb_home%en%%
+Items announce
+%%kb_home%ru%%
+Анонс элементов
+
+%%kb_cat%en%%
+Categories
+%%kb_cat%ru%%
+Категории
+
+%%kb_datasets%en%%
+Items properties
+%%kb_datasets%ru%%
+Наборы свойств
+
+%%kb_view%en%%
+Views
+%%kb_view%ru%%
+Отображения
+
+%%kb_catalog%en%%
+Catalog
+%%kb_catalog%ru%%
+Каталог
+
+%%ext_kb_custom_fields%en%%
+Extra fields for knowledge base
+%%ext_kb_custom_fields%ru%%
+Дополнительные поля базы знаний
+
+%%kb_digitals%en%%
+Import files
+%%kb_digitals%ru%%
+Импорт файлов
+
+%%kb_user%en%%
+Users
+%%kb_user%ru%%
+Пользователи
+
+%%kb_currency%en%%
+Currency
+%%kb_currency%ru%%
+Валюта
+
+%%kb_reference%en%%
+Data references
+%%kb_reference%ru%%
+Данные справочников
+
+%%kb_custom_types%en%%
+Property description
+%%kb_custom_types%ru%%
+Описания свойств
+
+%%kb_reference_types%en%%
+References
+%%kb_reference_types%ru%%
+Справочники
+
+%%kb_reference_popup%en%%
+Items References
+%%kb_reference_popup%ru%%
+Выбор из справочника
+
+%%kb_order%en%%
+Orders
+%%kb_order%ru%%
+Заказы
+
+%%kb_cart%en%%
+Shopping Cart
+%%kb_cart%ru%%
+Корзина
+
+%%kb_purchase%en%%
+Purchasing
+%%kb_purchase%ru%%
+Оформление заказа
+
+%%kb_price_list%en%%
+Price list
+%%kb_price_list%ru%%
+Прайс-лист
+
+%%kb_agreement%en%%
+Agreement
+%%kb_agreement%ru%%
+Соглашение
+
+%%kb_order_history%en%%
+History
+%%kb_order_history%ru%%
+История
+
+%%kb_data_exchange%en%%
+Data import
+%%kb_data_exchange%ru%%
+Импорт данных
+
+%%kb_user_items%en%%
+User elements
+%%kb_user_items%ru%%
+Элементы пользователей
+
+%%kb_goods%en%%
+Common
+%%kb_goods%ru%%
+Обычный
+
+%%kb_account%en%%
+Virtual Cards
+%%kb_account%ru%%
+Карты виртуальной оплаты
+
+%%kb_files%en%%
+Files Processing
+%%kb_files%ru%%
+Выбор файлов
+
+%%kb_user_items_popup%en%%
+User elements
+%%kb_user_items_popup%ru%%
+Элементы пользователя
+
+%%kb_nav_letters%en%%
+Shortcut Letters
+%%kb_nav_letters%ru%%
+Алфавитный список
+
+%%kb_related%en%%
+Related Items
+%%kb_related%ru%%
+Связанные элементы
+
+%%kb_related_cats%en%%
+Related Categories
+%%kb_related_cats%ru%%
+Связанные категории
+
+%%kb_search%en%%
+Search
+%%kb_search%ru%%
+Поиск
+
+%%srv_audit%en%%
+Audit
+%%srv_audit%ru%%
+Аудит
+
+%%srv_audit_news%en%%
+News
+%%srv_audit_news%ru%%
+Новости
+
+%%srv_audit_blog%en%%
+Blog
+%%srv_audit_blog%ru%%
+Дневник
+
+%%srv_audit_articles%en%%
+Articles
+%%srv_audit_articles%ru%%
+Статьи
+
+%%srv_audit_articles_cat%en%%
+Articles categories
+%%srv_audit_articles_cat%ru%%
+Категории статей
+
+%%srv_audit_files%en%%
+Files
+%%srv_audit_files%ru%%
+Файлы
+
+%%srv_audit_files_cat%en%%
+Files categories
+%%srv_audit_files_cat%ru%%
+Категории файлов
+
+%%srv_audit_jobs%en%%
+Vacancies
+%%srv_audit_jobs%ru%%
+Вакансии
+
+%%srv_audit_jobs_cat%en%%
+Vacancies categories
+%%srv_audit_jobs_cat%ru%%
+Отделы вакансий
+
+%%srv_audit_photoalbum%en%%
+Photos
+%%srv_audit_photoalbum%ru%%
+Фотографии
+
+%%srv_audit_photoalbum_cat%en%%
+Gallery
+%%srv_audit_photoalbum_cat%ru%%
+Фотоальбомы
+
+%%srv_audit_eshop_item%en%%
+E-Commerce Products
+%%srv_audit_eshop_item%ru%%
+Каталог::Товары
+
+%%twist_prevention%en%%
+SPAM prevention
+%%twist_prevention%ru%%
+Защита от СПАМа
+
+%%srv_twist_prevention%en%%
+SPAM prevention
+%%srv_twist_prevention%ru%%
+Защита от СПАМа
+
+%%ext_twist_prevention%en%%
+Module extension: SPAM prevention
+%%ext_twist_prevention%ru%%
+Расширение модуля: защита от СПАМа
+
+%%srv_audit_adv_banners%en%%
+Advertisement banners
+%%srv_audit_adv_banners%ru%%
+Рекламные баннеры
+
+%%srv_audit_adv_campaigns%en%%
+Advertisement campaigns
+%%srv_audit_adv_campaigns%ru%%
+Рекламные кампании
+
+%%ext_eshop_item_audit%en%%
+User products
+%%ext_eshop_item_audit%ru%%
+Товары пользователей
+
+%%portfolio_digitals%en%%
+Import files
+%%portfolio_digitals%ru%%
+Импорт файлов
+
+%%common_settings%en%%
+Common settings
+%%common_settings%ru%%
+Общие настройки
+
+%%ext_reindex%en%%
+Indexing
+%%ext_reindex%ru%%
+Индексирование
+
+%%menu%en%%
+Menu
+%%menu%ru%%
+Меню
+
+%%ext_eshop_cat_external_link%en%%
+Related categories
+%%ext_eshop_cat_external_link%ru%%
+Связанные категории
+
+%%portfolio_goods%en%%
+Common
+%%portfolio_goods%ru%%
+Обычные
+
+%%eshop_item_props%en%%
+Properties
+%%eshop_item_props%ru%%
+Подвиды
+
+%%ext_portfolio_cat_external_link%en%%
+Related categories
+%%ext_portfolio_cat_external_link%ru%%
+Связанные категории
+
+%%ext_portfolio_item_audit%en%%
+User projects
+%%ext_portfolio_item_audit%ru%%
+Проекты пользователей
+
+%%kb_letters%en%%
+Starting letters
+%%kb_letters%ru%%
+Начальные буквы
+
+%%ext_kb_cat_external_link%en%%
+Related elements
+%%ext_kb_cat_external_link%ru%%
+Связанные элементы
+
+%%ext_kb_item_audit%en%%
+User elements
+%%ext_kb_item_audit%ru%%
+Элементы пользователей
+
+%%kb_item_props%en%%
+Подвиды
+%%kb_item_props%ru%%
+Подвиды
+
+%%portfolio_item_props%en%%
+Подвиды
+%%portfolio_item_props%ru%%
+Подвиды
+
+%%phorum%en%%
+Phorum
+%%phorum%ru%%
+Новый форум
+
+%%phorum_cat%en%%
+Sections / Topics
+%%phorum_cat%ru%%
+Разделы / Темы
+
+%%plugins%en%%
+Extensions
+%%plugins%ru%%
+Расширения
+
+%%plugins_wizard%en%%
+Plugins wizard
+%%plugins_wizard%ru%%
+Мастер плагинов
+
+%%pl_mod01%en%%
+Plugin 1
+%%pl_mod01%ru%%
+Плагин 1
+
+%%members_popup%en%%
+Member selection menu
+%%members_popup%ru%%
+Меню выбора пользователя
+
+%%srv_tags%en%%
+Tags
+%%srv_tags%ru%%
+Теги
+
+%%ext_tags%en%%
+Tags
+%%ext_tags%ru%%
+Теги
+
+%%ext_images%en%%
+Images
+%%ext_images%ru%%
+Изображения
+
+%%google_sitemap%en%%
+Sitemaps
+%%google_sitemap%ru%%
+Sitemaps
+
+%%sitemap_history%en%%
+History
+%%sitemap_history%ru%%
+История событий
+
+%%stickers%en%%
+Stickers
+%%stickers%ru%%
+Стикеры
+
+%%stickers_cat%en%%
+Categories
+%%stickers_cat%ru%%
+Категории
+
+%%ext_relations%en%%
+Module extension: relations
+%%ext_relations%ru%%
+Расширение модуля: cвязи
+
+%%hst_res%en%%
+Resources
+%%hst_res%ru%%
+Ресурсы
+
+%%hst_pkg%en%%
+Packages
+%%hst_pkg%ru%%
+Пакеты
+
+%%hst_tariff%en%%
+Tariffs
+%%hst_tariff%ru%%
+Тарифы
+
+%%hst_clients%en%%
+Clients
+%%hst_clients%ru%%
+Клиенты
+
+%%hst_common_info%en%%
+Common information
+%%hst_common_info%ru%%
+Сводная информания
+
+%%hst_resellers%en%%
+Resellers
+%%hst_resellers%ru%%
+Партнёры
+
+%%hst_subscriptions%en%%
+Subscriptions
+%%hst_subscriptions%ru%%
+Договоры
+
+%%hst_subscriptions_popup%en%%
+Additional packages selection
+%%hst_subscriptions_popup%ru%%
+Выбора дополнительных пакетов
+
+%%hst_res_inst_select_vhost_popup%en%%
+Virtual host selection
+%%hst_res_inst_select_vhost_popup%ru%%
+Выбор домена
+
+%%hst_res_db_inst%en%%
+Databases
+%%hst_res_db_inst%ru%%
+Базы данных
+
+%%hst_res_ftp_inst%en%%
+FTP
+%%hst_res_ftp_inst%ru%%
+FTP
+
+%%hst_res_ftp_select_path_popup%en%%
+Home directory selection
+%%hst_res_ftp_select_path_popup%ru%%
+Выбор домашнего каталога
+
+%%hst_res_vhost_inst%en%%
+Virtual hosts
+%%hst_res_vhost_inst%ru%%
+Домены
+
+%%hst_res_dns_inst%en%%
+DNS
+%%hst_res_dns_inst%ru%%
+DNS
+
+%%hst_res_email_inst%en%%
+Mail
+%%hst_res_email_inst%ru%%
+Почта
+
+%%hst_res_cms_inst%en%%
+CMS
+%%hst_res_cms_inst%ru%%
+CMS
+
+%%locales%en%%
+Locales
+%%locales%ru%%
+Локализации
+
+%%ext_user_rating%en%%
+Votes and user rating
+%%ext_user_rating%ru%%
+Оценки и репутация
+
+%%mod_manager%en%%
+Module manager
+%%mod_manager%ru%%
+Менеджер модулей
+
+%%unavailable_functionality%en%%
+The functionality is unavailable for this edition.
+%%unavailable_functionality%ru%%
+Функциональность недоступна для данной редакции.
+
+%%enable_category_functionality%en%%
+Category usage disabled.
+%%enable_category_functionality%ru%%
+Использование категорий отключено.
+
+%%hc_eshop_item%en%%
+Products list
+%%hc_eshop_item%ru%%
+Каталог товаров
+
+%%hc_eshop_order_history%en%%
+Orders
+%%hc_eshop_order_history%ru%%
+Заказы
+
+%%hc_feedback%en%%
+Feedback
+%%hc_feedback%ru%%
+Обратная Связь

@@ -1,0 +1,80 @@
+
+%%preparing_site_archive%en%%
+Preparing to archive site data
+%%preparing_site_archive%ru%%
+Идет подготовка к созданию архива
+
+%%site_arch_created%en%%
+Site archive created
+%%site_arch_created%ru%%
+Архив сайта создан
+
+%%err_quota_warn%en%%
+Cannot write files (disk quota exceeded?)
+%%err_quota_warn%ru%%
+Ошибка записи, возможно, превышена дисковая квота.
+
+%%err_create_archive%en%%
+An error occurred while creating site archive
+%%err_create_archive%ru%%
+Произошла ошибка при создании архива сайта
+
+%%preparing_file_list%en%%
+Preparing list of files to archive
+%%preparing_file_list%ru%%
+Подготовка списка файлов
+
+%%archiving_files%en%%
+Archiving files
+%%archiving_files%ru%%
+Архивация файлов
+
+%%db_dump_start%en%%
+Dumping database
+%%db_dump_start%ru%%
+Сохранение базы данных
+
+%%preparing_restore%en%%
+Preparing to restore data
+%%preparing_restore%ru%%
+Подготовка к восстановлению данных
+
+%%files_bytes_restored%en%%
+Files/MB extracted:
+%%files_bytes_restored%ru%%
+Распаковано файлов/Мб:
+
+%%tables_bytes_restored%en%%
+Tables/MB extracted:
+%%tables_bytes_restored%ru%%
+Распаковано таблиц/Мб:
+
+%%unpacking_archive%en%%
+Unpacking site archive
+%%unpacking_archive%ru%%
+Распаковка архива сайта
+
+%%restoring_dbdump%en%%
+Copying database from archive
+%%restoring_dbdump%ru%%
+Копирование базы данных из архива
+
+%%tables_restored%en%%
+Tables copied:
+%%tables_restored%ru%%
+Скопировано таблиц:
+
+%%data_restored%en%%
+Data copied successfully
+%%data_restored%ru%%
+Данные успешно скопированы
+
+%%err_restore_archive%en%%
+An error occurred while installing the site from archive
+%%err_restore_archive%ru%%
+Произошла ошибка при копировании данных из архива
+
+%%written_to_archive%en%%
+Written to archive, MB:
+%%written_to_archive%ru%%
+Записано в архив, Мб:

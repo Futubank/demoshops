@@ -1,0 +1,51 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Campaign type was added.
+%%status_add%ru%%
+Тип кампании добавлен.
+
+%%status_apply%en%%
+Campaign type was updated.
+%%status_apply%ru%%
+Тип кампании изменен.
+
+%%status_del%en%%
+Campaign type was deleted.
+%%status_del%ru%%
+Тип кампании удален.
+
+%%status_del_fail%en%%
+Campaign type was not deleted.
+%%status_del_fail%ru%%
+Тип кампании не удален.
+
+%%name_warn%en%%
+Please, enter the name
+%%name_warn%ru%%
+Пожалуйста, введите название
+
+%%ids_places_warn%en%%
+Please, select one advertisement places at least
+%%ids_places_warn%ru%%
+Пожалуйста, выберите как минимум одно рекламное место
+
+%%opt_def_max_views_warn%en%%
+Incorrect max views format, only numbers allowed
+%%opt_def_max_views_warn%ru%%
+Неверный формат максимального количества показов, разрешены только цифры
+
+%%opt_def_max_click_warn%en%%
+Incorrect max clicks format, only numbers allowed
+%%opt_def_max_clicks_warn%ru%%
+Неверный формат максимального количества переходов, разрешены только цифры
+
+%%opt_def_lifetime_warn%en%%
+Incorrect lifetime format, only numbers allowed
+%%opt_def_lifetime_warn%ru%%
+Неверный формат времени жизни кампании, разрешены только цифры
+
+%%opt_def_max_views_day_warn%en%%
+Incorrect max views per day format, only numbers allowed
+%%opt_def_max_views_day_warn%ru%%
+Неверный формат максимального количества показов в день, разрешены только цифры

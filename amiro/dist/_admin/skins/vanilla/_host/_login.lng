@@ -1,0 +1,332 @@
+%%auth_required%en%%
+Authorization required!
+%%auth_required%ru%%
+Необходима авторизация!
+
+%%title%en%%
+Amiro.CMS :: Member Area
+%%title%ru%%
+Amiro.CMS :: Вход в Систему
+
+%%siboxtitle%en%%
+Amiro.CMS :: Member Area
+%%siboxtitle%ru%%
+Amiro.CMS :: Вход в Систему
+
+%%bruttotitle%en%%
+Amiro.CMS :: Member Area
+%%bruttotitle%ru%%
+Amiro.CMS :: Вход в Систему
+
+%%nebtptitle%en%%
+NEBTP :: Member Area
+%%nebtptitle%ru%%
+NEBTP :: Вход в Систему
+
+%%nebtptitle%en%%
+NEBTP :: Member Area
+%%nebtptitle%ru%%
+NEBTP :: Вход в Систему
+
+%%evolvetitle%en%%
+EVOLVE SYSTEMS :: Member Area
+%%evolvetitle%ru%%
+EVOLVE SYSTEMS :: Вход в Систему
+
+%%alleanzatitle%en%%
+ALLEANZA :: Member Area
+%%alleanzatitle%ru%%
+ALLEANZA :: Вход в Систему
+
+
+%%support%en%%
+Support service
+%%support%ru%%
+Служба поддержки
+
+%%default_domain%ru%%
+
+%%default_domain%en%%
+
+%%db_failed%ru%%
+<b>Ошибка доступа к базе данных. Пожалуйста, попробуйте позже</b>
+%%db_failed%en%%
+<b>Database access error. please try again later</b>
+
+%%wrong_login%ru%%
+<b>Вы ввели неправильный логин или пароль или несуществующий адрес сайта, пожалуйста повторите ввод.</b><br><br>
+Если Вы уверены, что вводите адрес сайта правильно, воспользуйтесь ссылкой <a href="?fform=forgot"><b>Забыли пароль?</b></a>.<br>
+Ваш логин и новый пароль будут высланы на адрес e-mail указанный Вами при создании сайта.
+%%wrong_login%en%%
+<b>Invalid data, please try again.</b><br><br>
+If you are sure you enter domain right, use the <a href="?fform=forgot"><b>Forgot password?</b></a> link.
+
+%%wrong_login_single%ru%%
+<b>Вы ввели неправильный логин или пароль, пожалуйста повторите ввод.</b><br><br>
+Если Вы уверены, что вводите реквизиты правильно, воспользуйтесь ссылкой <a href="?fform=forgot"><b>Забыли пароль?</b></a>.<br>
+Ваш логин и новый пароль будут высланы на адрес e-mail указанный Вами при создании сайта.
+%%wrong_login_single%en%%
+<b>Invalid data, please try again.</b><br><br>
+If you are sure you enter account data right, use the <a href="?fform=forgot"><b>Forgot password?</b></a> link.
+
+%%wrong_data%ru%%
+Не правильно указан адрес сайта или e-mail. Если вы уверены, что указанные данные верны, обратитесь в службу поддержки.
+%%wrong_data%en%%
+You entered either wrong domain or e-mail, if you are sure this data is right, please, contact support service
+
+%%cookies_off%ru%%
+В Вашем броузере заблокирована поддержка cookies. Для работы с системой необходимо включить поддержку cookies.
+%%cookies_off%en%%
+You need to enable cookies support.
+
+%%domain_locked%en%%
+You have exceeded the number of login attempts. Try to login later
+%%domain_locked%ru%%
+Вы превысили допустимое количество попыток входа. Попробуйте войти позднее
+
+%%forgot_subject%en%%
+Account info.
+%%forgot_subject%ru%%
+Информация о доступе.
+
+%%password_sent%en%%
+<font color=blue>Login and password have been sent to e-mail of site administrator.</font>
+%%password_sent%ru%%
+<font color=blue>Логин и пароль отправлены на адрес e-mail администратора сайта.</font>
+
+%%password_send_fail%en%%
+Login and password sending failed, contact support please.
+%%password_send_fail%ru%%
+Не удалось отправить логин и пароль не отправлены на адрес e-mail администратора сайта, обратитесь в службу поддержки.
+
+%%site_not_found%en%%
+Entered site is not found, contact support please.
+%%site_not_found%ru%%
+Указанный сайт не существует, обратитесь в службу поддержки.
+
+%%site_not_active%en%%
+Entered site is not active, contact support please.
+%%site_not_active%ru%%
+Указанный сайт заблокирован, обратитесь в службу поддержки.
+
+%%user_not_found%en%%
+Admnistrator profile is not found, contact support please.
+%%user_not_found%ru%%
+Не найден профайл администратора сайта, обратитесь в службу поддержки.
+
+%%options_fail%en%%
+Check login requirements.
+%%options_fail%ru%%
+Проверьте требования для работы в панели администратора.
+
+%%enter_login%en%%
+Please enter login information to access Admin panel
+%%enter_login%ru%%
+Для доступа к панели управления сайтом, введите:
+
+%%enter_forgot%en%%
+If your fogrot the password, please enter:
+%%enter_forgot%ru%%
+Если Вы забыли пароль, введите:
+
+%%auth%en%%
+MEMBER AREA
+%%auth%ru%%
+АВТОРИЗАЦИЯ
+
+%%welcome_login%en%%
+Admin login
+%%welcome_login%ru%%
+Вход в систему
+
+%%welcome_forgot%en%%
+Password reminder
+%%welcome_forgot%ru%%
+Восстановление пароля
+
+%%link_forgot%en%%
+Forgot password?
+%%link_forgot%ru%%
+Забыли пароль?
+
+%%link_login%en%%
+Login form
+%%link_login%ru%%
+Вход в систему
+
+%%btn_forgot%en%%
+Send password
+%%btn_forgot%ru%%
+Выслать пароль
+
+%%btn_login%en%%
+Login
+%%btn_login%ru%%
+Войти в систему
+
+%%site%en%%
+Domain name (without http:// or www.)
+%%site%ru%%
+Доменное имя (без http:// и www.)
+
+%%login%en%%
+Login
+%%login%ru%%
+Логин
+
+%%pwd%en%%
+Password
+%%pwd%ru%%
+Пароль
+
+%%email%en%%
+Administrator's e-mail
+%%email%ru%%
+E-mail администратора
+
+%%attention%en%%
+ATTENTION
+%%attention%ru%%
+ВНИМАНИЕ
+
+%%allow_ssl%en%%
+SSL
+%%allow_ssl%ru%%
+SSL
+
+%%pwd_alert%en%%
+Non-latin keyboard input locale is turned on, possible password is entering not correctly.
+%%pwd_alert%ru%%
+Включена не латинская раскладка клавиатуры, возможно пароль вводится неверно.
+
+%%note%en%%
+<table align=center border=0 style="border:0px #d0d0d0 solid"><tr><td>
+<br>
+<b>To work in administration panel you need the following:</b>
+<table>
+<tr><td valign=top>1. </td><td>Browser Internet Explorer with version 6.0 or higher</td></tr>
+<tr><td valign=top>2. </td><td>JavaScript enabled in your browser<br></td></tr>
+<tr><td valign=top>3. </td><td>Correctly set date and time in your computer</td></tr>
+<tr><td valign=top>4. </td><td>"Cookie" enabled in your computer<br></td></tr>
+</table>
+<b>Result of checking:</b>
+<table>
+<tr><td nowrap>1. JavaScripts: </td>
+<td>
+<div id=js_stat_1 style="color:blue;display:none">Enabled</div>
+<div id=js_stat_2 style="color:red">Disabled</div>
+</td>
+<td nowrap>
+<div id=js_warn_1 style="color:blue;display:none">[ok]</div>
+<div id=js_warn_2 style="color:red">[is not ok]</div>
+</td>
+<script>
+var bOptionsChecked = true;
+document.getElementById('js_stat_1').style.display='block';
+document.getElementById('js_stat_2').style.display='none';
+document.getElementById('js_warn_1').style.display='block';
+document.getElementById('js_warn_2').style.display='none';
+</script>
+</td></tr>
+<tr><td nowrap>2. Date and time:</td>
+<script>
+var now=new Date();
+var modified = new Date(document.lastModified);
+var sDate =  ((now.getMonth()+1<10)?'0':'') + (now.getMonth()+1) + '/' +  ((now.getDate()<10)?'0':'') + now.getDate() + '/' + (now.getYear()<2000?now.getYear()+1900:now.getYear()) +' '+ ((now.getHours()<10)?'0':'') + now.getHours() + ":" + ((now.getMinutes()<10)?'0':'') + now.getMinutes();
+if (Math.abs(now.getTime() - modified.getTime()) < 12*60*60*1000){
+  document.write('<td nowrap style="color:blue">'+sDate+'</td><td nowrap style="color:blue">[date and time is correct]');
+}else{
+  document.write('<td nowrap style="color:red">'+sDate+'</td><td nowrap style="color:red">[date and time is not correct]');
+  bOptionsChecked = false;
+}
+</script>
+</td></tr>
+<tr><td nowrap>3. "Cookie":</td>
+<script>
+document.cookie="check_cookie=1";
+if ((document.cookie!="") && (document.cookie.indexOf("check_cookie=1") != -1)){
+  document.write('<td style="color:blue">Enabled</td><td nowrap style="color:blue">[ok]');
+}else{
+  document.write('<td style="color:red">Disabled</td><td nowrap style="color:red">[is not ok]');
+  bOptionsChecked = false;
+}
+
+if (!bOptionsChecked){
+  document.getElementById('div_attention_form').style.display='block';
+}else{
+
+  document.getElementById('div_attention_form').style.display='none';
+}
+</script>
+</td></tr>
+</table>
+</td></tr></table>
+%%note%ru%%
+<table align=center border=0 style="border:0px #d0d0d0 solid"><tr><td>
+<br>
+<b>Для работы в панели администратора необходимо:</b>
+<table>
+<tr><td valign=top>1. </td><td>Разрешение на выполнение сценариев JavaScript<br></td></tr>
+<tr><td valign=top>2. </td><td>Корректно установленная дата и время на вашем компьютере</td></tr>
+<tr><td valign=top>3. </td><td>Разрешение принимать файлы "Cookie"<br></td></tr>
+</table>
+<b>Результаты проверки:</b>
+<table>
+<tr><td nowrap>1. Cценарии JavaScript: </td>
+<td>
+<div id=js_stat_1 style="color:blue;display:none">Разрешены</div>
+<div id=js_stat_2 style="color:red">Запрещены</div>
+</td>
+<td nowrap>
+<div id=js_warn_1 style="color:blue;display:none">[удовлетворяет требованиям]</div>
+<div id=js_warn_2 style="color:red">[не удовлетворяет требованиям]</div>
+</td>
+<script>
+var bOptionsChecked = true;
+document.getElementById('js_stat_1').style.display='block';
+document.getElementById('js_stat_2').style.display='none';
+document.getElementById('js_warn_1').style.display='block';
+document.getElementById('js_warn_2').style.display='none';
+</script>
+</td></tr>
+<tr><td nowrap>2. Дата и время:</td>
+<script>
+var now=new Date();
+var modified = new Date(document.lastModified);
+var sDate =  ((now.getDate()<10)?'0':'') + now.getDate() + '/' +  ((now.getMonth()+1<10)?'0':'') + (now.getMonth()+1) + '/' +  (now.getYear()<2000?now.getYear()+1900:now.getYear()) +' '+ ((now.getHours()<10)?'0':'') + now.getHours() + ":" + ((now.getMinutes()<10)?'0':'') + now.getMinutes();
+if (Math.abs(now.getTime() - modified.getTime()) < 12*60*60*1000){
+  document.write('<td nowrap style="color:blue">'+sDate+'</td><td nowrap style="color:blue">[дата и время установлены корректно]');
+}else{
+  document.write('<td nowrap style="color:red">'+sDate+'</td><td nowrap style="color:red">[дата и время установлены не корректно]');
+  bOptionsChecked = false;
+}
+</script>
+</td></tr>
+<tr><td nowrap>3. Файлы "Cookie":</td>
+<script>
+document.cookie="check_cookie=1";
+if ((document.cookie!="") && (document.cookie.indexOf("check_cookie=1") != -1)){
+  document.write('<td style="color:blue">Разрешены</td><td nowrap style="color:blue">[удовлетворяет требованиям]');
+}else{
+  document.write('<td style="color:red">Запрещены</td><td nowrap style="color:red">[не удовлетворяет требованиям]');
+  bOptionsChecked = false;
+}
+
+if (!bOptionsChecked){
+  document.getElementById('div_attention_form').style.display='block';
+  document.getElementById('div_login_form').style.display='none';
+
+}else{
+  document.getElementById('div_attention_form').style.display='none';
+  document.getElementById('div_login_form').style.display='block';
+}
+</script>
+</td></tr>
+</table>
+</td></tr></table>
+##--
+<script>
+document.writeln(now);
+document.writeln(modified);
+</script>
+--##

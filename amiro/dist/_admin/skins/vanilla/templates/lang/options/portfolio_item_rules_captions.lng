@@ -1,0 +1,66 @@
+%%include_language "templates/lang/options/eshop_item_rules_captions.lng"%%
+
+%%body_items_cols%en%%
+Columns in the projects browse mode
+%%body_items_cols%ru%%
+Количество столбцов в режиме отображения проектов
+
+%%sub_items_cols%en%%
+Columns count for subordinated projects list
+%%sub_items_cols%ru%%
+Количество колонок для списка подчиненных проектов
+
+%%sku_is_unique%en%%
+To check a sku of the projects on uniqueness
+%%sku_is_unique%ru%%
+Проверять код проекта на уникальность
+
+%%show_detail_link%en%%
+To show the link to the detailed description of the project, when its description is absent
+%%show_detail_link%ru%%
+Отображать ссылку на детальное описание проекта, когда его описание отсутствует
+
+%%show_subcategory_items%en%%
+Mode of show of the subordinated projects
+%%show_subcategory_items%ru%%
+Отображение подчиненных проектов
+
+%%splitter_period%en%%
+The number of projects after which the splitter is inserted
+%%splitter_period%ru%%
+Количество проектов, после которого вставляется разделитель
+
+%%sub_splitter_period%en%%
+The number of subordinated projects after which the splitter is inserted
+%%sub_splitter_period%ru%%
+Количество подчиненных проектов, после которого вставляется разделитель
+
+%%available_item_types%en%%
+The available types of the projects
+%%available_item_types%ru%%
+Разрешенные типы проектов
+
+%%default_item_type%en%%
+Default type of the projects
+%%default_item_type%ru%%
+Тип проекта по умолчанию
+
+%%show_sku_column%en%%
+Show sku column (admin)
+%%show_sku_column%ru%%
+Показывать колонку с кодом проекта (админ)
+
+%%spl_form_params%en%%
+Project add/edit form sorting
+%%spl_form_params%ru%%
+Расположение элементов в форме добавления/редактирования проекта
+
+%%spl_specblock_cat%en%%
+Spec block options of "Projects catalog"
+%%spl_specblock_cat%ru%%
+Параметры спецблока "Каталог проектов"
+
+%%spl_specblock_filter%en%%
+Spec block options of "Projects search/filter"
+%%spl_specblock_filter%ru%%
+Параметры спецблока "Поиск/фильтр проектов"

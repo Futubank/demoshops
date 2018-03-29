@@ -1,0 +1,4 @@
+%%after_install%en%%
+Open "Service :: System Options :: Pay system drivers" section to setup driver.
+%%after_install%ru%%
+Для настройки перейдите в раздел "Сервис :: Настройки системы :: Драйверы платежных систем" и настройте установленный драйвер.

@@ -1,0 +1,181 @@
+%%driver_author%en%%
+<a href="http://amirocms.com/" target="_blank">Amiro</a>
+%%driver_author%ru%%
+<a href="http://www.amiro.ru/" target="_blank">Амиро</a>
+
+%%driver_title%en%%
+Yandex.Money Payment Solution
+%%driver_title%ru%%
+Касса Яндекс.Денег
+
+%%driver_button_caption%en%%
+Yandex.Money Payment Solution
+%%driver_button_caption%ru%%
+Касса Яндекс.Денег
+
+##-- settings { --##
+
+%%drv_service_payment_method%en%%
+Peyment method
+%%drv_service_payment_method%ru%%
+Метод получения платежей
+
+%%drv_service_payment_method_juridical%en%%
+на расчетный счет организации с заключением договора с Яндекс.Деньгами
+%%drv_service_payment_method_juridical%ru%%
+на расчетный счет организации с заключением договора с Яндекс.Деньгами
+
+%%drv_service_payment_method_natural%en%%
+зачисление электронных денег на кошелек Яндекс Денег
+%%drv_service_payment_method_natural%ru%%
+зачисление электронных денег на кошелек Яндекс Денег
+
+%%drv_payment_methods%en%%
+Available payment methods
+%%drv_payment_methods%ru%%
+Доступные способы оплаты
+
+%%drv_payment_method_yandex_money%en%%
+электронная валюта Яндекс.Деньги
+%%drv_payment_method_yandex_money%ru%%
+электронная валюта Яндекс.Деньги
+
+%%drv_payment_method_cards%en%%
+банковские карты VISA, MasterCard, Maestro
+%%drv_payment_method_cards%ru%%
+банковские карты VISA, MasterCard, Maestro
+
+%%drv_payment_method_cash%en%%
+наличными в кассах и терминалах партнеров
+%%drv_payment_method_cash%ru%%
+наличными в кассах и терминалах партнеров
+
+%%drv_payment_method_webmoney%en%%
+электронная валюта WebMoney
+%%drv_payment_method_webmoney%ru%%
+электронная валюта WebMoney
+
+%%drv_payment_method_mobile%en%%
+оплата со счета мобильного телефона
+%%drv_payment_method_mobile%ru%%
+оплата со счета мобильного телефона
+
+%%drv_payment_method_sberbank%en%%
+оплата через Сбербанк Онлайн
+%%drv_payment_method_sberbank%ru%%
+оплата через Сбербанк Онлайн
+
+%%drv_notification_email%en%%
+E-mail для ежедневных уведомлений для сверки платежей
+%%drv_notification_email%ru%%
+E-mail для ежедневных уведомлений для сверки платежей
+
+%%drv_shop_password%en%%
+Секретное слово (shopPassword) для обмена сообщениями
+%%drv_shop_password%ru%%
+Секретное слово (shopPassword) для обмена сообщениями
+
+%%drv_shop_data%en%%
+Данные, выдаваемые при подключении к системе Яндекс.Деньги
+%%drv_shop_data%ru%%
+Данные, выдаваемые при подключении к системе Яндекс.Деньги
+
+%%drv_shop_id%en%%
+Идентификатор вашего магазина в Яндекс.Деньгах (ShopID)
+%%drv_shop_id%ru%%
+Идентификатор вашего магазина в Яндекс.Деньгах (ShopID)
+
+%%drv_shop_scid%en%%
+Идентификатор витрины вашего магазина в Яндекс.Деньгах (scid)
+%%drv_shop_scid%ru%%
+Идентификатор витрины вашего магазина в Яндекс.Деньгах (scid)
+
+%%drv_shop_shoparticleid%en%%
+Идентификатор товара вашего магазина в Яндекс.Деньгах (shoparticleid)
+%%drv_shop_shoparticleid%ru%%
+Идентификатор товара вашего магазина в Яндекс.Деньгах (shoparticleid)
+
+%%drv_account%en%%
+Номер счета в платежной системе Яндекс.Деньги
+%%drv_account%ru%%
+Номер счета в платежной системе Яндекс.Деньги
+
+%%drv_url%en%%
+Ссылка для приема HTTP-уведомлений<br />
+<small>эту ссылку нужно указать здесь: https://sp-money.yandex.ru/myservices/online.xml</small>
+%%drv_url%ru%%
+Ссылка для приема HTTP-уведомлений<br />
+<small>эту ссылку нужно указать здесь: https://sp-money.yandex.ru/myservices/online.xml</small>
+
+%%drv_secret_key%en%%
+Секретное слово для обмена сообщениями<br />
+<small>*необходимо скопировать отсюда: https://sp-money.yandex.ru/myservices/online.xml</small>
+%%drv_secret_key%ru%%
+Секретное слово для обмена сообщениями<br />
+<small>*необходимо скопировать отсюда: https://sp-money.yandex.ru/myservices/online.xml</small>
+
+%%drv_test_mode%en%%
+Use test mode
+%%drv_test_mode%ru%%
+Использовать режим тестирования
+
+%%drv_test_result%en%%
+Test result code (see <a href="https://api.yandex.ru/money/doc/dg/reference/request-payment.xml#errors_table" target="_blank">table</a>)
+%%drv_test_result%ru%%
+Тестовый код возврата (смотрите <a href="https://api.yandex.ru/money/doc/dg/reference/request-payment.xml#errors_table" target="_blank">таблицу</a>)
+
+
+%%missing_obligatory_field%en%%
+Missing obligatory field!
+%%missing_obligatory_field%ru%%
+Заполните обязательное поле!
+
+##-- } settings --##
+##-- front form { --##
+
+%%misconfigured%en%%
+Selected payment method misconfigured, call site administrator!
+%%misconfigured%ru%%
+Выбранный способ оплаты не настроен, обратитесь к администратору сайта!
+
+%%select_payment_type%en%%
+Select payment type
+%%select_payment_type%ru%%
+Выберите способ оплаты
+
+%%payment_type_yandex_money%en%%
+Pay by Yandex.Money
+%%payment_type_yandex_money%ru%%
+Оплатить Яндекс.Деньгами
+
+%%payment_type_cards%en%%
+Pay by bank card
+%%payment_type_cards%ru%%
+Оплатить банковской картой
+
+%%payment_type_cash%en%%
+Pay by cash
+%%payment_type_cash%ru%%
+Оплатить наличными через кассы и терминалы
+
+%%payment_type_webmoney%en%%
+Pay by WebMoney
+%%payment_type_webmoney%ru%%
+Оплатить с кошелька в системе WebMoney
+
+%%payment_type_mobile%en%%
+Pay by mobile phone
+%%payment_type_mobile%ru%%
+Оплатить со счета мобильного телефона
+
+%%payment_type_sberbank%en%%
+Оплатить через Сбербанк Онлайн
+%%payment_type_sberbank%ru%%
+Оплатить через Сбербанк Онлайн
+
+%%pay%en%%
+Pay
+%%pay%ru%%
+Перейти к оплате
+
+##-- } front form --##

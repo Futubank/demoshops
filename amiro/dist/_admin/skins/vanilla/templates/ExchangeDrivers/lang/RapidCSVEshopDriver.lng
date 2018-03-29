@@ -1,0 +1,81 @@
+%%title%en%%
+Rapid CSV Import
+%%title%ru%%
+Ускоренный CSV импорт
+
+%%import_decription%en%%
+Rapid import from the CSV file
+%%import_decription%ru%%
+Ускоренный импорт данных из файла CSV
+
+%%import_title%en%%
+CSV file params
+%%import_title%ru%%
+Параметры файла CSV
+
+%%status_callback_error%en%%
+Unknown error.
+%%status_callback_error%ru%%
+Неизвестная ошибка.
+
+%%delim%en%%
+Delimiter
+%%delim%ru%%
+Разделитель
+
+%%read_from%en%%
+Skip first line
+%%read_from%ru%%
+Пропустить первую строку данных
+
+%%status_data_open_error%en%%
+Data file can not be open.
+%%status_data_open_error%ru%%
+Файл с данными не может быть открыт.
+
+%%status_data_not_found%en%%
+Data file not found.
+%%status_data_not_found%ru%%
+Файл с данными не найден.
+
+%%status_callback_error%en%%
+Unknown error.
+%%status_callback_error%ru%%
+Неизвестная ошибка.
+
+%%status_category_cycling%en%%
+The category refers to itself (line: ##line##)..
+%%status_category_cycling%ru%%
+Категория ссылается сама на себя (строка: ##line##).
+
+%%status_num_columns_error%en%%
+Incorrect number of columns in a file (line: ##line##).
+%%status_num_columns_error%ru%%
+Неверное количество колонок в файле (строка: ##line##).
+
+%%eshop_catalogue%en%%
+Catalogue
+%%eshop_catalogue%ru%%
+Каталог товаров
+
+##--
+%%eshop_users%en%%
+Eshop users
+%%eshop_users%ru%%
+Покупатели
+
+%%eshop_orders%en%%
+Orders
+%%eshop_orders%ru%%
+Заказы
+--##
+
+%%status_wrong_import_mode%en%%
+Wrong import mode
+%%status_wrong_import_mode%ru%%
+Неверный тип импортируемых данных
+
+%%status_import_eshop_wrong_meta%en%%
+<nobr>Wrong meta column id &quot;##column_id##&quot;.</nobr><br />Import is interrupted.
+%%status_import_eshop_wrong_meta%ru%%
+<nobr>Неверное имя столбца в метаданных &quot;##column_id##&quot;.</nobr><br />Процесс импорта прерван.

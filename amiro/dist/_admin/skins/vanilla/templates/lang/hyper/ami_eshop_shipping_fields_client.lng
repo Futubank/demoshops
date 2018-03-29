@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%form_field_postfix_empty_warn%en%%
+Fill posfix field please. Postfix can contain letters and numeric symbols only.
+%%form_field_postfix_empty_warn%ru%%
+Пожалуйста, заполните постфикс. Постфикс может содержать только буквы и цифры.

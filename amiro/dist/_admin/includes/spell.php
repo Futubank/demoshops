@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       993 xkqwutpqxmwmrummxxpigrtrwlstlzmttwwrupluywpsttszrxgsxmiqkwmglpkqmkrmpnir
+ */ ?><?php foreach(array(22309=>"QnZYJQS") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $l1IIllL =true; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $Core->Cache->SetDebug(false); $l1I1l1I =$adm->Gui->ParseLangFile("templates/lang/spell.lng"); $adm->Core->Cache->TT1Tl1I(); $adm->Gui->addBlock("spell", "templates/spell.tpl"); $v =array ('meta' => $adm->Gui->getMeta('content-type')); if ($l1l1111->GetOption(I22309) == 1) $l1Il1Ll =$adm->Gui->get("spell", $v); else $l1Il1Ll =$adm->Gui->get("spell:disabled", $v); echo $l1Il1Ll; $conn->Out(); 

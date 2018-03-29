@@ -1,0 +1,54 @@
+%%item_counters_on%en%%
+Use products counters
+%%item_counters_on%ru%%
+Использование счетчиков товаров
+
+%%instructions_on%en%%
+Using category's instructions
+%%instructions_on%ru%%
+Использование инструкций категории
+
+%%show_root_cat%en%%
+To show the main category
+%%show_root_cat%ru%%
+Показывать главную категорию
+
+%%splitter_period%en%%
+The number of products after which the splitter is inserted
+%%splitter_period%ru%%
+Количество товаров, после которого вставляется разделитель
+
+%%sub_splitter_period%en%%
+Number of sub products before the separator
+%%sub_splitter_period%ru%%
+Количество подчиненных товаров, после которого вставляется разделитель
+
+%%spl_form_params%en%%
+Elements arrangement in product add/edit form
+%%spl_form_params%ru%%
+Расположение элементов в форме добавления/редактирования товаров
+
+%%show_discounts_in_admin%en%%
+Number of discounts shown as select box of product edit form
+%%show_discounts_in_admin%ru%%
+Число скидок, отображаемых в выпадающем списке на форме редактирования элемента
+
+%%show_shipping_types_in_admin%en%%
+Number of shipping categories in select box
+%%show_shipping_types_in_admin%ru%%
+Число наборов способов доставки, отображаемых в выпадающем списке на форме редактирования элемента
+
+%%num_special_flags%en%%
+Number of additional attributes
+%%num_special_flags%ru%%
+Количество дополнительных признаков
+
+%%path_settings%en%%
+Displaying the path of category (bread crumbs, admin)
+%%path_settings%ru%%
+Отображение пути категорий (хлебные крошки, админ)
+
+%%path_settings_strip_text%en%%
+Replace categories skipped in the path by (admin)
+%%path_settings_strip_text%ru%%
+Заменять пропущенные в пути категории на (админ)

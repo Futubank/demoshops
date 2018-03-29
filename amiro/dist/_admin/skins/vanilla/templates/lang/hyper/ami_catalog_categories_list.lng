@@ -1,0 +1,37 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_header%en%%
+Name
+%%list_col_header%ru%%
+Название
+
+%%list_col_p_header%en%%
+Parent
+%%list_col_p_header%ru%%
+Родительская категория
+
+%%list_col_dataset%en%%
+Property set
+%%list_col_dataset%ru%%
+Набор свойств
+
+%%list_col_num_childs%en%%
+Products:<br>Total/Published
+%%list_col_num_childs%ru%%
+Товаров: Всего/Публ.
+
+%%list_instruct%en%%
+Send the instruction.
+%%list_instruct%ru%%
+Отправлять инструкцию.
+
+%%list_instruct_inactive%en%%
+Not send the instruction.
+%%list_instruct_inactive%ru%%
+Не отправлять инструкцию.
+
+%%list_action_external_link%en%%
+Delete item and add forwarding for data exchange
+%%list_action_external_link%ru%%
+Удалить элемент и добавить перенаправление при обмене данными

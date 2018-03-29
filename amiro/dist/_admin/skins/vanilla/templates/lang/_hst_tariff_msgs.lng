@@ -1,0 +1,102 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Tariff was added.
+%%status_add%ru%%
+Тариф добавлен.
+
+%%status_add_fail%en%%
+Tariff was not added.
+%%status_add_fail%ru%%
+Тариф не добавлен.
+
+
+%%status_apply%en%%
+Tariff was updated.
+%%status_apply%ru%%
+Тариф изменен.
+
+%%status_apply_fail%en%%
+Tariff was not updated.
+%%status_apply_fail%ru%%
+Тариф не изменен.
+
+%%status_del%en%%
+Tariff was deleted.
+%%status_del%ru%%
+Тариф удален.
+
+%%status_del_fail%en%%
+Tariff was not deleted.
+%%status_del_fail%ru%%
+Тариф не удален.
+
+%%status_copy%en%%
+Tariff was copyed
+%%status_copy%ru%%
+Тариф скопирован
+
+%%status_copy_fail%en%%
+Tariff was not copyed
+%%status_copy_fail%ru%%
+Тариф не скопирован
+
+%%status_del_fail_package_exists%en%%
+Tariff was not deleted. There is a package using this Tariff
+%%status_del_fail_package_exists%ru%%
+Тариф не удален. Существует пакет с данным Тарифом
+
+%%setup_fee_warn%en%%
+Please, enter the setup fee!
+%%setup_fee_warn%ru%%
+Пожалуйста, введите стоимость установки!
+
+%%none_pkg_warn%en%%
+Please, add just one package!
+%%none_pkg_warn%ru%%
+Пожалуйста, добавьте хотя бы один пакет!
+
+%%period_warn%en%%
+Please, select the primary package!
+%%period_warn%ru%%
+Должен быть заполнен хотя бы один период!
+
+%%status_del_fail_subscription_exists%en%%
+Tariff was not deleted. There is a subscription using this tariff.
+%%status_del_fail_subscription_exists%ru%%
+Тариф не удален. На данном тарифе существуют договоры
+
+%%remove_period%en%%
+Remove period?
+%%remove_period%ru%%
+Удалить период?
+
+%%remove_package%en%%
+Remove package?
+%%remove_package%ru%%
+Удалить пакет?
+
+%%res_overbound_step_is_negative_warn%en%%
+Resource over bound step must be a positive value
+%%res_overbound_step_is_negative_warn%ru%%
+Шаг превышения должен быть положительным
+
+%%res_overbound_price_is_negative_warn%en%%
+Over bound price must be a nonnegative value
+%%res_overbound_price_is_negative_warn%ru%%
+Цена превышения должа быть неотрицательной
+
+%%res_bound_is_negative_warn%en%%
+Bound must be a nonnegative value
+%%res_bound_is_negative_warn%ru%%
+Максимум должен быть неотрицательным числом
+
+%%res_master_of_included_resource_missing%en%%
+Штсдгвув кesource '_slave_name_' depends from these not included resouces: _masters_list_
+%%res_master_of_included_resource_missing%ru%%
+Включенный ресурс '_slave_name_' зависит от следующих, не включенных в тариф ресурсов: _masters_list_
+
+%%res_master_of_buy_resource_missing%en%%
+Resource '_slave_name_' depends from these not accesible resouces: _masters_list_
+%%res_master_of_buy_resource_missing%ru%%
+Ресурс '_slave_name_' зависит от следующих, не доступных в тарифе ресурсов: _masters_list_

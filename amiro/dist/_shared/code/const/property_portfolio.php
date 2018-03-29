@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       939 xkqwiigkwgussqgqtrqtwqqgnpmyrrqsqlrsmxslxmkqmrukxzupzlpmqxnymtsnsypypnir
+ */ ?><?php foreach(array(17548=>'iHSuJQqDOHGmtQI',17549=>'|WZt',17550=>'iHSuJQqDOHGwZt') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLI1LIl =$Illl1II ='portfolio'; $lLI1LII ='po'; include 'property_eshop_def.php'; $vMod =&$Core->GetModule($lLI1LIl .'_item'); $vMod->SetProperty('engine_classes', array (I17548 ));$vMod->SetProperty('picture_cat', 'portfolio'); $vMod =&$Core->GetModule($lLI1LIl .I17549); $vMod->SetProperty('engine_classes', array (I17550)); 

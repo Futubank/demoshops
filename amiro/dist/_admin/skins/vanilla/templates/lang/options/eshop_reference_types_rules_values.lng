@@ -1,0 +1,44 @@
+%%ref_id_not_selected%en%%
+-- Not selected --
+%%ref_id_not_selected%ru%%
+-- Не выбран --
+
+%%show_description_mode_0%en%%
+Unlimited length
+%%show_description_mode_0%ru%%
+Длина не ограничена
+
+%%show_description_mode_-1%en%%
+Not showing
+%%show_description_mode_-1%ru%%
+Не отображать
+
+%%show_description_mode_1%en%%
+Length
+%%show_description_mode_1%ru%%
+Количество символов
+
+%%description_text_mode_TEXT%en%%
+Only text
+%%description_text_mode_TEXT%ru%%
+Только текст
+
+%%description_text_mode_%en%%
+HTML
+%%description_text_mode_%ru%%
+HTML
+
+%%id%en%%
+By Id
+%%id%ru%%
+По Id
+
+%%page_size_small_10000%en%%
+All
+%%page_size_small_10000%ru%%
+Все
+
+%%page_size_small_1%en%%
+Count
+%%page_size_small_1%ru%%
+Количество

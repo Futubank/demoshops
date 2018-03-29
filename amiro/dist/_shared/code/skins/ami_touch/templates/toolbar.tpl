@@ -1,0 +1,1 @@
+<script>if((typeof(amiSession)!="undefined")&&(amiSession.get("ami_efa"))){document.write("<div id=\"ami-toolbar-block\"><iframe id=\"ami-toolbar\" frameborder=\"0\" src=\"##www_root##ami_strict.php?ami_svc=ami_skin_tools&action=menu&ami_env=fast&ami_resp_mode=HTML&ami_locale=##locale##&ami_browser_cache=1&_cv=##cms_version##\"></iframe></div>");}</script>

@@ -1,0 +1,776 @@
+%%include_language "_local/_admin/templates/lang/modules/_headers.lng"%%
+
+%%__file_comment__%en%%
+-- used for top headers of admin's pages --
+
+%%visitors%en%%
+VISITOR STATISTIC
+%%visitors%ru%%
+СТАТИСТИКА ПОСЕЩЕНИЙ
+
+%%kb%en%%
+KNOWLEDGE BASE
+%%kb%ru%%
+БАЗА ЗНАНИЙ
+
+%%kb_cat%en%%
+KNOWLEDG EBASE : CATEGORIES
+%%kb_cat%ru%%
+БАЗА ЗНАНИЙ : КАТЕГОРИИ
+
+%%prt%en%%
+PORTFOLIO
+%%prt%ru%%
+ПОРТФОЛИО
+
+%%prt_type%en%%
+PORTFOLIO : TYPES
+%%prt_type%ru%%
+ПОРТФОЛИО : ТИПЫ
+
+%%prt_group%en%%
+PORTFOLIO : GROUPS
+%%prt_group%ru%%
+ПОРТФОЛИО : ГРУППЫ
+
+%%private_messages%en%%
+PRIVATE MESSAGES
+%%private_messages%ru%%
+ЛИЧНЫЕ СООБЩЕНИЯ
+
+%%index%en%%
+INDEX
+%%index%ru%%
+ИНДЕКС
+
+%%pages%en%%
+SITE MANAGER
+%%pages%ru%%
+МЕНЕДЖЕР САЙТА
+
+%%pt_news%en%%
+PT-NEWS
+%%pt_news%ru%%
+PT-НОВОСТИ
+
+%%templates%en%%
+PATTERNS
+%%templates%ru%%
+ЗАГОТОВКИ
+
+%%eshop_cat%en%%
+E-COMMERCE : CATEGORIES
+%%eshop_cat%ru%%
+КАТАЛОГ ТОВАРОВ : КАТЕГОРИИ
+
+%%eshop_view%en%%
+E-COMMERCE : VIEWS
+%%eshop_view%ru%%
+КАТАЛОГ ТОВАРОВ : ОТОБРАЖЕНИЯ
+
+%%eshop_item%en%%
+E-COMMERCE : PRODUCTS
+%%eshop_item%ru%%
+КАТАЛОГ ТОВАРОВ : ТОВАРЫ
+
+%%eshop_data_exchange%en%%
+E-COMMERCE : DATA EXCHANGE
+%%eshop_data_exchange%ru%%
+КАТАЛОГ ТОВАРОВ : ОБМЕН ДАННЫМИ
+
+%%eshop_digitals%en%%
+E-COMMERCE : IMPORT FILES
+%%eshop_digitals%ru%%
+КАТАЛОГ ТОВАРОВ : ИМПОРТ ФАЙЛОВ
+
+%%pay_drivers%en%%
+PAYMENT METHODS
+%%pay_drivers%ru%%
+СПОСОБЫ ОПЛАТЫ
+
+%%eshop_discounts%en%%
+E-COMMERCE : DISCOUNTS
+%%eshop_discounts%ru%%
+КАТАЛОГ ТОВАРОВ : СКИДКИ
+
+%%eshop_coupons%en%%
+E-COMMERCE : COUPONS
+%%eshop_coupons%ru%%
+КАТАЛОГ ТОВАРОВ : КУПОНЫ
+
+%%eshop_coupons_cat%en%%
+E-COMMERCE : СOUPON CATEGORIES
+%%eshop_coupons_cat%ru%%
+КАТАЛОГ ТОВАРОВ : КАТЕГОРИИ КУПОНОВ
+
+%%eshop_shipping_methods%en%%
+E-COMMERCE : SHIPPING METHODS
+%%eshop_shipping_methods%ru%%
+КАТАЛОГ ТОВАРОВ : СПОСОБЫ ДОСТАВКИ
+
+%%eshop_shipping_types%en%%
+E-COMMERCE : SHIPPING CATEGORIES
+%%eshop_shipping_types%ru%%
+КАТАЛОГ ТОВАРОВ : НАБОРЫ СПОСОБОВ ДОСТАВКИ
+
+%%eshop_shipping_regions%en%%
+E-COMMERCE : SHIPPING REGIONS
+%%eshop_shipping_regions%ru%%
+КАТАЛОГ ТОВАРОВ : РЕГИОНЫ ДОСТАВКИ
+
+%%eshop_tax_classes%en%%
+E-COMMERCE : TAX CLASSES
+%%eshop_tax_classes%ru%%
+КАТАЛОГ ТОВАРОВ : ТИПЫ НАЛОГОВ
+
+%%eshop_tax_zones%en%%
+E-COMMERCE : TAX ZONES
+%%eshop_tax_zones%ru%%
+КАТАЛОГ ТОВАРОВ : ЗОНЫ НАЛОГООБЛОЖЕНИЯ
+
+%%eshop_user%en%%
+E-COMMERCE : CUSTOMERS
+%%eshop_user%ru%%
+КАТАЛОГ ТОВАРОВ : ПОКУПАТЕЛИ
+
+%%eshop_currency%en%%
+E-COMMERCE : CURRENCY
+%%eshop_currency%ru%%
+КАТАЛОГ ТОВАРОВ : КУРСЫ ВАЛЮТ
+
+%%eshop_reference%en%%
+E-COMMERCE : DATA REFERENCES
+%%eshop_reference%ru%%
+КАТАЛОГ ТОВАРОВ : ДАННЫЕ СПРАВОЧНИКОВ
+
+%%eshop_datasets%en%%
+E-COMMERCE : PROPERTY SETS
+%%eshop_datasets%ru%%
+КАТАЛОГ ТОВАРОВ : НАБОРЫ СВОЙСТВ
+
+%%eshop_reference_types%en%%
+E-COMMERCE : REFERENCES
+%%eshop_reference_types%ru%%
+КАТАЛОГ ТОВАРОВ : СПРАВОЧНИКИ
+
+%%eshop_custom_types%en%%
+E-COMMERCE : PROPERTY DESCRIPTION
+%%eshop_custom_types%ru%%
+КАТАЛОГ ТОВАРОВ : ОПИСАНИЕ СВОЙСТВ ТОВАРОВ
+
+%%eshop_order_reports%en%%
+E-COMMERCE : ORDER REPORTS
+%%eshop_order_reports%ru%%
+КАТАЛОГ ТОВАРОВ : ОТЧЕТЫ О ЗАКАЗАХ
+
+%%eshop_order_reports_wizard%en%%
+E-COMMERCE : ORDER REPORTS WIZARD
+%%eshop_order_reports_wizard%ru%%
+КАТАЛОГ ТОВАРОВ : МАСТЕР ОТЧЕТОВ О ЗАКАЗАХ
+
+%%wz_designs%en%%
+HOSTING : DESIGNS
+%%wz_designs%ru%%
+ХОСТИНГ : ДИЗАЙНЫ
+
+%%wz_design_cat%en%%
+HOSTING : DESIGNS CATEGORIES
+%%wz_design_cat%ru%%
+ХОСТИНГ : КАТЕГОРИИ ДИЗАЙНОВ
+
+%%wz_design_layouts%en%%
+HOSTING : DESIGNS LAYOUTS
+%%wz_design_layouts%ru%%
+ХОСТИНГ : МАКЕТЫ ДИЗАЙНОВ
+
+%%wz_sitemaps%en%%
+HOSTING : PACKAGES
+%%wz_sitemaps%ru%%
+ХОСТИНГ : ПАКЕТЫ
+
+%%start%en%%
+START PAGE
+%%start%ru%%
+ГЛАВНАЯ
+
+%%iplist%en%%
+IP LIST
+%%iplist%ru%%
+СПИСОК IP
+
+%%layouts%en%%
+LAYOUTS
+%%layouts%ru%%
+МАКЕТЫ СТРАНИЦ
+
+%%modules_templates%en%%
+MODULES TEMPLATES
+%%modules_templates%ru%%
+ШАБЛОНЫ МОДУЛЕЙ
+
+%%modules_templates_langs%en%%
+MODULES LOCALIZATIONS
+%%modules_templates_langs%ru%%
+ЛОКАЛИЗАЦИИ МОДУЛЕЙ
+
+%%srv_sysinfo%en%%
+SYSTEM INFORMATION
+%%srv_sysinfo%ru%%
+ИНФОРМАЦИЯ О СИСТЕМЕ
+
+%%wz_host_users%en%%
+BUILDER : SITES
+%%wz_host_users%ru%%
+КОНСТРУКТОР : ПОЛЬЗОВАТЕЛИ
+
+%%srv_host_trafic%en%%
+TRAFFIC
+%%srv_host_trafic%ru%%
+ТРАФИК
+
+%%srv_order%en%%
+ORDER
+%%srv_order%ru%%
+ЗАКАЗ
+
+%%srv_host_payments%en%%
+BALANCE
+%%srv_host_payments%ru%%
+БАЛАНС
+
+%%srv_host_payments_history%en%%
+PAYMENTS : HISTORY
+%%srv_host_payments_history%ru%%
+ПЛАТЕЖИ : ИСТОРИЯ
+
+%%srv_host_payments_add%en%%
+PAYMENTS : ADD FUNDS
+%%srv_host_payments_add%ru%%
+ПЛАТЕЖИ : ПОПОЛНЕНИЕ БАЛАНСА
+
+%%srv_host_payments_props%en%%
+PAYMENTS : PROPERTIES
+%%srv_host_payments_props%ru%%
+ПЛАТЕЖИ : РЕКВИЗИТЫ
+
+%%srv_host_payments_docs%en%%
+PAYMENTS : DOCUMENTS
+%%srv_host_payments_docs%ru%%
+ПЛАТЕЖИ : ДОКУМЕНТЫ
+
+%%aff_stats%en%%
+STATISTICS
+%%aff_stats%ru%%
+СТАТИСТИКА
+
+%%aff_sales%en%%
+SALES
+%%aff_sales%ru%%
+ПРОДАЖИ
+
+%%aff_users%en%%
+AFFILIATES
+%%aff_users%ru%%
+ПАРТНЕРЫ
+
+%%aff_pay_out%en%%
+PAY OUT
+%%aff_pay_out%ru%%
+ВЫВОД ДЕНЕГ
+
+%%aff_pay_out_history%en%%
+PAY OUT HISTORY
+%%aff_pay_out_history%ru%%
+ИСТОРИЯ ВЫВОДА ДЕНЕГ
+
+%%aff_campaigns%en%%
+CAMPAIGN
+%%aff_campaigns%ru%%
+КАМПАНИЯ
+
+%%srv_multi_sites%en%%
+SITES
+%%srv_multi_sites%ru%%
+САЙТЫ
+
+%%choose_lang%en%%
+INTERFACE SETTINGS
+%%choose_lang%ru%%
+НАСТРОЙКА ИНТЕРФЕЙСА
+
+%%smpl_sample%en%%
+SAMPLE MODULE
+%%smpl_sample%ru%%
+МОДУЛЬ ПРИМЕР
+
+%%sys_groups%en%%
+ACCESS RIGHTS : GROUPS
+%%sys_groups%ru%%
+ПРАВА ДОСТУПА : ГРУППЫ
+
+%%sys_groups_popup%en%%
+ACCESS RIGHTS : GROUPS
+%%sys_groups_popup%ru%%
+ПРАВА ДОСТУПА : ГРУППЫ
+
+%%sys_users%en%%
+ACCESS RIGHTS : USERS
+%%sys_users%ru%%
+ПРАВА ДОСТУПА : ПОЛЬЗОВАТЕЛИ
+
+%%sys_departments%en%%
+ACCESS RIGHTS : DEPARTMENTS
+%%sys_departments%ru%%
+ПРАВА ДОСТУПА : ОТДЕЛЫ
+
+%%srv_options%en%%
+SYSTEM OPTIONS
+%%srv_options%ru%%
+НАСТРОЙКА СИСТЕМЫ
+
+%%srv_licence%en%%
+LICENSE ACTIVATING
+%%srv_licence%ru%%
+АКТИВАЦИЯ ЛИЦЕНЗИИ
+
+%%srv_host_mailmanage%en%%
+MAILBOX MANAGEMENT
+%%srv_host_mailmanage%ru%%
+ПОЧТОВЫЕ ЯЩИКИ
+
+%%srv_host_domains%en%%
+DOMAINS
+%%srv_host_domains%ru%%
+ДОМЕНЫ
+
+%%srv_host_support%en%%
+SUPPORT CENTER
+%%srv_host_support%ru%%
+ЦЕНТР ПОДДЕРЖКИ
+
+%%gallery_cat%en%%
+GALLERY : CATEGORIES
+%%gallery_cat%ru%%
+ГАЛЕРЕЯ : КАТЕГОРИИ
+
+%%gallery_view%en%%
+GALLERY : VIEWS
+%%gallery_view%ru%%
+ГАЛЕРЕЯ : ОТОБРАЖЕНИЯ
+
+%%gallery_item%en%%
+GALLERY : ITEMS
+%%gallery_item%ru%%
+ГАЛЕРЕЯ : ИЗОБРАЖЕНИЯ
+
+%%gallery_data_exchange%en%%
+GALLERY : DATA EXCHANGE
+%%gallery_data_exchange%ru%%
+ГАЛЕРЕЯ : ОБМЕН ДАННЫМИ
+
+%%gallery_digitals%en%%
+GALLERY : IMPORT FILES
+%%gallery_digitals%ru%%
+ГАЛЕРЕЯ : ИМПОРТ ФАЙЛОВ
+
+%%gallery_order%en%%
+GALLERY : ORDERS
+%%gallery_order%ru%%
+ГАЛЕРЕЯ : ЗАКАЗЫ
+
+%%gallery_user%en%%
+GALLERY : USERS
+%%gallery_user%ru%%
+ГАЛЕРЕЯ : ПОЛЬЗОВАТЕЛИ
+
+%%gallery_currency%en%%
+GALLERY : CURRENCY
+%%gallery_currency%ru%%
+ГАЛЕРЕЯ : КУРСЫ ВАЛЮТ
+
+%%gallery_reference%en%%
+GALLERY : REFERENCE DATA
+%%gallery_reference%ru%%
+ГАЛЕРЕЯ : ДАННЫЕ СПРАВОЧНИКОВ
+
+%%gallery_datasets%en%%
+GALLERY : ITEMS PROPERTIES LIST
+%%gallery_datasets%ru%%
+ГАЛЕРЕЯ : НАБОРЫ СВОЙСТВ
+
+%%gallery_reference_types%en%%
+GALLERY : REFERENCES
+%%gallery_reference_types%ru%%
+ГАЛЕРЕЯ : СПРАВОЧНИКИ
+
+%%srv_backups%en%%
+BACKUPS
+%%srv_backups%ru%%
+РЕЗЕРВНОЕ КОПИРОВАНИЕ
+
+%%srv_updates%en%%
+SOFTWARE UPDATES
+%%srv_updates%ru%%
+ОБНОВЛЕНИЯ СИСТЕМЫ
+
+%%ami_service%en%%
+MAINTENANCE
+%%ami_service%ru%%
+ОБСЛУЖИВАНИЕ
+
+%%active_sessions%en%%
+SESSIONS
+%%active_sessions%ru%%
+СЕССИИ
+
+%%options_data%en%%
+OPTIONS LOG
+%%options_data%ru%%
+ЖУРНАЛ НАСТРОЕК
+
+%%adv_places%en%%
+ADVERTISEMENT MANAGER : ADVERTISEMENT PLACES
+%%adv_places%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : РЕКЛАМНЫЕ МЕСТА
+
+%%adv_groups%en%%
+ADVERTISEMENT MANAGER : PLACES GROUPS
+%%adv_groups%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : ГРУППЫ МЕСТ
+
+%%adv_campaign_types%en%%
+ADVERTISEMENT MANAGER : CAMPAIGN TYPES
+%%adv_campaign_types%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : ТИПЫ КАМПАНИЙ
+
+%%adv_campaign_types_groups%en%%
+ADVERTISEMENT MANAGER : CAMPAIGN TYPES GROUPS
+%%adv_campaign_types_groups%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : ГРУППЫ ТИПОВ КАМПАНИЙ
+
+%%adv_campaigns%en%%
+ADVERTISEMENT MANAGER : CAMPAIGNS
+%%adv_campaigns%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : КАМПАНИИ
+
+%%adv_banners%en%%
+ADVERTISEMENT MANAGER : BANNERS
+%%adv_banners%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : БАННЕРЫ
+
+%%adv_stats%en%%
+ADVERTISEMENT MANAGER : STATISTICS-BANNERS
+%%adv_stats%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : СТАТИСТИКА-БАННЕРЫ
+
+%%adv_modules_stats%en%%
+ADVERTISEMENT MANAGER : STATISTICS-MODULES
+%%adv_modules_stats%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : СТАТИСТИКА-МОДУЛИ
+
+%%adv_links_stats%en%%
+ADVERTISEMENT MANAGER : STATISTICS-LINKS
+%%adv_links_stats%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : СТАТИСТИКА-ССЫЛКИ
+
+%%adv_advertisers%en%%
+ADVERTISEMENT MANAGER : ADVERTISERS
+%%adv_advertisers%ru%%
+УПРАВЛЕНИЕ РЕКЛАМОЙ : РЕКЛАМОДАТЕЛИ
+
+%%wz_host_admin%en%%
+BUILDER : ADMINISTRATION
+%%wz_host_admin%ru%%
+КОНСТРУКТОР : АДМИНИСТРИРОВАНИЕ
+
+%%portfolio_item%en%%
+PORTFOLIO : PROJECTS
+%%portfolio_item%ru%%
+ПОРТФОЛИО : ПРОЕКТЫ
+
+%%portfolio_cat%en%%
+PORTFOLIO : CATEGORIES
+%%portfolio_cat%ru%%
+ПОРТФОЛИО : КАТЕГОРИИ
+
+%%portfolio_view%en%%
+PORTFOLIO : VIEWS
+%%portfolio_view%ru%%
+ПОРТФОЛИО : ОТОБРАЖЕНИЯ
+
+%%portfolio_item%en%%
+PORTFOLIO : ITEMS
+%%portfolio_item%ru%%
+ПОРТФОЛИО : ПРОЕКТЫ
+
+%%portfolio_data_exchange%en%%
+PORTFOLIO : DATA EXCHANGE
+%%portfolio_data_exchange%ru%%
+ПОРТФОЛИО : ОБМЕН ДАННЫМИ
+
+%%portfolio_digitals%en%%
+PORTFOLIO : IMPORT FILES
+%%portfolio_digitals%ru%%
+ПОРТФОЛИО : ИМПОРТ ФАЙЛОВ
+
+%%portfolio_order%en%%
+PORTFOLIO : ORDERS
+%%portfolio_order%ru%%
+ПОРТФОЛИО : ЗАКАЗЫ
+
+%%portfolio_user%en%%
+PORTFOLIO : USERS
+%%portfolio_user%ru%%
+ПОРТФОЛИО : ПОЛЬЗОВАТЕЛИ
+
+%%portfolio_currency%en%%
+PORTFOLIO : CURRENCY
+%%portfolio_currency%ru%%
+ПОРТФОЛИО : КУРСЫ ВАЛЮТ
+
+%%portfolio_reference%en%%
+PORTFOLIO : REFERENCE DATA
+%%portfolio_reference%ru%%
+ПОРТФОЛИО : ДАННЫЕ СПРАВОЧНИКОВ
+
+%%portfolio_datasets%en%%
+PORTFOLIO : ITEMS PROPERTIES LIST
+%%portfolio_datasets%ru%%
+ПОРТФОЛИО : НАБОРЫ СВОЙСТВ ПРОЕКТОВ
+
+%%portfolio_reference_types%en%%
+PORTFOLIO : REFERENCES
+%%portfolio_reference_types%ru%%
+ПОРТФОЛИО : СПРАВОЧНИКИ
+
+%%portfolio_custom_types%en%%
+PORTFOLIO : ITEMS PROPERTIES DESCRIPTION
+%%portfolio_custom_types%ru%%
+ПОРТФОЛИО : ОПИСАНИЕ СВОЙСТВ ПРОЕКТОВ
+
+%%kb_item%en%%
+KNOWLEDGE BASE : ELEMENTS
+%%kb_item%ru%%
+БАЗА ЗНАНИЙ : ЭЛЕМЕНТЫ
+
+%%kb_cat%en%%
+KNOWLEDGE BASE : CATEGORIES
+%%kb_cat%ru%%
+БАЗА ЗНАНИЙ : КАТЕГОРИИ
+
+%%kb_view%en%%
+KNOWLEDGE BASE : VIEWS
+%%kb_view%ru%%
+БАЗА ЗНАНИЙ : ОТОБРАЖЕНИЯ
+
+%%kb_item%en%%
+KNOWLEDGE BASE : ITEMS
+%%kb_item%ru%%
+БАЗА ЗНАНИЙ : ЭЛЕМЕНТЫ
+
+%%kb_data_exchange%en%%
+KNOWLEDGE BASE : DATA EXCHANGE
+%%kb_data_exchange%ru%%
+БАЗА ЗНАНИЙ : ОБМЕН ДАННЫМИ
+
+%%kb_digitals%en%%
+KNOWLEDGE BASE : IMPORT FILES
+%%kb_digitals%ru%%
+БАЗА ЗНАНИЙ : ИМПОРТ ФАЙЛОВ
+
+%%kb_order%en%%
+KNOWLEDGE BASE : ORDERS
+%%kb_order%ru%%
+БАЗА ЗНАНИЙ : ЗАКАЗЫ
+
+%%kb_user%en%%
+KNOWLEDGE BASE : USERS
+%%kb_user%ru%%
+БАЗА ЗНАНИЙ : ПОЛЬЗОВАТЕЛИ
+
+%%kb_currency%en%%
+KNOWLEDGE BASE : CURRENCY
+%%kb_currency%ru%%
+БАЗА ЗНАНИЙ : КУРСЫ ВАЛЮТ
+
+%%kb_reference%en%%
+KNOWLEDGE BASE : REFERENCE DATA
+%%kb_reference%ru%%
+БАЗА ЗНАНИЙ : ДАННЫЕ СПРАВОЧНИКОВ
+
+%%kb_datasets%en%%
+KNOWLEDGE BASE : ITEMS PROPERTIES LIST
+%%kb_datasets%ru%%
+БАЗА ЗНАНИЙ : НАБОРЫ СВОЙСТВ ЭЛЕМЕНТОВ
+
+%%kb_reference_types%en%%
+KNOWLEDGE BASE : REFERENCES
+%%kb_reference_types%ru%%
+БАЗА ЗНАНИЙ : СПРАВОЧНИКИ
+
+%%kb_custom_types%en%%
+KNOWLEDGE BASE : ITEMS PROPERTIES DESCRIPTION
+%%kb_custom_types%ru%%
+БАЗА ЗНАНИЙ : ОПИСАНИЕ СВОЙСТВ ЭЛЕМЕНТОВ
+
+%%srv_audit%en%%
+CHANGES HISTORY
+%%srv_audit%ru%%
+ИСТОРИЯ ИЗМЕНЕНИЙ
+
+%%srv_twist_prevention%en%%
+SPAM PREVENTION
+%%srv_twist_prevention%ru%%
+ЗАЩИТА ОТ СПАМА
+
+%%plugins_wizard%en%%
+PLUGINS WIZARD
+%%plugins_wizard%ru%%
+МАСТЕР ПЛАГИНОВ
+
+%%srv_tags%en%%
+TAGS
+%%srv_tags%ru%%
+ТЕГИ
+
+%%google_sitemap%en%%
+SITEMAPS
+%%google_sitemap%ru%%
+SITEMAPS
+
+%%sitemap_history%en%%
+HISTORY
+%%sitemap_history%ru%%
+ИСТОРИЯ СОБЫТИЙ
+
+%%stickers_cat%en%%
+STICKERS: SUBJECTS
+%%stickers_cat%ru%%
+СТИКЕРЫ: ТЕМЫ
+
+%%stickers%en%%
+STICKERS
+%%stickers%ru%%
+СТИКЕРЫ
+
+%%hst_res%en%%
+RESOURCES
+%%hst_res%ru%%
+РЕСУРСЫ
+
+%%hst_pkg%en%%
+PACKAGES
+%%hst_pkg%ru%%
+ПАКЕТЫ
+
+%%hst_tariff%en%%
+TARIFFS
+%%hst_tariff%ru%%
+ТАРИФЫ
+
+%%hst_clients%en%%
+CLIENTS
+%%hst_clients%ru%%
+КЛИЕНТЫ
+
+%%hst_common_info%en%%
+COMMON INFORMATION
+%%hst_common_info%ru%%
+СВОДНАЯ ИНФОРМАЦИЯ
+
+%%hst_resellers%en%%
+RESELLERS
+%%hst_resellers%ru%%
+ПАРТНЁРЫ
+
+%%hst_subscriptions%en%%
+SUBSCRIPTIONS
+%%hst_subscriptions%ru%%
+ДОГОВОРЫ
+
+%%hst_res_db_inst%en%%
+DATABASES
+%%hst_res_db_inst%ru%%
+БАЗЫ ДАННЫХ
+
+%%hst_res_ftp_inst%en%%
+FTP
+%%hst_res_ftp_inst%ru%%
+FTP
+
+%%hst_res_vhost_inst%en%%
+VIRTUAL HOSTS
+%%hst_res_vhost_inst%ru%%
+ДОМЕНЫ
+
+%%hst_res_dns_inst%en%%
+DNS
+%%hst_res_dns_inst%ru%%
+DNS
+
+%%hst_res_email_inst%en%%
+MAIL
+%%hst_res_email_inst%ru%%
+ПОЧТА
+
+%%hst_res_cms_inst%en%%
+CMS
+%%hst_res_cms_inst%ru%%
+CMS
+
+%%locales%en%%
+LOCALES
+%%locales%ru%%
+ЛОКАЛИЗАЦИИ
+
+%%eshop_reference_popup%en%%
+Items References
+%%eshop_reference_popup%ru%%
+Выбор из справочника
+
+%%portfolio_reference_popup%en%%
+Items References
+%%portfolio_reference_popup%ru%%
+Выбор из справочника
+
+%%kb_reference_popup%en%%
+Items References
+%%kb_reference_popup%ru%%
+Выбор из справочника
+
+%%ce_specblocks%en%%
+%%ce_specblocks%ru%%
+
+%%sys_users_popup%en%%
+%%sys_users_popup%ru%%
+
+%%sys_modules_popup%en%%
+%%sys_modules_popup%ru%%
+
+%%ce_img_proc%en%%
+%%ce_img_proc%ru%%
+
+%%members_popup%en%%
+%%members_popup%ru%%
+
+%%eshop_item_props%en%%
+%%eshop_item_props%ru%%
+
+%%eshop_files%en%%
+%%eshop_files%ru%%
+
+%%eshop_user_items_popup%en%%
+%%eshop_user_items_popup%ru%%
+
+%%srv_audit_popup%en%%
+%%srv_audit_popup%ru%%
+
+%%mod_manager%en%%
+MODULE MANAGER
+%%mod_manager%ru%%
+МЕНЕДЖЕР МОДУЛЕЙ
+
+%%srv_chooselang%en%%
+CHOOSE LANGUAGE
+%%srv_chooselang%ru%%
+ВЫБОР ЯЗЫКА ИНТЕРФЕЙСА

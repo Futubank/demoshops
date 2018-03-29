@@ -1,0 +1,37 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_datasets_def_msgs.lng"%%
+
+%%status_apply%en%%
+Attribute list was changed.
+%%status_apply%ru%%
+Набор свойств проекта изменен.
+
+%%status_del%en%%
+Attribute list was deleted.
+%%status_del%ru%%
+Набор свойств проекта удален.
+
+%%status_del_fail%en%%
+Attribute list was not deleted.
+%%status_del_fail%ru%%
+Набор свойств проекта не был удален.
+
+%%status_add%en%%
+Attribute list was added.
+%%status_add%ru%%
+Набор свойств проекта добавлен.
+
+%%status_add_fail%en%%
+Attribute list was not added.
+%%status_add_fail%ru%%
+Набор свойств проекта не добавлен.
+
+%%status_copy%en%%
+Attribute list was copied.
+%%status_copy%ru%%
+Набор свойств проекта скопирован.
+
+%%status_copy_fail%en%%
+Attribute list was not copied.
+%%status_copy_fail%ru%%
+Набор свойств проекта не скопирован.

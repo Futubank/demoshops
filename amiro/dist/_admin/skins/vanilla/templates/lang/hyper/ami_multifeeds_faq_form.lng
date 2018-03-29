@@ -1,0 +1,23 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+%%include_language "templates/lang/hyper/ami_multifeeds_faq_common.lng"%%
+
+%%form_field_email%en%%
+E-Mail
+%%form_field_email%ru%%
+Почта
+
+%%form_field_send%en%%
+Send answer to author
+%%form_field_send%ru%%
+Отправить ответ автору
+
+%%form_tab_announce_tab%en%%
+Question
+%%form_tab_announce_tab%ru%%
+Вопрос
+
+%%form_tab_body_tab%en%%
+Answer
+%%form_tab_body_tab%ru%%
+Ответ

@@ -1,0 +1,74 @@
+%%warn_missing_name%en%%
+Enter the Name please
+%%warn_missing_name%ru%%
+Пожалуйста, введите название
+
+%%warn_missing_date_start%en%%
+Enter Start time please
+%%warn_missing_date_start%ru%%
+Пожалуйста, введите дату начала
+
+%%warn_missing_date_end%en%%
+Enter Close time please
+%%warn_missing_date_end%ru%%
+Пожалуйста, введите дату окончания
+
+%%warn_missing_amount%en%%
+Enter Discount amount please
+%%warn_missing_amount%ru%%
+Пожалуйста, введите величину скидки
+
+%%warn_invalid_amount%en%%
+Invalid Discount amount (could be positive number)
+%%warn_invalid_amount%ru%%
+Неправильная величина скидки (должно быть положительное число)
+
+%%warn_missing_max_amount%en%%
+Enter Maximum absolute amount
+%%warn_missing_max_amount%ru%%
+Пожалуйста, введите максимальную абсолютную скидку
+
+%%warn_missing_period%en%%
+Enter period
+%%warn_missing_period%ru%%
+Пожалуйста, введите период
+
+%%warn_invalid_max_amount%en%%
+Invalid maximum absolute discount (could be positive number)
+%%warn_invalid_max_amount%ru%%
+Неправильная величина максимальной абсолютной скидки (должно быть положительное число)
+
+%%warn_invalid_period%en%%
+Invalid period of accumulative discount (could be positive number)
+%%warn_invalid_period%ru%%
+Неправильная величина периода накопительной скидки (должно быть положительное число)
+
+%%status_add%en%%
+Discount was added
+%%status_add%ru%%
+Скидка добавлена
+
+%%status_add_fail%en%%
+Fail to add Discount
+%%status_add_fail%ru%%
+Скидка не добавлена
+
+%%status_apply%en%%
+Discount's data has been changed
+%%status_apply%ru%%
+Данные о скидке были изменены
+
+%%status_copy%en%%
+Discount's data has been copied
+%%status_copy%ru%%
+Данные о скидке были скопированы
+
+%%warn_global_discount_overlap%en%%
+Time range overlap with global discount &quot;_name_&quot;
+%%warn_global_discount_overlap%ru%%
+Пересечение по временному периоду с глобальной скидкой &quot;_name_&quot;
+
+%%warn_global_discount_cannot_be_copied%en%%
+Global discount cannot be copied
+%%warn_global_discount_cannot_be_copied%ru%%
+Глобальная скидка не может быть скопирована

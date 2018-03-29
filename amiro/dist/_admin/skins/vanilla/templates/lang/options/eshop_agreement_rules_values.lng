@@ -1,0 +1,14 @@
+%%step_when_shown_BEFORE ORDER%en%%
+Before order registration
+%%step_when_shown_BEFORE ORDER%ru%%
+Перед оформлением заказа
+
+%%step_when_shown_BEFORE CONFIRM%en%%
+Before order confirmation
+%%step_when_shown_BEFORE CONFIRM%ru%%
+Перед подтверждением заказа
+
+%%step_when_shown_BEFORE SECURE%en%%
+After order confirmation
+%%step_when_shown_BEFORE SECURE%ru%%
+После подтверждения заказа

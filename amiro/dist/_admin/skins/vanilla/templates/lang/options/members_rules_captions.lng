@@ -1,0 +1,144 @@
+%%max_quantity%en%%
+Maximum quantity of products for order
+%%max_quantity%ru%%
+Максимальное количество товара в заказе
+
+%%form_template%en%%
+Form template file
+%%form_template%ru%%
+Файл шаблона формы
+
+%%username_minlen%en%%
+Minimal length of a login name
+%%username_minlen%ru%%
+Минимальная длина имени пользователя
+
+%%password_minlen%en%%
+Minimal length of the password
+%%password_minlen%ru%%
+Минимальная длина пароля пользователя
+
+%%confirm_from_email%en%%
+E-mail that will be shown in the confirm mail
+%%confirm_from_email%ru%%
+E-mail, который будет показан в письме подтверждения
+
+%%forgot_custom%en%%
+Custom field for forgot password
+%%forgot_custom%ru%%
+Имя доп. поля для функции 'забыл пароль'
+
+%%generate_pass_len%en%%
+Length of password to be generated when password reset
+%%generate_pass_len%ru%%
+Длина пароля, который будет сгенерирован функцией сброса пароля
+
+%%show_share_warn%en%%
+Show the warning of change of the information about the user
+%%show_share_warn%ru%%
+Выводить предупреждение об изменении информации о пользователе
+
+%%confirmation_type%en%%
+Type confirmation at registration of the new user
+%%confirmation_type%ru%%
+Тип подтверждения при регистрации нового пользователя
+
+%%notify_admin_on_registration%en%%
+To send the notice to the administrator at registration of the new user
+%%notify_admin_on_registration%ru%%
+Отправлять уведомление администратору при регистрации нового пользователя
+
+%%notify_on_status_changing%en%%
+To send notice at change of the status on
+%%notify_on_status_changing%ru%%
+Отправлять уведомление при смене статуса на
+
+%%used_fields%en%%
+Used fields
+%%used_fields%ru%%
+Используемые поля
+
+%%view_fields%en%%
+Public fields
+%%view_fields%ru%%
+Публичные поля
+
+%%login_field%en%%
+Use as login
+%%login_field%ru%%
+Использовать в качестве логина
+
+%%required_fields%en%%
+Fields requiring obligatory filling
+%%required_fields%ru%%
+Поля, требующие обязательного заполнения
+
+%%admin_required_fields%en%%
+Fields requiring obligatory filling in the administrative panel
+%%admin_required_fields%ru%%
+Поля, требующие обязательного заполнения в панели администратора
+
+%%username_symbols%en%%
+Allowable symbols in a login name (regexp)<br><i>You should know regular expressions syntax to edit this field.</i>
+%%username_symbols%ru%%
+Допустимые символы в имени пользователя (regexp)<br><i>Для правки необходимо знание правил регулярных выражений.</i>
+
+%%admin_email%en%%
+Administrator's e-mail
+%%admin_email%ru%%
+E-mail администратора
+
+%%external_integration_modules_list%en%%
+External applications integration modules
+%%external_integration_modules_list%ru%%
+Модули интеграции с внешними приложениями
+
+%%show_user_menu_links%en%%
+Show the modules links
+%%show_user_menu_links%ru%%
+Показывать ссылки модулей
+
+%%autoredirect_forms%en%%
+Enable auto-redirect to the previous page after submitting the following forms
+%%autoredirect_forms%ru%%
+Включить автоматический переход на предыдущую страницу после отправки форм
+
+%%autoredirect_to_modules%en%%
+Enable auto-redirect to the previous page after form submitting for modules
+%%autoredirect_to_modules%ru%%
+Включить автоматический переход на предыдущую страницу после отправки форм для модулей
+
+%%spl_notification%en%%
+Notifications
+%%spl_notification%ru%%
+Уведомления
+
+%%user_source_app%en%%
+Allow users to login via external services (twitter, facebook, vkontakte)
+%%user_source_app%ru%%
+Разрешить авторизацию пользователей через сторонние сервисы (twitter, facebook, vkontakte)
+
+%%edit_front_allowed_modules%en%%
+Front side editable (edit-in-place) modules<br />
+<i>System user has access to all modules</i>
+<br />Works if option "System : Core : Allow editing at front side (edit-in-place)"
+%%edit_front_allowed_modules%ru%%
+Модули доступные для edit-in-place<br />
+<i>Системному пользователю доступны все модули</i>
+<br />Работает при включенной настройке "Система : Ядро : Разрешить редактирование на публичной части сайта (edit-in-place)"
+
+%%edit_front_allowed_modules_off%en%%
+Front side editable (edit-in-place) modules<br />
+<i>System user has access to all modules</i>
+<br /><span style="color: red">Editing disabled in option "System : Core : Allow editing at front side (edit-in-place)"</span>
+%%edit_front_allowed_modules_off%ru%%
+Модули доступные для edit-in-place<br />
+<i>Системному пользователю доступны все модули</i>
+<br /><span style="color: red">Редактирование запрещено в настройке "Система : Ядро : Разрешить редактирование на публичной части сайта (edit-in-place)"</span>
+
+%%edit_front_allowed_modules_on_disabled%en%%
+Front side editable modules
+<br />Manage <a href="sys_groups.php" target="_top" style="color: blue; font-weight: bold;">&quot;Services :: Access rights&quot; &raquo;</a> for this edition
+%%edit_front_allowed_modules_on_disabled%ru%%
+Редактируемые на общедоступной части сайта модули
+<br />В данной редакции управление осуществяется из модуля <a href="sys_groups.php" target="_top" style="color: blue; font-weight: bold;">&quot;Сервис :: Права доступа&quot; &raquo;</a>

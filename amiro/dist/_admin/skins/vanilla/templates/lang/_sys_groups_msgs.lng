@@ -1,0 +1,27 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%bitmask_fail%en%%
+Item was not created. There are no bits left for group mask.
+%%bitmask_fail%ru%%
+Группа не добавлена. Не осталось битов для маски группы.
+
+%%status_add_to_list%en%%
+Group was assigned to the user
+%%status_add_to_list%ru%%
+Группа назначена пользователю
+
+%%status_remove_from_list%en%%
+Group was removed from the user
+%%status_remove_from_list%ru%%
+Пользователь исключён из группы
+
+%%update_rights_fail%en%%
+You cannot change your own group rights
+%%update_rights_fail%ru%%
+Вы не можете изменять права группы, в которой находитесь
+
+%%group_exists%en%%
+Group with such name already exists
+%%group_exists%ru%%
+Группа с таким названием уже существует
+

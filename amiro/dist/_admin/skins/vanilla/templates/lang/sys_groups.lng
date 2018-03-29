@@ -1,0 +1,220 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_sys_groups_msgs.lng"%%
+
+%%is_default%en%%
+Default
+%%is_default%ru%%
+По умолчанию
+
+%%guest%en%%
+Guest
+%%guest%ru%%
+Гостевая
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%users%en%%
+Users
+%%users%ru%%
+Пользователи
+
+%%moderator%en%%
+Moderator
+%%moderator%ru%%
+Модератор
+
+%%edit_front_allowed%en%%
+Front editable
+%%edit_front_allowed%ru%%
+Доступность редактирования на общедоступной части сайта
+
+%%login%en%%
+Admin
+%%login%ru%%
+Администратор
+
+%%guest_full%en%%
+Guest (authorized users who are not members of any group)
+%%guest_full%ru%%
+Гостевая (авторизованные пользователи, не принадлежащие ни одной из групп)
+
+%%moderator_full%en%%
+Moderator
+%%moderator_full%ru%%
+Модератор (доступ ко всем элементам модуля)
+
+%%login_full%en%%
+Admin (acess to admin panel)
+%%login_full%ru%%
+Администратор (доступ в панель управления сайтом)
+
+%%force_allow%en%%
+Allow
+%%force_allow%ru%%
+Разрешить
+
+%%force_deny%en%%
+Deny
+%%force_deny%ru%%
+Запретить
+
+%%empty%en%%
+There are no groups
+%%empty%ru%%
+Нет групп
+
+%%icon_spec_default_on%en%%
+Default group for users
+%%icon_spec_default_on%ru%%
+Группа по умолчанию для пользователей
+
+%%icon_spec_guest_on%en%%
+Guest group
+%%icon_spec_guest_on%ru%%
+Гостевая группа
+
+%%icon_spec_login_on%en%%
+Access to admin panel
+%%icon_spec_login_on%ru%%
+Доступ в панель управления сайтом
+
+%%sys_groups_add%en%%
+Add new group
+%%sys_groups_add%ru%%
+Добавить новую группу
+
+%%sys_groups_popup_apply%en%%
+Edit group
+%%sys_groups_popup_apply%ru%%
+Редактирование группы
+
+%%sys_groups_popup_add%en%%
+Add new group
+%%sys_groups_popup_add%ru%%
+Добавить новую группу
+
+%%sys_groups_apply%en%%
+Edit group
+%%sys_groups_apply%ru%%
+Редактирование группы
+
+%%mask_leg_start%en%%
+Mask ARWD
+%%mask_leg_start%ru%%
+Маска ARWD
+
+%%mask_leg_-%en%%
+Forbidden
+%%mask_leg_-%ru%%
+Запрещено
+
+%%mask_A%en%%
+Admin
+%%mask_A%ru%%
+Админ
+
+%%mask_R%en%%
+Read
+%%mask_R%ru%%
+Чтение
+
+%%mask_W%en%%
+Write
+%%mask_W%ru%%
+Запись
+
+%%mask_D%en%%
+Delete
+%%mask_D%ru%%
+Удаление
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%users_add_list%en%%
+Assign users to the group
+%%users_add_list%ru%%
+Назначить группе пользователей
+
+%%number_users%en%%
+Number of users in the group
+%%number_users%ru%%
+Количество пользователей в группе
+
+%%modules%en%%
+Modules
+%%modules%ru%%
+Модули
+
+%%modules_header%en%%
+Modules
+%%modules_header%ru%%
+Модулей
+
+%%number_modules%en%%
+Number of modules in the group
+%%number_modules%ru%%
+Количество модулей в группе
+
+%%modules_add_list%en%%
+Assign modules to the group
+%%modules_add_list%ru%%
+Назначить группе модули
+
+%%selected_groups_list%en%%
+Assigned groups list
+%%selected_groups_list%ru%%
+Список назначенных групп
+
+%%groups_list%en%%
+Groups list
+%%groups_list%ru%%
+Список групп
+
+%%icon_move%en%%
+Assign to user
+%%icon_move%ru%%
+Назначить пользователю
+
+%%icon_remove%en%%
+Remove from user
+%%icon_remove%ru%%
+Убрать от пользователя
+
+%%add_to_list%en%%
+Add to assigned list
+%%add_to_list%ru%%
+Добавить в список назначенных
+
+%%selected_groups_empty%en%%
+There are no assigned groups
+%%selected_groups_empty%ru%%
+Нет назначенных групп
+
+%%remove_confirm%en%%
+Remove from assigned list
+%%remove_confirm%ru%%
+Удалить из списка назначенных
+
+%%title%en%%
+Security groups
+%%title%ru%%
+Группы пользователей
+
+%%moderator_help%en%%
+It is recommended to allow access to "Services: Audit" for a group that will have "Moderator" permission. In this case moderator can both publish and modify items and add audit comments.
+%%moderator_help%ru%%
+Группе "Модератор" рекомендуется разрешать доступ к модулю "Сервис : Аудит". В этом случае, модератор может не только опубликовать и изменять элементы, но и добавлять комментарии к ним.
+
+%%warn_admin_guest%en%%
+Guests have no admin panel access!
+%%warn_admin_guest%ru%%
+Доступ в панель администратора гостям запрещен!

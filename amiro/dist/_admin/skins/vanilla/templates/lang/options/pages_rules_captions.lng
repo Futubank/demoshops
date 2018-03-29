@@ -1,0 +1,66 @@
+%%separate_submenues%en%%
+To output a html-code of the pop-up menu at the end of page
+%%separate_submenues%ru%%
+Выводить html-код всплывающего меню в конце страницы
+
+%%allowed_menu_level%en%%
+Number of levels in main menu
+%%allowed_menu_level%ru%%
+Количество уровней в главном меню
+
+%%broken_links_to_home%en%%
+Go to the home page, if the requested page is not found
+%%broken_links_to_home%ru%%
+Переходить на главную страницу, если запрошеная страница не найдена
+
+%%site_title%en%%
+Title of site by default
+%%site_title%ru%%
+Заголовок сайта по умолчанию
+
+%%default_title_inherit%en%%
+Value of a flag 'inherit title' by default
+%%default_title_inherit%ru%%
+Значение флага 'Наследовать заголовок' по умолчанию
+
+%%skip_empty_title%en%%
+To skip empty titles at formation of title of page
+%%skip_empty_title%ru%%
+Пропускать пустые заголовки при формировании заголовков страниц
+
+%%default_keywords%en%%
+Keywords by default
+%%default_keywords%ru%%
+Ключевые слова по умолчанию
+
+%%default_description%en%%
+The description of page by default
+%%default_description%ru%%
+Описание страницы по умолчанию
+
+%%admin_sitemap_height%en%%
+Height of a window of a tree of pages (admin)
+%%admin_sitemap_height%ru%%
+Высота окна дерева страниц (админ)
+
+%%used_virtual_modules%en%%
+To use the virtual mechanism for modules
+%%used_virtual_modules%ru%%
+Включить виртуальный механизм для модулей
+
+%%include_favicon%en%%
+Favicon including
+%%include_favicon%ru%%
+Включить иконку сайта (favicon)
+
+%%include_anim_favicon%en%%
+Animation favicon including
+%%include_anim_favicon%ru%%
+Включить анимированную иконку сайта (favicon)
+
+%%min_keyword_length%en%%
+Minimal keyword length<br />
+<i>0 - unlimited</i>
+%%min_keyword_length%ru%%
+Минимальная длина ключевого слова<br />
+<i>0 - без ограничений</i>

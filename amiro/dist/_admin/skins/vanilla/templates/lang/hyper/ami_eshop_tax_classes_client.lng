@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%form_field_tax_rate_empty_warn%en%%
+Please, enter the tax rate (float number)!
+%%form_field_tax_rate_empty_warn%ru%%
+Пожалуйста, введите ставку налога  (дробное число)!

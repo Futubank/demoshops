@@ -1,0 +1,24 @@
+%%tab_custom_fields%en%%
+Custom fields
+%%tab_custom_fields%ru%%
+Дополнительные поля
+
+%%dataset_name%en%%
+Dataset
+%%dataset_name%ru%%
+Набор полей
+
+%%element_dataset_name%en%%
+Element dataset
+%%element_dataset_name%ru%%
+Набор полей элемента
+
+%%js_on_change%en%%
+Attention! The page will be reloaded. The earlier made changes will be lost. Do you want to continue?
+%%js_on_change%ru%%
+Внимание! Страница будет обновлена. Ранее сделанные изменения будут потеряны. Продолжить?
+
+%%page_default_dataset_tooltip%en%%
+System dataset is used for common items.
+%%page_default_dataset_tooltip%ru%%
+Для общих элементов используется системный набор полей.

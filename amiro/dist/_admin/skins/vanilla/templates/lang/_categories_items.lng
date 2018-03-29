@@ -1,0 +1,34 @@
+%%category%en%%
+Category
+%%category%ru%%
+Категория
+
+%%no_categories%en%%
+No categories
+%%no_categories%ru%%
+Категорий нет
+
+%%create_subcategory%en%%
+Create category
+%%create_subcategory%ru%%
+Создать категорию
+
+%%select_page%en%%
+page
+%%select_page%ru%%
+на страницу
+
+%%categories_warn%en%%
+Choose an existing category, or specify a name for creation of a new category.
+%%categories_warn%ru%%
+Выберите существующую категорию, или укажите имя для создания новой категории.
+
+%%warn_same_category_name%en%%
+There is the category with the the same name, are you sure to create new one?
+%%warn_same_category_name%ru%%
+Категория с таким именем уже существует, Вы уверены, что хотите создать новую?
+
+%%hide%en%%
+Hide
+%%hide%ru%%
+Скрыть

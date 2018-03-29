@@ -1,0 +1,56 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%srv_host_payments_docs_apply%en%%
+Edit document
+%%srv_host_payments_docs_apply%ru%%
+Редактировать документ
+
+%%invalid_date%en%%
+Invalid date
+%%invalid_date%ru%%
+Неправильная дата
+
+%%amount_warn%en%%
+Please, enter the Amount correctly!
+%%amount_warn%ru%%
+Пожалуйста, правильно введите сумму!
+
+%%doc_num_warn%en%%
+Please, enter document number.
+%%doc_num_warn%ru%%
+Пожалуйста, введите номер документа.
+
+%%document_updated%en%%
+Document updated
+%%document_updated%ru%%
+Документ изменен
+
+%%status_email_failed%en%%
+Document _doc_ was not sent to _email_ 
+%%status_email_failed%ru%%
+Не удалось отправить документ _doc_ на адрес _email_
+
+%%status_email_sent%en%%
+Another documents have been sent.
+%%status_email_sent%ru%%
+Остальные документы отправлены.
+
+%%status_email_all_sent%en%%
+Documents have been sent by E-mail.
+%%status_email_all_sent%ru%%
+Документы отправлены по электронной почте.
+
+%%status_no_email_sent%en%%
+No documents have been sent.
+%%status_no_email_sent%ru%%
+Ни один документ не отправлен.
+
+%%status_book%en%%
+Documents have been booked.
+%%status_book%ru%%
+Документы проведены.
+
+%%status_unable_to_delete%en%%
+Document _num_ cannot be deleted
+%%status_unable_to_delete%ru%%
+Документ _num_ не может быть удален.

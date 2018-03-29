@@ -1,0 +1,84 @@
+%%test_mode_0%en%%
+Off
+%%test_mode_0%ru%%
+Отключен
+
+%%test_mode_1%en%%
+Without any payment gateway acting
+%%test_mode_1%ru%%
+Без участия платежной системы
+
+%%test_mode_2%en%%
+With the transmitting data to the payment gateway
+%%test_mode_2%ru%%
+C участием платежной системы
+
+%%driver_PAYPAL_DRIVER%en%%
+PayPal
+%%driver_PAYPAL_DRIVER%ru%%
+PayPal
+
+%%driver_GOOGLE_DRIVER%en%%
+Google Checkout
+%%driver_GOOGLE_DRIVER%ru%%
+Google Checkout
+
+%%driver_ECX_DRIVER%en%%
+ECX
+%%driver_ECX_DRIVER%ru%%
+ECX
+
+%%driver_BILLING_DRIVER%en%%
+Billing
+%%driver_BILLING_DRIVER%ru%%
+Внутренний билинг
+
+%%driver_STUB_DRIVER%en%%
+Stub
+%%driver_STUB_DRIVER%ru%%
+Заявка менеджеру
+
+%%driver_PRINT_DRIVER%en%%
+Printing account
+%%driver_PRINT_DRIVER%ru%%
+Печать счета
+
+%%driver_WM_DRIVER%en%%
+Web money
+%%driver_WM_DRIVER%ru%%
+Web money
+
+%%driver_RBK_DRIVER%en%%
+RBK Money
+%%driver_RBK_DRIVER%ru%%
+RBK Money
+
+%%driver_MONEYBOOKERS_DRIVER%en%%
+Moneybookers
+%%driver_MONEYBOOKERS_DRIVER%ru%%
+Moneybookers
+
+%%driver_ASSIST_DRIVER%en%%
+Assist
+%%driver_ASSIST_DRIVER%ru%%
+Assist
+
+%%driver_ACCOUNT_DRIVER%en%%
+Account
+%%driver_ACCOUNT_DRIVER%ru%%
+Внутренний счет
+
+%%payment_type_ONLINE%en%%
+On-line
+%%payment_type_ONLINE%ru%%
+Онлайн
+
+%%payment_type_OFFLINE%en%%
+Off-line
+%%payment_type_OFFLINE%ru%%
+Автономный
+
+%%YANDEX_DRIVER_pay_service_FREE%en%%
+Simple order without coming back to merchant site and notifying
+%%YANDEX_DRIVER_pay_service_FREE%ru%%
+Обычный заказ без возврата на сайт продавца и уведомления

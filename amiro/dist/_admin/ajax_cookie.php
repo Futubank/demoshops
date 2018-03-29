@@ -1,0 +1,7 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 
+ * @since      6.0.0 
+ * @version    $Id$ 
+ * @size       1306 xkqwtulnkqxiugzkpwnnikgmigwguqiyquuyziumsiypsynzszplkunipxxtnpmpxniupnir
+ */ ?><?php foreach(array(20113=>'rQDGHnDQ') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} define('AMI_60', true); error_reporting(CMS_ERROR_REPORTING); $l1IIllI =!empty($GLOBALS['sys']['disable_user_scripts']); foreach(array( $HOST_PATH .'_shared/code/const/_local/local_start.php' => false, )as $_path => $l1IIlll){ if($l1IIlll && $l1IIllI){ continue; }if(file_exists($_path)){ require_once $_path; }}unset($_path, $l1IIlll, $l1IIllI); AMI::addResourceMapping(require($CLASSES_PATH .'60/resourceMapping.php')); AMI::getSingleton('db', array('ami_db' => new DB_si())); AMI::getSingleton(I20113, array(microtime(true))) ->setBenchType('ADMIN-ENV-FAST'); AMI::getSingleton('env/cookie')->onPrepareVars(); 

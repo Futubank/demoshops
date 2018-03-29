@@ -1,0 +1,80 @@
+%%attach%en%%
+Attach file
+%%attach%ru%%
+Вставить файл
+
+%%subject%en%%
+Message subject
+%%subject%ru%%
+Тема сообщения
+
+%%message%en%%
+Message text
+%%message%ru%%
+Текст сообщения
+
+%%test%en%%
+Send letter to this test email only
+%%test%ru%%
+Отправить сообщение только на тестовый адрес
+
+%%format%en%%
+Use plain text format only
+%%format%ru%%
+Простой текст
+
+%%empty%en%%
+No subscribers
+%%empty%ru%%
+Нет подписчиков
+
+%%check_warn%en%%
+Form will be reset!
+%%check_warn%ru%%
+Страница будет перегружена, введенная информация будет утеряна!
+
+%%subject_warn%en%%
+Please, enter the Message subject!
+%%subject_warn%ru%%
+Пожалуйста, введите тему сообщения!
+
+%%message_warn%en%%
+Please, enter the Message text!
+%%message_warn%ru%%
+Пожалуйста, введите текст сообщения!
+
+%%test_mail_invalid%en%%
+E-mail invalid!
+%%test_mail_invalid%ru%%
+Не корректный адрес!
+
+
+%%status_sent%en%%
+[Sent]
+%%status_sent%ru%%
+[Отправлено]
+
+%%status_failed%en%%
+[Failed]
+%%status_failed%ru%%
+[Не отправлено]
+
+%%status_test_email%en%%
+Email has been sent to _email_.
+%%status_test_email%ru%%
+Сообщение отправлено - _email_.
+
+%%status_sendmail%en%%
+Sent to subscribers.
+%%status_sendmail%ru%%
+Отправить сообщение подписчикам.
+
+%%status_attention%en%%
+ATTENTION: do not forget again to attach the file!
+%%status_attention%ru%%
+ВНИМАНИЕ: не забудьте указать файл!
+
+%%status_error%en%%
+An error occurred while processing...
+%%status_error%ru%%
+Ошибка при отправке сообщения...

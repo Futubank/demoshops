@@ -1,0 +1,14 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_user_items_popup_msgs.lng"%%
+%%include_language "templates/lang/eshop_user_items_popup_def.lng"%%
+
+%%items%en%%
+User products
+%%items%ru%%
+Товары пользователя
+
+%%empty%en%%
+The product list is empty
+%%empty%ru%%
+Список товаров пуст

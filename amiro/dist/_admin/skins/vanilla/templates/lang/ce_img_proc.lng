@@ -1,0 +1,46 @@
+%%filter%en%%
+Filter
+%%filter%ru%%
+Фильтр
+
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_ce_img_proc_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_ce_img_proc_msgs.lng"%%
+
+%%title%en%%
+Image Properties
+%%title%ru%%
+Свойства Изображения
+
+%%picture%en%%
+Article Picture
+%%picture%ru%%
+Добавить изображение
+
+%%list_empty%en%%
+No images found
+%%list_empty%ru%%
+Изображений не найдено
+
+%%un_image%en%%
+Insert/Edit of image
+%%un_image%ru%%
+Вставку / Изменение изображения
+
+%%un_bgimage%en%%
+Insert/Edit of background image
+%%un_bgimage%ru%%
+Вставку / Изменение фонового изображения
+
+%%error_no_main_image%en%%
+You should select a main image
+%%error_no_main_image%ru%%
+Необходимо выбрать основное изображение
+
+%%default_size_images%en%%
+The image size changed, it can lead to a deterioration of image quality when displayed on the page. Click to set the original size.
+%%default_size_images%ru%%
+Размеры изображения изменены, это может привести к ухудшению качества изображения при отображении на странице. Кликните чтобы установить оригинальные размеры.

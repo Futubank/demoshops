@@ -1,0 +1,27 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_inbox%en%%
+Inbox
+%%filter_field_inbox%ru%%
+Входящие
+
+%%filter_field_sent%en%%
+Sent
+%%filter_field_sent%ru%%
+Отправленные
+
+%%filter_field_deleted%en%%
+Deleted
+%%filter_field_deleted%ru%%
+Удаленные
+
+%%filter_field_header%en%%
+Subject:
+%%filter_field_header%ru%%
+Тема сообщения:
+
+%%filter_field_is_read%en%%
+Only read
+%%filter_field_is_read%ru%%
+Только непрочитанные

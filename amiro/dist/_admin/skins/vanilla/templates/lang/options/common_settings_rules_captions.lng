@@ -1,0 +1,171 @@
+%%spl_system_config%en%%
+System configuration
+%%spl_system_config%ru%%
+Системные настройки
+
+%%admin_compression_level%en%%
+Admin interface compression level
+%%admin_compression_level%ru%%
+Уровень компрессии интерфейса администратора
+
+%%front_compression_level%en%%
+Frontend compression level
+%%front_compression_level%ru%%
+Уровень компрессии сайта
+
+%%compression_method%en%%
+Compression method
+%%compression_method%ru%%
+Способ компрессии
+
+%%cache_frontside%en%%
+Cache frontend
+%%cache_frontside%ru%%
+Кэширование
+
+%%cache_storage_size%en%%
+Frontend cache storage size, Mb
+%%cache_storage_size%ru%%
+Размер кэша сайта, Мб
+
+%%cache_expire_period%en%%
+Frontend cache expiration period
+%%cache_expire_period%ru%%
+Время жизни данных кэша
+
+%%spl_debug%en%%
+Debug
+%%spl_debug%ru%%
+Отладка
+
+%%messages%en%%
+Display debug info
+%%messages%ru%%
+Отображать отладочную информацию
+
+%%extdeb%en%%
+Teplates parser mode
+%%extdeb%ru%%
+Режим работы парсера шаблонов
+
+%%debug_ip1%en%%
+Debug IP 1
+%%debug_ip1%ru%%
+IP для отладки 1
+
+%%debug_ip1_value%en%%
+IP 1 Settings
+%%debug_ip1_value%ru%%
+Настройки для IP 1
+
+%%debug_ip2%en%%
+Debug IP 2
+%%debug_ip2%ru%%
+IP для отладки 2
+
+%%debug_ip2_value%en%%
+IP 2 Settings
+%%debug_ip2_value%ru%%
+Настройки для IP 2
+
+%%debug_ip3%en%%
+Debug IP 3
+%%debug_ip3%ru%%
+IP для отладки 3
+
+%%debug_ip3_value%en%%
+IP 3 Settings
+%%debug_ip3_value%ru%%
+Настройки для IP 3
+
+%%debug_ip4%en%%
+Debug IP 4
+%%debug_ip4%ru%%
+IP для отладки 4
+
+%%debug_ip4_value%en%%
+IP 4 Settings
+%%debug_ip4_value%ru%%
+Настройки для IP 4
+
+%%debug_ip5%en%%
+Debug IP 5
+%%debug_ip5%ru%%
+IP для отладки 5
+
+%%debug_ip5_value%en%%
+IP 5 Settings
+%%debug_ip5_value%ru%%
+Настройки для IP 5
+
+%%your_ip_is%en%%
+<br /><i id="configYourIp">(Your IP: <span id="debugIP">%s</span>)</i>
+<script>if(window.clipboardData){var elm = document.getElementById('configYourIp'); elm.title='Copy to clipboard'; elm.style.cursor='pointer'; elm.onclick=function(){clipboardData.setData('Text', document.getElementById('debugIP').innerHTML)};}</script>
+%%your_ip_is%ru%%
+<br /><i id="configYourIp">(Ваш IP: <span id="debugIP">%s</span>)</i>
+<script>if(window.clipboardData){var elm = document.getElementById('configYourIp'); elm.title='Скопировать в буфер обмена'; elm.style.cursor='pointer'; elm.onclick=function(){clipboardData.setData('Text', document.getElementById('debugIP').innerHTML)};}</script>
+
+%%spl_messages%en%%
+<span title="Guestbook/Comments/Message Board common settings">Messages</span>
+%%spl_messages%ru%%
+<span title="Общие настройки для гостевой книги/комментариев/форума">Сообщения</span>
+
+%%display_nickname_as%en%%
+Display nicknames as
+%%display_nickname_as%ru%%
+Отображать ник как
+
+%%url_max_length%en%%
+Link max length
+%%url_max_length%ru%%
+Максимальная длина ссылки
+
+%%bb_post_allow_urls_reg_only%en%%
+Forbid posting urls for users
+<i>(It is recommended to set minimum 5 message in case of allowing urls)</i>
+%%bb_post_allow_urls_reg_only%ru%%
+Запрет использования ссылок [url] пользователями<br />
+<i>(При необходимости разрешения ссылок, рекомендуется ставить число не менее 5)</i>
+
+%%time_zone%en%%
+Time zone
+%%time_zone%ru%%
+Часовой пояс
+
+%%hard_ops_item_limit%en%%
+Elements limit for hard operations
+%%hard_ops_item_limit%ru%%
+Максимальное количество элементов для тяжелых операций
+
+%%less_css_mode%en%%
+<a href="http://lesscss.org/" target="_blank" style="font-weight: bold;">LESS CSS &raquo;</a> compiler
+%%less_css_mode%ru%%
+Компилятор <a href="http://lesscss.ru/" target="_blank" style="font-weight: bold;">LESS CSS &raquo;</a>
+
+##--
+%%disable_se_indexing_mods%en%%
+Disable search engines indexing for modules pagse
+%%disable_se_indexing_mods%ru%%
+Запретить поисковым роботам индексацию страниц модулей
+--##
+
+%%slash_static_sublink%en%%
+Append &laquo;/&raquo; to static page links
+%%slash_static_sublink%ru%%
+Добавлять &laquo;/&raquo; к ссылкам статичных страниц
+##--
+%%slash_element_sublink%en%%
+Append slash to modules elements links
+%%slash_element_sublink%ru%%
+Добавлять &laquo;/&raquo; к ссылкам элементов модулей
+--##
+%%slash_reaction%en%%
+If a requested URL differs from the valid URL in the ending slash return HTTP-header
+%%slash_reaction%ru%%
+Если запрашиваемая ссылка отличается от существующей на заключительный &laquo;/&raquo;,<br />
+возвращать HTTP-заголовок
+
+%%cant_setup_timezone%en%%
+<br /><i>Your hosting restrictions does not allow you to change "Time zone"</i>
+%%cant_setup_timezone%ru%%
+<br /><i>Настройки сервера баз данных MySQL на вашем хостинге не позволяют изменить "Часовой пояс".</i>

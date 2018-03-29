@@ -1,0 +1,114 @@
+%%eshop_coupons_add%en%%
+Add coupon
+%%eshop_coupons_add%ru%%
+Добавить купон
+
+%%eshop_coupons_apply%en%%
+Edit coupon
+%%eshop_coupons_apply%ru%%
+Редактировать информацию о купоне
+
+%%coupon%en%%
+Coupon
+%%coupon%ru%%
+Купон
+
+%%sort_date_start%en%%
+Start time
+%%sort_date_start%ru%%
+Дата начала
+
+%%sort_date_end%en%%
+Close time
+%%sort_date_end%ru%%
+Дата завершения
+
+%%sort_activations_left%en%%
+Activations left
+%%sort_activations_left%ru%%
+Оставшееся число активаций
+
+%%sort_activation_count%en%%
+Activations count
+%%sort_activation_count%ru%%
+Число активаций
+
+%%unlimited%en%%
+Unlimited
+%%unlimited%ru%%
+Неограничено
+
+%%user%en%%
+Member
+%%user%ru%%
+Пользователь
+
+%%audit_default_owner%en%%
+Not selected
+%%audit_default_owner%ru%%
+Не выбран
+
+%%audit_owner_select%en%%
+Select coupon owner
+%%audit_owner_select%ru%%
+Выбор владельца купона
+
+%%audit_members_popup%en%%
+Open window for coupon owner selecting
+%%audit_members_popup%ru%%
+Открыть окно выбора пользователя
+
+%%date_start%en%%
+Start time
+%%date_start%ru%%
+Дата начала
+
+%%date_end%en%%
+Close time
+%%date_end%ru%%
+Дата окончания
+
+%%activations_left%en%%
+Activations left
+%%activations_left%ru%%
+Оставшееся число активаций
+
+%%id_external%en%%
+External ID
+%%id_external%ru%%
+Внешний идентификатор
+
+%%generate_btn%en%%
+Generate coupons
+%%generate_btn%ru%%
+Сгенерировать купоны
+
+%%warn_no_categories_on_gemerate%en%%
+Create coupon category first please!
+%%warn_no_categories_on_gemerate%ru%%
+Пожалуйста, сначала создайте категорию купонов!
+
+%%coupons_creation%en%%
+Coupons creation
+%%coupons_creation%ru%%
+Генерация купонов
+
+%%number_of_activations%en%%
+Number of coupon activations
+%%number_of_activations%ru%%
+Число активаций купона
+
+%%username%en%%
+Login
+%%username%ru%%
+Логин
+
+%%discount%en%%
+Discount
+%%discount%ru%%
+Скидка
+
+%%multiple%en%%
+Multiple
+%%multiple%ru%%
+Несколько

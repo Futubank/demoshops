@@ -1,0 +1,126 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/eshop_custom_types_def.lng"%%
+
+%%empty%en%%
+No data for attributes
+%%empty%ru%%             
+Нет данных для свойств товаров
+
+%%ftype_related_items%en%%
+Related products
+%%ftype_related_items%ru%%
+Связанные товары
+
+%%is_prop_yes%en%%
+Product option
+%%is_prop_yes%ru%%
+Является подвидом товара
+
+%%prop_description%en%%
+<b>General  property:</b> 
+Properties used for same type products (within one or more categories, but within one property set). Could be used in search by product groups within one product property set (except of properties added as "shared").<br>
+<b>Product options:</b> 
+
+This type is required for creation of different product options (SKU) for the same product, which can have different modifications, such as color, size, price, etc.  Filter is available only within this specific product. Allows setup different prices, weights, or sizes for each option.<br>
+<b><font color=red>Note: Product option CAN NOT be changed after creation!</font></b>
+%%prop_description%ru%%
+<b>Обычные свойства товара:</b> Свойства характерные для группы товаров (в пределах категории и более, т.е. в пределах
+набора свойств товаров). Данные свойства можно использовать в фильтре для поиска по группам товаров в пределах одного
+набора свойств (за исключением свойств, добавленных в набор как "общие", т.к. они принадлежат всем товарам и по ним можно
+осуществлять глобальный поиск). Данный тип свойств быстрее работает и более удобен для использования.<br>
+<b>Подвид товара:</b> Данный тип необходим только для возможности создания различных подвидов товаров (артикулов),
+которые являются тем же товаром, но могут иметь различные остатки на складе, различные цены, зависящие от характеристик
+(цвет, материал, покрытия и т.п.). По данному типу можно осуществлять фильтрацию только в пределах одного товара, т.к. это
+его подвиды. Но можно задавать влияние на цену, массу, габариты как индивидуально так и с помощью правил. Замедляет
+быстродействие.<br>
+<b><font color=red>Сменить тип свойства после его создания невозможно!</font></b>
+
+%%body_type_body_items%en%%
+Products list
+%%body_type_body_items%ru%%
+Список товаров
+
+%%body_type_body_itemD%en%%
+Product details
+%%body_type_body_itemD%ru%%
+Карточка товара
+
+%%body_type_body_cats%en%%
+Subitems list
+%%body_type_body_cats%ru%%
+Список подчиненных товаров
+
+%%body_type_body_catD%en%%
+Category details
+%%body_type_body_catD%ru%%
+Карточка категории
+
+%%body_type_cats_list%en%%
+Categories list
+%%body_type_cats_list%ru%%
+Список категорий
+
+%%body_type_slow%en%%
+This will slow down the filter selection process!
+%%body_type_slow%ru%%
+Использование свойства в фильтре на странице поиска или списка товаров замедлит процесс выбора товаров!
+
+%%show_in_admin_form%en%%
+Show in product form (admin)
+%%show_in_admin_form%ru%%
+Показывать в форме товара (админ)
+
+%%show_in_admin_cat_form%en%%
+Show in category form (admin)
+%%show_in_admin_cat_form%ru%%
+Показывать в форме категории (админ)
+
+%%admin_form_3%en%%
+Tab (product properties)
+%%admin_form_3%ru%%
+Закладка (Свойства товара)
+
+%%show_in_user_form%en%%
+Show in user product form (frontend)
+%%show_in_user_form%ru%%
+Показывать в собственных товарах пользователя
+
+%%user_form_desc%en%%
+User can select this property in own products editor on site front-end.
+%%user_form_desc%ru%%
+Пользователь сможет выбирать данное свойство в форме редактирования собственных товаров на публичной части сайта.
+
+%%show_empty_in_search%en%%
+Include empty values (frontend)
+%%show_empty_in_search%ru%%
+Включать с незаданными значениями
+
+%%empty_in_search_desc%en%%
+The filter result will contain items with empty values for this property
+%%empty_in_search_desc%ru%%
+В результаты фильтра будут включены элементы у которых для этого свойства значение не задано.
+
+%%no_rest%en%%
+Do not apply product rest
+%%no_rest%ru%%
+Не учитывать остатки
+
+%%custom_type_owner%en%%
+Belong to
+%%custom_type_owner%ru%%
+Принадлежит
+
+%%custom_type_owner_item%en%%
+Product
+%%custom_type_owner_item%ru%%
+Товару
+
+%%custom_type_owner_cat%en%%
+Category
+%%custom_type_owner_cat%ru%%
+Категории

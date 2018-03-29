@@ -1,0 +1,6 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    core 
+ * @version    $Id$ 
+ * @size       1628 xkqwgnimnuxyynzkgykynxxutszqqnstwtmxymknilzpxgwtkrqrxytprllxpukrnwlrpnir
+ */ ?><?php foreach(array(7053=>"MS|GZPQ|IHSuJQ|nZIQ",7054=>"uDQ|MS|GZPQ",7055=>"YHSB") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class ModuleClassifiedsCat extends CMS_CategoriesModule {function _Init($IIll1l1 =Array(), $IIll1LI ="", $IIll1Ll ="", $aOptions =Array()) {$IIIIL11[I7053] =$this->module->Ill1llL->Name; $IIIIL11[I7054] =true; $IIIIL11["use_options_form"] =true; $IIIIL11["default_prefix"] ="c"; $IIIIL11["description_field_name"] =I7055; $IIIIL11["picture_cat"] =$this->module->Ill1llL->GetProperty('picture_cat'); $aOptions += $IIIIL11; parent::_Init($IIll1l1, $IIll1LI, $IIll1Ll, $aOptions); }}?>

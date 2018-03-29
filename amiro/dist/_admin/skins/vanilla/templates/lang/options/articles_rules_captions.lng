@@ -1,0 +1,24 @@
+%%multicat%en%%
+Show categories in the list of items
+%%multicat%ru%%
+Отображать список категорий в списке элементов
+
+%%multicat_in_body_details%en%%
+Show categories in the list of item detail
+%%multicat_in_body_details%ru%%
+Отображать список категорий в деталях элемента
+
+%%show_last_items%en%%
+Support for special link parameter "show_last=N"
+%%show_last_items%ru%%
+Поддержка спец. параметра ссылки "show_last=N"
+
+%%show_subitems%en%%
+Show subitems per category
+%%show_subitems%ru%%
+Отображение элементов в категории
+
+%%use_categories%en%%
+Use categories
+%%use_categories%ru%%
+Использование категорий

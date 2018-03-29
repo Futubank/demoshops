@@ -1,0 +1,66 @@
+%%include_language "templates/lang/options/eshop_item_rules_captions.lng"%%
+
+%%body_items_cols%en%%
+Columns in the elements browse mode
+%%body_items_cols%ru%%
+Количество столбцов в режиме отображения элементов
+
+%%sub_items_cols%en%%
+Columns count for subordinated elements list
+%%sub_items_cols%ru%%
+Количество колонок для списка подчиненных элементов
+
+%%sku_is_unique%en%%
+To check a sku of the elements on uniqueness
+%%sku_is_unique%ru%%
+Проверять код элемента на уникальность
+
+%%show_detail_link%en%%
+To show the link to the detailed description of the element, when its description is absent
+%%show_detail_link%ru%%
+Отображать ссылку на детальное описание элемента, когда его описание отсутствует
+
+%%show_subcategory_items%en%%
+Mode of show of the subordinated elements
+%%show_subcategory_items%ru%%
+Отображение подчиненных элементов
+
+%%splitter_period%en%%
+The number of elements after which the splitter is inserted
+%%splitter_period%ru%%
+Количество элементов, после которого вставляется разделитель
+
+%%sub_splitter_period%en%%
+The number of subordinated elements after which the splitter is inserted
+%%sub_splitter_period%ru%%
+Количество подчиненных элементов, после которого вставляется разделитель
+
+%%available_item_types%en%%
+The available types of the elements
+%%available_item_types%ru%%
+Разрешенные типы элементов
+
+%%default_item_type%en%%
+Default type of the elements
+%%default_item_type%ru%%
+Тип элемента по умолчанию
+
+%%show_sku_column%en%%
+Show sku column (admin)
+%%show_sku_column%ru%%
+Показывать колонку с кодом элемента (админ)
+
+%%spl_form_params%en%%
+Project add/edit form sorting
+%%spl_form_params%ru%%
+Расположение элементов в форме добавления/редактирования элемента
+
+%%spl_specblock_cat%en%%
+Spec block options of "Elements catalog"
+%%spl_specblock_cat%ru%%
+Параметры спецблока "Каталог элементов"
+
+%%spl_specblock_filter%en%%
+Spec block options of "Elements search/filter"
+%%spl_specblock_filter%ru%%
+Параметры спецблока "Поиск/фильтр элементов"

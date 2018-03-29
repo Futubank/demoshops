@@ -1,0 +1,250 @@
+%%include_language "templates/lang/_srv_host_payments_add_items.lng"%%
+%%include_language "templates/lang/_srv_host_payments_add_msgs.lng"%%
+
+%%buy_system%en%%
+Buying the system
+%%buy_system%ru%%
+Приобретение системы
+
+%%add_balance%en%%
+Withdraw money
+%%add_balance%ru%%
+Пополнение баланса
+
+%%enter_amount%en%%
+Enter amount
+%%enter_amount%ru%%
+Введите сумму
+
+%%min_amount%en%%
+Minimum amount to pay
+%%min_amount%ru%%
+Минимальная сумма к оплате
+
+%%apply_btn%en%%
+Continue >>
+%%apply_btn%ru%%
+Продолжить >>
+
+%%back_btn%en%%
+<< Back
+%%back_btn%ru%%
+<< Назад
+
+%%amount_to_pay%en%%
+Amount to pay
+%%amount_to_pay%ru%%
+Сумма к оплате
+
+%%choose_pay_method%en%%
+Choose pay method
+%%choose_pay_method%ru%%
+Выберите способ оплаты
+
+%%pay_method%en%%
+Pay method
+%%pay_method%ru%%
+Cпособ оплаты
+
+%%bank_jur%en%%
+Bank wire transfer from company
+%%bank_jur%ru%%
+Банковский перевод от юридического лица
+
+%%bank_fiz%en%%
+Bank wire transfer from personal
+%%bank_fiz%ru%%
+Банковский перевод от частного лица
+
+%%webmoney%en%%
+WebMoney transfer
+%%webmoney%ru%%
+WebMoney
+
+%%yandex%en%%
+Yandex.Money
+%%yandex%ru%%
+Яндекс.Деньги
+
+%%paypal%en%%
+Bank card (PayPal)
+%%paypal%ru%%
+Банковской картой (PayPal)
+
+%%qiwi%en%%
+QIWI
+%%qiwi%ru%%
+QIWI
+
+%%got_invoice%en%%
+Prepared Invoice
+%%got_invoice%ru%%
+Сформирован счет
+
+%%print_invoice%en%%
+Print Invoice
+%%print_invoice%ru%%
+Распечатать счет
+
+%%pay_wmz%en%%
+Pay from Z-purse now
+%%pay_wmz%ru%%
+Оплатить счет с Z-кошелька сейчас
+
+%%pay_wmr%en%%
+Pay from R-purse now
+%%pay_wmr%ru%%
+Оплатить счет с R-кошелька сейчас
+
+%%pay_wme%en%%
+Pay from E-purse now
+%%pay_wme%ru%%
+Оплатить счет с E-кошелька сейчас
+
+%%pay_invoice%en%%
+Pay by invoice
+%%pay_invoice%ru%%
+Оплата по счету
+
+%%pay_yandex%en%%
+Pay by invoice now
+%%pay_yandex%ru%%
+Оплатить счет сейчас
+
+%%pay_qiwi%en%%
+Pay by invoice now
+%%pay_qiwi%ru%%
+Оплатить счет сейчас
+
+%%bankCard%en%%
+%%bankCard%ru%%
+Банковская карта
+
+%%euroset%en%%
+%%euroset%ru%%
+Евросеть
+
+%%terminals%en%%
+%%terminals%ru%%
+Терминалы и пункты
+
+%%inner%en%%
+%%inner%ru%%
+RBK Кошелек
+
+%%prepaidcard%en%%
+%%prepaidcard%ru%%
+Карта RBK
+
+%%pay%en%%
+Pay by now
+%%pay%ru%%
+Оплатить сейчас
+
+%%payout_error%en%%
+Payment error. Please contact support service:
+%%payout_error%ru%%
+Ошибка оплаты. Попробуйте оплатить позднее или обратитесь в службу поддержки
+
+%%payments_note%en%%
+It can take up to 5 business days to receive the wire transfers<br> and up to 1  business day to receive virtual money transfers.
+Please, add funds in time.
+%%payments_note%ru%%
+Зачисление банковского перевода может занять до 5 (пяти) рабочих дней с момента оплаты.<br>
+Переводы виртуальными деньгами зачисляются в течении рабочих суток с момента оплаты.<br>
+Пожалуйста, пополняйте баланс заблаговременно.
+
+%%from%en%%
+from
+%%from%ru%%
+от
+
+%%by_invoice%en%%
+by invoice
+%%by_invoice%ru%%
+по счету
+
+%%payer_note1%en%%
+The payer is
+%%payer_note1%ru%%
+Плательщиком является
+
+%%payer_note2%en%%
+To change payer or payer propуrties go to Payments - Properties module
+%%payer_note2%ru%%
+Чтобы сменить плательщика или реквизиты зайдите в раздел Платежи - Реквизиты
+
+%%payer_not_defined%en%%
+To fill out the balance it's required yo enter payer properties in Payments - Properties module
+%%payer_not_defined%ru%%
+Чтобы пополнить баланс, необходимо указать реквизиты плательщика в разделе Платежи - Реквизиты
+
+%%contractor_not_defined%en%%
+Properties of contractor are not set. Please contact support.
+%%contractor_not_defined%ru%%
+Реквизиты получателя не заданы, пожалуйста обратитесь в службу поддержки.
+
+%%wmk_note%en%%
+If you have installed WebMoney Keeper Classic version 2.2.0.4 or higher on your computer, to pay invoice now click on the links below.
+%%wmk_note%ru%%
+Если на вашем компьютере установлен WebMoney Keeper Classic 2.2.0.4 или выше, вы можете выполнить перевод прямо сейчас нажав на одну их ссылок ниже:
+
+%%wm_note%en%%
+Or you can use any another way to pay webmoney to next purses:
+%%wm_note%ru%%
+Или вы можете использовать любой другой способ перевода WebMoney на указанные ниже кошельки:
+
+%%wm_to%en%%
+to purse
+%%wm_to%ru%%
+на кошелек
+
+%%payment_note%en%%
+It's required to enter the next payment note when do the payment:
+%%payment_note%ru%%
+При оплате, обязательно укажите назначение платежа:
+
+
+%%yandex_note%en%%
+Or you can use any another way to pay Yandex.Money to next account:
+%%yandex_note%ru%%
+Зачисление будет произведено мгновенно.<br><br> Или вы можете использовать любой другой способ перевода Яндекс.Деньги на указанный ниже счет, <b>в этом случае зачисление будет произведено оператором в рабочее время</b>.
+
+%%yandex_to%en%%
+RUR to account
+%%yandex_to%ru%%
+руб. на счет
+
+%%payer%en%%
+Payer
+%%payer%ru%%
+Плательщик
+
+%%RUR%en%%
+RUR
+%%RUR%ru%%
+руб.
+
+%%commission%en%%
+Commission
+%%commission%ru%%
+Коммиссия
+
+%%amount_with_commission%en%%
+Amount with commission
+%%amount_with_commission%ru%%
+Сумма с коммиссией
+
+%%to_pay%en%%
+To pay
+%%to_pay%ru%%
+К оплате
+
+
+%%with_commission%en%%
+(with commission)
+%%with_commission%ru%%
+(с учетом комиссии)
+
+
+

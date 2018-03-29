@@ -1,0 +1,61 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_srv_audit_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_menu_all.lng"%%
+
+%%ext_module%en%%
+Module Name
+%%ext_module%ru%%
+Название модуля
+
+%%ip%en%%
+IP
+%%ip%ru%%
+IP
+
+%%vid%en%%
+Visitor's Id
+%%vid%ru%%
+Id посетителя
+
+%%is_generated%en%%
+New Visitor
+%%is_generated%ru%%
+Новый посетитель
+
+%%session%en%%
+PHP-session
+%%session%ru%%
+PHP-сессия
+
+%%twist%en%%
+Is Twisted 
+%%twist%ru%%
+Накрутка
+
+%%reason%en%%
+The Reason
+%%reason%ru%%
+Причина
+
+%%no_cookies%en%%
+No cookie
+%%no_cookies%ru%%
+Нет cookie
+
+%%invalid_captcha%en%%
+Invalid code
+%%invalid_captcha%ru%%
+Неправильный код
+
+%%too_frequently%en%%
+Too frequently
+%%too_frequently%ru%%
+Слишком часто
+
+%%no_javascript%en%%
+No JavaScript
+%%no_javascript%ru%%
+Отключен JavaScript

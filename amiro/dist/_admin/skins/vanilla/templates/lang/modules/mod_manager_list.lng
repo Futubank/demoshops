@@ -1,0 +1,68 @@
+##--system info: module_owner="services" module="mod_manager" system="1"--##
+%%include_language "templates/lang/modules/mod_manager_common.lng"%%
+
+%%list_action_info%en%%
+View info
+%%list_action_info%ru%%
+Информация о расширении
+
+%%list_action_edit%en%%
+Edit
+%%list_action_edit%ru%%
+Редактировать
+
+%%list_action_uninstall%en%%
+Uninstall
+%%list_action_uninstall%ru%%
+Удалить
+
+%%list_action_gen_code%en%%
+Generate local PHP-code and resources
+%%list_action_gen_code%ru%%
+Создать локальный PHP-код и ресурсы
+
+%%list_action_import%en%%
+Import data, options and templates
+%%list_action_import%ru%%
+Импорт данных, настроек и шаблонов
+
+%%caption_icon%en%%
+%%caption_icon%ru%%
+
+%%list_col_order%en%%
+#
+%%list_col_order%ru%%
+#
+
+%%list_col_caption%en%%
+Installed extension<br />[system ID]
+%%list_col_caption%ru%%
+Установленное расширение<br />[системный ID]
+
+%%caption_date_installed%en%%
+Setup<br />date
+%%caption_date_installed%ru%%
+Дата<br />установки
+
+%%caption_info%en%%
+%%caption_info%ru%%
+
+%%caption_distrib_caption%en%%
+Distributive
+%%caption_distrib_caption%ru%%
+Дистрибутив
+
+%%caption_section_caption%en%%
+Section
+%%caption_section_caption%ru%%
+Раздел
+
+%%list_col_taborder%en%%
+Position
+%%list_col_taborder%ru%%
+Позиция
+
+%%to_module%en%%
+To the extension
+%%to_module%ru%%
+Перейти к расширению

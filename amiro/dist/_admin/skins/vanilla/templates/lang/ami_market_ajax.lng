@@ -1,0 +1,30 @@
+##--system info: module_owner="services" module="ami_market" system="1"--##
+
+%%package_unavailable%en%%
+Package "_pkgId_" unavailable.
+%%package_unavailable%ru%%
+Расширение "_pkgId_" недоступно для скачивания.<br><br>
+<div class="tooltip" style="text-align: left; background-image: url(skins/vanilla/icons/icon_warn.gif) !important;">
+В случае, если вы устанавливаете платное расширение, убедитесь, что вы авторизованы и данное расширение присутствует в списке ваших заказов.
+</div>
+<br><br>
+
+%%cannot_unpack%en%%
+Cannot unpack package file (see err.log for details).
+%%cannot_unpack%ru%%
+Ошибка во время распаковки дистрибутива расширения (детали в err.log).
+
+%%file_not_found%en%%
+Package file not found.
+%%file_not_found%ru%%
+Файл дистрибутива расширения не найден.
+
+%%wrong_request%en%%
+Wrong request.
+%%wrong_request%ru%%
+Ошибка в параметрах запроса.
+
+%%directory_not_writable%en%%
+Cannot write to directory "_path_".
+%%directory_not_writable%ru%%
+Нет доступа на запись в каталог "_path_".

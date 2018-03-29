@@ -1,0 +1,17 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/hyper/ami_datasets_common.lng"%%
+%%include_language "templates/lang/modules/_list.lng"%%
+
+##-- list column headers { --##
+
+%%list_col_fields_qty%en%%
+Fields included
+%%list_col_fields_qty%ru%%
+Кол-во полей
+
+%%list_col_postfix%en%%
+Postfix for templates
+%%list_col_postfix%ru%%
+Постфикс для шаблонов
+
+##-- } list column headers --##

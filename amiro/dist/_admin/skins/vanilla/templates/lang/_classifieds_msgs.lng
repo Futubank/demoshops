@@ -1,0 +1,77 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_items_msgs.lng"%%
+
+%%status_add%en%%
+Classifieds item was added.
+%%status_add%ru%%
+Объявление добавлено.
+
+%%status_apply%en%%
+Classifieds item was updated.
+%%status_apply%ru%%
+Объявление изменено.
+
+%%status_del_image%en%%
+Classifieds image was deleted.
+%%status_del_image%ru%%
+Изображение удалено.
+
+%%status_del%en%%
+Classifieds item was deleted.
+%%status_del%ru%%
+Объявление удалено.
+
+%%status_apply_warn_link_symb%en%%
+The classifieds link contains not allowed symbols. Link was not changed.
+%%status_apply_warn_link_symb%ru%%
+Путь объявления содержит недопустимые символы. Ссылка не изменена.
+
+%%status_apply_warn_link%en%%
+Classifieds with the same link is already present. Link was not changed.<br /> Classifieds name with the same link is:
+%%status_apply_warn_link%ru%%
+Объявление с такой же ссылкой уже существует. Ссылка не изменена.<br /> Объявление с такой же ссылкой:
+
+%%status_add_warn_link%en%%
+Classifieds with the same link is already present. Link is cleared.<br> Classifieds name with the same link is:
+%%status_add_warn_link%ru%%
+Объявление с такой же ссылкой уже существует. Ссылка очищена.<br> Объявление с такой же ссылкой:
+
+%%status_add_warn_link_symb%en%%
+The classifieds link contains not allowed symbols. Link was cleared.
+%%status_add_warn_link_symb%ru%%
+Путь объявления содержит недопустимые символы. Ссылка очищена.
+
+%%announce_warn%en%%
+Enter preview please
+%%announce_warn%ru%%
+Пожалуйста, введите короткий текст
+
+%%warn_missing_date_start%en%%
+Enter Start time please
+%%warn_missing_date_start%ru%%
+Пожалуйста, введите дату начала
+
+%%warn_missing_date_end%en%%
+Enter Close time please
+%%warn_missing_date_end%ru%%
+Пожалуйста, введите дату окончания
+
+%%warn_invalid_email%en%%
+Invalid email
+%%warn_invalid_email%ru%%
+Некорректный адрес электронной почты
+
+%%warn_forbidden_file_extension%en%%
+You cannot attach a file of this type
+%%warn_forbidden_file_extension%ru%%
+Вы не можете присоединить файл такого типа
+
+%%warn_attachment_failed%en%%
+File was not attached
+%%warn_attachment_failed%ru%%
+Файл не был присоединен
+
+%%warn_attachment_size%en%%
+Max upload file size is _size_
+%%warn_attachment_size%ru%%
+Максимальный размер присоединяемого файла _size_

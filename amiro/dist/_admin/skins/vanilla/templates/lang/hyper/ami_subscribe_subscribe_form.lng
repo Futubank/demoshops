@@ -1,0 +1,17 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%export%en%%
+Export subscriber list
+%%export%ru%%
+Экспортировать список подписчиков
+
+%%reset_pass_warn%en%%
+Are you sure to reset password?
+%%reset_pass_warn%ru%%
+Вы уверены, что желаете сбросить пароль?
+
+%%delete_warn%en%%
+Delete this item?
+%%delete_warn%ru%%
+Удалить?

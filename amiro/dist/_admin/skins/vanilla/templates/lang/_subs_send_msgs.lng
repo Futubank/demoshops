@@ -1,0 +1,91 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%check_warn%en%%
+Form will be reset!
+%%check_warn%ru%%
+Страница будет перегружена, введенная информация будет утеряна!
+
+%%subject_warn%en%%
+Please, enter the Message subject!
+%%subject_warn%ru%%
+Пожалуйста, введите тему сообщения!
+
+%%message_warn%en%%
+Please, enter the Message text!
+%%message_warn%ru%%
+Пожалуйста, введите текст сообщения!
+
+%%test_mail_invalid%en%%
+E-mail invalid!
+%%test_mail_invalid%ru%%
+Некорректный адрес!
+
+%%status_sent%en%%
+_email_ - [Sent]
+%%status_sent%ru%%
+_email_ - [Sent]
+
+%%status_failed%en%%
+_email_ - [Failed]
+%%status_failed%ru%%
+_email_ - [Failed]
+
+%%status_test_email%en%%
+Email has been sent to _email_.
+%%status_test_email%ru%%
+Сообщение отправлено на _email_.
+
+%%status_sendmail%en%%
+Sent to subscribers.
+%%status_sendmail%ru%%
+Отправлено подписчикам
+
+%%status_attention%en%%
+ATTENTION: do not forget again to attach the file!
+%%status_attention%ru%%
+ВНИМАНИЕ: не забудьте указать файл!
+
+%%status_error%en%%
+An error occurred while processing...
+%%status_error%ru%%
+Произошла ошибка ...
+
+%%status_queue%en%%
+Message have been set to queue
+%%status_queue%ru%%
+Сообщение поставлено в очередь
+
+%%all_topics%en%%
+All topics
+%%all_topics%ru%%
+Все темы
+
+%%no_subscribers%en%%
+No subscribers found
+%%no_subscribers%ru%%
+Подписчиков не найдено
+
+%%attach_warn%en%%
+You cannot attach a file of this type
+%%attach_warn%ru%%
+Вы не можете присоединить файл такого типа
+
+%%status_host_users_broadcast_sent%en%%
+Broadcast site administrators message has been sent
+%%status_host_users_broadcast_sent%ru%%
+Сообщение отправлено администраторам сайтов
+
+%%status_host_users_broadcast_deleted%en%%
+Broadcast site administrators message has been deleted.
+%%status_host_users_broadcast_deleted%ru%%
+Сообщение администраторам сайтов удалено.
+
+%%status_local_sites_broadcast_sent%en%%
+Broadcast local sites message has been sent
+%%status_local_sites_broadcast_sent%ru%%
+Сообщение отправлено на локальные сайты
+
+%%status_local_sites_broadcast_deleted%en%%
+Broadcast local sites message has been deleted.
+%%status_local_sites_broadcast_deleted%ru%%
+Сообщение локальным сайтам удалено.

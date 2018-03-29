@@ -1,0 +1,59 @@
+%%multicat%en%%
+Always to show the list of albums
+%%multicat%ru%%
+Всегда отображать список альбомов
+
+%%multicat%en%%
+To show the list of albums in the list of pictures
+%%multicat%ru%%
+Отображать список альбомов в списке изображений
+
+%%multicat_in_body_details%en%%
+To show the list of albums in details of picture
+%%multicat_in_body_details%ru%%
+Отображать список альбомов в деталях изображения
+
+%%show_last_items%en%%
+Support for special link parameter "show_last=N"
+%%show_last_items%ru%%
+Поддержка спец. параметра ссылки "show_last=N"
+
+%%show_subitems%en%%
+Show of pictures in a mode of display in albums
+%%show_subitems%ru%%
+Отображение изображений в режиме отображения в альбомов
+
+%%spl_categories%en%%
+Albums
+%%spl_categories%ru%%
+Альбомы
+
+%%body_cats_cols%en%%
+Number of columns in albums on the page
+%%body_cats_cols%ru%%
+Количество столбцов в режиме отображения альбомов
+
+%%small_number_categories%en%%
+Number of albums shown in special block
+%%small_number_categories%ru%%
+Количество альбомов для отображения изображений в спецблоке
+
+%%small_categories_sort_col%en%%
+Order pictures in special block by album column
+%%small_categories_sort_col%ru%%
+Сортировать изображения при отображении в спецблоке по полю альбома
+
+%%small_categories_sort_dim%en%%
+Pictures order direction in special block (album column)
+%%small_categories_sort_dim%ru%%
+Направление сортировки изображений при отображении в спецблоке по полю альбома
+
+%%use_categories%en%%
+Use of albums
+%%use_categories%ru%%
+Использование альбомов
+
+%%small_category_ids%en%%
+Albums ids to show photoalbums in special block
+%%small_category_ids%ru%%
+ID альбомов для отображения фотоальбомов в спецблоке

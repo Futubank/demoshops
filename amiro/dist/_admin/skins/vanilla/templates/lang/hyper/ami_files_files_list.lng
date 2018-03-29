@@ -1,0 +1,51 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+%%include_language "templates/lang/hyper/ami_files_files_common.lng"%%
+
+%%list_col_date_created%en%%
+Created&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Modified
+%%list_col_date_created%ru%%
+Создан&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />Изменен
+
+%%list_col_date_modified%en%%
+%%list_col_date_modified%ru%%
+
+%%list_col_ft_name%en%%
+%%list_col_ft_name%ru%%
+
+%%list_col_ft_icon%en%%
+%%list_col_ft_icon%ru%%
+
+%%list_col_name_orig%en%%
+%%list_col_name_orig%ru%%
+
+%%list_col_name_fs%en%%
+%%list_col_name_fs%ru%%
+
+%%list_col_size%en%%
+%%list_col_size%ru%%
+
+%%byte%en%%
+bytes
+%%byte%ru%%
+байт
+
+%%kilobyte%en%%
+Kb
+%%kilobyte%ru%%
+Кб
+
+%%megabyte%en%%
+Mb
+%%megabyte%ru%%
+Мб
+
+%%gigabyte%en%%
+Gb
+%%gigabyte%ru%%
+Гб
+
+%%list_col_filename%en%%
+Filename
+%%list_col_filename%ru%%
+Имя файла

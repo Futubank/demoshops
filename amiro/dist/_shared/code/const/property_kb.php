@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       905 xkqwllmlwszpwmlrssmmlmrmsgwglmpstuqtgnyqwlgmkxuxillqugknyptlxlgtmmrgpnir
+ */ ?><?php foreach(array(17309=>'iHSuJQqDOHGmtQI',17310=>'iHSuJQkymtQI',17311=>'|WZt',17312=>'iHSuJQqDOHGwZt') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLI1LIl =$Illl1II ='kb'; $lLI1LII ='kb'; include 'property_eshop_def.php'; $vMod =&$Core->GetModule($lLI1LIl.'_item'); $vMod->SetProperty('engine_classes', array (I17309, I17310)); $vMod->SetProperty('picture_cat', 'kb'); $vMod =&$Core->GetModule($lLI1LIl .I17311); $vMod->SetProperty('engine_classes', array (I17312)); 

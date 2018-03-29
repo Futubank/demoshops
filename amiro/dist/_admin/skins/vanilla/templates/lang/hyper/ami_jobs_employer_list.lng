@@ -1,0 +1,66 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_lname%en%%
+Name
+%%list_col_lname%ru%%
+ФИО
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_name%en%%
+Company
+%%list_col_name%ru%%
+Компания
+
+%%list_col_resume_lname%en%%
+Competitor
+%%list_col_resume_lname%ru%%
+Соискатель
+
+%%list_col_job%en%%
+Position
+%%list_col_job%ru%%
+Должность
+
+%%status_not viewed%en%%
+Not views
+%%status_not viewed%ru%%
+Не рассмотрен
+
+%%status_marked%en%%
+Marked
+%%status_marked%ru%%
+Помечен
+
+%%status_ignored%en%%
+Ignore
+%%status_ignored%ru%%
+Игнорировать
+
+%%status_replied%en%%
+Competitor info was sent
+%%status_replied%ru%%
+Данные соискателя отправлены
+
+%%status_request%en%%
+Request new position
+%%status_request%ru%%
+Запрос на новую позицию
+
+%%list_action_reply%en%%
+Reply Item
+%%list_action_reply%ru%%
+Ответить
+
+%%list_col_fname%en%%
+%%list_col_fname%ru%%
+
+%%list_col_id_file%en%%
+%%list_col_id_file%ru%%
+
+%%list_col_resume_fname%en%%
+%%list_col_resume_fname%ru%%

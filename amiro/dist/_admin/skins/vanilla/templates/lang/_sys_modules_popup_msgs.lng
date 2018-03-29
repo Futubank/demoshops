@@ -1,0 +1,12 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%not_selected%en%%
+Select one module at least
+%%not_selected%ru%%
+Выберите как минимум один модуль
+
+%%status_applied%en%%
+New set of modules assigned to the group
+%%status_applied%ru%%
+Новый набор модулей назначен группе
+

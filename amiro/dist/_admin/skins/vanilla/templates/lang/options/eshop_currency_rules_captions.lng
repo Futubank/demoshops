@@ -1,0 +1,54 @@
+%%number_decimal_digits%en%%
+Number of decimal digits in price
+%%number_decimal_digits%ru%%
+Количество цифр после десятичной точки
+
+%%currency_socket_timeout%en%%
+Sockets operations timeout
+%%currency_socket_timeout%ru%%
+Время таймаута операций с сокетами
+
+%%currency_update_max_attempts%en%%
+Max update attempts
+%%currency_update_max_attempts%ru%%
+Максимальное число попыток обновления
+
+%%currency_percent%en%%
+Currency percent
+%%currency_percent%ru%%
+Процент
+
+%%currency_allow_autoupdate%en%%
+Allow autoupdate
+%%currency_allow_autoupdate%ru%%
+Разрешить автоматическое обновление
+
+%%currency_driver%en%%
+Currency update source
+%%currency_driver%ru%%
+Источник обновлений валют
+
+%%currency_update_period%en%%
+Update period
+%%currency_update_period%ru%%
+Период обновления
+
+%%currency_update_time%en%%
+Update time
+%%currency_update_time%ru%%
+Время обновления
+
+%%update_max_attempts%en%%
+Max update attempts in case of an error
+%%update_max_attempts%ru%%
+Количество попыток повторных обновлений, в случае возникновения ошибки
+
+%%currency_fault_update_period%en%%
+Time interval between update attempts
+%%currency_fault_update_period%ru%%
+Интервал времени между повторными попытками обновления
+
+%%spl_currency_update%en%%
+Automatic rate updates
+%%spl_currency_update%ru%%
+Автоматическое обновление курсов

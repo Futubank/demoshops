@@ -1,0 +1,10 @@
+%%proc_statistics_by_ADMIN%en%%
+in admin interface
+%%proc_statistics_by_ADMIN%ru%%
+в интерфейсе администратора
+
+%%proc_statistics_by_DAEMON%en%%
+by daemon
+%%proc_statistics_by_DAEMON%ru%%
+в фоновом режиме
+

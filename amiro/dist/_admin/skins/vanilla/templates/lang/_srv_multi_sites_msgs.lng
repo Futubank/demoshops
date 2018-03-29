@@ -1,0 +1,37 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Site was added
+%%status_add%ru%%
+Сайт был добавлен
+
+%%status_add_site_fail%en%%
+Home page for language _lang_ was not added
+%%status_add_site_fail%ru%%
+Домашняя страница для языка _lang_ не была добавлена
+
+%%status_apply%en%%
+Site was updated
+%%status_apply%ru%%
+Сайт был изменен
+
+%%url_warn%en%%
+Please, enter the URL!
+%%url_warn%ru%%
+Пожалуйста, введите URL!
+
+%%name_warn%en%%
+Please, enter the Name!
+%%name_warn%ru%%
+Пожалуйста, введите название!
+
+%%root_name%en%%
+Root page of _site_
+%%root_name%ru%%
+Домашняя страница сайта _site_
+
+%%sites_count_warn%en%%
+You are not allowed to manage more than [_num_] sites.
+%%sites_count_warn%ru%%
+Превышен лимит на допустимое количество сайтов [_num_].
+

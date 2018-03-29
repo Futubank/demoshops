@@ -1,0 +1,6 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    core 
+ * @version    $Id$ 
+ * @size       1899 xkqwwklyignpkiznwkursuqrynkzwgxlmutpygusuqwygrmqlwzkkqysxxugkwplmystpnir
+ */ ?><?php foreach(array(11934=>"fJt|tGJ|DQt",11935=>"MS",11936=>'fHrWQ') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class ModuleModulesTemplates extends CMS_ModulesTemplates {function ModuleModulesTemplates(&$cms, &$db, &$cModule) {parent::CMS_ModulesTemplates($cms, $db, $cModule); $this->extension ="tpl"; $this->isLangs =false; }function TTTlIII() {parent::TTTlIII(); $llIIILI =isset($this->cms->Vars["flt_tpl_set"]) ?stripslashes(unhtmlentities($this->cms->Vars[I11934])) :''; $this->filter->AddField(I11934, "text", $llIIILI, "", "=", I11935); $this->filter->MoveField(I11934, _MOVE_START); if(empty($this->cms->Vars[I11934])){ $this->filter->DisableFieldSQL(I11934); }else{ $llIIILI =preg_replace('/\*+/', '[^";]*', $llIIILI); $this->filter->TITI1II(I11934, ' OR content regexp \'<!--#set[ \r\n]+var="[^"]*'.mysql_real_escape_string($llIIILI).'\'', I11936); }}}

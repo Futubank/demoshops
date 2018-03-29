@@ -1,0 +1,59 @@
+%%front_page_sort_col_NAME%en%%
+By name
+%%front_page_sort_col_NAME%ru%%
+По названию
+
+%%front_page_sort_col_CATEGORY%en%%
+By category name
+%%front_page_sort_col_CATEGORY%ru%%
+По названию категории
+
+%%front_page_sort_col_PRICE%en%%
+By price
+%%front_page_sort_col_PRICE%ru%%
+По цене
+
+%%front_page_sort_col_POSITION%en%%
+By position
+%%front_page_sort_col_POSITION%ru%%
+По позиции
+
+%%front_page_sort_col_SKU%en%%
+By sku
+%%front_page_sort_col_SKU%ru%%
+По коду
+
+%%front_page_sort_col_ON_SPECIAL%en%%
+By status 'Special'
+%%front_page_sort_col_ON_SPECIAL%ru%%
+По статусу 'Специальный'
+
+%%page_sort_col_cats_NAME%en%%
+By name
+%%page_sort_col_cats_NAME%ru%%
+По названию
+
+%%page_sort_col_cats_POSITION%en%%
+By position
+%%page_sort_col_cats_POSITION%ru%%
+По позиции
+
+%%page_sort_col_pricecats_NAME%en%%
+By name
+%%page_sort_col_pricecats_NAME%ru%%
+По названию
+
+%%page_sort_col_pricecats_POSITION%en%%
+By position
+%%page_sort_col_pricecats_POSITION%ru%%
+По позиции
+
+%%splitter_period_0%en%%
+None
+%%splitter_period_0%ru%%
+Отсутствует
+
+%%splitter_period_1%en%%
+Count
+%%splitter_period_1%ru%%
+Количество

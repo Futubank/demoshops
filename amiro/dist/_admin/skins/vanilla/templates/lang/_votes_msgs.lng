@@ -1,0 +1,46 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%question_warn%en%%
+Please, enter the question
+%%question_warn%ru%%
+Пожалуйста, введите вопрос
+
+%%answers_warn%en%%
+Please, enter at least one answer
+%%answers_warn%ru%%
+Пожалуйста, введите хотя бы один ответ
+
+%%other_warn%en%%
+All custom answers will be reset. Are you sure?
+%%other_warn%ru%%
+Все ответы пользователя "другое" будут сброшены. Вы уверены?
+
+%%status_add%en%%
+Poll item was added.
+%%status_add%ru%%
+Опрос добавлен
+
+%%status_apply%en%%
+Poll was updated
+%%status_apply%ru%%
+Опрос изменен
+
+%%status_del%en%%
+Poll item was deleted
+%%status_del%ru%%
+Опрос удален
+
+%%status_reset%en%%
+Poll was reset
+%%status_reset%ru%%
+Опрос обнулен
+
+%%answers_text_only_warn%en%%
+Dropdown list could contain text answers only
+%%answers_text_only_warn%ru%%
+Выпадающий список может содержать только текстовые ответы
+
+%%answers_text_only_confirm%en%%
+Dropdown list could contain text answers only. There will be no pictures in this poll. Are you sure?
+%%answers_text_only_confirm%ru%%
+Выпадающий список может содержать только текстовые ответы. Картинок в этом опросе не будет. Вы уверены?

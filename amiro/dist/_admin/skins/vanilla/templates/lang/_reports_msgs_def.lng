@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Report was added.
+%%status_add%ru%%
+Отчет добавлен.
+
+%%status_apply%en%%
+Report was updated.
+%%status_apply%ru%%
+Отчет изменен.
+
+%%status_del%en%%
+Report was deleted.
+%%status_del%ru%%
+Отчет удален.
+
+%%status_del_fail%en%%
+Report was not deleted.
+%%status_del_fail%ru%%
+Отчет не удален.
+
+%%template_warn%en%%
+Please select template file
+%%template_warn%ru%%
+Пожалуйста, выберите файл шаблона

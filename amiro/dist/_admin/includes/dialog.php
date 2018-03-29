@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       781 xkqwkqqprklyulmilpmnwpikuwmwrgysnyxrsxrymgniyxgzrwtqpmggqltniyxmnnytpnir
+ */ ?><?php foreach(array(20841=>"SMZJHP") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $l1IIllL =true; $ILlIlIl=1; $Core->Cache->SetDebug(false); require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; AMI_Service::hideDebug(); $adm->Gui->addBlock(I20841, "templates/dialog.tpl"); echo $adm->Gui->getAbs(I20841, array ('meta' => $adm->Gui->getMeta('content-type'))); $conn->Out(); 

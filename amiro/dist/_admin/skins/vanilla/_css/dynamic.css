@@ -1,0 +1,14 @@
+TABLE {border-top:1px #0000ff dotted;border-right:1px #0000ff dotted;}
+TD {border-left:1px #0000ff dotted;border-bottom:1px #0000ff dotted;}
+P {border:1px #9999b9 solid;background: url(../images/ed_tag_p.gif) right top no-repeat}
+H1 {border:1px #b99999 solid;background: url(../images/ed_tag_h.gif) right top no-repeat}
+H2 {border:1px #b99999 solid;background: url(../images/ed_tag_h.gif) right top no-repeat}
+H3 {border:1px #b99999 solid;background: url(../images/ed_tag_h.gif) right top no-repeat}
+H4 {border:1px #b99999 solid;background: url(../images/ed_tag_h.gif) right top no-repeat}
+H5 {border:1px #b99999 solid;background: url(../images/ed_tag_h.gif) right top no-repeat}
+DIV {border:1px #9999b9 solid;background: url(../images/ed_tag_div.gif) right top no-repeat}
+SPAN {border:1px #9999b9 solid;background: url(../images/ed_tag_span.gif) right top no-repeat}
+PRE {border:1px #99b999 solid;background: url(../images/ed_tag_pre.gif) right top no-repeat}
+A.sysce_anchor {width:18px;background: url(../images/ed_tag_a.gif) no-repeat}
+span.Apple-style-span{border:0px; background: transparent}
+span.Amiro-span-to-font{border:0px; background: transparent}

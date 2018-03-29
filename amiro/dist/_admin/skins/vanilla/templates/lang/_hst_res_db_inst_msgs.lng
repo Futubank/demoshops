@@ -1,0 +1,32 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+
+%%status_add%en%%
+Database was added.
+%%status_add%ru%%
+База данных добавлена.
+
+%%status_add_fail%en%%
+Database was not added.
+%%status_add_fail%ru%%
+База данных не добавлена.
+
+%%status_apply%en%%
+Database was updated.
+%%status_apply%ru%%
+База данных изменена.
+
+%%status_apply_fail%en%%
+Database was not updated.
+%%status_apply_fail%ru%%
+База данных не изменена.
+
+%%status_del%en%%
+Database was deleted.
+%%status_del%ru%%
+База данных удалена.
+
+%%status_del_fail%en%%
+Database was not deleted.
+%%status_del_fail%ru%%
+База данных не удалена.

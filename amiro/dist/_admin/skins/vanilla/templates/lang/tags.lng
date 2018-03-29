@@ -1,0 +1,21 @@
+%%include_language "templates/lang/main.lng"%%
+
+%%tags%en%%
+Tags
+%%tags%ru%%
+Теги
+
+%%select_tags%en%%
+Select tags
+%%select_tags%ru%%
+Выбрать теги
+
+%%select%en%%
+Select
+%%select%ru%%
+Выбрать
+
+%%att_search_install%en%%
+The "Search" module must be installed for tags functioning.
+%%att_search_install%ru%%
+Работа модуля "Теги" невозможна. Отсутствует необходимый модуль "Поиск".

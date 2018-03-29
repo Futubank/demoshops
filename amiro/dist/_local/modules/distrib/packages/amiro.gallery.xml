@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="amiro.gallery" version="1.1" manifestVersion="1.0">
+    <information lang="en">
+        <title>Инфоленты - Галерея</title>
+        <description><![CDATA[<img src="http://www.amiro.ru/_mod_files/ce_images/eshop/info_gallery_big.png" align="left" />Инфолента «Галерея» позволяет администратору закачивать на сайт изображения и фото-материалы, распределять по категориям и публиковать на сайте сами фотоматериалы и альбомы с ними. Для каждого изображения есть возможность отображать его текстовое описание, комментарии, рейтинг]]></description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amirocms.com</source>
+    </information>
+    <information lang="ru">
+        <title>Инфоленты - Галерея</title>
+        <description><![CDATA[<img src="http://www.amiro.ru/_mod_files/ce_images/eshop/info_gallery_big.png" align="left" />Инфолента «Галерея» позволяет администратору закачивать на сайт изображения и фото-материалы, распределять по категориям и публиковать на сайте сами фотоматериалы и альбомы с ними. Для каждого изображения есть возможность отображать его текстовое описание, комментарии, рейтинг]]></description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amiro.ru</source>
+    </information>
+    <contents>
+        <content hypermodule="ami_multifeeds" configuration="photoalbum" version="1.0" />
+    </contents>
+    <installation>
+        <install hypermodule="ami_multifeeds" configuration="photoalbum" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_multifeeds" version="1.0" />
+    </dependencies>
+</package>

@@ -1,0 +1,13 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+%%include_language "templates/lang/hyper/ami_catalog_items_common.lng"%%
+
+%%filter_field_id_source%en%%
+Item links only
+%%filter_field_id_source%ru%%
+Только товары-ссылки
+
+%%path_all%en%%
+All
+%%path_all%ru%%
+Все

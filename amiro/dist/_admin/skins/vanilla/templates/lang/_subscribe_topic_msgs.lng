@@ -1,0 +1,11 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Subscribe topic was added.
+%%status_add%ru%%
+Тема подписки добавлена
+
+%%status_apply%en%%
+Subscribe topic was updated.
+%%status_apply%ru%%
+Тема подписки изменена

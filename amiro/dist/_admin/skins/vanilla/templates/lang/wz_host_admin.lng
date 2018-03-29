@@ -1,0 +1,50 @@
+
+%%wz_host_admin_apply%en%%
+Settings
+%%wz_host_admin_apply%ru%%
+Настройки
+
+%%allow_create_site%en%%
+Site creation allowed
+%%allow_create_site%ru%%
+Разрешено создание сайтов
+
+%%allow_create_front_site%en%%
+Site creation on builder front page allowed
+%%allow_create_front_site%ru%%
+Разрешено создание сайтов на странице конструктора
+
+%%allow_update_site%en%%
+Site status and properties change allowed
+%%allow_update_site%ru%%
+Разрешено изменение свойств и статуса сайтов
+
+%%allow_delete_site%en%%
+Site deletion allowed
+%%allow_delete_site%ru%%
+Разрешено удаление сайтов
+
+%%allow_copy_site%en%%
+Site copying allowed
+%%allow_copy_site%ru%%
+Разрешено копирование сайтов
+
+%%demo_sites%en%%
+Demo sites
+%%demo_sites%ru%%
+Демо-сайты
+
+%%demo_unchanged%en%%
+Leave as is
+%%demo_unchanged%ru%%
+Не менять
+
+%%demo_lock_all%en%%
+Lock all
+%%demo_lock_all%ru%%
+Заблокировать все
+
+%%demo_unlock_all%en%%
+Unlock all
+%%demo_unlock_all%ru%%
+Разблокировать все

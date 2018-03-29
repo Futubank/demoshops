@@ -1,0 +1,19 @@
+%%eshop_main_cat%en%%
+Main Category
+%%eshop_main_cat%ru%%
+Главная категория
+%%eshop_main_cat%de%%
+Main Category (de)
+%%eshop_main_cat%fr%%
+Main Category (fr)
+
+%%prices_help%en%%
+<b>How to set formula</b><br>
+Use base price as main price of some product to see what will be result of formula calculation.<br> 
+In Prices fields you can use formulas like the following:<br>
+example 1:<b>[ price*10 ]</b>; example 2: <b>[ price/133*33 ];</b> example 3: <b>[ price - price1 ]</b>
+%%prices_help%ru%%
+<b>Как использовать формулы</b><br>
+Используйте Базовую Цену, что бы контролировать результат расчетов по формулам.<br>
+Примеры формул: <br>
+пример 1:<b>[ price*10 ]</b>; пример 2: <b>[ price/133*33 ];</b> пример 3: <b>[ price - price1 ]</b>

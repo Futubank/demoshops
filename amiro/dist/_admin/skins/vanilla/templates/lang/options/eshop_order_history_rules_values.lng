@@ -1,0 +1,74 @@
+%%front_page_sort_col_NAME%en%%
+By name
+%%front_page_sort_col_NAME%ru%%
+По названию
+
+%%front_page_sort_col_ORDER_DATE%en%%
+By order date
+%%front_page_sort_col_ORDER_DATE%ru%%
+По дате заказа
+
+%%allowed_order_status_DRAFT%en%%
+Draft
+%%allowed_order_status_DRAFT%ru%%
+Запрос
+
+%%allowed_order_status_PRINTED%en%%
+Printed
+%%allowed_order_status_PRINTED%ru%%
+Распечатан
+
+%%allowed_order_status_PENDING%en%%
+Pending
+%%allowed_order_status_PENDING%ru%%
+Обрабатывается
+
+%%allowed_order_status_CHECKOUT%en%%
+Checkout
+%%allowed_order_status_CHECKOUT%ru%%
+Оплачивается
+
+%%allowed_order_status_WAITING%en%%
+Waiting
+%%allowed_order_status_WAITING%ru%%
+Ожидается
+
+%%allowed_order_status_SHIPPED%en%%
+Shipped
+%%allowed_order_status_SHIPPED%ru%%
+Отправлен
+
+%%allowed_order_status_DELIVERED%en%%
+Delivered
+%%allowed_order_status_DELIVERED%ru%%
+Доставлен
+
+%%allowed_order_status_REJECTED%en%%
+Rejected
+%%allowed_order_status_REJECTED%ru%%
+Отказ
+
+%%allowed_order_status_ACCEPTED%en%%
+Accepted
+%%allowed_order_status_ACCEPTED%ru%%
+Принят
+
+%%allowed_order_status_CANCELLED%en%%
+Cancelled
+%%allowed_order_status_CANCELLED%ru%%
+Отменен
+
+%%allowed_order_status_CONFIRMED%en%%
+Confirmed
+%%allowed_order_status_CONFIRMED%ru%%
+Подтвержден
+
+%%allowed_order_status_CONFIRMED_CONDITIONALLY%en%%
+Confirmed conditionally
+%%allowed_order_status_CONFIRMED_CONDITIONALLY%ru%%
+Условно оплачен
+
+%%allowed_order_status_CONFIRMED_DONE%en%%
+Paid
+%%allowed_order_status_CONFIRMED_DONE%ru%%
+Зачислено

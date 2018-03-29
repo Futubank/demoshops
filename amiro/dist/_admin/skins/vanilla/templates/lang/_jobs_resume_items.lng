@@ -1,0 +1,20 @@
+%%include_language "templates/lang/_common_items.lng"%%
+%%title%en%%
+Position
+%%title%ru%%
+Должность
+
+%%department%en%%
+Department
+%%department%ru%%
+Отдел
+
+%%resume%en%%
+Resume
+%%resume%ru%%
+Резюме
+
+%%addon%en%%
+Additional
+%%addon%ru%%
+Дополнительно

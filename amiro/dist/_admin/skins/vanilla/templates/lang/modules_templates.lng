@@ -1,0 +1,105 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_modules_templates_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%path%en%%
+Path
+%%path%ru%%
+Путь
+
+%%name%en%%
+Template
+%%name%ru%%
+Шаблон
+
+%%module%en%%
+Module
+%%module%ru%%
+Модуль
+
+%%mdate%en%%
+Modified
+%%mdate%ru%%
+Изменен
+
+%%content%en%%
+Content
+%%content%ru%%
+Содержимое
+
+%%modules_templates_add%en%%
+Add template
+%%modules_templates_add%ru%%
+Добавить шаблон модуля
+
+%%modules_templates_apply%en%%
+Edit module template
+%%modules_templates_apply%ru%%
+Редактировать шаблон модуля
+
+%%modules_templates_view%en%%
+View module template
+%%modules_templates_view%ru%%
+Просмотр шаблона модуля
+
+%%action_export%en%%
+Export to disk
+%%action_export%ru%%
+Сохранить шаблоны на диск
+
+%%action_import%en%%
+Import from disk
+%%action_import%ru%%
+Восстановить шаблоны с диска
+
+%%common_module%en%%
+Common
+%%common_module%ru%%
+Общие
+
+%%module_type_front%en%%
+Website
+%%module_type_front%ru%%
+Сайт
+
+%%module_type_admin%en%%
+Control panel
+%%module_type_admin%ru%%
+Панель управления
+
+%%module_type_shared%en%%
+Shared
+%%module_type_shared%ru%%
+Общий
+
+%%disk_template_modified%en%%
+There are more new version of template on disk
+%%disk_template_modified%ru%%
+На диске имеется измененный шаблон
+
+%%choose_export_type%en%%
+There are modified templates on disk.\nDo you want to overwrite them?
+%%choose_export_type%ru%%
+На диске имеются измененные шаблоны.\nПерезаписать их?
+
+%%choose_import_type%en%%
+There are old templates on disk than in system.\nDo you want to overwrite them in system?
+%%choose_import_type%ru%%
+На диске имеются более старые шаблоны чем в системе.\nПерезаписать их в систему?
+
+%%do_export%en%%
+Export templates to disk?
+%%do_export%ru%%
+Сохранить шаблоны на диск?
+
+%%do_import%en%%
+Import templates from disk?
+%%do_import%ru%%
+Восстановить шаблоны с диска?
+
+%%export_not_allowed%en%%
+Templates export is not allowed while templates are read from disk.
+%%export_not_allowed%ru%%
+Сохранение шаблонов на диск невозможно, пока они считываются с диска.

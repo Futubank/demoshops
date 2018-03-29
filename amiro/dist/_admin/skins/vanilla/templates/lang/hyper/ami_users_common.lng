@@ -1,0 +1,26 @@
+##--system info: module_owner="" module="" system="1"--##
+
+%%caption_login%en%%
+Login
+%%caption_login%ru%%
+Логин
+
+%%caption_nickname%en%%
+Nickname
+%%caption_nickname%ru%%
+Nickname
+
+%%caption_email%en%%
+E-mail
+%%caption_email%ru%%
+E-mail
+
+%%caption_firstname%en%%
+First name
+%%caption_firstname%ru%%
+Имя
+
+%%caption_lastname%en%%
+Last name
+%%caption_lastname%ru%%
+Фамилия

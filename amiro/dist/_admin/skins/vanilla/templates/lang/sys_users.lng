@@ -1,0 +1,155 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_sys_users_msgs.lng"%%
+
+%%empty%en%%
+There is no users according requested data
+%%empty%ru%%
+Нет пользователей, соответствующих запрошенным данным.
+
+%%username%en%%
+Username
+%%username%ru%%
+Логин
+
+%%lastname%en%%
+Last and First names
+%%lastname%ru%%
+Фамилия и имя
+
+%%orig_lastname%en%%
+Last name
+%%orig_lastname%ru%%
+Фамилия
+
+%%orig_firstname%en%%
+First name
+%%orig_firstname%ru%%
+Имя
+
+%%user_groups%en%%
+Groups
+%%user_groups%ru%%
+Группы
+
+%%mask_allow%en%%
+Allow
+%%mask_allow%ru%%
+Разрешено
+
+%%mask_deny%en%%
+Deny
+%%mask_deny%ru%%
+Запрещено
+
+%%login%en%%
+Login
+%%login%ru%%
+Логин
+
+%%sys_users_add%en%%
+Add user
+%%sys_users_add%ru%%
+Добавить пользователя
+
+%%sys_users_apply%en%%
+Modify user
+%%sys_users_apply%ru%%
+Изменить данные пользователя
+
+%%sys_users_popup_add%en%%
+Add user
+%%sys_users_popup_add%ru%%
+Добавить пользователя
+
+%%sys_users_popup_apply%en%%
+Modify user
+%%sys_users_popup_apply%ru%%
+Изменить данные пользователя
+
+%%mask_leg_start%en%%
+Mask ARWD
+%%mask_leg_start%ru%%
+Маска ARWD
+
+%%mask_leg_-%en%%
+Forbidden
+%%mask_leg_-%ru%%
+Запрещено
+
+%%mask_A%en%%
+Admin
+%%mask_A%ru%%
+Админ
+
+%%mask_R%en%%
+Read
+%%mask_R%ru%%
+Чтение
+
+%%mask_W%en%%
+Write
+%%mask_W%ru%%
+Запись
+
+%%mask_D%en%%
+Delete
+%%mask_D%ru%%
+Удаление
+
+%%icon_spec_login_on%en%%
+Admin login allowed
+%%icon_spec_login_on%ru%%
+Логин в админ интерфейс разрешён
+
+%%icon_move%en%%
+Add to group
+%%icon_move%ru%%
+Добавить к группе
+
+%%icon_remove%en%%
+Remove from group
+%%icon_remove%ru%%
+Удалить из группы
+
+%%selected_users_list%en%%
+Current group members
+%%selected_users_list%ru%%
+Пользователи, присоединённые к группе
+
+%%selected_users_empty%en%%
+There are no selected members
+%%selected_users_empty%ru%%
+Нет выбранных пользователей
+
+%%remove_confirm%en%%
+Remove this user from the current group?
+%%remove_confirm%ru%%
+Удалить пользователя из текущей группы?
+
+%%users_list%en%%
+Users list
+%%users_list%ru%%
+Список пользователей
+
+%%add_to_list%en%%
+Add user to current group
+%%add_to_list%ru%%
+Добавить пользователя в текущую группу
+
+%%groups_add_list%en%%
+Assign user to groups
+%%groups_add_list%ru%%
+Назначить пользователю группы
+
+%%number_groups%en%%
+Number of groups for user
+%%number_groups%ru%%
+Количество групп для пользователя
+
+%%title%en%%
+System users
+%%title%ru%%
+Пользователи системы

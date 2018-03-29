@@ -1,0 +1,29 @@
+%%status_grp_id_page_copy%en%%
+The items are copied on page "_page_name_". Total _num_copied_
+%%status_grp_id_page_copy%ru%%
+Элементы скопированы на страницу "_page_name_". Всего: _num_copied_
+
+%%status_grp_id_page_move%en%%
+The items are moved on page "_page_name_". Total _num_copied_
+%%status_grp_id_page_move%ru%%
+Элементы перемещены на страницу "_page_name_". Всего: _num_copied_
+
+%%status_grp_id_page_copy_common%en%%
+The items are copied and are made common. Total _num_copied_
+%%status_grp_id_page_copy_common%ru%%
+Элементы скопированы и сделаны общими. Всего: _num_copied_
+
+%%status_grp_id_page_move_common%en%%
+The items are made common. Total _num_copied_
+%%status_grp_id_page_move_common%ru%%
+Элементы сделаны общими. Всего: _num_copied_
+
+%%warn_compare_module%en%%
+Products comparison becames available after adding of module in site manager
+%%warn_compare_module%ru%%
+Возможность сравнивать товары появится после добавления модуля в менеджере сайта
+
+%%status_grp_note_resetratings%en%%
+Rating values are reseted. Total: _num_items_ 
+%%status_grp_note_resetratings%ru%%
+Рейтинги обнулены. Всего: _num_items_

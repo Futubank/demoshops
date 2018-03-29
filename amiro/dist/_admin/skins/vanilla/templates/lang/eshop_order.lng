@@ -1,0 +1,29 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/_eshop_main.lng"%%
+%%include_language "templates/lang/_history.lng"%%
+%%include_language "templates/lang/eshop_order_def.lng"%%
+
+%%eshop_order_add%en%%
+Add Eshop order
+%%eshop_order_add%ru%%
+Добавить заказ магазина
+
+%%eshop_order_apply%en%%
+Edit Eshop order
+%%eshop_order_apply%ru%%
+Редактировать заказ магазина
+
+%%goods_value%en%%
+Products value
+%%goods_value%ru%%
+Стоимость товаров
+
+%%product%en%%
+Product
+%%product%ru%%
+Товар

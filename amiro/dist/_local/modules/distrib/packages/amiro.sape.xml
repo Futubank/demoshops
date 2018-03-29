@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="amiro.sape" version="1.0" manifestVersion="1.0">
+    <information lang="en">
+        <title>SAPE.RU link exchanger</title>
+        <description>SAPE.RU link exchanger</description>
+        <author>Amiro.CMS</author>
+        <source>http://amirocms.com/</source>
+    </information>
+    <information lang="ru">
+        <title>Отображение ссылок с SAPE.RU</title>
+        <description>Плагин предназначен для отображения ссылок, предоставляемых интернет-сервисом SAPE.RU.
+ВНИМАНИЕ! Все действия по установке программного кода, которые описаны на сайте sape.ru выполнять не нужно.
+Требуется только правильно сконфигурировать данный плагин.
+После установки плагина, в менеджере сайта появиться специальный блок "Отображение ссылок с SAPE.RU".</description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amiro.ru/</source>
+    </information>
+    <installation>
+        <install hypermodule="ami_clean" configuration="sape" version="1.0" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_clean" version="1.0" />
+    </dependencies>
+</package>

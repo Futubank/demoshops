@@ -1,0 +1,25 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_forum_msgs.lng"%%
+
+%%form_header%en%%
+Message Board Data Import
+%%form_header%ru%%
+Импорт данных форума
+
+%%tab_other%en%%
+Other
+%%tab_other%ru%%
+Другое
+
+%%btn_generate_avatars%en%%
+Generate avatars
+%%btn_generate_avatars%ru%%
+Сгенерировать аватары
+
+%%tooltip_import_avatars%en%%
+You can create message board avatars usinc current size settings from files located at folder <b>&quot;_mod_files/users&quot;</b>.
+%%tooltip_import_avatars%ru%%
+Вы можете создать аватары для форума с учетом текущих настроек размеров аватар из файлов, находящихся в папке <b>&quot;_mod_files/users&quot;</b>.

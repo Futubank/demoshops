@@ -1,0 +1,34 @@
+%%include_language "templates/lang/_menu_all.lng"%%
+%%include_language "_local/_admin/templates/lang/modules/_menu_group.lng"%%
+%%__file_comment__%en%%
+-- there you can redefine names for content dock menu bar --
+
+%%eshop_item%en%%
+Products
+%%eshop_item%ru%%
+Каталог
+
+%%eshop_data_exchange%en%%
+Data exchange
+%%eshop_data_exchange%ru%%
+Обмен данными
+
+%%eshop_user%en%%
+Users
+%%eshop_user%ru%%
+Пользователи
+
+%%eshop_order%en%%
+Orders
+%%eshop_order%ru%%
+Заказы
+
+%%eshop_currency%en%%
+Currency
+%%eshop_currency%ru%%
+Валюта
+
+%%eshop_reference%en%%
+References data
+%%eshop_reference%ru%%
+Данные справочников

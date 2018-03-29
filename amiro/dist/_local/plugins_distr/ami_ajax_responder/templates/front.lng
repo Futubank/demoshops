@@ -1,0 +1,51 @@
+%%forbidden_module%en%%
+Forbidden module
+%%forbidden_module%ru%%
+Запрещенный модуль
+
+%%navi_previous_page%en%%
+Previous page
+%%navi_previous_page%ru%%
+Предыдущая страница
+
+%%navi_next_page%en%%
+Next page
+%%navi_next_page%ru%%
+Следующая страница
+
+%%navi_previous_element%en%%
+&laquo;1
+%%navi_previous_element%ru%%
+&laquo;1
+
+%%navi_next_element%en%%
+1&raquo;
+%%navi_next_element%ru%%
+1&raquo;
+
+%%navi_refresh%en%%
+Refresh
+%%navi_refresh%ru%%
+Обновить
+
+%%navi_play_pause%en%%
+Play / pause
+%%navi_play_pause%ru%%
+Пуск / пауза
+
+##-- files ( --##
+
+%%file_size%en%%
+Size
+%%file_size%ru%%
+Размер
+
+##-- ) files --##
+##-- eshop_item ( --##
+
+%%eshop_currency%en%%
+Rub
+%%eshop_currency%ru%%
+Руб.
+
+##-- } eshop_item --##

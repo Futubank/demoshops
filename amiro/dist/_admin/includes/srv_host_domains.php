@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1138 xkqwrqxnwkqrsnsmpgluswzxriynksnqxnrxkpmmirsswsumrlsinpzwsknsyklwznntpnir
+ */ ?><?php foreach(array(22321=>'MnMt`GOG',22322=>"tQIGJZtQD~fHrI`tGJ") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl ="services"; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. I22321; $l1LIIIL =&$adm->Core->GetModule("srv_host_domains"); $l1LIIIL->InitEngine($adm, $db); $aTemplates =Array( "srv_host_domains_subform"=>"templates/srv_host_domains_form.tpl", "srv_host_domains_form" => I22322 );$l1LIIIL->Engine->Init($aTemplates, 'templates/lang/_srv_host_domains_msgs.lng', 'templates/lang/srv_host_domains.lng'); $l1LIIIL->Engine->ProcessAction($adm->Vars['action'], $adm->Vars['id']); $html += $l1LIIIL->Engine->GetHtml($NONE); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; ?>

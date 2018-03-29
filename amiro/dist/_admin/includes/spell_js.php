@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1122 xkqwsgmrsmnnwsusrkxkukluyyklykgwlzmxtmltttrtmlsytgupnqplntmzwssiwyilpnir
+ */ ?><?php foreach(array(22310=>"QnZYJQS") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $l1IIllL =true; $ILlIlIl=1; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $conn->AddHeader("Content-Type: application/x-javascript; charset=UTF-8"); AMI_Service::hideDebug(); $Core->Cache->SetDebug(false); $l1I1l1I =$adm->Gui->ParseLangFile("templates/ce/spell_js.lng"); $adm->Core->Cache->TT1Tl1I(); $adm->Gui->addBlock("spell_js", "templates/ce/spell_js.tpl"); $l1l1111 =$adm->Core->GetModule("spell"); if ($l1l1111->GetOption(I22310) == 1) $l1Il1Ll =$adm->Gui->getAbs("spell_js", ""); else $l1Il1Ll =$adm->Gui->getAbs("spell_js:disabled", ""); echo $l1Il1Ll; $conn->Out(); 

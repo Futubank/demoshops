@@ -1,0 +1,19 @@
+%%status_add%en%%
+News reference was added.
+%%status_add%ru%%
+Справочник добавлен.
+
+%%status_apply%en%%
+Reference was updated.
+%%status_apply%ru%%
+Справочник изменен.
+
+%%status_del%en%%
+Reference was deleted.
+%%status_del%ru%%
+Справочник удален.
+
+%%status_del_fail%en%%
+Reference was not deleted.
+%%status_del_fail%ru%%
+Справочник не удален.

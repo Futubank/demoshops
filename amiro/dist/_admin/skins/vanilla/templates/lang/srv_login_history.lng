@@ -1,0 +1,34 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%login%en%%
+Login
+%%login%ru%%
+Логин
+
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%status%en%%
+Status
+%%status%ru%%
+Статус
+
+%%ip%en%%
+IP
+%%ip%ru%%
+IP
+
+%%success%en%%
+Success
+%%success%ru%%
+Успех
+
+%%fail%en%%
+Fail
+%%fail%ru%%
+Неудача

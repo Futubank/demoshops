@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%reset_warn%en%%
+Are you sure to reset results of this Poll?
+%%reset_warn%ru%%
+Вы уверены, что желаете обнулить результаты Опроса?

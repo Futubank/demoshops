@@ -1,0 +1,636 @@
+%%page_sort_col_NAME%en%%
+By name
+%%page_sort_col_NAME%ru%%
+По названию
+
+%%page_sort_col_CATEGORY%en%%
+By category name
+%%page_sort_col_CATEGORY%ru%%
+По названию категории
+
+%%page_sort_col_PRICE%en%%
+By price
+%%page_sort_col_PRICE%ru%%
+По цене
+
+%%page_sort_col_POSITION%en%%
+By position
+%%page_sort_col_POSITION%ru%%
+По позиции
+
+%%front_page_sort_col_NAME%en%%
+By name
+%%front_page_sort_col_NAME%ru%%
+По названию
+
+%%front_page_sort_col_CATEGORY%en%%
+By category name
+%%front_page_sort_col_CATEGORY%ru%%
+По названию категории
+
+%%front_page_sort_col_PRICE%en%%
+By price
+%%front_page_sort_col_PRICE%ru%%
+По цене
+
+%%front_page_sort_col_POSITION%en%%
+By position
+%%front_page_sort_col_POSITION%ru%%
+По позиции
+
+%%front_page_sort_col_SKU%en%%
+By sku
+%%front_page_sort_col_SKU%ru%%
+По коду
+
+%%front_page_sort_col_DATE%en%%
+By date
+%%front_page_sort_col_DATE%ru%%
+По дате
+
+%%front_page_sort_col_VOTES_RATE%en%%
+By rating
+%%front_page_sort_col_VOTES_RATE%ru%%
+По рейтингу
+
+%%shipping_scheme_SUM%en%%
+Show calculated tax amount
+%%shipping_scheme_SUM%ru%%
+Сумма по всем товарам
+
+%%shipping_scheme_MAX%en%%
+Maximum of the products
+%%shipping_scheme_MAX%ru%%
+Максимальное из товаров
+
+%%shipping_scheme_MIN%en%%
+Minimal of the products
+%%shipping_scheme_MIN%ru%%
+Минимальное из товаров
+
+%%shipping_scheme_NO%en%%
+Is not calculated
+%%shipping_scheme_NO%ru%%
+Не вычисляется
+
+%%tax_default_%en%%
+absolyte
+%%tax_default_%ru%%
+абсолютное значение
+
+%%tax_default_%%en%%
+percent
+%%tax_default_%%ru%%
+процент
+
+%%tax_scheme_SUM%en%%
+The sum on all products
+%%tax_scheme_SUM%ru%%
+Сумма по всем товарам
+
+%%tax_scheme_NO%en%%
+Do not calculate tax
+%%tax_scheme_NO%ru%%
+Не вычисляется
+
+%%charge_tax_type_CHARGE%en%%
+Charge
+%%charge_tax_type_CHARGE%ru%%
+Начисляемый
+
+%%charge_tax_type_DETACH%en%%
+Detach
+%%charge_tax_type_DETACH%ru%%
+Выделяемый
+
+%%charge_tax_type_NONE%en%%
+None
+%%charge_tax_type_NONE%ru%%
+Отсутствует
+
+%%buy_spec_prices_ZERO%en%%
+Positive or zero
+%%buy_spec_prices_ZERO%ru%%
+Положительная или ноль
+
+%%buy_spec_prices_NULL%en%%
+Positive or not given (null)
+%%buy_spec_prices_NULL%ru%%
+Положительная либо незаданная
+
+%%buy_spec_prices_NONE%en%%
+Only positive
+%%buy_spec_prices_NONE%ru%%
+Только положительная
+
+%%buy_spec_prices_BOTH%en%%
+Everything, except for negative
+%%buy_spec_prices_BOTH%ru%%
+Все, кроме отрицательных
+
+%%show_subcategories_-1%en%%
+Do not show
+%%show_subcategories_-1%ru%%
+Не отображать
+
+%%show_subcategories_0%en%%
+All
+%%show_subcategories_0%ru%%
+Все
+
+%%show_subcategories_1%en%%
+Count
+%%show_subcategories_1%ru%%
+Количество
+
+%%max_level_subcategories_0%en%%
+All
+%%max_level_subcategories_0%ru%%
+Все
+
+##--
+%%max_level_subcategories_1%en%%
+Count
+%%max_level_subcategories_1%ru%%
+Количество
+--##
+
+%%max_level_subcategories_1%en%%
+1
+%%max_level_subcategories_1%ru%%
+1
+
+%%max_level_subcategories_2%en%%
+2
+%%max_level_subcategories_2%ru%%
+2
+
+%%max_level_subcategories_3%en%%
+3
+%%max_level_subcategories_3%ru%%
+3
+
+%%max_level_subcategories_4%en%%
+4
+%%max_level_subcategories_4%ru%%
+4
+
+%%max_level_subcategories_5%en%%
+5
+%%max_level_subcategories_5%ru%%
+5
+
+%%max_level_subcategories_6%en%%
+6
+%%max_level_subcategories_6%ru%%
+6
+
+%%max_level_subcategories_7%en%%
+7
+%%max_level_subcategories_7%ru%%
+7
+
+%%max_level_subcategories_-1%en%%
+All starting from 2
+%%max_level_subcategories_-1%ru%%
+Все начиная с 2
+
+%%max_level_subcategories_-2%en%%
+All starting from 3
+%%max_level_subcategories_-2%ru%%
+Все начиная с 3
+
+%%max_level_subcategories_-3%en%%
+All starting from 4
+%%max_level_subcategories_-3%ru%%
+Все начиная с 4
+
+%%max_level_subcategories_-4%en%%
+All starting from 5
+%%max_level_subcategories_-4%ru%%
+Все начиная с 5
+
+%%max_level_subcategories_-5%en%%
+All starting from 6
+%%max_level_subcategories_-5%ru%%
+Все начиная с 6
+
+%%max_level_subcategories_-6%en%%
+All starting from 7
+%%max_level_subcategories_-6%ru%%
+Все начиная с 7
+
+%%show_subcategory_items_-1%en%%
+Do not show
+%%show_subcategory_items_-1%ru%%
+Не отображать
+
+%%show_subcategory_items_0%en%%
+All
+%%show_subcategory_items_0%ru%%
+Все
+
+%%show_subcategory_items_1%en%%
+Count
+%%show_subcategory_items_1%ru%%
+Количество
+
+%%deep_level_0%en%%
+All
+%%deep_level_0%ru%%
+Все
+
+%%deep_level_1%en%%
+Count
+%%deep_level_1%ru%%
+Количество
+
+%%splitter_period_0%en%%
+None
+%%splitter_period_0%ru%%
+Отсутствует
+
+%%splitter_period_1%en%%
+Count
+%%splitter_period_1%ru%%
+Количество
+
+%%sub_splitter_period_0%en%%
+None
+%%sub_splitter_period_0%ru%%
+Отсутствует
+
+%%sub_splitter_period_1%en%%
+Count
+%%sub_splitter_period_1%ru%%
+Количество
+
+%%available_item_types_ESHOP_GOODS%en%%
+Shippable products
+%%available_item_types_ESHOP_GOODS%ru%%
+Обычные товары
+
+%%available_item_types_ESHOP_DIGITALS%en%%
+Digital products
+%%available_item_types_ESHOP_DIGITALS%ru%%
+Цифровые товары
+
+%%available_item_types_ESHOP_ACCOUNT%en%%
+Prepaid gift
+%%available_item_types_ESHOP_ACCOUNT%ru%%
+Карты пополнения счета
+
+%%default_item_type_ESHOP_GOODS%en%%
+Shippable products
+%%default_item_type_ESHOP_GOODS%ru%%
+Обычные товары
+
+%%default_item_type_ESHOP_DIGITALS%en%%
+Digital products
+%%default_item_type_ESHOP_DIGITALS%ru%%
+Цифровые товары
+
+%%default_item_type_ESHOP_ACCOUNT%en%%
+Prepaid gift
+%%default_item_type_ESHOP_ACCOUNT%ru%%
+Карты пополнения счета
+
+%%price%en%%
+Base price
+%%price%ru%%
+Базовая цена
+
+%%price1%en%%
+Price 1
+%%price1%ru%%
+Цена 1
+
+%%price2%en%%
+Price 2
+%%price2%ru%%
+Цена 2
+
+%%price3%en%%
+Price 3
+%%price3%ru%%
+Цена 3
+
+%%price4%en%%
+Price 4
+%%price4%ru%%
+Цена 4
+
+%%price5%en%%
+Price 5
+%%price5%ru%%
+Цена 5
+
+%%price6%en%%
+Price 6
+%%price6%ru%%
+Цена 6
+
+%%price7%en%%
+Price 7
+%%price7%ru%%
+Цена 7
+
+%%price8%en%%
+Price 8
+%%price8%ru%%
+Цена 8
+
+%%price9%en%%
+Price 9
+%%price9%ru%%
+Цена 9
+
+%%price10%en%%
+Price 10
+%%price10%ru%%
+Цена 10
+
+%%price11%en%%
+Price 11
+%%price11%ru%%
+Цена 11
+
+%%price12%en%%
+Price 12
+%%price12%ru%%
+Цена 12
+
+%%price13%en%%
+Price 13
+%%price13%ru%%
+Цена 13
+
+%%price14%en%%
+Price 14
+%%price14%ru%%
+Цена 14
+
+%%price15%en%%
+Price 15
+%%price15%ru%%
+Цена 15
+
+%%price16%en%%
+Price 16
+%%price16%ru%%
+Цена 16
+
+%%cache_expire_force_1%en%%
+Forcibly
+%%cache_expire_force_1%ru%%
+Принудительно
+
+%%1%en%%
+Main form (up)
+%%1%ru%%
+Основная форма (верх)
+
+%%2%en%%
+Main form (down)
+%%2%ru%%
+Основная форма (низ)
+
+%%0%en%%
+Do not show
+%%0%ru%%
+Не показывать
+
+%%pictures_form_location_0%en%%
+Do not show
+%%pictures_form_location_0%ru%%
+Не показывать
+
+%%pictures_form_location_1%en%%
+Main form (up)
+%%pictures_form_location_1%ru%%
+Основная форма (верх)
+
+%%pictures_form_location_2%en%%
+Main form (down)
+%%pictures_form_location_2%ru%%
+Основная форма (низ)
+
+%%pictures_form_location_3%en%%
+Tab (pictures)
+%%pictures_form_location_3%ru%%
+Закладка (изображения)
+
+%%base_price_form_location_3%en%%
+Tab (prices)
+%%base_price_form_location_3%ru%%
+Закладка (цены)
+
+%%prices_form_location_3%en%%
+Tab (prices)
+%%prices_form_location_3%ru%%
+Закладка (цены)
+
+%%taxes_form_location_3%en%%
+Tab (prices)
+%%taxes_form_location_3%ru%%
+Закладка (цены)
+
+
+%%specials_form_location_1%en%%
+Under the basic attribute "Special"
+%%specials_form_location_1%ru%%
+Под основным признаком "Специальный"
+
+%%specials_form_location_2%en%%
+Main form (up)
+%%specials_form_location_2%ru%%
+Основная форма (верх)
+
+%%specials_form_location_3%en%%
+Tab (product attributes)
+%%specials_form_location_3%ru%%
+Закладка (свойства товара)
+
+%%specials_form_location_4%en%%
+Main form (down)
+%%specials_form_location_4%ru%%
+Основная форма (низ)
+
+%%decimal_point_.%en%%
+.
+%%decimal_point_.%ru%%
+.
+
+%%decimal_point_,%en%%
+,
+%%decimal_point_,%ru%%
+,
+
+%%field_price%en%%
+Price
+%%field_price%ru%%
+Цена
+
+%%field_sku%en%%
+SKU
+%%field_sku%ru%%
+Код
+
+%%field_other_prices%en%%
+Other prices
+%%field_other_prices%ru%%
+Другие цены
+
+%%field_on_special%en%%
+Special
+%%field_on_special%ru%%
+Специальное
+
+%%field_custom_fields%en%%
+Custom fields
+%%field_custom_fields%ru%%
+Настраиваемые поля
+
+%%show_ref_items_in_admin_-1%en%%
+Do not show
+%%show_ref_items_in_admin_-1%ru%%
+Не отображать
+
+%%show_ref_items_in_admin_0%en%%
+All
+%%show_ref_items_in_admin_0%ru%%
+Все
+
+%%show_ref_items_in_admin_1%en%%
+Count
+%%show_ref_items_in_admin_1%ru%%
+Количество
+
+%%show_shipping_types_in_admin_0%en%%
+All
+%%show_shipping_types_in_admin_0%ru%%
+Все
+
+%%show_shipping_types_in_admin_1%en%%
+Count
+%%show_shipping_types_in_admin_1%ru%%
+Количество
+
+%%ext_twist_prevention%en%%
+SPAM prevention
+%%ext_twist_prevention%ru%%
+Защита от СПАМа
+
+%%ext_eshop_custom_fields%en%%
+Custom fileds
+%%ext_eshop_custom_fields%ru%%
+Настраиваемые поля
+
+%%ext_eshop_item_audit%en%%
+User products
+%%ext_eshop_item_audit%ru%%
+Данные пользователей
+
+%%ext_discussion%en%%
+Comments
+%%ext_discussion%ru%%
+Комментарии
+
+%%small_filter_templates_FILTER_FORM%en%%
+Elements of the form
+%%small_filter_templates_FILTER_FORM%ru%%
+Элементы формы
+
+%%small_filter_templates_FILTER_BOX%en%%
+General design of the form
+%%small_filter_templates_FILTER_BOX%ru%%
+Общее оформление формы
+
+%%small_filter_mode_FILTER%en%%
+Filter
+%%small_filter_mode_FILTER%ru%%
+Фильтр
+
+%%small_filter_mode_SEARCH%en%%
+Search
+%%small_filter_mode_SEARCH%ru%%
+Поиск
+
+%%show_all_subitems_level_0%en%%
+%%show_all_subitems_level_0%ru%%
+Не включать
+
+%%show_all_subitems_level_1%en%%
+Level
+%%show_all_subitems_level_1%ru%%
+Уровень
+
+%%browse_active_item_position_0%en%%
+Floating
+%%browse_active_item_position_0%ru%%
+Плавающая
+
+%%browse_active_item_position_0%en%%
+Fixed
+%%browse_active_item_position_1%ru%%
+Фиксированная
+
+%%front_sort_date%en%%
+By release date
+%%front_sort_date%ru%%
+По дате
+
+%%front_sort_name%en%%
+By name
+%%front_sort_name%ru%%
+По названию
+
+%%front_sort_price%en%%
+By price
+%%front_sort_price%ru%%
+По цене
+
+%%front_sort_votes_rate%en%%
+By rating
+%%front_sort_votes_rate%ru%%
+По рейтингу
+
+%%path_settings_front_0%en%%
+Max symbols number in the path
+%%path_settings_front_0%ru%%
+Максимальное кол-во символов в пути
+
+%%path_settings_front_1%en%%
+Max symbols number in category
+%%path_settings_front_1%ru%%
+Максимальное кол-во символов в категории
+
+%%path_settings_front_2%en%%
+Categories number at first
+%%path_settings_front_2%ru%%
+Число категорий в начале
+
+%%path_settings_front_3%en%%
+Categories number at at the end
+%%path_settings_front_3%ru%%
+Число категорий в конце
+
+%%path_settings_0%en%%
+Max symbols number in the path
+%%path_settings_0%ru%%
+Максимальное кол-во символов в пути
+
+%%path_settings_1%en%%
+Max symbols number in category
+%%path_settings_1%ru%%
+Максимальное кол-во символов в категории
+
+%%path_settings_2%en%%
+Categories number at first
+%%path_settings_2%ru%%
+Число категорий в начале
+
+%%path_settings_3%en%%
+Categories number at at the end
+%%path_settings_3%ru%%
+Число категорий в конце

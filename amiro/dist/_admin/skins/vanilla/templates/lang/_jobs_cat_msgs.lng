@@ -1,0 +1,13 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%__include_language "_categories_msgs.lng"__%%
+
+
+%%create_subcategory%en%%
+Create department
+%%create_subcategory%ru%%
+Создать отдел
+
+%%status_repair_counters%en%%
+The counters of items of categories were repaired.
+%%status_repair_counters%ru%%
+Счетчики элементов категорий восстановлены.

@@ -1,0 +1,209 @@
+%%reports_add%en%%
+Add report
+%%reports_add%ru%%
+Добавить отчет
+
+%%reports_apply%en%%
+Edit report
+%%reports_apply%ru%%
+Редактировать отчет
+
+%%grouping%en%%
+Grouping
+%%grouping%ru%%
+Группирование
+
+%%add_group%en%%
+Add grouping
+%%add_group%ru%%
+Добавить группирование
+
+%%group_by%en%%
+Group by
+%%group_by%ru%%
+Группировать по
+
+%%sort_over%en%%
+Sort over
+%%sort_over%ru%%
+Сортировать по
+
+%%filter_fields%en%%
+Filter fields
+%%filter_fields%ru%%
+Поля фильтра
+
+%%add_filter_field%en%%
+Add filter field
+%%add_filter_field%ru%%
+Добавить поле фильтра
+
+%%filter_by%en%%
+Filter field
+%%filter_by%ru%%
+Поле фильтра
+
+%%default%en%%
+Default
+%%default%ru%%
+По умолчанию
+
+%%group_id%en%%
+ID
+%%group_id%ru%%
+ID
+
+%%group_id_member%en%%
+Member
+%%group_id_member%ru%%
+Пользователь
+
+%%calc_by%en%%
+Calculate
+%%calc_by%ru%%
+Вычисляется
+
+%%calc_method%en%%
+Method
+%%calc_method%ru%%
+Метод
+
+%%level%en%%
+Level
+%%level%ru%%
+Уровень
+
+%%total%en%%
+Total
+%%total%ru%%
+Итого
+
+%%add_calc_field%en%%
+Add calculation field
+%%add_calc_field%ru%%
+Добавить поле для вычисления
+
+%%calc_field_total%en%%
+Total
+%%calc_field_total%ru%%
+Сумма
+
+%%sum%en%%
+Sum
+%%sum%ru%%
+Сумма
+
+%%max%en%%
+Max
+%%max%ru%%
+Максимум
+
+%%min%en%%
+Min
+%%min%ru%%
+Минимум
+
+%%avg%en%%
+Average
+%%avg%ru%%
+Среднее
+
+%%type%en%%
+Type
+%%type%ru%%
+Тип
+
+%%details%en%%
+Custom
+%%details%ru%%
+Детальный
+
+%%stats%en%%
+Statistics
+%%stats%ru%%
+Статистика
+
+%%template%en%%
+Template
+%%template%ru%%
+Шаблон
+
+%%select_file%en%%
+Select file
+%%select_file%ru%%
+Выберите файл
+
+%%change_type_warning%en%%
+Attention! The page will be reloaded. The earlier made changes will be lost. Do you want to continue?
+%%change_type_warning%ru%%
+Внимание! Страница будет обновлена. Ранее сделанные изменения будут потеряны. Продолжить?
+
+%%select_report%en%%
+No report selected
+%%select_report%ru%%
+Отчет не выбран
+
+%%create_report%en%%
+No reports exist. Create one in reports wizard
+%%create_report%ru%%
+Отчетов не существует. Создайте отчет в мастере отчетов
+
+%%stats_descr%en%%
+<b>Statistics</b> report is attended on creating summary reports. It could be used for long-term periods.
+%%stats_descr%ru%%
+<b>Статистический</b> отчет предназначен для формирования сводных отчетов. Можно использовать для больших периодов.
+
+%%details_descr%en%%
+<b>Custom</b> report can be designed using templates and allow creation of detailed reports for different time periods.
+%%details_descr%ru%%
+<b>Детальный</b> отчет предназначен для формирования подробных отчетов за небольшой период времени.
+
+%%common_descr%en%%
+%%common_descr%ru%%
+Вид отчета зависит от шаблона и способа группирования.
+
+%%grouping_descr%en%%
+Initial <b>grouping</b> defines first sort order inside selected items. Consequent grouping sorts items inside the previous group, and so on.
+%%grouping_descr%ru%%
+Первое <b>группирование</b> задает порядок группирования внутри всего списка элементов списка.
+Последующие группирования задают порядок группирования и сортировки элементов внутри вышестоящей группы.
+
+%%calc_descr%en%%
+<b>Calculation</b> of specified value depends on selected group. Group "Total" applies to the calculation of all report items.
+%%calc_descr%ru%%
+<b>Вычисление</b> выбранного значения зависит от выбранной группы.
+Группа "Итого" говорит о том, что вычисление будет проведено для всех элементов отчета.
+
+%%filter_descr%en%%
+<b>Filter</b> allows define default filter values.
+The number of day prior today should be entered into and of date fields.
+For example, if a report should contain data for the last 7 days excluding last 3 days then "date from" should contain number 7 and "date to" should contain 3.
+%%filter_descr%ru%%
+<b>Фильтр</b> позволяет задавать значения фильтра по умолчанию.<br>
+В полях даты следует вводить число дней от текущего дня.
+Например, если отчет должен содержать данные за последние 7 дней, не включая последние 3 дня, то в поле "дата от" нужно поставить 7, а в поле "дата до" поставить 3.
+
+%%by_hour%en%%
+hours
+%%by_hour%ru%%
+часам
+
+%%by_day%en%%
+days
+%%by_day%ru%%
+дням
+
+%%by_week%en%%
+weeks
+%%by_week%ru%%
+неделям
+
+%%by_month%en%%
+months
+%%by_month%ru%%
+месяцам
+
+%%by_year%en%%
+years
+%%by_year%ru%%
+годам

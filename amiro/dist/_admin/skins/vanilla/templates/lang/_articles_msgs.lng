@@ -1,0 +1,42 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_items_msgs.lng"%%
+
+%%status_add%en%%
+Article item was added.
+%%status_add%ru%%
+Статья добавлена.
+
+%%status_apply%en%%
+Article item was updated.
+%%status_apply%ru%%
+Статья изменена.
+
+%%status_del_image%en%%
+Article image was deleted.
+%%status_del_image%ru%%
+Изображение удалено.
+
+%%status_del%en%%
+Article item was deleted.
+%%status_del%ru%%
+Статья удалена.
+
+%%status_apply_warn_link_symb%en%%
+The article's link contains not allowed symbols. Link was not changed.
+%%status_apply_warn_link_symb%ru%%
+Путь статьи содержит недопустимые символы. Ссылка не изменена.
+
+%%status_apply_warn_link%en%%
+Article with the same link is already present. Link was not changed.<br> Article name with the same link is:
+%%status_apply_warn_link%ru%%
+Статья с такой же ссылкой уже есть. Ссылка не изменена.<br> Статья с такой же ссылкой:
+
+%%status_add_warn_link%en%%
+Article with the same link is already present. Link is cleared.<br> Article name with the same link is:
+%%status_add_warn_link%ru%%
+Статья с такой же ссылкой уже есть. Ссылка очищена.<br> Статья с такой же ссылкой:
+
+%%status_add_warn_link_symb%en%%
+The article's link contains not allowed symbols. Link was cleared.
+%%status_add_warn_link_symb%ru%%
+Путь статьи содержит недопустимые символы. Ссылка очищена.

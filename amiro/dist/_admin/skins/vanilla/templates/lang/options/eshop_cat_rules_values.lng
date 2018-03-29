@@ -1,0 +1,99 @@
+%%page_sort_col_PARENTNAME%en%%
+By parent category
+%%page_sort_col_PARENTNAME%ru%%
+По родительской категории
+
+%%page_sort_col_NAME%en%%
+By name
+%%page_sort_col_NAME%ru%%
+По названию
+
+%%page_sort_col_INSTRUCT%en%%
+On presence of the instruction
+%%page_sort_col_INSTRUCT%ru%%
+По наличию инструкции
+
+%%page_sort_col_POSITION%en%%
+By position
+%%page_sort_col_POSITION%ru%%
+По позиции
+
+%%page_sort_col_CAT_PUBLIC%en%%
+By public flag
+%%page_sort_col_CAT_PUBLIC%ru%%
+По статусу опубликования
+
+%%front_page_sort_col_NAME%en%%
+By name
+%%front_page_sort_col_NAME%ru%%
+По названию
+
+%%front_page_sort_col_POSITION%en%%
+By position
+%%front_page_sort_col_POSITION%ru%%
+По позиции
+
+%%splitter_period_0%en%%
+None
+%%splitter_period_0%ru%%
+Отсутствует
+
+%%splitter_period_1%en%%
+Count
+%%splitter_period_1%ru%%
+Количество
+
+%%sub_splitter_period_0%en%%
+None
+%%sub_splitter_period_0%ru%%
+Отсутствует
+
+%%sub_splitter_period_1%en%%
+Count
+%%sub_splitter_period_1%ru%%
+Количество
+
+%%show_discounts_in_admin_0%en%%
+All
+%%show_discounts_in_admin_0%ru%%
+Все
+
+%%show_discounts_in_admin_1%en%%
+Count
+%%show_discounts_in_admin_1%ru%%
+Количество
+
+%%show_shipping_types_in_admin_0%en%%
+All
+%%show_shipping_types_in_admin_0%ru%%
+Все
+
+%%show_shipping_types_in_admin_1%en%%
+Count
+%%show_shipping_types_in_admin_1%ru%%
+Количество
+
+%%ext_eshop_cat_external_link%en%%
+Data forwarding in data exchange
+%%ext_eshop_cat_external_link%ru%%
+Перенаправление данных при обмене
+
+%%path_settings_0%en%%
+Max symbols number in the path
+%%path_settings_0%ru%%
+Максимальное кол-во символов в пути
+
+%%path_settings_1%en%%
+Max symbols number in category
+%%path_settings_1%ru%%
+Максимальное кол-во символов в категории
+
+%%path_settings_2%en%%
+Categories number at first
+%%path_settings_2%ru%%
+Число категорий в начале
+
+%%path_settings_3%en%%
+Categories number at at the end
+%%path_settings_3%ru%%
+Число категорий в конце

@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Resource was added.
+%%status_add%ru%%
+Ресурс добавлен.
+
+%%status_apply%en%%
+Resource was updated.
+%%status_apply%ru%%
+Ресурс изменен.
+
+%%status_del%en%%
+Resource was deleted.
+%%status_del%ru%%
+Ресурс удален.
+
+%%status_del_fail%en%%
+Resource was not deleted.
+%%status_del_fail%ru%%
+Ресурс не удален.
+
+%%status_del_fail_package_exists%en%%
+Resource was not deleted. There is a package using this resource
+%%status_del_fail_package_exists%ru%%
+Ресурс не удален. Существует пакет с данным ресурсом

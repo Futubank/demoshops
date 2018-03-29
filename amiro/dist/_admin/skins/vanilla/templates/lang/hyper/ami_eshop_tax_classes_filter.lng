@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Name
+%%filter_field_header%ru%%
+Название
+
+%%filter_field_tax_class_code%en%%
+Tax class code
+%%filter_field_tax_class_code%ru%%
+Код

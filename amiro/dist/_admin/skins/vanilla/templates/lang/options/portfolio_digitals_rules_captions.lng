@@ -1,0 +1,11 @@
+%%include_language "templates/lang/options/eshop_digitals_rules_captions.lng"%%
+
+%%eshop_files_path%en%%
+E-shop files (digital products) path
+%%eshop_files_path%ru%%
+Путь расположения файлов (цифровых продуктов)
+
+%%eshop_files_extension%en%%
+Extension for files of digital products
+%%eshop_files_extension%ru%%
+Расширение для файлов цифровых продуктов

@@ -1,0 +1,66 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+
+%%cannot_delete_backup%en%%
+An error occurred while deleting archive
+%%cannot_delete_backup%ru%%
+Ошибка при удалении архива
+
+%%backup_deleted%en%%
+Archive deleted
+%%backup_deleted%ru%%
+Архив удален
+
+%%err_check_permissions%en%%
+Cannot check file permissions
+%%err_check_permissions%ru%%
+Невозможно проверить права на запись в файлы
+
+%%no_file_write_perm%en%%
+PHP cannot overwrite site files on this server.
+Restoring data from archives that contain files or configuration is not possible
+%%no_file_write_perm%ru%%
+У PHP на этом сервере недостаточно прав для записи в файлы сайта.
+Восстановление данных из архивов, содержащих файлы или конфигурацию, невозможно.
+
+%%arch_not_found%en%%
+Archive file not found on server
+%%arch_not_found%ru%%
+Файл архива не найден на сервере
+
+%%cms_version_mismatch%en%%
+This file cannot be imported: data version in the archive differs from current version
+%%cms_version_mismatch%ru%%
+Невозможно импортировать файл: версия данных в архиве отличается от текущей версии сайта
+
+%%mysql_version_mismatch%en%%
+This file cannot be imported: DB dump (mysql _archver_) is incompatible with mysql version _curver_ this site is using
+%%mysql_version_mismatch%ru%%
+Невозможно импортировать файл: дамп БД (mysql _archver_) несовместим с версией mysql _curver_, используемой на сайте
+
+%%arch_already_imported%en%%
+This archive is already imported
+%%arch_already_imported%ru%%
+Этот архив уже импортирован
+
+%%invalid_archive_type%en%%
+Archives of this type cannot be imported
+%%invalid_archive_type%ru%%
+Архивы такого типа нельзя импортировать
+
+
+%%arch_import_err%en%%
+Archive import error
+%%arch_import_err%ru%%
+Ошибка при импорте архива
+
+%%arch_import_ok%en%%
+Archive imported successfully
+%%arch_import_ok%ru%%
+Aрхив успешно импортирован
+
+%%arch_db_only%en%%
+This archive cannot be unpacked on this server (no write premissions on files)
+%%arch_db_only%ru%%
+Этот архив невозможно распаковать на этом сервере (нет прав на запись в файлы)
+

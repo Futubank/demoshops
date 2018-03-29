@@ -1,0 +1,96 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+
+%%select_subscription%en%%
+Select subscription
+%%select_subscription%ru%%
+Выберите договор
+
+%%number%en%%
+#
+%%number%ru%%
+№
+
+%%select_vhost%en%%
+Select virtual host
+%%select_vhost%ru%%
+Выберите домен
+
+%%current_vhost%en%%
+Current virtual host
+%%current_vhost%ru%%
+Текущий домен
+
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%login%en%%
+Login
+%%login%ru%%
+Логин
+
+%%password%en%%
+Password
+%%password%ru%%
+Пароль
+
+%%confirm_password%en%%
+Confirm password
+%%confirm_password%ru%%
+Подтверждение пароля
+
+%%firstname%en%%
+First name
+%%firstname%ru%%
+Имя
+
+%%lastname%en%%
+Last name
+%%lastname%ru%%
+Фамилия
+
+%%tariff%en%%
+Tariff
+%%tariff%ru%%
+Тариф
+
+%%subscription%en%%
+Subscription
+%%subscription%ru%%
+Договор
+
+%%resource_active_state%en%%
+Resource active state
+%%resource_active_state%ru%%
+Состояние активности ресурса
+
+%%active%en%%
+Active
+%%active%ru%%
+Активный
+
+%%half_blocked%en%%
+Half-blocked
+%%half_blocked%ru%%
+Часточно заблокирован
+
+%%blocked%en%%
+Blocked
+%%blocked%ru%%
+Заблокирован
+
+%%reseller%en%%
+Reseller
+%%reseller%ru%%
+Партнёр
+
+%%client%en%%
+Client
+%%client%ru%%
+Клиент

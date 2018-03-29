@@ -1,0 +1,9 @@
+%%flt_date_from%en%%
+Start date of period
+%%flt_date_from%ru%%
+Дата начала периода, за который вы хотите посмотреть данные
+
+%%flt_date_to%en%%
+Final date of period
+%%flt_date_to%ru%%
+Дата окончания периода, за который вы хотите посмотреть данные

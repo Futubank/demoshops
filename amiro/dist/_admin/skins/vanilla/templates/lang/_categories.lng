@@ -1,0 +1,20 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_msgs.lng"%%
+
+%%sublink%en%%
+Link
+%%sublink%ru%%
+Ссылка
+
+%%counter_items%en%%
+Items:<br>All/Public
+%%counter_items%ru%%
+Элементов: Всего/Публ.
+
+%%position_warn%en%%
+For activation of these actions, it is necessary to sort data by this field.
+%%position_warn%ru%%
+Для активации действий, необходимо установить сортировку по данному полю.

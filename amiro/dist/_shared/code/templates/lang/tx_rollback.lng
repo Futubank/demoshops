@@ -1,0 +1,94 @@
+%%enter_master_password%en%%
+Enter master password
+%%enter_master_password%ru%%
+Введите главный пароль
+
+%%missing_master_password%en%%
+Missing master password
+%%missing_master_password%ru%%
+Пропущен главный пароль
+
+%%invalid_master_password%en%%
+Invalid master password
+%%invalid_master_password%ru%%
+Главный пароль введен неверно
+
+%%no_rollback_data%en%%
+No rollback data
+%%no_rollback_data%ru%%
+Нед данных для отката
+
+%%name%en%%
+Transaction name
+%%name%ru%%
+Название транзакции
+
+%%class%en%%
+Class
+%%class%ru%%
+Класс
+
+%%cms_version%en%%
+System version
+%%cms_version%ru%%
+Версия системы
+
+%%started%en%%
+Started
+%%started%ru%%
+Начата
+
+%%finished%en%%
+Finished
+%%finished%ru%%
+Завершена
+
+%%rollback%en%%
+Rollback
+%%rollback%ru%%
+Откатить
+
+%%wipe_rollback_data%en%%
+Wipe rollback data
+%%wipe_rollback_data%ru%%
+Удалить данные для отката
+
+%%confirm_wipe_rollback_data%en%%
+Are you sure to wipe rollback data?
+%%confirm_wipe_rollback_data%ru%%
+Вы уверены, что хотите удалить данные для отката?
+
+%%wipe_all_backup_data%en%%
+Wipe all backup data
+%%wipe_all_backup_data%ru%%
+Удалить все резервные копии данных
+
+%%confirm_wipe_all_backup_data%en%%
+Are you sure to wipe all backup data?
+%%confirm_wipe_all_backup_data%ru%%
+Вы уверены, что хотите удалить все резервные копии данных?
+
+%%current%en%%
+current
+%%current%ru%%
+текущая
+
+%%rollback_success%en%%
+Last transaction is rollbacked
+%%rollback_success%ru%%
+Откат последней транзакции завершён
+
+%%tables_deleted%en%%
+Tables deleted
+%%tables_deleted%ru%%
+Удалено таблиц БД
+
+%%files_deleted%en%%
+Files deleted
+%%files_deleted%ru%%
+Удалено файлов
+
+%%tpls_deleted%en%%
+Templates/locales deleted
+%%tpls_deleted%ru%%
+Удалено шаблонов/локализаций

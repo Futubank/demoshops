@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1063 xkqwzgigiminwguzgrtuxswrupsykrqyikxixzstpkmqiwliyqlqwlyurzylnkzwmzgmpnir
+ */ ?><?php foreach(array(20755=>'',20756=>"CCC|rHHt",20757=>"IQtZD") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $ILlIlIl=1; $l1IIllL =true; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $obj_name =I20755; if (isset($adm->VarsGet["obj"])){ $obj_name =$adm->VarsGet["obj"]; }else exit; $adm->Gui->addBlock("table","templates/ce_tbl_proc.tpl"); $l1IL1I1[I20756] =$ROOT_PATH_WWW; $l1IL1I1["admin_root"] =$ADMIN_PATH_WWW; $l1IL1I1["editor_name"] =$obj_name; $l1IL1I1["content"] =$adm->Gui->get("table:content",$l1IL1I1); $l1IL1I1[I20757] =$adm->Gui->getMetas(); $html =$adm->Gui->get("table",$l1IL1I1); echo $html; $conn->Out(); 

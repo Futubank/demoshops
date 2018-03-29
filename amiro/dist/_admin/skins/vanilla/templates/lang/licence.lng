@@ -1,0 +1,140 @@
+%%title%en%%
+Amiro.CMS :: License activation
+%%title%ru%%
+Amiro.CMS :: Активация лицензии
+
+%%enter_licence%en%%
+Paste license key in this field including beginning and ending lines (BEGIN, END, FREE, etc)
+%%enter_licence%ru%%
+Вставьте текст лицензионного ключа в это поле полностью, включая обрамляющие строки (BEGIN, END, FREE и т.п.)
+
+%%licence_hint%en%%
+<b>ATTENTION!</b> Before activate new license save your current license key to keep your website working if new key will be not valid.
+
+%%licence_hint%ru%%
+<b>ВНИМАНИЕ!</b> Перед активацией новой лицензии сохраните копию текущей лицензии в текстовый файл для возможности восстановить текущую лицензию в случае неработоспособности новой.
+
+%%support_msg%en%%
+If you have any questions contact support team
+%%support_msg%ru%%
+При возникновении вопросов, обращайтесь в службу поддержки.
+
+%%support_msg_url%en%%
+If you have any questions contact <a href="_support_url_" target="_blank"><b>support&nbsp;&raquo;</b></a> team
+%%support_msg_url%ru%%
+При возникновении вопросов, обращайтесь в <a href="_support_url_" target="_blank"><b>службу поддержки&nbsp;&raquo;</b></a>.
+
+%%auth%en%%
+LICENSE ACTIVATION
+%%auth%ru%%
+АКТИВАЦИЯ ЛИЦЕНЗИИ
+
+%%start_top%en%%
+START
+%%start_top%ru%%
+ГЛАВНАЯ
+
+%%welcome%en%%
+License activation
+%%welcome%ru%%
+Активация лицензии
+
+%%welcome_ready%en%%
+License updated
+%%welcome_ready%ru%%
+Лицензия обновлена
+
+%%sys_user_fail%en%%
+System configuration error. System configuration record is not found.
+%%sys_user_fail%ru%%
+Ошибка конфигурации системы. Не найдена запись конфигурации.
+
+%%update_fail%en%%
+Update failed. Check the license key or contact support team.
+%%update_fail%ru%%
+Ошибка записи. Проверьте правильность лицензии или обратитесь в службу поддержки.
+
+%%licence_ready%en%%
+License key is updated.<br><br> If you have any problem try to use the old license key or contact support.
+%%licence_ready%ru%%
+Лицензия успешно обновлена.<br><br> Если возникнут какие-либо проблемы попробуйте восстановить предыдущий лицензионный ключ или обратитесь в службу поддержки.
+
+%%start%en%%
+Go to start administration page.
+%%start%ru%%
+Перейти на главную страницу панели администратора.
+
+%%err_%en%%
+%%err_%ru%%
+
+%%err_1%en%%
+Your license key is invalid.
+%%err_1%ru%%
+Лицензионный ключ некорректен.
+
+%%err_2%en%%
+License key is not found.
+%%err_2%ru%%
+Лицензионный ключ не найден.
+
+%%err_3%en%%
+System configuration error. System configuration record is not found.
+%%err_3%ru%%
+Ошибка конфигурации системы. Не найдена запись конфигурации.
+
+%%err_4%en%%
+Invalid license key. Check the key and try again.
+%%err_4%ru%%
+Неверный лицензионный ключ. Проверьте корректность данных и попробуйте еще раз.
+
+%%err_5%en%%
+You have no rights to update the license key. Only site owner can change the key.
+%%err_5%ru%%
+Недостаточно прав для изменения лицензионного ключа. Только администратор может изменять ключ.
+
+%%err_6%en%%
+Using FREE licence key impossible for full edition distributive!
+%%err_6%ru%%
+Уcтановка лицензионного ключа FREE в дистрибутив полной редакции невозможна!
+
+%%err_10%en%%
+License key is expired.
+%%err_10%ru%%
+Истек срок действия лицензионного ключа.
+
+%%err_11%en%%
+The demo version has expired. Visit www.amirocms.com to obtain licenced version of the system and news information.
+%%err_11%ru%%
+Время работы пробной версии истекло. Для приобретения системы и получения информации о новинках перейдите на сайт производителя: <a href="http://www.amiro.ru" target="_blank">www.amiro.ru</a>
+
+%%access_denied%en%%
+Access denied.
+%%access_denied%ru%%
+В доступе отказано.
+
+%%back_to_start%en%%
+Back to start page.
+%%back_to_start%ru%%
+Вернуться к стартовой странице.
+
+%%update_key_confirm%en%%
+Are you sure to update the license key? \n (be sure you have saved the previous license key)
+%%update_key_confirm%ru%%
+Обновить лицензионный ключ? \n (не забудьте сохранить текущий лицензионный ключ)
+
+%%activate_btn%en%%
+Activate licence
+%%activate_btn%ru%%
+Активировать лицензию
+
+%%upgrade_message_free%en%%
+<b> Attention! </b>
+<b> <red> For moving to paid packages </red> </b> of system the license key is necessary to get and to make upgrade of a package. If you already have license key follow the instructions of Service > Upgrade system module.
+%%upgrade_message_free%ru%%
+<b>Внимание! </b>
+<b><red>Для перехода на платные пакеты</red></b> системы необходимо приобрести лицензионный ключ и произвести апгрейд пакета. Если у Вас уже есть лицензионный ключ - вначале перейдите в модуль <nobr>Сервис->Обновления,</nobr> выберите "Обновление до полной версии" и следуйте инструкциям.<br><br>Получить лицензионный ключ для <b>бесплатного пакета</b> можно, в личном кабинете пользователя на сайте <a href="http://www.amiro.ru">www.amiro.ru</a>. Регистрация бесплатная.
+
+%%upgrade_message_trial%en%%
+For moving to paid packages of system the license key is necessary to get on site <a href="http://www.amirocms.com">www.amirocms.com</a>.
+%%upgrade_message_trial%ru%%
+Получить лицензионный ключ можно на сайте <a href="http://www.amiro.ru">www.amiro.ru</a>.

@@ -1,0 +1,6 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_del%en%%
+External ID forwarding was deleted.
+%%status_del%ru%%
+Перенаправление удалено.

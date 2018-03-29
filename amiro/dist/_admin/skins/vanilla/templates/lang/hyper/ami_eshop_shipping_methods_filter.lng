@@ -1,0 +1,47 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Name
+%%filter_field_header%ru%%
+Название
+
+%%filter_field_amount%en%%
+Sum
+%%filter_field_amount%ru%%
+Сумма
+
+%%filter_field_custom_conditions%en%%
+Special terms
+%%filter_field_custom_conditions%ru%%
+Особые условия
+
+%%flt_all%en%%
+All
+%%flt_all%ru%%
+Все
+
+%%none%en%%
+None
+%%none%ru%%
+Нет
+
+%%total%en%%
+Sum
+%%total%ru%%
+Сумма
+
+%%weight%en%%
+Weight
+%%weight%ru%%
+Вес
+
+%%value%en%%
+Availability
+%%value%ru%%
+Доступность
+
+%%filter_field_custom_fields%en%%
+Set of fields
+%%filter_field_custom_fields%ru%%
+Наборы полей

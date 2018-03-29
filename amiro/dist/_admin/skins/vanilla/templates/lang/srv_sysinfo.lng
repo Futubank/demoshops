@@ -1,0 +1,247 @@
+%%include_language "templates/lang/main.lng"%%
+
+%%main_domain%en%%
+Main domain
+%%main_domain%ru%%
+Основной домен
+
+%%alias_domain%en%%
+Alias domain
+%%alias_domain%ru%%
+Домен-синоним
+
+%%no_alias%en%%
+not defined
+%%no_alias%ru%%
+не задан
+
+%%create_alias%en%%
+Create alias
+%%create_alias%ru%%
+Прикрепить домен
+
+%%form_header%en%%
+System information
+%%form_header%ru%%
+Информация о системе
+
+%%disk_space%en%%
+Used disk space
+%%disk_space%ru%%
+Занимаемое место на диске
+
+%%disk_free_space%en%%
+Free disk space
+%%disk_free_space%ru%%
+Свободное место на диске
+
+%%disk_quota%en%%
+Disk space limit
+%%disk_quota%ru%%
+Макс. место на диске
+
+%%db_size%en%%
+Database size
+%%db_size%ru%%
+Размер базы данных
+
+%%balance%en%%
+Balance
+%%balance%ru%%
+Баланс
+
+%%date_registered%en%%
+Registration date
+%%date_registered%ru%%
+Дата регистрации
+
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%domain_alias%en%%
+Domain alias
+%%domain_alias%ru%%
+Алиас домена
+
+
+%%num_ftpusers%en%%
+Ftp users
+%%num_ftpusers%ru%%
+Ftp-пользователей
+
+%%num_domain_active%en%%
+Active sites
+%%num_domain_active%ru%%
+Действующих сайтов
+
+%%num_domain_suspend%en%%
+Suspended sites
+%%num_domain_suspend%ru%%
+Заблокированных сайтов
+
+%%max_reg_date%en%%
+Last registration's date
+%%max_reg_date%ru%%
+Дата последней регистрации
+
+%%min_reg_date%en%%
+First registration's date
+%%min_reg_date%ru%%
+Дата первой регистрации
+
+%%total_traffic_in%en%%
+Total incoming traffic
+%%total_traffic_in%ru%%
+Суммарный входящий трафик
+
+%%total_traffic_out%en%%
+Total outgoing traffic
+%%total_traffic_out%ru%%
+Суммарный исходящий трафик
+
+%%ftp_users_traffic_in%en%%
+Ftp-users incoming traffic
+%%ftp_users_traffic_in%ru%%
+Входящий трафик ftp-пользователей
+
+%%ftp_users_traffic_out%en%%
+Ftp-users outgoing traffic
+%%ftp_users_traffic_out%ru%%
+Исходящий трафик ftp-пользователей
+
+%%licence_expire_date%en%%
+License's expiration date
+%%licence_expire_date%ru%%
+Дата завершения лицензии
+
+%%user_type%en%%
+User
+%%user_type%ru%%
+Пользователь
+
+%%in_traffic%en%%
+Incoming
+%%in_traffic%ru%%
+Входящий
+
+%%out_traffic%en%%
+Outgoing
+%%out_traffic%ru%%
+Исходящий
+
+%%total_traffic%en%%
+Total
+%%total_traffic%ru%%
+Всего
+
+%%domain_users%en%%
+Domain users
+%%domain_users%ru%%
+Доменные пользователи
+
+%%other_users%en%%
+Other users
+%%other_users%ru%%
+Остальные пользователи
+
+%%details%en%%
+Details
+%%details%ru%%
+Подробнее
+
+%%login_info%en%%
+Logins count (success/fail)
+%%login_info%ru%%
+Число входов (успешных/неуспешных)
+
+%%no_details%en%%
+No details found
+%%no_details%ru%%
+Не найдено информации
+
+%%email_quota%en%%
+Max. mailboxes size
+%%email_quota%ru%%
+Максимальный объем почты
+
+%%email_space_used%en%%
+Current mailboxes size
+%%email_space_used%ru%%
+Текущий объем почты
+
+%%ftp_enabled%en%%
+FTP access enabled
+%%ftp_enabled%ru%%
+Доступ по FTP разрешен
+
+%%sys_user_info%en%%
+System user
+%%sys_user_info%ru%%
+Системный пользователь
+
+%%username%en%%
+Login
+%%username%ru%%
+Логин
+
+%%name%en%%
+Name
+%%name%ru%%
+Имя
+
+%%email%en%%
+E-mail
+%%email%ru%%
+E-mail
+
+%%edit_sys_user%en%%
+Edit user info
+%%edit_sys_user%ru%%
+Изменить данные
+
+%%index_status%en%%
+Search engines indexing enabled
+%%index_status%ru%%
+Индексирование сайта поисковиками разрешено
+
+%%index_enable_later%en%%
+Indexing could be enabled after
+%%index_enable_later%ru%%
+Вы сможете разрешить индексирование сайта после
+
+%%index_enable%en%%
+Enable indexing
+%%index_enable%ru%%
+Разрешить индексирование сайта
+
+%%srv_options%en%%
+System Options
+%%srv_options%ru%%
+Настройка системы
+
+%%srv_chooselang%en%%
+Interface settings
+%%srv_chooselang%ru%%
+Настройки интерфейса
+
+%%pay_drivers%en%%
+Payment methods
+%%pay_drivers%ru%%
+Способы оплаты
+
+%%locales%en%%
+Locales
+%%locales%ru%%
+Локализации
+
+%%webservice%en%%
+Web services
+%%webservice%ru%%
+Веб-сервисы
+
+%%ami_service%en%%
+Maintenance
+%%ami_service%ru%%
+Обслуживание

@@ -1,0 +1,66 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_hst_pkg_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%hst_pkg_add%en%%
+Add package
+%%hst_pkg_add%ru%%
+Добавить пакет
+
+%%hst_pkg_apply%en%%
+Edit package
+%%hst_pkg_apply%ru%%
+Редактировать пакет
+
+%%type%en%%
+Type
+%%type%ru%%
+Тип
+
+%%res_included%en%%
+Resources are included
+%%res_included%ru%%
+Ресурсы включены
+
+%%resources%en%%
+Resources
+%%resources%ru%%
+Ресурсов
+
+%%tariff_pkgs%en%%
+Included in tariffs
+%%tariff_pkgs%ru%%
+Включен в тарифы
+
+%%res_name%en%%
+Resource name
+%%res_name%ru%%
+Название ресурса
+
+%%include_resource_in_package%en%%
+Include resource in package
+%%include_resource_in_package%ru%%
+Включить ресурс в пакет
+
+%%count%en%%
+Count
+%%count%ru%%
+Количество
+
+%%max_value%en%%
+Max value
+%%max_value%ru%%
+Макс. значение
+
+%%setup_fee%en%%
+Setup fee
+%%setup_fee%ru%%
+Плата за установку
+
+%%no_resources%en%%
+No resources
+%%no_resources%ru%%
+Нет ресурсов

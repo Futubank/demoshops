@@ -1,0 +1,42 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_items_msgs.lng"%%
+
+%%status_add%en%%
+Photo item was added.
+%%status_add%ru%%
+Фотография добавлена.
+
+%%status_apply%en%%
+Photo item was updated.
+%%status_apply%ru%%
+Фотография изменена.
+
+%%status_del%en%%
+Photo item was deleted.
+%%status_del%ru%%
+Фотография удалена.
+
+%%status_apply_warn_link_symb%en%%
+The photo's link contains not allowed symbols. Link was not changed.
+%%status_apply_warn_link_symb%ru%%
+Путь фотографии содержит недопустимые символы. Ссылка не изменена.
+
+%%status_apply_warn_link%en%%
+Photo with the same link is already present. Link was not changed.<br> Photo with the same link is:
+%%status_apply_warn_link%ru%%
+Фотография с такой же ссылкой уже есть. Ссылка не изменена.<br> Фотография с такой же ссылкой:
+
+%%status_add_warn_link%en%%
+Photo with the same link is already present. Link is cleared.<br> Photo with the same link is:
+%%status_add_warn_link%ru%%
+Фотография с такой же ссылкой уже есть. Ссылка очищена.<br> Фотография с такой же ссылкой:
+
+%%status_add_warn_link_symb%en%%
+The photo's link contains not allowed symbols. Link was cleared.
+%%status_add_warn_link_symb%ru%%
+Путь фотографии содержит недопустимые символы. Ссылка очищена.
+
+%%pictures_warn%en%%
+Picture or popup picture should be set
+%%pictures_warn%ru%%
+Должно быть выбрано хотя бы изображение или всплывающее изображение 

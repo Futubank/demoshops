@@ -1,0 +1,59 @@
+%%page_sort_col_NAME%en%%
+By name
+%%page_sort_col_NAME%ru%%
+По названию
+
+%%page_sort_col_CODE%en%%
+By code
+%%page_sort_col_CODE%ru%%
+По коду
+
+%%page_sort_col_EXCHANGE%en%%
+By exchange rate
+%%page_sort_col_EXCHANGE%ru%%
+По курсу
+
+%%page_sort_col_ON_SMALL%en%%
+By public status
+%%page_sort_col_ON_SMALL%ru%%
+По статусу публичности
+
+%%page_sort_col_IS_BASE%en%%
+By status 'Base currency'
+%%page_sort_col_IS_BASE%ru%%
+По статусу 'Базовая валюта'
+
+%%page_sort_col_IS_SMALL_BASE%en%%
+By status 'Base for spec block'
+%%page_sort_col_IS_SMALL_BASE%ru%%
+По статусу 'Базовая на спец. блоке'
+
+%%page_sort_col_small_NAME%en%%
+By name
+%%page_sort_col_small_NAME%ru%%
+По названию
+
+%%page_sort_col_small_CODE%en%%
+By code
+%%page_sort_col_small_CODE%ru%%
+По коду
+
+%%page_sort_col_small_EXCHANGE%en%%
+By exchange rate
+%%page_sort_col_small_EXCHANGE%ru%%
+По курсу
+
+%%page_sort_col_small_IS_BASE%en%%
+By status 'Base currency'
+%%page_sort_col_small_IS_BASE%ru%%
+По статусу 'Базовая валюта'
+
+%%page_sort_col_small_IS_SMALL_BASE%en%%
+By status 'Base for spec block'
+%%page_sort_col_small_IS_SMALL_BASE%ru%%
+По статусу 'Базовая на спец. блоке'
+
+%%currency_driver_RBC%en%%
+RBC
+%%currency_driver_RBC%ru%%
+РБК

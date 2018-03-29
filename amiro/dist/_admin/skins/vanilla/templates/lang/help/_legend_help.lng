@@ -1,0 +1,20 @@
+%%legend%en%%
+<nobr><img title="Published" class=leg_icon src="skins/vanilla/icons/icon-published_leg.gif" border="0"> - published&nbsp;&nbsp;</nobr>
+<nobr><img title="Not published" class=leg_icon src="skins/vanilla/icons/icon-notpublished_leg.gif"> - not published&nbsp;&nbsp;</nobr>
+<nobr><img title="Selected item" width="20" height="10" border=0 src="skins/vanilla/icons/leg_yellow.gif"> - selected item&nbsp;&nbsp;</nobr>
+<nobr><img title="Last edited item" width="20" height="10" border=0 src="skins/vanilla/icons/leg_blue.gif"> - last edited item&nbsp;&nbsp;</nobr>
+<nobr><img title="Edit images" class=leg_icon src="skins/vanilla/icons/icon-scrnshot_leg.gif"> - edit images&nbsp;&nbsp;</nobr>
+<nobr><img title="Edit" class=leg_icon src="skins/vanilla/icons/icon-edit_leg.gif" border="0"> - edit item&nbsp;&nbsp;</nobr>
+<nobr><img title="Delete" class=leg_icon src="skins/vanilla/icons/icon-del_leg.gif"> - delete item&nbsp;&nbsp;</nobr>
+<nobr><img title="Select" class=leg_icon src="skins/vanilla/icons/icon-ok_leg.gif" border="0"> - select item&nbsp;&nbsp;</nobr>
+<nobr><img title="Delete from list" class="leg_icon" src="skins/vanilla/icons/icon-popup_del_leg.gif" border="0"> - delete from list&nbsp;&nbsp;</nobr>
+%%legend%ru%%
+<nobr><img title="Опубликован" class=leg_icon src="skins/vanilla/icons/icon-published_leg.gif" border="0"> - опубликован&nbsp;&nbsp;</nobr>
+<nobr><img title="Неопубликован" class=leg_icon src="skins/vanilla/icons/icon-notpublished_leg.gif"> - неопубликован&nbsp;&nbsp;</nobr>
+<nobr><img title="Выбранный элемент" width="20" height="10" border=0 src="skins/vanilla/icons/leg_yellow.gif"> - выбранный элемент&nbsp;&nbsp;</nobr>
+<nobr><img title="Последний редактированный элемент" width="20" height="10" border=0 src="skins/vanilla/icons/leg_blue.gif"> - последний редактированный элемент&nbsp;&nbsp;</nobr>
+<nobr><img title="Редактировать изображения" class=leg_icon src="skins/vanilla/icons/icon-scrnshot_leg.gif"> - редактировать изображения&nbsp;&nbsp;</nobr>
+<nobr><img title="Редактировать" class=leg_icon src="skins/vanilla/icons/icon-edit_leg.gif" border="0"> - редактировать элемент&nbsp;&nbsp;</nobr>
+<nobr><img title="Удалить" class=leg_icon src="skins/vanilla/icons/icon-del_leg.gif"> - удалить элемент&nbsp;&nbsp;</nobr>
+<nobr><img title="Выбрать" class=leg_icon src="skins/vanilla/icons/icon-ok_leg.gif" border="0"> - выбрать элемент&nbsp;&nbsp;</nobr>
+<nobr><img title="Удалить из списка" class="leg_icon" src="skins/vanilla/icons/icon-popup_del_leg.gif" border="0"> - удалить из списка&nbsp;&nbsp;</nobr>

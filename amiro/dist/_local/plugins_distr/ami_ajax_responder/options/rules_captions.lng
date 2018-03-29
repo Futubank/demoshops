@@ -1,0 +1,39 @@
+%%spl_plugin%en%%
+Special blocks options
+%%spl_plugin%ru%%
+Настройки спецблока
+
+%%module%en%%
+Module
+%%module%ru%%
+Модуль
+
+%%order%en%%
+Sort items by column
+%%order%ru%%
+Сортировать данные по полю
+
+%%dir%en%%
+Order direction
+%%dir%ru%%
+Направление сортировки
+
+%%limit%en%%
+Number of items
+%%limit%ru%%
+Количество элементов
+
+%%offset%en%%
+Default offset
+%%offset%ru%%
+Смещение по умолчанию
+
+%%id_page%en%%
+Show items from selected page<br /><i>(page id in Site Manager, 0 - all items, "common" - common items)</i>
+%%id_page%ru%%
+Показывать элементы, принадлежащие странице<br /><i>(ID страницы в менеджере сайта, 0 - все элементы, "common" - общие элементы)</i>
+
+%%template%en%%
+Template
+%%template%ru%%
+Шаблон

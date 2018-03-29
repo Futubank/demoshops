@@ -1,0 +1,56 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Advertisement place was added.
+%%status_add%ru%%
+Рекламное место добавлено.
+
+%%status_apply%en%%
+Advertisement place was updated.
+%%status_apply%ru%%
+Рекламное место изменено.
+
+%%status_del%en%%
+Advertisement place was deleted.
+%%status_del%ru%%
+Рекламное место удалено.
+
+%%status_del_fail%en%%
+Advertisement place was not deleted.
+%%status_del_fail%ru%%
+Рекламное место не удалено.
+
+%%name_warn%en%%
+Please, enter the name
+%%name_warn%ru%%
+Пожалуйста, введите название
+
+%%module_name_warn%en%%
+Please, select one module at least
+%%module_name_warn%ru%%
+Пожалуйста, выберите как минимум один модуль
+
+%%browse_mode_warn%en%%
+Please, select one browse mode at least
+%%browse_mode_warn%ru%%
+Пожалуйста, выберите как минимум один тип отображения
+
+%%start_date_warn%en%%
+Please, enter the start date
+%%start_date_warn%ru%%
+Пожалуйста, введите дату начала
+
+%%status_campaign_created%en%%
+Campaign type and campaign were created automatically.
+%%status_campaign_created%ru%%
+Тип кампании и кампания добавлены автоматически.
+
+%%status_updated_groups%en%%
+Updated groups: _num_
+%%status_updated_groups%ru%%
+Обновлено групп: _num_
+
+%%status_deleted_groups%en%%
+Deleted empty groups: _num_
+%%status_deleted_groups%ru%%
+Удалено пустых групп: _num_

@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_tag%en%%
+Tag
+%%list_col_tag%ru%%
+Тег
+
+%%list_col_count%en%%
+Count
+%%list_col_count%ru%%
+Счетчик

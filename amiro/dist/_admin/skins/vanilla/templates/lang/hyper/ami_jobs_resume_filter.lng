@@ -1,0 +1,33 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+%%include_language "templates/lang/jobs_resume.lng"%%
+
+%%filter_field_header%en%%
+Position
+%%filter_field_header%ru%%
+Должность
+
+%%filter_field_category%en%%
+Department
+%%filter_field_category%ru%%
+Отдел
+
+%%filter_field_fio%en%%
+Name
+%%filter_field_fio%ru%%
+ФИО                                                          
+
+%%filter_field_status%en%%
+Status
+%%filter_field_status%ru%%
+Статус
+
+%%filter_field_department%en%%
+Department
+%%filter_field_department%ru%%
+Отдел
+
+%%flt_all_statuses%en%%
+All
+%%flt_all_statuses%ru%%
+Все

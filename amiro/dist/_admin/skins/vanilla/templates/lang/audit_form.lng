@@ -1,0 +1,92 @@
+%%include_language "templates/lang/srv_audit.lng"%%
+%%include_language "templates/lang/_history.lng"%%
+
+%%audit_status%en%%
+Audit status
+%%audit_status%ru%%
+Статус проверки
+
+%%audit_select%en%%
+Select status
+%%audit_select%ru%%
+Выберите статус
+
+%%audit_approve%en%%
+Approve
+%%audit_approve%ru%%
+Подтвердить
+
+%%audit_reject%en%%
+Reject
+%%audit_reject%ru%%
+Отказать
+
+%%select_audit_warn%en%%
+Please set audit status
+%%select_audit_warn%ru%%
+Пожалуйста, выберите cтатус проверки
+
+%%audit_comments_history%en%%
+Comments history
+%%audit_comments_history%ru%%
+История комментариев
+
+%%audit_comments%en%%
+Audit comments
+%%audit_comments%ru%%
+Комментарий проверки
+
+%%to_audit_record%en%%
+View last audit record
+%%to_audit_record%ru%%
+Просмотр последней записи изменений
+
+%%current_audit_comments%en%%
+Comment
+%%current_audit_comments%ru%%
+Комментарий
+
+%%send_audit_notification%en%%
+Send notificaiton on user item changes
+%%send_audit_notification%ru%%
+Отправить уведомление об изменении
+
+%%audit_force_send%en%%
+Force send
+%%audit_force_send%ru%%
+Отправлять
+
+%%audit_dont_send%en%%
+Do not send
+%%audit_dont_send%ru%%
+Не отправлять
+
+%%audit_default%en%%
+Default
+%%audit_default%ru%%
+По умолчанию
+
+%%audit_owner%en%%
+Item owner
+%%audit_owner%ru%%
+Владелец
+
+%%audit_change_owner_warn%en%%
+Are you sure that item owner should be changed?
+%%audit_change_owner_warn%ru%%
+Вы действительно хотите изменить владельца данного элемента?
+
+%%audit_default_owner%en%%
+Default owner
+%%audit_default_owner%ru%%
+По умолчанию
+
+%%audit_owner_select%en%%
+Select item owner
+%%audit_owner_select%ru%%
+Выбор владельца элемента
+
+%%audit_members_popup%en%%
+Open window for item owner selecting
+%%audit_members_popup%ru%%
+Открыть окно выбора владельца элемента

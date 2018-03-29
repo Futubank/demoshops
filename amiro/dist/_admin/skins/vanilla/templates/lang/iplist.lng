@@ -1,0 +1,54 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%empty%en%%
+No data
+%%empty%ru%%
+Нет данных
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%ip_start%en%%
+Start IP
+%%ip_start%ru%%
+Начальный IP
+
+%%ip_end%en%%
+End IP
+%%ip_end%ru%%
+Последний IP
+
+%%visible_area%en%%
+Visible area
+%%visible_area%ru%%
+Область видимости
+
+%%area_local%en%%
+Local
+%%area_local%ru%%
+Локальные
+
+%%area_public%en%%
+Public
+%%area_public%ru%%
+Внешние
+
+%%invalid_ip%en%%
+Invalid IP address
+%%invalid_ip%ru%%
+Неверный IP адрес
+
+%%start%en%%
+Start
+%%start%ru%%
+Начальный
+
+%%end%en%%
+End
+%%end%ru%%
+Последний

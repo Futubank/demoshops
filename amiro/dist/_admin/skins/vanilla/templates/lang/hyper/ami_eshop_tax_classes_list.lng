@@ -1,0 +1,42 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_header%en%%
+Name
+%%list_col_header%ru%%
+Название
+
+%%list_col_tax_class_code%en%%
+Tax class code
+%%list_col_tax_class_code%ru%%
+Код
+
+%%list_col_tax_rate%en%%
+Tax rate
+%%list_col_tax_rate%ru%%
+Налоговая ставка
+
+%%list_col_tax_apply_type%en%%
+Tax apply type
+%%list_col_tax_apply_type%ru%%
+Начислять/Выделять
+
+%%charge%en%%
+Charge
+%%charge%ru%%
+Начислять
+
+%%detach%en%%
+Detach
+%%detach%ru%%
+Выделять
+
+%%list_col_icon_is_default%en%%
+Default tax class for e-shop
+%%list_col_icon_is_default%ru%%
+Налог по умолчанию для Интернет магазина
+
+%%list_action_active%en%%
+Select
+%%list_action_active%ru%%
+Выбрать

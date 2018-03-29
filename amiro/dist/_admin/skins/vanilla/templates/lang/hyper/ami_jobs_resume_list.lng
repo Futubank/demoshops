@@ -1,0 +1,86 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_title%en%%
+Position
+%%list_col_title%ru%%
+Должность
+
+%%list_col_lname%en%%
+Name
+%%list_col_lname%ru%%
+ФИО
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_salary%en%%
+Salary
+%%list_col_salary%ru%%
+Зарплата
+
+%%list_col_department%en%%
+Department
+%%list_col_department%ru%%
+Отдел
+
+%%list_col_phone%en%%
+Phone
+%%list_col_phone%ru%%
+Телефон
+
+%%status_not viewed%en%%
+not views
+%%status_not viewed%ru%%
+не рассмотрен
+
+%%status_marked%en%%
+marked
+%%status_marked%ru%%
+помечен
+
+%%status_ignored%en%%
+ignore
+%%status_ignored%ru%%
+игнорировать
+
+%%status_replied%en%%
+employer info was sent
+%%status_replied%ru%%
+данные работодателя отправлены
+
+%%status_request%en%%
+request new position
+%%status_request%ru%%
+запрос на новую позицию
+
+%%status_accepted%en%%
+accepted
+%%status_accepted%ru%%
+принят
+
+%%list_action_attach_off%en%%
+File no attached
+%%list_action_attach_off%ru%%
+Файл не присоединен
+
+%%list_action_attach%en%%
+File attached
+%%list_action_attach%ru%%
+Файл присоединен
+
+%%list_action_reply%en%%
+Reply
+%%list_action_reply%ru%%
+Ответить
+
+%%list_col_fname%en%%
+%%list_col_fname%ru%%
+
+%%list_col_id_file%en%%
+%%list_col_id_file%ru%%
+
+%%list_col_dp_id%en%%
+%%list_col_dp_id%ru%%

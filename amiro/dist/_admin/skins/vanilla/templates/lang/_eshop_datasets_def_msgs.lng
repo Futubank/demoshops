@@ -1,0 +1,9 @@
+%%status_maxds_fail%en%%
+Maximum number of datasets exceeded.
+%%status_maxds_fail%ru%%
+Превышено максимально допустимое значение количества наборов свойств.
+
+%%status_del_sys_fail%en%%
+System attributes list was not deleted!
+%%status_del_sys_fail%ru%%
+Системный набор свойств не был удален!

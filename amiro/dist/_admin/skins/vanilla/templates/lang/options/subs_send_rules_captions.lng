@@ -1,0 +1,13 @@
+%%send_only_active%en%%
+%%send_only_active%ru%%
+Отправлять пользователям
+
+%%attempts%en%%
+Attempts to send a letter
+%%attempts%ru%%
+Количество попыток отправить письмо
+
+%%max_subs_direct%en%%
+Maximum quantity of the subscribers for sending without queue
+%%max_subs_direct%ru%%
+Максимальное количество подписчиков для отправки без помещения очередь

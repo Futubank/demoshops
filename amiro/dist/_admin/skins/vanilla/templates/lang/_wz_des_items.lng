@@ -1,0 +1,38 @@
+%%include_language "templates/lang/_common_items.lng"%%
+
+%%cname%en%%
+Category
+%%cname%ru%%
+Категория
+
+%%left%en%%
+Left
+%%left%ru%%
+Влево
+
+%%right%en%%
+Right
+%%right%ru%%
+Вправо
+
+%%center%en%%
+Center
+%%center%ru%%
+Центр
+
+%%folder_path%en%%
+Folder 
+%%folder_path%ru%%
+Папка
+
+%%create_subcategory%en%%
+Create category
+%%create_subcategory%ru%%
+Создать категорию
+
+%%update_btn%en%%
+Update designs
+%%update_btn%ru%%
+Обновить дизайны
+
+

@@ -1,0 +1,6 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    Template 
+ * @version    $Id$ 
+ * @size       1492 xkqwymltzttlyqykulwzwrswiylyxugxisxxnswyzsmlipikuxpuisplmgnxlyxgzqnypnir
+ */ ?><?php foreach(array(15168=>'sqyUp|TqigjzTq') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} require_once $GLOBALS['CLASSES_PATH'] .'GUI_template.php'; if(!defined(I15168)){ class template extends GUI_template{ public $urlVersionParam; function template(){ $this->urlVersionParam ='_cv'; parent::GUI_template(); }}}else{ require_once $GLOBALS['CLASSES_PATH'] .'DEBUG_template.php'; class template extends DEBUG_template{ public $urlVersionParam; function template(){ $this->urlVersionParam ='_cv'; parent::DEBUG_template(); }}}

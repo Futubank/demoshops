@@ -1,0 +1,93 @@
+%%error_missing_config_file%en%%
+Missing config file &quot;%s&quot;!
+%%error_missing_config_file%ru%%
+Отсутствует конфигурационный файл &quot;%s&quot;!
+
+%%error_invalid_config_file%en%%
+Invalid config file &quot;%s&quot;!
+%%error_invalid_config_file%ru%%
+Ошибка в конфигурационном файле &quot;%s&quot;!
+
+%%error_missing_config_file_parameter%en%%
+Missing parameter &quot;%s&quot; in config file &quot;%s&quot;!
+%%error_missing_config_file_parameter%ru%%
+Пропущен параметр &quot;%s&quot; конфигурационного файла &quot;%s&quot;!
+
+%%error_cant_save%en%%
+Cannot save config file &quot;%s&quot;!
+%%error_cant_save%ru%%
+Невозможно сохранить конфигурационный файл &quot;%s&quot;!
+
+%%message_saved%en%%
+Configuration is saved.
+%%message_saved%ru%%
+Конфигурация сохранена.
+
+%%alloved_modules%en%%
+Allowed modules
+%%alloved_modules%ru%%
+Разрешённые модули
+
+%%tooltip_other_parameters%en%%
+Other parameters are available in Site Manager plugin specblock.
+%%tooltip_other_parameters%ru%%
+Остальные параметры доступны в спецблоке плагина на странице менеджера сайта.
+
+%%apply%en%%
+Apply
+%%apply%ru%%
+Применить
+
+##-- module captions ( --##
+
+%%mod_articles%en%%
+Articles
+%%mod_articles%ru%%
+Статьи
+
+%%mod_blog%en%%
+Blog
+%%mod_blog%ru%%
+Дневник
+
+%%mod_eshop_item%en%%
+Catalogue
+%%mod_eshop_item%ru%%
+Каталог
+
+%%mod_files%en%%
+File Archive
+%%mod_files%ru%%
+Файловый архив
+
+%%mod_kb_item%en%%
+Knowledge Base
+%%mod_kb_item%ru%%
+База знаний
+
+%%mod_news%en%%
+News
+%%mod_news%ru%%
+Новости
+
+%%mod_photoalbum%en%%
+Photo Gallery
+%%mod_photoalbum%ru%%
+Фотоальбомы
+
+%%mod_portfolio_item%en%%
+Portfolio
+%%mod_portfolio_item%ru%%
+Портфолио
+
+%%mod_stickers%en%%
+Stickers
+%%mod_stickers%ru%%
+Стикеры
+
+%%mod_search_history%en%%
+Search History
+%%mod_search_history%ru%%
+История поиска
+
+##-- ) module captions --##

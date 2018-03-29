@@ -1,0 +1,104 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Payment item was added.
+%%status_add%ru%%
+Оплата добавлена.
+
+%%status_add_fail%en%%
+Payment item was not added.
+%%status_add_fail%ru%%
+Оплата не добавлена.
+
+%%status_del%en%%
+Payment item was deleted.
+%%status_del%ru%%
+Строка оплаты удалена.
+
+%%status_apply%en%%
+Payment item was updated.
+%%status_apply%ru%%
+Платеж изменен.
+
+%%status_del_fail%en%%
+Payment item was not deleted.
+%%status_del_fail%ru%%
+Строка оплаты не удалена.
+
+%%amount_warn%en%%
+Please, enter the Amount correctly!
+%%amount_warn%ru%%
+Пожалуйста, правильно введите сумму!
+
+%%rate_warn%en%%
+Please, enter the Rate correctly!
+%%rate_warn%ru%%
+Пожалуйста, правильно введите курс!
+
+%%doc_num_warn%en%%
+Please, enter document number.
+%%doc_num_warn%ru%%
+Пожалуйста, введите номер документа.
+
+%%user_warn%en%%
+Please, select the Username!
+%%user_warn%ru%%
+Пожалуйста, выберите пользователя!
+
+%%invalid_date%en%%
+Invalid date
+%%invalid_date%ru%%
+Неправильная дата
+
+%%invalid_domain%en%%
+Invalid domain
+%%invalid_domain%ru%%
+Неправильный домен
+
+%%no_props%en%%
+Properties of payor are not set. Payment has not been added.
+%%no_props%ru%%
+Реквизиты получателя не заданы. Платеж не добавлен.
+
+%%set_props%en%%
+ATTENTION, please, check: payment have been assigned to payor: _name_.
+%%set_props%ru%%
+ВНИМАНИЕ, проверьте: платеж назначен на плательщика: _name_.
+
+%%notify_no_email%en%%
+E-mail of site owner is not set, notify has not been sent
+%%notify_no_email%ru%%
+E-mail адрес владельца сайта не установлен, уведомление не отправлено
+
+%%notify_sent%en%%
+Notify has been sent to site owner
+%%notify_sent%ru%%
+Уведомление отправлено владельцу сайта
+
+%%notify_send_failed%en%%
+Notify has not been sent to site owner
+%%notify_send_failed%ru%%
+Уведомление не отправлено владельцу сайта
+
+%%notify_adm_send_failed%en%%
+Notify has not been sent to builder administrator
+%%notify_adm_send_failed%ru%%
+Уведомление не отправлено администратору конструктора сайтов
+
+
+%%amount_rest_fail%en%%
+The payment rest is not enough to decreasy amount to this value. Amount has not been changed.
+%%amount_rest_fail%ru%%
+Остаток платежа меньше значения необходимого для уменьшения суммы. Значение суммы не изменено.
+
+%%error_payment_code_domain%en%%
+Domain in payment code is not match the domain already entered in form, check payment data. Data was not changed.
+%%error_payment_code_domain%ru%%
+Домен в веденном коде платежа отличается от домена указанного в счете, проверьте данные платежа. Изменения не внесены.
+
+%%error_payment_code_amount%en%%
+Amount in payment code is not match the amount already entered in form.
+%%error_payment_code_amount%ru%%
+Сумма в веденном коде платежа отличается от суммы указанной в счете. 
+
+

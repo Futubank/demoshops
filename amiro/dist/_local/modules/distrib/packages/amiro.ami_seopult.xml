@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="amiro.ami_seopult" version="1.0" manifestVersion="1.0">
+    <information lang="en">
+        <title>SeoPult</title>
+        <description>SeoPult</description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amirocms.com</source>
+    </information>
+    <information lang="ru">
+        <title>Продвижение с SeoPult</title>
+        <description>Продвижение с SeoPult</description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amiro.ru</source>
+    </information>
+    <contents>
+        <content hypermodule="ami_clean" configuration="ami_seopult" version="1.0" />
+    </contents>
+    <installation>
+        <install hypermodule="ami_clean" configuration="ami_seopult" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_clean" version="1.0" />
+    </dependencies>
+</package>

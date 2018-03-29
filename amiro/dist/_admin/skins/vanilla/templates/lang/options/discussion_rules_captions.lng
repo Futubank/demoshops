@@ -1,0 +1,108 @@
+%%messages_per_page%en%%
+Number of messages per page
+%%messages_per_page%ru%%
+Количество сообщений на странице
+
+%%spl_notification%en%%
+Notifications
+%%spl_notification%ru%%
+Уведомления
+
+%%notify_admin_about_new_topic%en%%
+Send new topic notification to administrator
+%%notify_admin_about_new_topic%ru%%
+Отправлять уведомление о новой теме администратору
+
+
+%%multicat%en%%
+Show the list of sections in the list of topics
+%%multicat%ru%%
+Отображать список разделов в списке топиков
+
+
+
+%%multicat_in_body_details%en%%
+To show the list of subjects in details of question
+%%multicat_in_body_details%ru%%
+Отображать список тем в деталях вопроса
+
+%%show_last_items%en%%
+Support for special link parameter "show_last=N"
+%%show_last_items%ru%%
+Поддержка спец. параметра ссылки "show_last=N"
+
+%%show_subitems%en%%
+Show subitems per category
+%%show_subitems%ru%%
+Отображение вопросов в теме
+
+%%spl_categories%en%%
+Sections
+%%spl_categories%ru%%
+Разделы
+
+%%add_topics_by_registered_only%en%%
+Allow only registered users to add topics
+%%add_topics_by_registered_only%ru%%
+Добавление тем только зарегистрированными пользователями
+
+%%add_messages_by_registered_only%en%%
+Allow only registered users to add messages
+%%add_messages_by_registered_only%ru%%
+Добавление сообщений только зарегистрированными пользователями
+
+%%body_cats_cols%en%%
+Columns in the subject browse mode
+%%body_cats_cols%ru%%
+Количество столбцов в режиме отображения тем
+
+
+%%small_number_items%en%%
+Count of items for special block
+%%small_number_items%ru%%
+Количество вопросов в спецблоке
+
+%%small_number_items_INFO%en%%
+Count of items, which will be shown. If category(ies) is specified, then count of items from each category.
+%%small_number_items_INFO%ru%%
+Количество вопросов, которые будут отображены. Если указаны темы, то количество элементов из каждой темы.
+
+%%small_category_ids%en%%
+Category ids to show articles in special block
+%%small_category_ids%ru%%
+ID тем для отображения вопросов в спецблоке
+
+%%small_number_categories%en%%
+Number of categories shown in special block
+%%small_number_categories%ru%%
+Количество тем для отображения вопросов в спецблоке
+
+%%small_categories_sort_col%en%%
+Order articles in special block by category column
+%%small_categories_sort_col%ru%%
+Сортировать темы при отображении в спецблоке по полю темы
+
+%%small_categories_sort_dim%en%%
+Direction of articles sorting in special block by category column
+%%small_categories_sort_dim%ru%%
+Направление сортировки вопросов при отображении в спецблоке по полю темы
+
+%%small_items_sort_col%en%%
+Order items in special block by column
+%%small_items_sort_col%ru%%
+Сортировать вопросы в спецблоке по полю
+
+%%small_items_sort_dim%en%%
+Items order direction in special block
+%%small_items_sort_dim%ru%%
+Направление сортировки вопросов в спецблоке
+
+%%use_categories%en%%
+Use sections
+%%use_categories%ru%%
+Использовать разделы
+
+%%updatable_period%en%%
+Author can update his\her message
+%%updatable_period%ru%%
+Автор может внести изменения в свое сообщение

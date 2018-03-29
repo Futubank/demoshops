@@ -1,0 +1,465 @@
+%%icon_default%en%%
+Set to default
+%%icon_default%ru%%
+Установить значение по умолчанию
+
+%%icon_restore%en%%
+Restore
+%%icon_restore%ru%%
+Восстановить
+
+%%icon_backup%en%%
+Backup
+%%icon_backup%ru%%
+Сделать резервную копию
+
+%%icon_sort_asc%en%%
+Sort Ascending
+%%icon_sort_asc%ru%%
+Сортировать по возрастанию
+
+%%icon_sort_desc%en%%
+Sort Descending
+%%icon_sort_desc%ru%%
+Сортировать по убыванию
+
+%%icon_public_on%en%%
+Published on site, click to make unpublished.
+%%icon_public_on%ru%%
+Опубликовано на сайте
+
+%%icon_public_off%en%%
+Not Published on site, click to publish.
+%%icon_public_off%ru%%
+Не опубликовано на сайте
+
+%%icon_spec_public_on%en%%
+Published on site, click to make unpublished.
+%%icon_spec_public_on%ru%%
+Опубликовано на сайте
+
+%%icon_spec_public_off%en%%
+Not Published on site, click to publish.
+%%icon_spec_public_off%ru%%
+Не опубликовано на сайте
+
+%%icon_operation_on%en%%
+Send the instruction.
+%%icon_operation_on%ru%%
+Отправлять инструкцию.
+
+%%icon_operation_off%en%%
+Not send the instruction.
+%%icon_operation_off%ru%%
+Не отправлять инструкцию.
+
+%%icon_special_on%en%%
+Special offer, click to make not special.
+%%icon_special_on%ru%%
+Специальное предложение
+
+%%eshop_special_form%en%%
+The special attributes
+%%eshop_special_form%ru%%
+Специальные признаки
+
+%%icon_special_off%en%%
+Not Special offer, click to make special.
+%%icon_special_off%ru%%
+Не является специальным предложением
+
+%%icon_is_default_on%en%%
+Item is default
+%%icon_is_default_on%ru%%
+Элемент по умолчанию
+
+%%icon_is_default_off%en%%
+Item is not default
+%%icon_is_default_off%ru%%
+Элемент не по умолчанию
+
+%%icon_locked_on%en%%
+Locked, click to unlock.
+%%icon_locked_on%ru%%
+Закрытый, нажмите чтобы сделать открытым.
+
+%%icon_locked_off%en%%
+Unlocked, click to lock.
+%%icon_locked_off%ru%%
+Открытый, нажмите чтобы закрыть.
+
+%%icon_locked_on_disabled%en%%
+Locked.
+%%icon_locked_on_disabled%ru%%
+Закрытый.
+
+%%icon_locked_off_disabled%en%%
+Unlocked.
+%%icon_locked_off_disabled%ru%%
+Открытый.
+
+%%icon_active_on%en%%
+Active, click to deactivate.
+%%icon_active_on%ru%%
+Активный, нажмите чтобы сделать неактивным
+
+%%icon_active_off%en%%
+Inactive, click to activate.
+%%icon_active_off%ru%%
+Неактивный, нажмите чтобы активировать.
+
+%%icon_spec_active_on%en%%
+Base currency for currency special block.
+%%icon_spec_active_on%ru%%
+Базовая валюта для блока валют.
+
+%%icon_spec_active_off%en%%
+Click to set base currency for currency special block.
+%%icon_spec_active_off%ru%%
+Нажмите чтобы установить базовой валютой для блока валют.
+
+%%icon_spec2_active_on%en%%
+Base currency for e-shop.
+%%icon_spec2_active_on%ru%%
+Базовая валюта для Интернет магазина.
+
+%%icon_spec2_active_off%en%%
+Click to set base currency for e-shop.
+%%icon_spec2_active_off%ru%%
+Нажмите чтобы установить базовой валютой для Интернет магазина.
+
+%%icon_spec3_active_on%en%%
+Default tax class for e-shop.
+%%icon_spec3_active_on%ru%%
+Налог по умолчанию для Интернет магазина.
+
+%%icon_spec3_active_off%en%%
+Click to set default tax class for e-shop.
+%%icon_spec3_active_off%ru%%
+Нажмите чтобы установить налогом по умолчанию для Интернет магазина.
+
+%%icon_spec4_active_on%en%%
+Default tax zone for e-shop.
+%%icon_spec4_active_on%ru%%
+Зона налогообложения по умолчанию для Интернет магазина.
+
+%%icon_deleted_on%en%%
+Deleted
+%%icon_deleted_on%ru%%
+Удаленный
+
+%%icon_deleted_off%en%%
+Operating
+%%icon_deleted_off%ru%%
+Действующий
+
+%%icon_archive_on%en%%
+Archive, click to make active.
+%%icon_archive_on%ru%%
+Архивный, нажмите чтобы сделать активным
+
+%%icon_archive_off%en%%
+Active, click to archive.
+%%icon_archive_off%ru%%
+Активный, нажмите чтобы архивировать.
+
+%%static_icon_archive_on%en%%
+Archive
+%%static_icon_archive_on%ru%%
+Архивный
+
+%%static_icon_archive_off%en%%
+Active
+%%static_icon_archive_off%ru%%
+Активный
+
+%%icon_view%en%%
+View
+%%icon_view%ru%%
+Смотреть
+
+%%icon_print%en%%
+Print
+%%icon_print%ru%%
+Напечатать
+
+%%icon_edit%en%%
+Edit
+%%icon_edit%ru%%
+Редактировать
+
+%%icon_del%en%%
+Delete
+%%icon_del%ru%%
+Удалить
+
+%%icon_purge%en%%
+Purge
+%%icon_purge%ru%%
+Очистить
+
+%%icon_reply%en%%
+Reply
+%%icon_reply%ru%%
+Ответить
+
+%%icon_reset%en%%
+Reset Password
+%%icon_reset%ru%%
+Сбросить пароль
+
+%%icon_copy%en%%
+Copy
+%%icon_copy%ru%%
+Копировать
+
+%%icon_scrnshot%en%%
+Edit images
+%%icon_scrnshot%ru%%
+Редактировать изображения
+
+%%delete_warn%en%%
+Delete this item?
+%%delete_warn%ru%%
+Удалить?
+
+%%copy_warn%en%%
+Copy this item?
+%%copy_warn%ru%%
+Скопировать?
+
+%%delete_cat_warn%en%%
+Delete this category? All items will be deleted.
+%%delete_cat_warn%ru%%
+Удалить категорию? Все элементы будут удалены.
+
+%%delete_warn_multi%en%%
+Subordinate items will be ungrouped.\n Are you sure you want to delete this category?
+%%delete_warn_multi%ru%%
+Подчиненные элементы будут разгруппированы.\n Удалить Категорию?
+
+%%publish_warn_multi%en%%
+Are you sure to change publishing status of this category and all subordinate items?
+%%publish_warn_multi%ru%%
+Сменить статус видимости, включая все подчиненные элементы?
+
+%%restore_warn%en%%
+Restore this layout?
+%%restore_warn%ru%%
+Восстановить этот макет?
+
+%%backup_warn%en%%
+Backup this layout?
+%%backup_warn%ru%%
+Сделать резервную копию этого макета?
+
+%%default_layout_del%en%%
+Default layout cannot be deleted!
+%%default_layout_del%ru%%
+Макет по умолчанию не может быть удален.
+
+
+%%icon_result%en%%
+Show Results
+%%icon_result%ru%%
+Результат
+
+%%icon_reset_num%en%%
+Reset Results
+%%icon_reset_num%ru%%
+Обнулить Результаты
+
+%%reset_warn%en%%
+Are you sure to reset results of this Poll?
+%%reset_warn%ru%%
+Вы уверены, что желаете обнулить результаты Опроса?
+
+%%reset_pass_warn%en%%
+Are you sure to reset password?
+%%reset_pass_warn%ru%%
+Вы уверены, что желаете сбросить пароль?
+
+%%onlock%en%%
+Locked
+%%onlock%ru%%
+Закрытый
+
+%%notlock%en%%
+Unlocked
+%%notlock%ru%%
+Открытый
+
+%%onactive%en%%
+Active
+%%onactive%ru%%
+Активный
+
+%%notactive%en%%
+Not active
+%%notactive%ru%%
+Не активный
+
+%%spec_onactive%en%%
+Base currency for currency block
+%%spec_onactive%ru%%
+Базовая валюта для блока валют
+
+%%spec_notactive%en%%
+Not active
+%%spec_notactive%ru%%
+Не активный
+
+%%spec2_onactive%en%%
+Base currency for e-shop
+%%spec2_onactive%ru%%
+Базовая валюта для Интернет магазина
+
+%%spec2_notactive%en%%
+Not active
+%%spec2_notactive%ru%%
+Не активный
+
+%%ondeleted%en%%
+Deleted
+%%ondeleted%ru%%
+Удаленный
+
+%%notdeleted%en%%
+Operating
+%%notdeleted%ru%%
+Действующий
+
+%%onarchive%en%%
+Archive
+%%onarchive%ru%%
+Архивный
+
+%%notarchive%en%%
+Active
+%%notarchive%ru%%
+Активный
+
+%%edit_images%en%%
+Edit images
+%%edit_images%ru%%
+Редактировать изображения
+
+%%add_images%en%%
+Add images
+%%add_images%ru%%
+Добавить изображения
+
+%%paid%en%%
+Paid
+%%paid%ru%%
+Платный
+
+%%special%en%%
+Special
+%%special%ru%%
+Специальный
+
+%%not_special%en%%
+Not special
+%%not_special%ru%%
+Не специальный
+
+%%delete_user_warn%en%%
+Delete user
+%%delete_user_warn%ru%%
+Удалить пользователя
+
+%%delete_site_warn%en%%
+Delete site
+%%delete_site_warn%ru%%
+Удалить сайт
+
+%%last_type_del%en%%
+Last type cannot be deleted
+%%last_type_del%ru%%
+Последний тип не может быть удален
+
+%%delete_popup%en%%
+Delete
+%%delete_popup%ru%%
+Удаление
+
+%%icon_undo%en%%
+Undo changes
+%%icon_undo%ru%%
+Отменить изменения
+
+%%icon_add_payment%en%%
+Add payment
+%%icon_add_payment%ru%%
+Добавить платеж
+
+%%icon_install_update%en%%
+Install this update
+%%icon_install_update%ru%%
+Установить обновление
+
+%%icon_del_update%en%%
+Delete files used by update
+%%icon_del_update%ru%%
+Удалить файлы обновления
+
+%%icon_restore_version%en%%
+Restore previous version
+%%icon_restore_version%ru%%
+Восстановить предыдущую версию
+
+%%icon_select%en%%
+Select
+%%icon_select%ru%%
+Выбрать
+
+%%icon_email%en%%
+Send this item by E-mail
+%%icon_email%ru%%
+Отправить по электронной почте
+
+%%email_warn%en%%
+Send this item by E-mail?
+%%email_warn%ru%%
+Отправить по электронной почте?
+
+%%icon_file%en%%
+File attached
+%%icon_file%ru%%
+Файл присоединен
+
+%%icon_file_off%en%%
+File no attached
+%%icon_file_off%ru%%
+Файл не присоединен
+
+%%external_link%en%%
+Object forwarding
+%%external_link%ru%%
+Перенаправление
+
+%%payments_reset_warn%en%%
+ATTENTION: Downpayments will are deleted and the balance will be recalculated.\n\nDownpayments by that there are already created any invoices will not are deleted.\n\nAre you sure to delete downaments?
+%%payments_reset_warn%ru%%
+ВНИМАНИЕ: Списания будут удалены, баланс будет пересчитан.\n\nСписания по которым выставлены акты, не будут удалены.\n\nУдалить списания?
+
+%%icon_payments_reset%en%%
+Delete downpayments
+%%icon_payments_reset%ru%%
+Удалить списания
+
+%%icon_external_link%en%%
+Delete item and add forwarding for data exchange
+%%icon_external_link%ru%%
+Удалить элемент и добавить перенаправление при обмене данными
+
+%%leg_external_link%en%%
+Delete item and add forwarding for data exchange
+%%leg_external_link%ru%%
+Удалить элемент и добавить перенаправление при обмене данными
+
+%%leg_payments_reset%en%%
+Delete downpayments
+%%leg_payments_reset%ru%%
+Удалить списания

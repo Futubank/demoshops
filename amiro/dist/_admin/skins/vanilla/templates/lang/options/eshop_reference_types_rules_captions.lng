@@ -1,0 +1,34 @@
+%%show_ref_id%en%%
+Visible reference
+%%show_ref_id%ru%%
+Отображаемый справочник
+
+%%spl_item_list_description%en%%
+Show descriptions
+%%spl_item_list_description%ru%%
+Отображение описаний
+
+%%show_description_mode%en%%
+Show mode
+%%show_description_mode%ru%%
+Режим отображения
+
+%%description_text_mode%en%%
+Content type
+%%description_text_mode%ru%%
+Формат текста
+
+%%search_ref_fields%en%%
+The fast link in the catalogue on a field
+%%search_ref_fields%ru%%
+Быстрый переход в каталог по полю
+
+%%body_items_cols%en%%
+Columns in the list browse mode
+%%body_items_cols%ru%%
+Количество столбцов в режиме отображения списка элементов
+
+%%search_field_cat%en%%
+Category
+%%search_field_cat%ru%%
+Категория товаров

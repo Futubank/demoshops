@@ -1,0 +1,161 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Subscription was added.
+%%status_add%ru%%
+Договор добавлен.
+
+%%status_add_fail%en%%
+Subscription was not added.
+%%status_add_fail%ru%%
+Договор не добавлен.
+
+%%status_apply%en%%
+Subscription was updated.
+%%status_apply%ru%%
+Договор изменен.
+
+%%status_apply_fail%en%%
+Subscription was not updated.
+%%status_apply_fail%ru%%
+Договор не изменен.
+
+%%status_del%en%%
+Subscription was deleted.
+%%status_del%ru%%
+Договор удален.
+
+%%status_del_fail%en%%
+Subscription was not deleted.
+%%status_del_fail%ru%%
+Договор не удален.
+
+%%status_del_resources_fail%en%%
+Delete resources fail.
+%%status_del_resources_fail%ru%%
+Ошибка при удалении ресурсов.
+
+%%status_del_fail_tariff_exists%en%%
+Subscription was not deleted.
+%%status_del_fail_tariff_exists%ru%%
+Договор не удален.
+
+%%select_client_warn%en%%
+Are you really want to change the subscription owner?
+%%select_client_warn%ru%%
+Вы действительно хотите изменить владельца договора?
+
+%%id_member_warn%en%%
+Please, select the client
+%%id_member_warn%ru%%
+Пожалуйста, выберите клиента
+
+%%tariff_warn%en%%
+Please, select the tariff
+%%tariff_warn%ru%%
+Пожалуйста, выберите тариф
+
+%%tariff_change_warn%en%%
+Additional packages are selected. If you change the tariff, additional packages set will be lost. Continue?
+%%tariff_change_warn%ru%%
+Выбраны дополнительыне пакеты. Если тариф будет изменен, набор пакетов будет потерян. Продолжить?
+
+%%status_lock%en%%
+Client lock status is successfully changed
+%%status_lock%ru%%
+Статус блокировки клиента успешно изменён
+
+%%status_lock_fail%en%%
+Change the client lock status is fail
+%%status_lock_fail%ru%%
+Ошибка при изменении статуса блокировки клиента
+
+%%status_create_subscription_res_fail%en%%
+Create subscription resource record fail
+%%status_create_subscription_res_fail%ru%%
+Не удалось создать запись для договора
+
+%%status_update_subscription_res_fail%en%%
+Update subscription resource record fail
+%%status_update_subscription_res_fail%ru%%
+Не удалось обновить запись для ресурса договора
+
+%%status_update_mail_domain_fail%en%%
+Update mail domain properties fail
+%%status_update_mail_domain_fail%ru%%
+Не удалось обновить совйства почтового домена
+
+%%hst_status_del_subscription_fail%en%%
+Subscription was not deleted. Hosting error.
+%%hst_status_del_subscription_fail%ru%%
+Договор не был удален. Ошибка хостинга.
+
+%%status_archive_tariff%en%%
+Current tariff is archived.
+%%status_archive_tariff%ru%%
+Текущий тариф является архивным.
+
+%%status_archive_new_tariff%en%%
+New tariff are archived.
+%%status_archive_new_tariff%ru%%
+Новый тариф является архивным.
+
+%%excess_resource_bound%en%%
+Excess resource(s):
+%%excess_resource_bound%ru%%
+Превышен лимит ресурса(ов):
+
+%%try_to_buy%en%%
+Tryed to buy
+%%try_to_buy%ru%%
+Попытка купить
+
+%%access_violation%en%%
+Access violation.
+%%access_violation%ru%%
+Нарушение доступа.
+
+%%hosting_error%en%%
+Hosting error.
+%%hosting_error%ru%%
+Ошибка хостинга.
+
+%%subscription_blocked_warn%en%%
+Save the changes is blocked.
+%%subscription_blocked_warn%ru%%
+Сохранение изменений в договоре заблокировано.
+
+%%subscription_downgrade_warn%en%%
+Are you really want to decrease available values for this subscription?
+%%subscription_downgrade_warn%ru%%
+Вы действительно хотите уменьшить допустимые значения для данного договора?
+
+%%exceed_maximum_resource_msg%en%%
+For resource '_name_' was exceed maximum '_max_' on this tariff.
+%%exceed_maximum_resource_msg%ru%%
+Для ресурса '_name_' превышен максимум '_max_' на данном тарифе.
+
+%%available_resources_not_enough_msg%en%%
+Current usage of resource '_name_' is _used_. Add to subscription a packages with this resource.
+%%available_resources_not_enough_msg%ru%%
+Текущее использование ресурса '_name_' составляет _used_. Необходимо добавить в договор пакеты с данным ресурсом.
+
+%%available_resources_less_than_old_msg%en%%
+Current available count of resource '_name_' is _tmp_. Add to subscription a packages with this resource.
+%%available_resources_less_than_old_msg%ru%%
+Текущее доступное значение ресурса '_name_' составляет _tmp_. Необходимо добавить в договор пакеты с данным ресурсом.
+
+%%decrease_resources_confirm%en%%
+Are you really want to decrease available resources for this subscription?
+%%decrease_resources_confirm%ru%%
+Вы действительно хотите уменьшить допустимые значения для данного договора?
+
+%%resource_depends_fail_msg%en%%
+Resource '_res_slave_' depends from this not available resources: _masters_.
+%%resource_depends_fail_msg%ru%%
+Ресурс '_res_slave_' зависит от следующих, недоступных в догворе, ресурсов: _masters_.
+
+%%reseller_cannot_have_subscr_warn%en%%
+Reseller cannot have a subscriptions.
+%%reseller_cannot_have_subscr_warn%ru%%
+Партнер не может иметь договора.

@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       938 xkqwrwrnlgwynrtlgqsqtikmtmsqgqmxktzwugpymtlmrilqmyqurtwlsnwtrgnpgzxtpnir
+ */ ?><?php foreach(array(22304=>"DOHC|GMW",22305=>"DrW",22306=>'WHntQnt+tBGQ') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $ILlIlIl=1; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $adm->Gui->addBlock(I22304,"templates/show_pic.tpl"); $type ="image"; $l1l111l["alt"] =$adm->VarsGet["alt"]; $l1l111l[I22305] =$adm->VarsGet[I22305]; $html["admin_root"] =$adm->AdminPathWWW; $html["object"] =$adm->Gui->get("show_pic:".$type, $l1l111l); $html['meta'] =$cms->Gui->getMeta(I22306); echo($adm->Gui->get(I22304, $html)); $conn->Out(); ?>

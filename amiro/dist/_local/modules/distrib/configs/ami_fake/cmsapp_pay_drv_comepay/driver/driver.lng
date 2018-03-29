@@ -1,0 +1,79 @@
+%%driver_title%en%%
+Comepay
+%%driver_title%ru%%
+Comepay
+
+%%driver_button_caption%en%%
+Confirm
+%%driver_button_caption%ru%%
+Оплатить
+
+%%enter_phone_number%en%%
+Enter phone number
+%%enter_phone_number%ru%%
+Введите номер телефона
+
+%%comepay_id%en%%
+Account ID
+%%comepay_id%ru%%
+Идентификатор кошелька(PrvID)
+
+%%comepay_purse_number%en%%
+Purse Number
+%%comepay_purse_number%ru%%
+Номер кошелька
+
+%%comepay_pwd%en%%
+Password
+%%comepay_pwd%ru%%
+Пароль
+
+%%comepay_pwd_not%en%%
+Notifictions Password
+%%comepay_pwd_not%ru%%
+Пароль для уведомлений
+
+%%shop_name%en%%
+Shop Name
+%%shop_name%ru%%
+Наименование Магазина
+
+%%comepay_mode%en%%
+Test mode
+%%comepay_mode%ru%%
+Тестовый режим
+
+%%comepay_mode_test%en%%
+On
+%%comepay_mode_test%ru%%
+Включен
+
+%%comepay_mode_prod%en%%
+Off
+%%comepay_mode_prod%ru%%
+Выключен
+
+%%error_server_error%en%%
+Server Error
+%%error_server_error%ru%%
+Ошибка Сервера
+
+%%error_invalid_order%en%%
+Invalid Order ID
+%%error_invalid_order%ru%%
+Некорректный номер заказа
+
+%%error_incorrect_phone%en%%
+Incorrect phone number
+%%error_incorrect_phone%ru%%
+Некорректный формат номера телефона
+
+%%error_unknown_phone%en%%
+Unknown phone number
+%%error_unknown_phone%ru%%
+Номер телефона не зарегистрирован в Comepay
+
+%%waiting_for_comepay%en%%
+Please wait
+%%waiting_for_comepay%ru%%
+Отправка запроса

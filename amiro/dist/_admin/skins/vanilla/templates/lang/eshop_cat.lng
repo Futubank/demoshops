@@ -1,0 +1,93 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/_eshop_main.lng"%%
+%%include_language "templates/lang/eshop_cat_def.lng"%%
+
+%%eshop_cat_add%en%%
+Add category
+%%eshop_cat_add%ru%%
+Добавить категорию магазина
+
+%%eshop_cat_apply%en%%
+Edit Eshop category
+%%eshop_cat_apply%ru%%
+Редактировать категорию магазина
+
+%%update_force%en%%
+Update prices for all products
+%%update_force%ru%%
+Обновить цены для всех товаров
+
+%%del_with_items%en%%
+Delete with all products and subcategories
+%%del_with_items%ru%%
+Удалить вместе с товарами и подкатегориями
+
+%%del_move_other%en%%
+Move all products and subcategories to category
+%%del_move_other%ru%%
+Переместить все товары и подкатегории в категорию
+
+%%related_items_add_list%en%%
+Create list of related products
+%%related_items_add_list%ru%%
+Создание списка связанных товаров
+
+%%number_related_items%en%%
+Number of related products
+%%number_related_items%ru%%
+Кол-во связанных товаров
+
+%%related_cats_add_list%en%%
+Set related cats list
+%%related_cats_add_list%ru%%
+Создание списка связанных категорий
+
+%%related_cats_add_icon%en%%
+Set list of related categories
+%%related_cats_add_icon%ru%%
+Назначить список связанных категорий
+
+%%related_cats_edit_icon%en%%
+Edit list of related categories
+%%related_cats_edit_icon%ru%%
+Редактировать список связанных категорий
+
+%%number_related_cats%en%%
+Number of related categories
+%%number_related_cats%ru%%
+Кол-во связанных категорий
+
+%%tab_custom_fields%en%%
+Category attributes
+%%tab_custom_fields%ru%%
+Свойства категории
+
+%%dataset_name%en%%
+Attribute list name
+%%dataset_name%ru%%
+Название набора свойств
+
+%%related_items_add_icon%en%%
+Add list of related products
+%%related_items_add_icon%ru%%
+Добавить список связанных товаров
+
+%%related_items_edit_icon%en%%
+Edit list of related products
+%%related_items_edit_icon%ru%%
+Изменить список связанных товаров
+
+%%related_items_edit_icon%en%%
+Edit list of related products
+%%related_items_edit_icon%ru%%
+Изменить список связанных товаров
+
+%%eshop_references_add%en%%
+Add from reference
+%%eshop_references_add%ru%%
+Добавить из справочника

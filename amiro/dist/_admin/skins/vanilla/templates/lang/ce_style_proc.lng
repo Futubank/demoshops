@@ -1,0 +1,497 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%title%en%%
+CSS Editing 
+%%title%ru%%
+Редактирование стилей (CSS)
+
+%%css_text%en%%
+Inline Style Sheet
+%%css_text%ru%%
+Внутренняя таблица стилей
+
+%%style_classes%en%%
+style classes
+%%style_classes%ru%%
+Классы стилей
+
+%%class_name%en%%
+class name
+%%class_name%ru%%
+Классы стилей
+
+%%font%en%%
+font
+%%font%ru%%
+Шрифт
+
+%%font_undefined%en%%
+undefined
+%%font_undefined%ru%%
+не задан
+
+%%background%en%%
+background
+%%background%ru%%
+фон
+
+%%font_family%en%%
+font family
+%%font_family%ru%%
+тип
+
+%%color%en%%
+color
+%%color%ru%%
+цвет
+
+%%picture%en%%
+picture
+%%picture%ru%%
+изображение
+
+%%picture_dialog%en%%
+Select picture
+%%picture_dialog%ru%%
+Выбор изображения
+
+%%position%en%%
+position
+%%position%ru%%
+позиция
+
+%%position_x%en%%
+position X
+%%position_x%ru%%
+позиция X
+
+%%position_y%en%%
+position Y
+%%position_y%ru%%
+позиция Y
+
+%%background_repeat%en%%
+repeating
+%%background_repeat%ru%%
+замостить
+
+%%background_repeat_undefined%en%%
+undefined
+%%background_repeat_undefined%ru%%
+не задано
+
+%%background_repeat_no%en%%
+no repeat
+%%background_repeat_no%ru%%
+нет
+
+%%background_repeat_repeat%en%%
+repeat
+%%background_repeat_repeat%ru%%
+полностью
+
+%%background_repeat_x%en%%
+horizontally
+%%background_repeat_x%ru%%
+по горизонтали
+
+%%background_repeat_y%en%%
+vertically
+%%background_repeat_y%ru%%
+по вертикали
+
+%%position_n_size%en%%
+position and size
+%%position_n_size%ru%%
+положение и размер
+
+%%position%en%%
+position
+%%position%ru%%
+положение
+
+%%size%en%%
+size
+%%size%ru%%
+размер
+
+%%position_undefined%en%%
+undefined
+%%position_undefined%ru%%
+не задано
+
+%%position_relative%en%%
+relative
+%%position_relative%ru%%
+относительное
+
+%%position_absolute%en%%
+absolute
+%%position_absolute%ru%%
+абсолютное
+
+%%position_fixed%en%%
+fixed
+%%position_fixed%ru%%
+фиксированное
+
+%%order%en%%
+order
+%%order%ru%%
+порядок
+
+%%left%en%%
+left
+%%left%ru%%
+слева
+
+%%top%en%%
+top
+%%top%ru%%
+сверху
+
+%%right%en%%
+right
+%%right%ru%%
+справа
+
+%%bottom%en%%
+bottom
+%%bottom%ru%%
+снизу
+
+%%width%en%%
+width
+%%width%ru%%
+ширина
+
+%%height%en%%
+height
+%%height%ru%%
+высота
+
+%%padding_n_margin%en%%
+padding and margin
+%%padding_n_margin%ru%%
+отступы и поля
+
+%%padding%en%%
+padding
+%%padding%ru%%
+отступы
+
+%%reset%en%%
+reset
+%%reset%ru%%
+обнулить
+
+%%margin%en%%
+margin
+%%margin%ru%%
+поля
+
+%%borders%en%%
+borders
+%%borders%ru%%
+границы
+
+%%undefined%en%%
+undefined
+%%undefined%ru%%
+не задано
+
+%%solid%en%%
+solid
+%%solid%ru%%
+сплошная
+
+%%dotted%en%%
+dotted
+%%dotted%ru%%
+точки
+
+%%dashed%en%%
+dashed
+%%dashed%ru%%
+тире
+
+%%title_class_name%en%%
+class name
+%%title_class_name%ru%%
+классы стилей
+
+%%title_font_family%en%%
+font family
+%%title_font_family%ru%%
+шрифт
+
+%%title_font_size%en%%
+font size
+%%title_font_size%ru%%
+размер шрифта
+
+%%title_color%en%%
+color
+%%title_color%ru%%
+цвет
+
+%%title_background_color%en%%
+background color
+%%title_background_color%ru%%
+цвет подложки
+
+%%title_background_image%en%%
+background image
+%%title_background_image%ru%%
+изображение подложки
+
+%%title_background_position_x%en%%
+background position
+%%title_background_position_x%ru%%
+позиция подложки по x
+
+%%title_background_position_y%en%%
+background position
+%%title_background_position_y%ru%%
+позиция подложки по y
+
+%%title_background_repeat%en%%
+background repeat
+%%title_background_repeat%ru%%
+повторение подложки
+
+%%title_position%en%%
+position
+%%title_position%ru%%
+способ позиционирования элемента
+
+%%title_z_index%en%%
+z index
+%%title_z_index%ru%%
+размещение элементов по z-оси
+
+%%title_position_left%en%%
+position left
+%%title_position_left%ru%%
+расстояние от левого края родительского элемента
+
+%%title_position_top%en%%
+position top
+%%title_position_top%ru%%
+расстояние от верхнего края родительского элемента
+
+%%title_position_right%en%%
+position right
+%%title_position_right%ru%%
+расстояние от правого края родительского элемента
+
+%%title_position_bottom%en%%
+position bottom
+%%title_position_bottom%ru%%
+расстояние от нижнего края родительского элемента 
+
+%%title_size_width%en%%
+width  
+%%title_size_width%ru%%
+ширина
+
+%%title_size_height%en%%
+height
+%%title_size_height%ru%%
+высота
+
+%%title_padding_reset%en%%
+clear
+%%title_padding_reset%ru%%
+очистить
+
+%%title_padding_top%en%%
+padding
+%%title_padding_top%ru%%
+поле от верхнего края 
+
+%%title_padding_right%en%%
+padding
+%%title_padding_right%ru%%
+поле от правого края
+
+%%title_padding_bottom%en%%
+padding
+%%title_padding_bottom%ru%%
+поле от нижнего края
+
+%%title_padding_left%en%%
+padding
+%%title_padding_left%ru%%
+поле от левого края
+
+%%title_margin_reset%en%%
+clear
+%%title_margin_reset%ru%%
+очистить
+
+%%title_margin_top%en%%
+margin
+%%title_margin_top%ru%%
+отступ от верхнего края
+
+%%title_margin_right%en%%
+margin
+%%title_margin_right%ru%%
+отступ от правого края
+
+%%title_margin_bottom%en%%
+margin
+%%title_margin_bottom%ru%%
+отступ от нижнего края
+
+%%title_margin_left%en%%
+margin
+%%title_margin_left%ru%%
+отступ от левого края
+
+%%title_border_right_color%en%%
+border
+%%title_border_right_color%ru%%
+цвет границы справа от элемента
+
+%%title_border_left_color%en%%
+border
+%%title_border_left_color%ru%%
+цвет границы слева от элемента
+
+%%title_border_top_color%en%%
+border
+%%title_border_top_color%ru%%
+цвет границы сверху элемента
+
+%%title_border_bottom_color%en%%
+border
+%%title_border_bottom_color%ru%%
+цвет границы снизу элемента
+
+%%title_border_right_style%en%%
+border
+%%title_border_right_style%ru%%
+стиль границы справа от элемента
+
+%%title_border_left_style%en%%
+border
+%%title_border_left_style%ru%%
+стиль границы слева от элемента
+
+%%title_border_bottom_style%en%%
+border
+%%title_border_bottom_style%ru%%
+стиль границы снизу от элемента
+
+%%title_border_top_style%en%%
+border
+%%title_border_top_style%ru%%
+стиль границы сверху элемента
+
+%%title_border_left_width%en%%
+border
+%%title_border_left_width%ru%%
+толщина границы слева от элемента
+
+%%title_border_top_width%en%%
+border
+%%title_border_top_width%ru%%
+толщина границы сверху от элемента
+
+%%title_border_right_width%en%%
+border
+%%title_border_right_width%ru%%
+толщина границы справа от элемента
+
+%%title_border_bottom_width%en%%
+border
+%%title_border_bottom_width%ru%%
+толщина границы снизу от элемента
+
+%%title_css_text%en%%
+%%title_css_text%ru%%
+
+%%symbols%en%%
+symbols
+%%symbols%ru%%
+символы
+
+%%symbols_undefined%en%%
+undefined
+%%symbols_undefined%ru%%
+не задано
+
+%%symbols_cap%en%%
+capitalize
+%%symbols_cap%ru%%
+первые заглавные
+
+%%symbols_up%en%%
+uppercase
+%%symbols_up%ru%%
+заглавные
+
+%%symbols_lo%ru%%
+text transform
+%%symbols_lo%en%%
+строчные
+
+%%symbols_title%en%%
+uppercase
+%%symbols_title%ru%%
+преобразованием текста
+
+%%lowercase%en%%
+lowercase
+%%lowercase%ru%%
+строчные
+
+%%bold%en%%
+bold
+%%bold%ru%%
+жирный
+
+%%italic%en%%
+italic
+%%italic%ru%%
+наклонный
+
+%%small_caps%en%%
+small caps
+%%small_caps%ru%%
+капитель
+
+%%underline%en%%
+underline
+%%underline%ru%%
+подчеркнутый
+
+%%overline%en%%
+overline
+%%overline%ru%%
+надчеркнутый
+
+%%line_through%en%%
+line through
+%%line_through%ru%%
+зачеркнутый
+
+%%blink%en%%
+blink
+%%blink%ru%%
+мигающий
+
+%%css_editor_title%en%%
+CSS editor
+%%css_editor_title%ru%%
+редактор стилей (CSS)
+
+%%selectColor%en%%
+Select color from control
+%%selectColor%ru%%
+Выбрать цвет

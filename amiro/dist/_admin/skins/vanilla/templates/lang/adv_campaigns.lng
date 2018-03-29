@@ -1,0 +1,166 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_adv_campaigns_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%adv_campaigns_add%en%%
+Add campaign
+%%adv_campaigns_add%ru%%
+Добавить кампанию
+
+%%adv_campaigns_apply%en%%
+Edit campaign
+%%adv_campaigns_apply%ru%%
+Редактировать кампанию
+
+%%start_date%en%%
+Start date
+%%start_date%ru%%
+Дата начала
+
+%%end_date%en%%
+Final date
+%%end_date%ru%%
+Дата окончания
+
+%%priority%en%%
+Priority
+%%priority%ru%%
+Приоритет
+
+%%priority_high%en%%
+High
+%%priority_high%ru%%
+Высокий
+
+%%priority_normal%en%%
+Normal
+%%priority_normal%ru%%
+Нормальный
+
+%%priority_low%en%%
+Low
+%%priority_low%ru%%
+Низкий
+
+%%campaign_notice%en%%
+Campaign's end date and priority shown in the table calculated automatically based on campaigns type data.
+%%campaign_notice%ru%%
+Дата окончания действия кампании и приоритет, показанные в таблице, высчитываются автоматически, основываясь на данных типа кампании.
+
+%%campaign_type%en%%
+Campaign type
+%%campaign_type%ru%%
+Тип кампании
+
+%%advertiser%en%%
+Advertiser
+%%advertiser%ru%%
+Рекламодатель
+
+%%cmpg_status%en%%
+Status
+%%cmpg_status%ru%%
+Статус
+
+%%cmpg_status_pending%en%%
+Pending
+%%cmpg_status_pending%ru%%
+Ожидает
+
+%%cmpg_status_refused%en%%
+Refused
+%%cmpg_status_refused%ru%%
+Отклонена
+
+%%cmpg_status_active%en%%
+Active
+%%cmpg_status_active%ru%%
+Активна
+
+%%cmpg_status_finished%en%%
+Finished
+%%cmpg_status_finished%ru%%
+Закончена
+
+%%date_unknown%en%%
+Not defined
+%%date_unknown%ru%%
+Не определена
+
+%%banners_num%en%%
+Banners
+%%banners_num%ru%%
+Баннеров
+
+%%stat_finished%en%%
+reason
+%%stat_finished%ru%%
+причина
+
+%%stat_finished_unknown%en%%
+unknown
+%%stat_finished_unknown%ru%%
+неизвестна
+
+%%stat_finished_max_cost_view%en%%
+max shows cost exceeded
+%%stat_finished_max_cost_view%ru%%
+превышена макс. цена показов
+
+%%stat_finished_max_cost_click%en%%
+max clicks cost exceeded
+%%stat_finished_max_cost_click%ru%%
+превышена макс. цена кликов
+
+%%stat_finished_max_clicks%en%%
+max clicks exceeded
+%%stat_finished_max_clicks%ru%%
+превышен макс. кликов
+
+%%stat_finished_max_views%en%%
+max shows exceeded
+%%stat_finished_max_views%ru%%
+превышен макс. показов
+
+%%stat_finished_date%en%%
+expired
+%%stat_finished_date%ru%%
+просрочена
+
+%%stat_active_progress%en%%
+in progress
+%%stat_active_progress%ru%%
+идут показы
+
+%%cost_base%en%%
+campaign
+%%cost_base%ru%%
+кампания
+
+%%cost_view%en%%
+show
+%%cost_view%ru%%
+показ
+
+%%cost_click%en%%
+сlick
+%%cost_click%ru%%
+переход
+
+%%max_cost_view%en%%
+max for shows
+%%max_cost_view%ru%%
+макс. за показы
+
+%%max_cost_click%en%%
+max for clicks
+%%max_cost_click%ru%%
+макс. за переходы
+
+%%end_date_note%en%%
+%%end_date_note%ru%%
+Если дата окончания <b>не указана</b>, то она будет высчитана автоматически, исходя из правил, заданных в типе кампании.<br>
+Если дата окончания <b>совпадает</b> с датой начала, то компания будет бесконечна.<br>
+Рекомендуется оставлять дату окончания пустой.

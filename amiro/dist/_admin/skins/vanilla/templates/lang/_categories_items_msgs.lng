@@ -1,0 +1,35 @@
+
+%%status_create_category%en%%
+Category '_name_' was created.
+%%status_create_category%ru%%
+Категория '_name_' создана.
+
+%%status_create_category_fail%en%%
+Category '_name_' was not created.
+%%status_create_category_fail%ru%%
+Категория '_name_' не создана.
+
+%%status_items_moved%en%%
+_num_items_ was moved to category '_name_'.
+%%status_items_moved%ru%%
+_num_items_ элемент(ов) перемещены в категорию '_name_'.
+
+%%status_items_moved_fail%en%%
+Items was not moved to category '_name_'.
+%%status_items_moved_fail%ru%%
+Элемент(ы) не были перемещены в категорию '_name_'.
+
+%%status_delete_category%en%%
+Category '_name_' was deleted.
+%%status_delete_category%ru%%
+Категория '_name_' удалена.
+
+%%status_no_repair_items%en%%
+There are no items to repair.
+%%status_no_repair_items%ru%%
+Нет элементов для восстановления.
+
+%%repaired_items_cat%en%%
+Repaired elements
+%%repaired_items_cat%ru%%
+Восстановленные элементы

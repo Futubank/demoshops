@@ -1,0 +1,137 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_adv_places_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/adv_campaign_types.lng"%%
+%%include_language "templates/lang/adv_campaigns.lng"%%
+
+%%adv_places_add%en%%
+Add advertisement place
+%%adv_places_add%ru%%
+Добавить рекламное место
+
+%%adv_places_apply%en%%
+Edit advertisement place
+%%adv_places_apply%ru%%
+Редактировать рекламное место
+
+%%source_type%en%%
+Source type
+%%source_type%ru%%
+Тип материала
+
+%%source_type_banner%en%%
+Banner
+%%source_type_banner%ru%%
+Баннер
+
+%%source_type_modbanner%en%%
+Module banner
+%%source_type_modbanner%ru%%
+Баннер модуля
+
+%%source_type_module%en%%
+Module
+%%source_type_module%ru%%
+Модуль
+
+%%module_name%en%%
+Module type
+%%module_name%ru%%
+Тип модуля
+
+%%browse_mode%en%%
+Browse type
+%%browse_mode%ru%%
+Тип отображения
+
+%%browse_mode_list%en%%
+List
+%%browse_mode_list%ru%%
+Список
+
+%%browse_mode_details%en%%
+Details
+%%browse_mode_details%ru%%
+Детали
+
+%%browse_mode_specblock%en%%
+Specblock
+%%browse_mode_specblock%ru%%
+Спецблок
+
+%%place_type%en%%
+Advertise type
+%%place_type%ru%%
+Тип рекламы
+
+%%place_type_any%en%%
+Any
+%%place_type_any%ru%%
+Любой
+
+%%place_type_picture%en%%
+Picture
+%%place_type_picture%ru%%
+Изображение
+
+%%place_type_flash%en%%
+Flash
+%%place_type_flash%ru%%
+Флэш
+
+%%place_type_text%en%%
+Text
+%%place_type_text%ru%%
+Текст
+
+%%place_height%en%%
+Height
+%%place_height%ru%%
+Высота
+
+%%place_width%en%%
+Width
+%%place_width%ru%%
+Ширина
+
+%%is_topline%en%%
+Topline
+%%is_topline%ru%%
+Растягивать по ширине на 100%
+
+%%postfix%en%%
+Template postfix
+%%postfix%ru%%
+Постфикс в шаблоне
+
+%%place_id%en%%
+ID
+%%place_id%ru%%
+ID
+
+%%do_create_campaign%en%%
+Automatically create type and campaign
+%%do_create_campaign%ru%%
+Автоматически создать тип и кампанию
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%show_default%en%%
+Show default banner
+%%show_default%ru%%
+Показывать баннер по умолчанию
+
+%%show_unique%en%%
+Log unique shows only
+%%show_unique%ru%%
+Учитывать только уникальные показы
+
+%%click_unique%en%%
+Log unique clicks only
+%%click_unique%ru%%
+Учитывать только уникальные переходы

@@ -1,0 +1,249 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_messages.lng"%%
+
+%%status_add%en%%
+Extension <a href="engine.php?mod_id=_modId_" style="font-weight: bold;">_instance_ &raquo;</a> (_modId_) is installed.
+%%status_add%ru%%
+Добавлено расширение <a href="engine.php?mod_id=_modId_" style="font-weight: bold;">_instance_ &raquo;</a> (_modId_).
+
+%%status_add_pseudo%en%%
+Package '_package_' is installed.
+%%status_add_pseudo%ru%%
+Установлен дистрибутив '_package_'.
+
+%%status_uninstall%en%%
+Extension '_instance_' is uninstalled.
+%%status_uninstall%ru%%
+Расширение '_instance_' удалено.
+
+%%status_uninstall_pseudo%en%%
+Package '_package_' is uninstalled.
+%%status_uninstall_pseudo%ru%%
+Дистрибутив '_package_' удален.
+
+%%status_add_fail%en%%
+Extension isn't installed!
+%%status_add_fail%ru%%
+Расширение не добавлено!
+
+%%status_add_fail_pseudo%en%%
+Package '_package_' isn't installed!
+%%status_add_fail_pseudo%ru%%
+Дистрибутив '_package_' не установлен!
+
+%%instance_not_installed%en%%
+Extension '_mod_id_' is not installed.
+%%instance_not_installed%ru%%
+Расширение '_mod_id_' не установлено в системе.
+
+%%install_success%en%%
+Extension is installed successful.
+%%install_success%ru%%
+Расширение добавлено успешно.
+
+%%install_fail%en%%
+Extension is not installed!
+%%install_fail%ru%%
+Расширение не добавлено!
+
+%%update_captions_success%en%%
+Captions are updated successful.
+%%update_captions_success%ru%%
+Заголовки успешно обновлены.
+
+%%update_captions_fail%en%%
+Captions are not updated!
+%%update_captions_fail%ru%%
+Заголовки не добавлены!
+
+%%uninstall_success%en%%
+Extension is uninstalled successful.
+%%uninstall_success%ru%%
+Расширение удалено успешно.
+
+%%uninstall_fail%en%%
+Extension is not uninstalled!
+%%uninstall_fail%ru%%
+Расширение не удалено!
+
+%%local_code_append_success%en%%
+Local PHP-code is appended successful to the folder '_path_'.<br />
+Resources are added.
+%%local_code_append_success%ru%%
+Локальный PHP-код в папку '_path_' добавлен успешно.<br />
+Ресурсы добавлены.
+
+%%local_code_append_fail%en%%
+Failed to append local PHP-code!
+%%local_code_append_fail%ru%%
+Локальный PHP-код добавить не удалось!
+
+%%local_code_overwrite_success%en%%
+Local PHP-code is overwritten successful in the folder '_path_'.
+%%local_code_overwrite_success%ru%%
+Локальный PHP-код в папке '_path_' перезаписан успешно.
+
+%%local_code_overwrite_fail%en%%
+Failed to overwrite local PHP-code!
+%%local_code_overwrite_fail%ru%%
+Локальный PHP-код перезаписать не удалось!
+
+%%exception_db_backup%en%%
+Database error during backuping '_table_' table, contact the support!
+%%exception_db_backup%ru%%
+Ошибка базы данных при попытке резервного копирования таблицы '_table_', обратитесь в службу поддержки!
+
+%%exception_db_create%en%%
+Database error during creating '_table_' table, contact distributive developer!
+%%exception_db_create%ru%%
+Ошибка базы данных при попытке создания таблицы '_table_', обратитесь к разработчику дистрибутива!
+
+%%exception_db_exists%en%%
+Database table '_table_' already exists, use other installation mode!
+%%exception_db_exists%ru%%
+Таблица '_table_' базы данных уже существует, используйте другой режим установки!
+
+%%exception_db_drop%en%%
+Database error during deleting '_table_' table, contact the support!
+%%exception_db_drop%ru%%
+Ошибка базы данных при попытке удаления таблицы '_table_', обратитесь в службу поддержки!
+
+%%exception_invalid_template_mode%en%%
+Invalid template mode, templates must be read from database!
+%%exception_invalid_template_mode%ru%%
+Неверный режим шаблонизатора, шаблоны должны читаться из базы данных!
+
+%%exception_invalid_mod_id%en%%
+Invalid new instance id format! ID must start with 'a-z' symbol, can symbols 'a-z', '0-9' and '_', there must be letter after each underscore. ID must contain minimum 2 symbols.
+%%exception_invalid_mod_id%ru%%
+Неверный формат идентификатора нового экземпляра! Идентификатор обязан начинаться с символа 'a-z', может содержать символы 'a-z', '0-9' и '_', после каждого символа подчерка обязана быть символ 'a-z'. Минимальная длина идентификатора - 2 символа.
+
+%%exception_already_installed%en%%
+Mudule having the same id is already installed!
+%%exception_already_installed%ru%%
+Расширение с таким идентификатором уже установлено!
+
+%%exception_invalid_hyper_mod_config%en%%
+Hypermodule or configuration not found!
+%%exception_invalid_hyper_mod_config%ru%%
+Не найден гипермодуль или конфигурация!
+
+%%exception_invalid_captions_data%en%%
+Invalid captions data!
+%%exception_invalid_captions_data%ru%%
+Пропущены заголовки!
+
+%%exception_existing_captions%en%%
+Captions already are installed, use other installation mode!
+%%exception_existing_captions%ru%%
+Заголовки уже установлены в системе, используйте другой режим установки!
+
+%%exception_broken_captions_file%en%%
+Caption locales resource is broken, contact the support!
+%%exception_broken_captions_file%ru%%
+Ресурс локализации заголовков разрушен, обратитесь в службу поддержки!
+
+%%exception_on_create_captions%en%%
+Saving captions failed, contact the support!
+%%exception_on_create_captions%ru%%
+Не удалось сохранить информацию о заголовках, обратитесь в службу поддержки!
+
+%%exception_missing_declaration_tpl%en%%
+Missing declaration template, contact distributive developer!
+%%exception_missing_declaration_tpl%ru%%
+Пропущен шаблон декларации, обратитесь к разработчику дистрибутива!
+
+%%exception_open_declaration%en%%
+Local declaration file cannot be access, contact the support!
+%%exception_open_declaration%ru%%
+Нет доступа к локальному файлу декларации, обратитесь в службу поддержки!
+
+%%exception_parse_declaration%en%%
+Local declaration file is broken, contact the support!
+%%exception_parse_declaration%ru%%
+Локальный файл декларации разрушен, обратитесь в службу поддержки!
+
+%%exception_existing_declaration%en%%
+Extension is already installed, use other installation mode!
+%%exception_existing_declaration%ru%%
+Экземпляр уже декларирован в системе, используйте другой режим установки!
+
+%%exception_on_create_declaration%en%%
+Saving local declaration file failed, contact the support!
+%%exception_on_create_declaration%ru%%
+Не удалось сохранить локальный файл декларации, обратитесь в службу поддержки!
+
+%%exception_instance_limit%en%%
+Selected configuration cannot have more than 1 instance!
+%%exception_instance_limit%ru%%
+Выбранная конфигурация не может быть установлена дважды!
+
+%%exception_not_installed%en%%
+Extension is not installed!
+%%exception_not_installed%ru%%
+Экземпляр не установлен!
+
+%%exception_other%en%%
+Internal error, contact the support!
+%%exception_other%ru%%
+Произошла внутренняя ошибка, обратитесь в службу поддержки!
+
+%%exception_target_file_exists%en%%
+Target file '_target_' already exists, use other installation mode!
+%%exception_target_file_exists%ru%%
+Файл '_target_' уже существует, используйте другой режим установки!
+
+%%exception_cannot_backup_file%en%%
+Cannot create backup file '_backup_', contact the support!
+%%exception_cannot_backup_file%ru%%
+Не удалось создать резервную копию файла '_backup_', обратитесь в службу поддержки!
+
+%%exception_cannot_create_file%en%%
+Cannot create file '_target_', contact the support!
+%%exception_cannot_create_file%ru%%
+Не удалось создать файл '_target_', обратитесь в службу поддержки!
+
+%%exception_cannot_copy_file%en%%
+Cannot copy '_source_' to '_target_', contact the support!
+%%exception_cannot_copy_file%ru%%
+Не удалось скопировать '_source_' в '_target_', обратитесь в службу поддержки!
+
+%%exception_has_dependencies%en%%
+Unable to unistall, uninstall dependent extensions first: _dependencies_!
+%%exception_has_dependencies%ru%%
+Невозможно удалить расширение, необходимо удалить зависимые: _dependencies_!
+
+%%import_fail%en%%
+Import failed!
+%%import_fail%ru%%
+Импорт не завершен!
+
+%%import_success%en%%
+Import successful.
+%%import_success%ru%%
+Импорт завершен успешно.
+
+%%import_data_success%en%%
+Data imported from instance '_src_' to instance '_dst_'.
+%%import_data_success%ru%%
+Данные экземпляра '_src_' скопированы в экземпляр '_dst_'.
+
+%%import_options_success%en%%
+Options imported from instance '_src_' to instance '_dst_'.
+%%import_options_success%ru%%
+Опции экземпляра '_src_' скопированы в экземпляр '_dst_'.
+
+%%import_templates_success%en%%
+Templates imported from instance '_src_' to instance '_dst_'.
+%%import_templates_success%ru%%
+Шаблоны экземпляра '_src_' скопированы в экземпляр '_dst_'.
+
+%%import_locales_success%en%%
+Locales imported from instance '_src_' to instance '_dst_'.
+%%import_locales_success%ru%%
+Локализации экземпляра '_src_' скопированы в экземпляр '_dst_'.
+
+%%import_ext_templates_success%en%%
+Extension '_src_' templates imported.
+%%import_ext_templates_success%ru%%
+Шаблоны расширения '_src_' импортированы.

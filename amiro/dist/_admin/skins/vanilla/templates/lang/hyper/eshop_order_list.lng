@@ -1,0 +1,59 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+%%include_language "_local/_admin/templates/lang/eshop_order.lng"%%
+
+##-- list column headers { --##
+
+%%list_col_date_created%en%%
+Order date
+%%list_col_date_created%ru%%
+Дата заказа
+
+%%list_col_id%en%%
+#
+%%list_col_id%ru%%
+№
+
+%%list_col_u_fullname%en%%
+Customer name
+%%list_col_u_fullname%ru%%
+ФИО
+
+##--
+%%list_col_u_login%en%%
+Login
+%%list_col_u_login%ru%%
+Логин
+--##
+
+%%list_col_email%en%%
+E-Mail / Phone
+%%list_col_email%ru%%
+E-Mail / телефон
+
+%%list_col_name%en%%
+Product name
+%%list_col_name%ru%%
+Название
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_amount%en%%
+Amount
+%%list_col_amount%ru%%
+Всего
+
+%%list_col_payment_method%en%%
+Payment<br />method
+%%list_col_payment_method%ru%%
+Способ<br />оплаты
+
+##-- } list column headers --##
+
+%%total%en%%
+Total
+%%total%ru%%
+Сумма

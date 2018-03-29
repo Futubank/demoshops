@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1164 xkqwtztmwpmkqkqsnzkmixxplismgriptpstykrtilxqiwlmpqgsxypwlsknurzgkmiupnir
+ */ ?><?php foreach(array(19727=>'Qn',19728=>'|') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} function cms_transliterate($cStr, $cLang){ static $aTranslit =array(); $res =$cStr; $lL1LLLL =false; if($cLang == I19727) {return $cStr; }@include_once $GLOBALS['FUNC_INCLUDES_PATH'] .'func_translit_' .$cLang .'.php'; if(!isset($aTranslit[$cLang])){ $lL1LLLL =empty($in) || empty($out); if($lL1LLLL){ $res =preg_replace('/[^!#\-\)\+\-\.0-9;\=\?\@A-Za-z\[\]\^\_\{\}]/s', I19728, $cStr); }else{ $aTranslit[$cLang] =array('in' => $in, 'out' => $out); }}if(!$lL1LLLL){ $res =str_replace($aTranslit[$cLang]['in'], $aTranslit[$cLang]['out'], $cStr); }return $res; }

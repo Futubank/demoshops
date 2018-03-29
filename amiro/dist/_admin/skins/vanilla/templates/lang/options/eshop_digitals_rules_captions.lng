@@ -1,0 +1,49 @@
+%%eshop_files_path%en%%
+E-shop files (digital products) path
+%%eshop_files_path%ru%%
+Путь расположения файлов (цифровых продуктов)
+
+%%eshop_files_extension%en%%
+Extension for files of digital products
+%%eshop_files_extension%ru%%
+Расширение для файлов цифровых товаров
+
+%%files_prefix%en%%
+Prefix for the file that will be stored after importing
+%%files_prefix%ru%%
+Приставка для файла, который будет сохранен после импортирования
+
+%%download_status%en%%
+List of order statuses, at which download it is possible
+%%download_status%ru%%
+Статусы заказа, при которых разрешено загружать цифровые товары
+
+%%max_download_attempts%en%%
+Maximum download attempts for each file
+%%max_download_attempts%ru%%
+Максимальное количество попыток загрузки для каждого файла
+
+%%download_lifetime%en%%
+Download expire time
+%%download_lifetime%ru%%
+Период, в течении которого файл будет доступен для загрузки
+
+%%import_path%en%%
+Path to imported files
+%%import_path%ru%%
+Путь расположения импортируемых файлов
+
+%%max_time_for_attempt%en%%
+Time, during which the new attempts of loading are considered for one attempt
+%%max_time_for_attempt%ru%%
+Время, в течение которого новые попытки загрузки не считаются за новую попытку
+
+%%max_import_size%en%%
+The maximum size of imported files
+%%max_import_size%ru%%
+Максимальный размер импортируемых файлов
+
+%%max_quantity%en%%
+Maximum quantity of products for order
+%%max_quantity%ru%%
+Максимальное количество товара в заказе

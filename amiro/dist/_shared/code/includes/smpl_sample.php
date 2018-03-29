@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       811 xkqwngwkwxktmnwkuntyuwzzimyzwwqwzuxzukzyrzuwxntnsgmssqqiznmkrziyzgpxpnir
+ */ ?><?php foreach(array(19147=>"DGQW|YJHWKD",19148=>"dzigjq?ihsUjq?whNTqNT",19149=>'SHnQ`GOG') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLL1II1 =&$frn->Core->GetModule("smpl_sample"); if(isset($mode) && $mode=="small"){ $frn->SetSpecialBlock($lLL1II1->GetProperty(I19147), "SAMPLE SMALL BLOCK CONTENT"); }else {require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .'init.php'; $HtmlBody =I19148; require $GLOBALS['DEFAULT_INCLUDES_PATH'] .I19149; }?>

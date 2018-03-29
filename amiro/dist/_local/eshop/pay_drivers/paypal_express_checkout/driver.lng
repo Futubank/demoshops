@@ -1,0 +1,84 @@
+%%driver_title%en%%
+PayPal Express Checkout
+%%driver_title%ru%%
+PayPal Express Checkout
+
+
+%%test_settings%en%%
+Test settings
+%%test_settings%ru%%
+Установки для тестирования
+
+%%real_settings%en%%
+Real settings
+%%real_settings%ru%%
+Установки для работы
+
+%%parameters_will_be_set%en%%
+Following parameter will be set
+%%parameters_will_be_set%ru%%
+Будут установлены следующие параметры
+
+%%continue%en%%
+continue
+%%continue%ru%%
+Продолжить
+
+
+%%drv_request_url%en%%
+Request page URL
+%%drv_request_url%ru%%
+URL страницы запроса
+
+%%drv_payment_url%en%%
+Payment page URL
+%%drv_payment_url%ru%%
+URL страницы оплаты
+
+%%drv_login%en%%
+Login
+%%drv_login%ru%%
+Логин
+
+%%drv_password%en%%
+Password
+%%drv_password%ru%%
+Пароль
+
+%%drv_signature%en%%
+Signature
+%%drv_signature%ru%%
+Подпись
+
+%%drv_country_code%en%%
+Country code
+%%drv_country_code%ru%%
+Код страны
+
+%%drv_country_code_toolip%en%%
+Country code where orders will be delivered using adress from site.<br />
+Adress entered during ordering will be used instead of adress of customer in PayPal.<br />
+I. e. US - USA, RU - Russia.
+%%drv_country_code_toolip%ru%%
+Код страны, куда будет осуществляться доставка.<br />
+Если задан, адрес, введенный при оформлении на сайте будет использован вместо адреса, привязанного к счету клиента на PayPal.<br />
+Например, US - США, RU - Россия.
+
+%%drv_site_logo%en%%
+Site logo image URL<br />
+<i>(recommended maximum sizes are 190 х 60)</i>
+%%drv_site_logo%ru%%
+Ссылка на изображение логотипа сайта<br />
+<i>(рекомендуемые максимальные размеры - 190 х 60)</i>
+
+%%drv_site_color%en%%
+The border in your principal identifying color<br />
+<i>(the 6-digit hexadecimal value)</i>
+%%drv_site_color%ru%%
+Основной цвет сайта<br />
+<i>(шестизначное шестнадцатеричное значение)</i>
+%%driver_author%en%%
+<a href="http://amirocms.com/" target="_blank">Amiro</a>
+%%driver_author%ru%%
+<a href="http://www.amiro.ru/" target="_blank">Амиро</a>
+

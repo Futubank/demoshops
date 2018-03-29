@@ -1,0 +1,544 @@
+%%applied_discount%en%%
+Applied discount
+%%applied_discount%ru%%
+Применённая скидка
+
+%%order_owner%en%%
+Order type
+%%order_owner%ru%%
+Тип заказа
+
+%%user%en%%
+Buyer
+%%user%ru%%
+Покупатель
+
+%%zip%en%%
+Zip
+%%zip%ru%%
+Почтовый индекс
+
+%%get_type_name%en%%
+Shipping type
+%%get_type_name%ru%%
+Способ доставки
+
+%%username%en%%
+Customer name
+%%username%ru%%
+ФИО
+
+%%member_username%en%%
+Username
+%%member_username%ru%%
+Логин
+
+%%firstname%en%%
+First name
+%%firstname%ru%%
+Имя
+
+%%lastname%en%%
+Last name
+%%lastname%ru%%
+Фамилия
+
+%%parentname%en%%
+Parent
+%%parentname%ru%%
+Родительская категория
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена
+
+%%category%en%%
+Category
+%%category%ru%%
+Категория
+
+%%create_subcategory%en%%
+Create Subcategory
+%%create_subcategory%ru%%
+Создать подкатегорию
+
+%%o_timestamp%en%%
+Order date
+%%o_timestamp%ru%%
+Дата Заказа
+
+%%a_timestamp%en%%
+Approved
+%%a_timestamp%ru%%
+Подтвержден
+
+%%status%en%%
+Status
+%%status%ru%%
+Статус
+
+%%tax%en%%
+Tax
+%%tax%ru%%
+Налог
+
+%%shipping%en%%
+Shipping
+%%shipping%ru%%
+Доставка
+
+%%amount%en%%
+Amount
+%%amount%ru%%
+Всего
+
+%%draft%en%%
+Draft
+%%draft%ru%%
+Запрос
+
+%%requirements_draft%en%%
+Requirements draft
+%%requirements_draft%ru%%
+Запрос поставки
+
+%%requirements_accepted%en%%
+Requirements accepted
+%%requirements_accepted%ru%%
+Заказ поставки подтвержден
+
+%%requirements_cancelled%en%%
+Requirements cancelled
+%%requirements_cancelled%ru%%
+Заказ поставки отменен
+
+%%pending%en%%
+Pending
+%%pending%ru%%
+Обрабатывается
+
+%%printed%en%%
+Printed
+%%printed%ru%%
+Распечатан
+
+%%checkout%en%%
+Checkout
+%%checkout%ru%%
+Оплачивается
+
+%%waiting%en%%
+Waiting
+%%waiting%ru%%
+Ожидается
+
+%%shipped%en%%
+Shipped
+%%shipped%ru%%
+Отправлен
+
+%%delivered%en%%
+Delivered
+%%delivered%ru%%
+Доставлен
+
+%%rejected%en%%
+Rejected
+%%rejected%ru%%
+Отказ
+
+%%accepted%en%%
+Accepted
+%%accepted%ru%%
+Принят
+
+%%cancelled%en%%
+Cancelled
+%%cancelled%ru%%
+Отменен
+
+%%confirmed%en%%
+Confirmed
+%%confirmed%ru%%
+Подтвержден
+
+%%confirmed_conditionally%en%%
+Confirmed conditionally
+%%confirmed_conditionally%ru%%
+Условно оплачен
+
+%%confirmed_done%en%%
+Paid
+%%confirmed_done%ru%%
+Зачислено
+
+%%ordered%en%%
+Ordered by
+%%ordered%ru%%
+Заказчик
+
+%%order_details%en%%
+Order details
+%%order_details%ru%%
+Детализация заказа
+
+%%curr_price%en%%
+Current price
+%%curr_price%ru%%
+Текущая цена
+
+%%purchase_price%en%%
+Purchase<br>price
+%%purchase_price%ru%%
+Цена на<br>момент заказа
+
+%%quantity%en%%
+Quantity
+%%quantity%ru%%
+Количество
+
+%%total%en%%
+Total
+%%total%ru%%
+Сумма
+
+%%comments%en%%
+Comments
+%%comments%ru%%
+Комментарии
+
+%%customer_info%en%%
+Customer Info
+%%customer_info%ru%%
+Информация о покупателе
+
+%%send_notification%en%%
+Send notification to client on status changing
+%%send_notification%ru%%
+Отправить уведомление клиенту об изменению статуса
+
+%%force_send%en%%
+Force send
+%%force_send%ru%%
+Отправлять
+
+%%dont_send%en%%
+Do not send
+%%dont_send%ru%%
+Не отправлять
+
+%%default%en%%
+Default
+%%default%ru%%
+По умолчанию
+
+%%statuses_history%en%%
+Statuses history
+%%statuses_history%ru%%
+История изменения статусов
+
+%%base_price_caption%en%%
+Base price
+%%base_price_caption%ru%%
+Базовая цена
+
+%%order_id%en%%
+Order #
+%%order_id%ru%%
+Заказ №
+
+%%company%en%%
+Company
+%%company%ru%%
+Компания
+
+%%contact%en%%
+Contact
+%%contact%ru%%
+Телефон
+
+%%country%en%%
+Country
+%%country%ru%%
+Страна
+
+%%region%en%%
+Region
+%%region%ru%%
+Регион
+
+%%other_region%en%%
+Other region
+%%other_region%ru%%
+Другой регион
+
+%%city%en%%
+City
+%%city%ru%%
+Город
+
+%%station%en%%
+Station
+%%station%ru%%
+Станция метро
+
+%%street%en%%
+Street
+%%street%ru%%
+Улица
+
+%%house%en%%
+House
+%%house%ru%%
+Дом
+
+%%building%en%%
+Building
+%%building%ru%%
+Корпус
+
+%%entrance%en%%
+Entrance
+%%entrance%ru%%
+Подъезд
+
+%%floor%en%%
+Floor
+%%floor%ru%%
+Этаж
+
+%%app%en%%
+Apartment\Office
+%%app%ru%%
+Квартира\Офис
+
+%%code%en%%
+Code
+%%code%ru%%
+Код
+
+%%required%en%%
+Required fields
+%%required%ru%%
+Обязательные поля
+
+%%sku%en%%
+SKU
+%%sku%ru%%
+Код
+
+%%cash%en%%
+Cash
+%%cash%ru%%
+Наличный расчет
+
+%%cashless%en%%
+Cashless
+%%cashless%ru%%
+Безналичный расчет
+
+%%juridical_address%en%%
+Corporate address
+%%juridical_address%ru%%
+Юридический адрес
+
+%%bank%en%%
+Bank
+%%bank%ru%%
+Банк
+
+%%inn%en%%
+INN
+%%inn%ru%%
+ИНН
+
+%%bik%en%%
+BIK
+%%bik%ru%%
+БИК
+
+%%account%en%%
+Account
+%%account%ru%%
+Р/С
+
+%%corr_account%en%%
+Correspondent account
+%%corr_account%ru%%
+Корр/Счет
+
+%%kpp%en%%
+KPP
+%%kpp%ru%%
+КПП
+
+%%delivery_time%en%%
+Delivery time
+%%delivery_time%ru%%
+Время доставки
+
+%%delivery_date%en%%
+Delivery date
+%%delivery_date%ru%%
+Дата доставки
+
+%%address%en%%
+Address
+%%address%ru%%
+Адрес
+
+%%address1%en%%
+Address 1
+%%address1%ru%%
+Адрес 1
+
+%%address2%en%%
+Address 2
+%%address2%ru%%
+Адрес 2
+
+%%sysinfo%en%%
+System info
+%%sysinfo%ru%%
+Системная информация
+
+%%person_type%en%%
+Person type
+%%person_type%ru%%
+Покупатель
+
+%%payment_type%en%%
+Payment type
+%%payment_type%ru%%
+Тип оплаты
+
+%%custom_payment_type%en%%
+Payment type
+%%custom_payment_type%ru%%
+Тип оплаты
+
+%%driver%en%%
+Payment method
+%%driver%ru%%
+Метод оплаты
+
+%%natural%en%%
+Personal
+%%natural%ru%%
+<b>Физическое лицо</b>
+
+%%juridical%en%%
+Corporate
+%%juridical%ru%%
+<b>Юридическое лицо</b>
+
+%%cash%en%%
+<b>Cash</b>
+%%cash%ru%%
+<b>Наличный расчет</b>
+
+%%cashless%en%%
+<b>Cashless</b>
+%%cashless%ru%%
+<b>Безналичный расчет</b>
+
+%%PAYPAL_DRIVER%en%%
+PAYPAL_DRIVER
+%%PAYPAL_DRIVER%ru%%
+PAYPAL_DRIVER
+
+%%PAYPAL_EXPRESS_CHECKOUT_DRIVER%en%%
+PAYPAL_EXPRESS_CHECKOUT_DRIVER
+%%PAYPAL_EXPRESS_CHECKOUT_DRIVER%ru%%
+PAYPAL_EXPRESS_CHECKOUT_DRIVER
+
+%%GOOGLE_DRIVER%en%%
+GOOGLE_DRIVER
+%%GOOGLE_DRIVER%ru%%
+GOOGLE_DRIVER
+
+%%ECX_DRIVER%en%%
+ECX_DRIVER
+%%ECX_DRIVER%ru%%
+ECX_DRIVER
+
+%%BILLING_DRIVER%en%%
+BILLING_DRIVER
+%%BILLING_DRIVER%ru%%
+BILLING_DRIVER
+
+%%STUB_DRIVER%en%%
+Cash
+%%STUB_DRIVER%ru%%
+Наличные
+
+%%PRINT_DRIVER%en%%
+PRINT_DRIVER
+%%PRINT_DRIVER%ru%%
+PRINT_DRIVER
+
+%%eshop_print_form%en%%
+Select type of printed form
+%%eshop_print_form%ru%%
+Выберите тип печатной формы
+
+%%print_order%en%%
+Print version
+%%print_order%ru%%
+Версия для печати
+
+%%eshop_digitals_attempts%en%%
+Download<br>attempts left
+%%eshop_digitals_attempts%ru%%
+Осталось<br>попыток загрузки
+
+%%not_available%en%%
+n/a
+%%not_available%ru%%
+не доступно
+
+%%is_of%en%%
+of
+%%is_of%ru%%
+из
+
+%%expire_date%en%%
+Expire date of downloads
+%%expire_date%ru%%
+Дата окончания загрузок
+
+%%shipping_method%en%%
+Shipping method
+%%shipping_method%ru%%
+Способ доставки
+
+%%payment_tax%en%%
+Payment fee
+%%payment_tax%ru%%
+Комиссия платежной системы
+
+%%coupon_category%en%%
+Used coupon category
+%%coupon_category%ru%%
+Использован купон категории
+
+%%item_name%en%%
+Product name
+%%item_name%ru%%
+Название товара
+
+%%weight%en%%
+Weight
+%%weight%ru%%
+Вес
+
+%%total_weight%en%%
+Total weight
+%%total_weight%ru%%
+Сумарный вес
+
+%%size%en%%
+Size
+%%size%ru%%
+Размер

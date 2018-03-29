@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_field_author%en%%
+Author
+%%form_field_author%ru%%
+Автор
+
+%%form_field_source%en%%
+Source
+%%form_field_source%ru%%
+Источник

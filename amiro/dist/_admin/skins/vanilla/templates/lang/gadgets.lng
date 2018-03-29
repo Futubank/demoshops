@@ -1,0 +1,234 @@
+##--system info: module_owner="pmanager" module="ce" system="1"--##
+
+%%gadgets%en%%
+Gadgets
+%%gadgets%ru%%
+Гаджеты
+
+%%gadgets_popup_author_title%en%%
+Author:
+%%gadgets_popup_author_title%ru%%
+Aвтор:
+
+%%gadgets_popup_insert_gadget%en%%
+Insert gadget
+%%gadgets_popup_insert_gadget%ru%%
+Вставить гаджет
+
+%%gadget%en%%
+Gadget
+%%gadget%ru%%
+Гаджет
+
+%%all_gadgets%en%%
+All Gadgets
+%%all_gadgets%ru%%
+Все гаджеты
+
+%%system_gadgets%en%%
+System Gadgets
+%%system_gadgets%ru%%
+Системные гаджеты
+
+%%users_gadgets%en%%
+Users Gadgets
+%%users_gadgets%ru%%
+Пользовательские гаджеты
+
+%%insert_gadget%en%%
+Insert Gadget
+%%insert_gadget%ru%%
+Гаджеты
+
+%%gadget_properties%en%%
+Gadget Properties
+%%gadget_properties%ru%%
+Свойства гаджета
+
+%%insert_video%en%%
+Insert Video
+%%insert_video%ru%%
+Вставка видео
+
+%%video_link%en%%
+Video URL
+%%video_link%ru%%
+URL видеоролика
+
+%%player_code%en%%
+Player code
+%%player_code%ru%%
+Код плеера
+
+%%video_width%en%%
+Width
+%%video_width%ru%%
+Ширина
+
+%%video_height%en%%
+Height
+%%video_height%ru%%
+Высота
+
+##---------------------------------------------------------------------------##
+
+%%youtube%en%%
+YouTube
+%%youtube%ru%%
+YouTube
+
+%%youtube_author%en%%
+Amiro
+%%youtube_author%ru%%
+Amiro
+
+%%youtube_url%en%%
+http://www.amiro.ru/
+%%youtube_url%ru%%
+http://www.amiro.ru/
+
+%%youtube_description%en%%
+Add video from YouTube.com to your page.
+%%youtube_description%ru%%
+Добавляйте ролики с видеохостинга YouTube.com на страницах сайта.
+
+%%youtube_disclaimer%en%%
+To add video to your site at first your need to upload it to Youtube. Follow <a href="http://www.google.com/support/youtube/bin/topic.py?hlrm=ru&topic=16560" target="_blank">these&nbsp;instructions</a> at&nbsp;Youtube help center.
+
+%%youtube_disclaimer%ru%%
+Для вставки видео сначала необходимо загрузить его на YouTube. О&nbsp;том, как это сделать, можно прочитать в&nbsp;<a href="http://www.google.com/support/youtube/bin/topic.py?hl=ru&topic=16560" target="_blank">справочном&nbsp;центре</a>.
+
+##---------------------------------------------------------------------------##
+
+%%rutube%en%%
+RuTube
+%%rutube%ru%%
+RuTube 2
+
+%%rutube_author%en%%
+Amiro
+%%rutube_author%ru%%
+Amiro
+
+%%rutube_url%en%%
+http://www.amiro.ru/
+%%rutube_url%ru%%
+http://www.amiro.ru/
+
+%%rutube_description%en%%
+Add video from RuTube.ru to your page.
+%%rutube_description%ru%%
+Добавляйте ролики с видеохостинга RuTube.ru на страницах сайта.
+
+%%rutube_disclaimer%en%%
+To add video to your site at first your need to upload it to <a href="http://rutube.ru" target="_blank">RuTube.ru</a>.
+%%rutube_disclaimer%ru%%
+Для вставки видео сначала необходимо загрузить его на RuTube. О&nbsp;том, как это сделать, можно прочитать в&nbsp;<a href="http://rutube.ru/static/faq.html" target="_blank">часто&nbsp;задаваемых&nbsp;вопросах</a>.
+
+%%rutube_obsolete_video_link%en%%
+Open video URL and copy player code!
+%%rutube_obsolete_video_link%ru%%
+Откройте страницу с роликом и скопируйте код плеера!
+
+##---------------------------------------------------------------------------##
+
+%%imagetape%en%%
+Image Tape
+%%imagetape%ru%%
+Лента Изображений
+
+%%imagetape_author%en%%
+Amiro
+%%imagetape_author%ru%%
+Amiro
+
+%%imagetape_url%en%%
+http://www.amiro.ru/
+%%imagetape_url%ru%%
+http://www.amiro.ru/
+
+%%imagetape_description%en%%
+Adding ImageTape to your page.
+%%imagetape_description%ru%%
+Публикуйте интерактивную ленту изображений на страницах сайта.
+
+%%imagetape_settings_rows%en%%
+Number of rows
+%%imagetape_settings_rows%ru%%
+Количество строк
+
+%%imagetape_settings_cols%en%%
+Number of columns
+%%imagetape_settings_cols%ru%%
+Количество столбцов
+
+%%imagetape_settings_scroll%en%%
+Scrolling
+%%imagetape_settings_scroll%ru%%
+Прокрутка
+
+%%imagetape_settings_scroll_h%en%%
+Horizontal
+%%imagetape_settings_scroll_h%ru%%
+Горизонтальная
+
+%%imagetape_settings_scroll_v%en%%
+Vertical
+%%imagetape_settings_scroll_v%ru%%
+Вертикальная
+
+%%imagetape_settings_template%en%%
+Template
+%%imagetape_settings_template%ru%%
+Шаблон
+
+%%imagetape_settings_group%en%%
+Group name
+%%imagetape_settings_group%ru%%
+Имя группы
+
+%%imagetape_add_image%en%%
+Add new image
+%%imagetape_add_image%ru%%
+Добавить изображение
+
+%%imagetape_confirm_delete%en%%
+Are you sure you want to delete this image?
+%%imagetape_confirm_delete%ru%%
+Вы действительно хотите удалить это изображение?
+
+%%imagetape_add%en%%
+Add
+%%imagetape_add%ru%%
+Добавить
+
+%%imagetape_change%en%%
+Change
+%%imagetape_change%ru%%
+Изменить
+
+##---------------------------------------------------------------------------##
+%%search%en%%
+Search
+%%search%ru%%
+Искать
+
+%%field_is_required%en%%
+This field is required
+%%field_is_required%ru%%
+Неверное значение поля
+
+%%choose_image%en%%
+Choose image
+%%choose_image%ru%%
+Выбрать изображение
+
+%%tab_images%en%%
+Images
+%%tab_images%ru%%
+Изображения
+
+%%tab_settings%en%%
+Settings
+%%tab_settings%ru%%
+Настройки

@@ -1,0 +1,74 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/hst_res_inst.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_vhost_inst_msgs.lng"%%
+
+%%hst_res_vhost_inst_add%en%%
+Add virtual host
+%%hst_res_vhost_inst_add%ru%%
+Добавить домен
+
+%%hst_res_vhost_inst_apply%en%%
+Edit virtual host
+%%hst_res_vhost_inst_apply%ru%%
+Редактировать домен
+
+%%homedir%en%%
+Home directory
+%%homedir%ru%%
+Домашний каталог
+
+%%os_user%en%%
+Username
+%%os_user%ru%%
+Имя пользователя
+
+%%id_subscription%en%%
+# subsctiption
+%%id_subscription%ru%%
+№ договора
+
+%%client_name%en%%
+Client
+%%client_name%ru%%
+Клиент
+
+%%type%en%%
+Type
+%%type%ru%%
+Тип
+
+%%target_domain%en%%
+Target domain
+%%target_domain%ru%%
+Исходный домен
+
+%%common%en%%
+Domain
+%%common%ru%%
+Обычный
+
+%%alias%en%%
+Alias
+%%alias%ru%%
+Алиас
+
+%%subdomain%en%%
+Subdomain
+%%subdomain%ru%%
+Поддомен
+
+%%select_domain%en%%
+Select domain
+%%select_domain%ru%%
+Выбрать домен
+
+%%select_target_domain%en%%
+Select target domain
+%%select_target_domain%ru%%
+Выберите исходный домен
+

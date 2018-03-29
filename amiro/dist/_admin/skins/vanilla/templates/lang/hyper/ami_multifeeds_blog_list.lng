@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_front_view%en%%
+Front details
+%%list_col_front_view%ru%%
+Просмотр деталей

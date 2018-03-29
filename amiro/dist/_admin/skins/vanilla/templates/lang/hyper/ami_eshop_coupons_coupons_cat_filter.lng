@@ -1,0 +1,27 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Name
+%%filter_field_header%ru%%
+Название
+
+%%filter_field_bind_member%en%%
+Apply to customer
+%%filter_field_bind_member%ru%%
+Привязка к пользователю
+
+%%flt_all%en%%
+All
+%%flt_all%ru%%
+Все
+
+%%bind_member_0%en%%
+No
+%%bind_member_0%ru%%
+Нет
+
+%%bind_member_1%en%%
+Yes
+%%bind_member_1%ru%%
+Да

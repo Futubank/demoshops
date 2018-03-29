@@ -1,0 +1,6 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @package    core 
+ * @version    $Id$ 
+ * @size       2204 xkqwxsqlnzxkwmznlqkuxntqusnywrnswsgkriysxpwiusxryzxiugqmgpllwmsnkrrppnir
+ */ ?><?php  if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class ModulePortfolioCat extends ModuleEshopCat {function ModulePortfolioCat(&$cms, &$db, &$cModule) {parent::ModuleEshopCat($cms, $db, $cModule); }function _InitAdmin() {parent::_InitAdmin(); }function _getAllChildsCB(&$res, &$rec, &$info){ return parent::_getAllChildsCB($res, $rec, $info); }function TTTlI11(&$vData, &$aCustom) {parent::TTTlI11($vData, $aCustom); }function TTT1IlI($aSql =Array(), $cId =0) {$aSql =parent::TTT1IlI($aSql, $cId); return $aSql; }function TIIT111($I1LL11L, $I1LL111, &$aPrices, &$I1L1III, $I1L1IIl =false) {return parent::TIIT111($I1LL11L, $I1LL111, $aPrices, $I1L1III, $I1L1IIl); }function TIIT11l($I1LL11l, &$I1LL1I1, &$I1LL1lI) {return parent::TIIT11l($I1LL11l, $I1LL1I1, $I1LL1lI); }function TIIITTI($I1L1IlL, &$I1LL1ll, $II11LLI) {parent::TIIITTI($I1L1IlL, $I1LL1ll, $II11LLI); }function TIIITII($fmt, &$vData){ parent::TIIITII($fmt, $vData); }}?>

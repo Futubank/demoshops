@@ -1,0 +1,66 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_wz_des_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_wz_des_msgs.lng"%%
+
+%%wz_designs_add%en%%
+Add design
+%%wz_designs_add%ru%%
+Добавить дизайн
+
+%%wz_designs_apply%en%%
+Edit design
+%%wz_designs_apply%ru%%
+Редактировать дизайн
+
+%%body%en%%
+Design body
+%%body%ru%%
+Текст комментария
+
+%%category%en%%
+Category
+%%category%ru%%
+Категория
+
+%%directory%en%%
+Directory
+%%directory%ru%%
+Папка
+
+%%clayouts%en%%
+Layouts
+%%clayouts%ru%%
+Макетов
+
+%%all_categories%en%%
+All Categories
+%%all_categories%ru%%
+Все Категории
+
+%%select_category%en%%
+Select Category
+%%select_category%ru%%
+Выберите Категорию
+
+%%select_directory%en%%
+Select directory
+%%select_directory%ru%%
+Выберите папку
+
+%%folder_path_warn%en%%
+Enter the folder value
+%%folder_path_warn%ru%%
+Укажите папку на диске
+
+%%new_des%en%%
+New directories
+%%new_des%ru%%
+Новые папки
+
+%%imported_des%en%%
+Imported directories
+%%imported_des%ru%%
+Импортированные папки

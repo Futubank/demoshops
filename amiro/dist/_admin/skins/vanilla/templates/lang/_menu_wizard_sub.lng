@@ -1,0 +1,16 @@
+%%include_language "templates/lang/_menu_all.lng"%%
+
+%%wz_design_cat%en%%
+Categories
+%%wz_design_cat%ru%%
+Категории
+
+%%wz_design_layouts%en%%
+Layouts
+%%wz_design_layouts%ru%%
+Макеты
+
+%%hst_subscriptions%en%%
+List
+%%hst_subscriptions%ru%%
+Список

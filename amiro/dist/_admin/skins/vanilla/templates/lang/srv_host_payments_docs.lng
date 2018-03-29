@@ -1,0 +1,8 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/srv_host_payments_history.lng"%%
+%%include_language "templates/lang/_srv_host_payments_docs_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_srv_host_payments_docs_msgs.lng"%%
+

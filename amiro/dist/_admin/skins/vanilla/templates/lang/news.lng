@@ -1,0 +1,36 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_news_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%body%en%%
+News body
+%%body%ru%%
+Текст новости
+
+%%forum_replies%en%%
+Replies
+%%forum_replies%ru%%
+Ответы
+
+%%forum_open%en%%
+Comments
+%%forum_open%ru%%
+Комментарии
+
+%%forum_popup_title%en%%
+News's comments
+%%forum_popup_title%ru%%
+Комментарии новости
+
+%%news_add%en%%
+Add news
+%%news_add%ru%%
+Добавить новость
+
+%%news_apply%en%%
+Edit news
+%%news_apply%ru%%
+Редактировать новость
+

@@ -1,0 +1,27 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Advertiser was added.
+%%status_add%ru%%
+Рекламодатель добавлен.
+
+%%status_apply%en%%
+Advertiser was updated.
+%%status_apply%ru%%
+Рекламодатель изменен.
+
+%%status_del%en%%
+Advertiser was deleted.
+%%status_del%ru%%
+Рекламодатель удален.
+
+%%status_del_fail%en%%
+Advertiser was not deleted.
+%%status_del_fail%ru%%
+Рекламодатель не был удален.
+
+%%status_reset%en%%
+Password has been reset, the new password has been emailed to him/her.
+%%status_reset%ru%%
+Пароль сброшен. Новый пароль выслан пользователю на электронный адрес.
+

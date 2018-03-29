@@ -1,0 +1,27 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_files_def_msgs.lng"%%
+
+%%delete_confirm%en%%
+This file may be used on Portfolio pages. Delete this file?
+%%delete_confirm%ru%%
+Возможно, этот файл используется на страницах портфолио. Удалить этот файл?
+
+%%remove_confirm%en%%
+Remove this file from project?
+%%remove_confirm%ru%%
+Удалить этот файл из проекта?
+
+%%status_add_to_list%en%%
+File was added to project.
+%%status_add_to_list%ru%%
+Файл добавлен в проект.
+
+%%status_remove_from_list%en%%
+File was removed from project.
+%%status_remove_from_list%ru%%
+Файл удален из проекта.
+
+%%status_grp_move%en%%
+_num_items_ projects were added to list.
+%%status_grp_move%ru%%
+_num_items_ проектов добавлено в список.

@@ -1,0 +1,97 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_items_msgs.lng"%%
+
+%%topic_warn%en%%
+Please, enter the Subject!
+%%topic_warn%ru%%
+Пожалуйста, введите тему!
+
+%%message_warn%en%%
+Please, enter the Message!
+%%message_warn%ru%%
+Пожалуйста, введите сообщение!
+
+%%new_category_warn%en%%
+Please, enter the name of the section!
+%%new_category_warn%ru%%
+Пожалуйста, введите название раздела!
+
+%%delete_cat_warn%en%%
+Delete?\nAll topic's messages will be removed.
+%%delete_cat_warn%ru%%
+Удалить?\nТак же будут удалены все темы этого раздела.
+
+%%status_add%en%%
+Message Board message was added.
+%%status_add%ru%%
+Сообщение форума добавлено.
+
+%%status_apply%en%%
+Message Board message was updated.
+%%status_apply%ru%%
+Сообщение форума обновлено.
+
+%%status_del%en%%
+Message Board message was deleted.
+%%status_del%ru%%
+Сообщение форума удалено.
+
+%%status_add_fail%en%%
+Message Board message was not added!
+%%status_add_fail%ru%%
+Сообщение форума не добавлено!
+
+%%status_create_category%en%%
+Topic '_name_' was created.
+%%status_create_category%ru%%
+Тема '_name_' создана.
+
+%%status_create_category_fail%en%%
+Topic '_name_' was not created.
+%%status_create_category_fail%ru%%
+Тема '_name_' не создана.
+
+%%status_items_moved%en%%
+_num_items_ was moved to section '_name_'.
+%%status_items_moved%ru%%
+_num_items_ вопрос(ов) перемещены в раздел '_name_'.
+
+%%status_items_moved_fail%en%%
+Message Board messages were not moved to section '_name_'.
+%%status_items_moved_fail%ru%%
+Сообщения форума не были перемещены в раздел '_name_'.
+
+%%status_delete_category%en%%
+Section '_name_' was deleted.
+%%status_delete_category%ru%%
+Раздел '_name_' удален.
+
+%%status_activate%en%%
+Topic active status was changed.
+%%status_activate%ru%%
+Статус активности темы успешно изменен.
+
+%%status_repair_counters%en%%
+Counters and last messages are repaired.
+%%status_repair_counters%ru%%
+Счетчики и последние сообщения восстановлены.
+
+%%status_grp_locked%en%%
+_num_items_ topics were locked.
+%%status_grp_locked%ru%%
+Тем закрыто: _num_items_.
+
+%%status_grp_unlocked%en%%
+_num_items_ topics were unlocked.
+%%status_grp_unlocked%ru%%
+Тем открыто: _num_items_.
+
+%%warn_message_length%en%%
+Message too short!
+%%warn_message_length%ru%%
+Сообщение слишком короткое!
+
+%%status_repair_nicknames%en%%
+Nicknames are repaired.
+%%status_repair_nicknames%ru%%
+Ники восстановлены.

@@ -1,0 +1,49 @@
+%%special_limit%en%%
+Quantity of the products on page
+%%special_limit%ru%%
+Количество товаров на странице
+
+%%small_special_limit%en%%
+Quantity of the products in spec block
+%%small_special_limit%ru%%
+Количество товаров в специальном блоке
+
+%%splitter_period%en%%
+The number of products after which the splitter is inserted
+%%splitter_period%ru%%
+Количество товаров, после которого вставляется разделитель
+
+%%small_splitter_period%en%%
+The number of products in spec block after which the splitter is inserted
+%%small_splitter_period%ru%%
+Количество товаров в специальном блоке, после которого вставляется разделитель
+
+%%show_currency_signs%en%%
+Show currency signs
+%%show_currency_signs%ru%%
+Отображать знаки валют
+
+%%small_show_currency_signs%en%%
+Show currency signs on spec block
+%%small_show_currency_signs%ru%%
+Отображать знаки валют на специальном блоке
+
+%%body_small_cols%en%%
+Columns in the products on spec block
+%%body_small_cols%ru%%
+Количество столбцов на специальном блоке
+
+%%num_extra_special_flags%en%%
+Number of additional attributes
+%%num_extra_special_flags%ru%%
+Количество дополнительных признаков
+
+%%filter_flags%en%%
+Show the products with attributes
+%%filter_flags%ru%%
+Показывать товары с признаками
+
+%%filter_flags_mode%en%%
+Mode of a filtration of elements
+%%filter_flags_mode%ru%%
+Режим фильтрации элементов

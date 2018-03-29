@@ -1,0 +1,61 @@
+%%amount_less_than_minimal%en%%
+Entered payment amount is less than minimal value
+%%amount_less_than_minimal%ru%%
+Введенная сумма к оплате меньше минимальной
+
+%%status_sent%en%%
+Invoice sent by email _email_
+%%status_sent%ru%%
+Счет отправлен по E-mail _email_
+
+%%status_failed%en%%
+Failed to send invoice by email _email_
+%%status_failed%ru%% 
+Не удалось отправить счет по E-mail _email_
+
+%%select_package%en%%
+Please, choose package:
+%%select_package%ru%%
+Пожалуйста, выберите пакет:
+
+%%select_buy_type%en%%
+type of buying:
+%%select_buy_type%ru%%
+вариант приобретения:
+
+%%select_period%en%%
+period (in monthes):
+%%select_period%ru%%
+период оплаты (в месяцах):
+
+%%selected_package%en%%
+Selected package:
+%%selected_package%ru%%
+Выбран пакет:
+
+%%selected_buy_type%en%%
+type of buying:
+%%selected_buy_type%ru%%
+вариант приобретения:
+
+%%selected_period%en%%
+period (in monthes):
+%%selected_period%ru%%
+период оплаты (в месяцах):
+
+%%cost_is%en%%
+amount is
+%%cost_is%ru%%
+стоимость
+
+%%bonus%en%%
+Bonus will be added to your balance:
+%%bonus%ru%%
+На ваш баланс будет зачислен бонус:
+
+%%buy_note%en%%
+Please not, that you buy this site as it is.
+If you need any additional service like domain registration, design developing and so on, please contact our sales service.
+%%buy_note%ru%%
+Помните, что Вы приобретаете этот сайт таким какой он есть в данный момент.
+Если Вам нужны дополнительные услуги, такие как регистрация домена, разработка или интеграция дизайна, и т.д. обратитесь в службу продаж.

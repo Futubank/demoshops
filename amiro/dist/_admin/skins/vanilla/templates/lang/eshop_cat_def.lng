@@ -1,0 +1,229 @@
+%%counter_product%en%%
+Products:<br>Total/Published
+%%counter_product%ru%%
+Товаров: Всего/Публ.
+
+%%address%en%%
+Address
+%%address%ru%%
+Адрес
+
+%%phone%en%%
+Phone
+%%phone%ru%%
+Телефон
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%parentname%en%%
+Parent
+%%parentname%ru%%
+Родительская категория
+
+%%price_caption%en%%
+Price caption
+%%price_caption%ru%%
+Заголовок для цены
+
+%%price_value%en%%
+Price
+%%price_value%ru%%
+Цена
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена
+
+%%base_price%en%%
+Base price
+%%base_price%ru%%
+Базовая цена
+
+%%wrong_expression%en%%
+wrong expression
+%%wrong_expression%ru%%
+неверное выражение
+
+%%update_all%en%%
+Apply prices captions and formulas for all sub categories
+%%update_all%ru%%
+Применить заголовки цен и формулы для всех дочерних категорий
+
+%%tab_prices%en%%
+Prices/Discounts/Shipping
+%%tab_prices%ru%%
+Цены/Скидки/Доставка
+
+%%price_list%en%%
+Price list
+%%price_list%ru%%
+Прайс-лист
+
+%%instruction%en%%
+Instruction
+%%instruction%ru%%
+Инструкция
+
+%%instruct%en%%
+Send instruction
+%%instruct%ru%%
+Отправлять инструкцию
+
+%%base_currency%en%%
+Base
+%%base_currency%ru%%
+Базовая
+
+%%move_top%en%%
+Move top
+%%move_top%ru%%
+Наверх
+
+%%move_up%en%%
+Move up
+%%move_up%ru%%
+Выше
+
+%%move_down%en%%
+Move down
+%%move_down%ru%%
+Ниже
+
+%%move_bottom%en%%
+Move bottom
+%%move_bottom%ru%%
+Вниз
+
+%%root_cat%en%%
+All
+%%root_cat%ru%%
+Все
+
+%%root_catname%en%%
+Root
+%%root_catname%ru%%
+Корневая категория
+
+%%multi_sites_select%en%%
+Select site
+%%multi_sites_select%ru%%
+Выберите сайт
+
+%%dataset%en%%
+Property set
+%%dataset%ru%%
+Набор свойств
+
+%%dataset_child%en%%
+Apply selected attribute list to all child categories
+%%dataset_child%ru%%
+Применить выбранный набор свойств ко всем подкатегориям
+
+%%option_select_cat%en%%
+-- category is not selected --
+%%option_select_cat%ru%%
+-- категория не выбрана --
+
+%%position_warn%en%%
+For activation of these actions, it is necessary to sort data by this field and select category.
+%%position_warn%ru%%
+Для активации действий, необходимо установить сортировку по данному полю и выбрать категорию.
+
+%%discount%en%%
+Discount
+%%discount%ru%%
+Скидка
+
+%%button_select%en%%
+Select
+%%button_select%ru%%
+Выбрать
+
+%%button_edit_fields%en%%
+Edit/add new
+%%button_edit_fields%ru%%
+Редактировать/добавить новые
+
+%%button_wipe%en%%
+Delete
+%%button_wipe%ru%%
+Убрать
+
+%%discount_popup_title%en%%
+Select discount for category
+%%discount_popup_title%ru%%
+Выберите скидку для категории
+
+%%apply_to_subcategories%en%%
+Apply to subcategories
+%%apply_to_subcategories%ru%%
+Назначить подкатегориям
+
+%%combined%en%%
+Combined
+%%combined%ru%%
+Составная
+
+%%shipping_type%en%%
+Shipping category
+%%shipping_type%ru%%
+Набор способов доставки
+
+%%shipping_type_popup_title%en%%
+Select shipping category for product
+%%shipping_type_popup_title%ru%%
+Выберите набор способов доставки товара
+
+%%apply_to_products%en%%
+Apply to products
+%%apply_to_products%ru%%
+Применить к товарам
+
+%%shipping_type_not_selected%en%%
+---
+%%shipping_type_not_selected%ru%%
+---
+
+%%discount_not_selected%en%%
+---
+%%discount_not_selected%ru%%
+---
+
+%%discounts%en%%
+Discounts
+%%discounts%ru%%
+Скидки
+
+%%allow_fraction%en%%
+Allow fractional value for quantity of goods in order
+%%allow_fraction%ru%%
+Разрешить дробное количество товара в заказе
+
+%%currency%en%%
+Currency
+%%currency%ru%%
+валюта
+
+%%currency_db%en%%
+Storage
+%%currency_db%ru%%
+ввода и хранения
+
+%%currency_site%en%%
+Displayed
+%%currency_site%ru%%
+отображения
+
+%%db_currency_no%en%%
+-- not specified --
+%%db_currency_no%ru%%
+-- не задано --
+
+%%disabled_ref_select%en%%
+Use button on the right, value will be displayed after saving the form.
+%%disabled_ref_select%ru%%
+Используйте кнопку добавления справа, значение будет отображено после сохранения формы.

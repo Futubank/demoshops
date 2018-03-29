@@ -1,0 +1,54 @@
+%%warn_shipping_module_is_disabled%en%%
+Attention! Shipping module is disabled.<br />Enter shipping methods and types information and enable option in settings of &quot;Shipping methods&quot; module to use new abilities.<br />
+%%warn_shipping_module_is_disabled%ru%%
+Внимание! Использование модуля доставки отключено.<br />Чтобы воспользоваться новыми возможностями, заполните информацию о способах и типах доставки и включите опцию в настройках модуля &quot;Способы доставки&quot;.<br />
+
+%%warn_missing_name%en%%
+Missing name
+%%warn_missing_name%ru%%
+Пропущено название
+
+%%warn_missing_price%en%%
+Missing formula of cost of delivery
+%%warn_missing_price%ru%%
+Пропущена формула стоимости доставки
+
+%%status_add%en%%
+Shipping region was added
+%%status_add%ru%%
+Регион доставки добавлен
+
+%%status_add_fail%en%%
+Fail to add shipping region
+%%status_add_fail%ru%%
+Регион доставки не добавлен
+
+%%status_apply%en%%
+Shipping region\'s data has been changed
+%%status_apply%ru%%
+Данные о регионе доставки были изменены
+
+%%warn_missing_price_to_apply%en%%
+Missing formula
+%%warn_missing_price_to_apply%ru%%
+Пропущена формула
+
+%%warn_grp_apply_price%en%%
+Apply price to selected items?
+%%warn_grp_apply_price%ru%%
+Применить цену к выбранным элементам?
+
+%%warn_delete_from_list%en%%
+Remove region from shipping method (formula will be lost)?
+%%warn_delete_from_list%ru%%
+Удалить регион из способа доставки (формула будет утеряна) ?
+
+%%prices_are_applied%en%%
+Formulas are applied
+%%prices_are_applied%ru%%
+Формулы применены
+
+%%status_apply_price_fail%en%%
+Price applying failed
+%%status_apply_price_fail%ru%%
+Применение формулы не произошло

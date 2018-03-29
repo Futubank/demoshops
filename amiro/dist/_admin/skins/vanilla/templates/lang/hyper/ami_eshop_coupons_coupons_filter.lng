@@ -1,0 +1,17 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Coupon
+%%filter_field_header%ru%%
+Купон
+
+%%filter_field_used%en%%
+Used
+%%filter_field_used%ru%%
+Использованные
+
+%%filter_field_u_login%en%%
+Login
+%%filter_field_u_login%ru%%
+Логин

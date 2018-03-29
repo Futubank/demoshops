@@ -1,0 +1,40 @@
+%%module_added%en%%
+Module '_name_' added to Favorites
+%%module_added%ru%%
+Модуль '_name_' добавлен в Избранное
+
+%%already_added%en%%
+Current module already is in Favorites
+%%already_added%ru%%
+Текущий модуль уже есть в спиcке Избранное
+
+%%list_full%en%%
+Favorites cannot contains more than 20 modules. Current module not added
+%%list_full%ru%%
+Список Избранное не может содержать более 20 модулей. Текущий модуль не добавлен
+
+%%last_visited%en%%
+History
+%%last_visited%ru%%
+Журнал
+
+%%add_btn%en%%
+Add current module
+%%add_btn%ru%%
+Добавить текущий модуль
+
+%%delete_btn%en%%
+Delete
+%%delete_btn%ru%%
+Удалить
+
+%%empty%en%%
+List is empty
+%%empty%ru%%
+Список пуст
+
+%%choose_elements%en%%
+Choose elements to delete
+%%choose_elements%ru%%
+Выберите элементы для удаления
+

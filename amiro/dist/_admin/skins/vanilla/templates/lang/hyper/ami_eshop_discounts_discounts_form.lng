@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%list_confirm_deletion%en%%
+Are you sure to delete item?
+%%list_confirm_deletion%ru%%
+Удалить?
+
+%%list_confirm_copy%en%%
+Are you sure to copy item?
+%%list_confirm_copy%ru%%
+Скопировать?

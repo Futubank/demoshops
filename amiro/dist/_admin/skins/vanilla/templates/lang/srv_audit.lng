@@ -1,0 +1,127 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_srv_audit_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_menu_all.lng"%%
+%%include_language "templates/lang/_history.lng"%%
+
+%%srv_audit_apply%en%%
+Changes history
+%%srv_audit_apply%ru%%
+История изменений
+
+%%item_name%en%%
+Item name
+%%item_name%ru%%
+Название
+
+%%id_item%en%%
+Item ID
+%%id_item%ru%%
+ID элемента
+
+%%date_last%en%%
+Date of last change
+%%date_last%ru%%
+Дата последнего изменения
+
+%%module_name%en%%
+Module
+%%module_name%ru%%
+Модуль
+
+%%original_status%en%%
+Original status
+%%original_status%ru%%
+Оригинальный статус
+
+%%audit_status%en%%
+Audit status
+%%audit_status%ru%%
+Статус проверки
+
+%%username%en%%
+Owner username
+%%username%ru%%
+Владелец
+
+%%actor_name%en%%
+Actor name
+%%actor_name%ru%%
+Имя пользователя
+
+%%owner_name%en%%
+Owner name
+%%owner_name%ru%%
+Имя владельца
+
+%%changes_history%en%%
+Changes history (last records)
+%%changes_history%ru%%
+История изменений (последние записи)
+
+%%added%en%%
+Added
+%%added%ru%%
+Добавлен
+
+%%changed%en%%
+Changed
+%%changed%ru%%
+Изменен
+
+%%deleted%en%%
+Deleted
+%%deleted%ru%%
+Удален
+
+%%approved%en%%
+Approved
+%%approved%ru%%
+Подтвержден
+
+%%rejected%en%%
+Rejected
+%%rejected%ru%%
+Отказан
+
+%%owner_changed%en%%
+Owner is changed
+%%owner_changed%ru%%
+Изменен владелец
+
+%%not_checked%en%%
+All not checked
+%%not_checked%ru%%
+Все непроверенные
+
+%%comments%en%%
+Comments
+%%comments%ru%%
+Комментарий
+
+%%articles_cat%en%%
+Article Categories
+%%articles_cat%ru%%
+Категории Статей
+
+%%full_history%en%%
+Complete changes history
+%%full_history%ru%%
+Полная история изменений
+
+%%records%en%%
+records
+%%records%ru%%
+записей
+
+%%audit_popup_title%en%%
+Complete changes history
+%%audit_popup_title%ru%%
+Полная история изменений
+
+%%srv_audit_popup_open%en%%
+View complete changes history
+%%srv_audit_popup_open%ru%%
+Посмотреть полную историю изменений

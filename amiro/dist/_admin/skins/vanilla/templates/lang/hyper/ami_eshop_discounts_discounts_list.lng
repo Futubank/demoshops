@@ -1,0 +1,107 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_header%en%%
+Name
+%%list_col_header%ru%%
+Название
+
+%%list_col_kind%en%%
+Type
+%%list_col_kind%ru%%
+Тип
+
+%%list_col_cond%en%%
+Applicable
+%%list_col_cond%ru%%
+Условия
+
+%%list_col_datefrom%en%%
+Start
+%%list_col_datefrom%ru%%
+Начало
+
+%%list_col_dateto%en%%
+Finish
+%%list_col_dateto%ru%%
+Завершение
+
+%%list_col_amount%en%%
+Amount
+%%list_col_amount%ru%%
+Величина
+
+%%list_col_c_categories_count%en%%
+Сategories
+%%list_col_c_categories_count%ru%%
+Категории
+
+%%single%en%%
+Single
+%%single%ru%%
+Разовая
+
+%%accumulative%en%%
+Accumulative
+%%accumulative%ru%%
+Накопительная
+
+%%coupon%en%%
+Coupon
+%%coupon%ru%%
+Купон
+
+%%mixed%en%%
+Mixed
+%%mixed%ru%%
+Смешанная
+
+%%global%en%%
+Global
+%%global%ru%%
+Глобальная
+
+%%category%en%%
+Per categories
+%%category%ru%%
+На категории
+
+%%total%en%%
+On sum
+%%total%ru%%
+На сумму
+
+%%items_count%en%%
+On total products count
+%%items_count%ru%%
+На суммарное количество товаров
+
+%%accumulative_total%en%%
+On sum
+%%accumulative_total%ru%%
+На сумму
+
+%%accumulative_items_count%en%%
+On total products count
+%%accumulative_items_count%ru%%
+На суммарное количество товаров
+
+%%combined%en%%
+Combined
+%%combined%ru%%
+Составная
+
+%%list_public%en%%
+Published on site
+%%list_public%ru%%
+Опубликовано на сайте
+
+%%list_public_inactive%en%%
+Not published on site
+%%list_public_inactive%ru%%
+Не опубликовано на сайте
+
+%%list_action_active%en%%
+Select
+%%list_action_active%ru%%
+Выбрать

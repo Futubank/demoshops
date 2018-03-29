@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_apply%en%%
+Project attribute was changed.
+%%status_apply%ru%%
+Данные свойства изменены.
+
+%%status_del%en%%
+Project attribute was deleted.
+%%status_del%ru%%
+Свойство было удалено.
+
+%%status_del_fail%en%%
+Project attribute was not deleted.
+%%status_del_fail%ru%%
+Свойство не было удалено.
+
+%%status_add%en%%
+Project attribute was added.
+%%status_add%ru%%
+Свойство добавлено.
+
+%%status_add_fail%en%%
+Project attribute was not added.
+%%status_add_fail%ru%%
+Свойство не добавлено.

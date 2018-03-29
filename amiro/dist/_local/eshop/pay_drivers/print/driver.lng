@@ -1,0 +1,15 @@
+%%driver_title%en%%
+Printing account settings
+%%driver_title%ru%%
+Печать счета
+
+%%payservice_tpl%en%%
+Template file for printed forms
+%%payservice_tpl%ru%%
+Файл шаблона печатных форм
+
+%%driver_author%en%%
+<a href="http://amirocms.com/" target="_blank">Amiro</a>
+%%driver_author%ru%%
+<a href="http://www.amiro.ru/" target="_blank">Амиро</a>
+

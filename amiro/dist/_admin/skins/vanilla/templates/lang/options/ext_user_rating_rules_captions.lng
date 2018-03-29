@@ -1,0 +1,9 @@
+%%allow_negative_rating%en%%
+Allow negative rating
+%%allow_negative_rating%ru%%
+Разрешить отрицательный рейтинг
+
+%%weighted_rating%en%%
+Use weighted rating
+%%weighted_rating%ru%%
+Учитывать вес голосующего

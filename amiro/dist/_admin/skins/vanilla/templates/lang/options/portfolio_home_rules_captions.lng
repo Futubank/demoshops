@@ -1,0 +1,16 @@
+%%include_language "templates/lang/options/eshop_home_rules_captions.lng"%%
+
+%%filter_flags%en%%
+Show the projects with attributes
+%%filter_flags%ru%%
+Показывать проекты с признаками
+
+%%small_special_limit%en%%
+Quantity of the projects in spec block
+%%small_special_limit%ru%%
+Количество проектов в специальном блоке
+
+%%small_splitter_period%en%%
+The number of projects in spec block after which the splitter is inserted
+%%small_splitter_period%ru%%
+Количество проектов в специальном блоке, после которого вставляется разделитель

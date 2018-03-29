@@ -1,0 +1,142 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_srv_host_payments_props_msgs.lng"%%
+
+%%status_add%en%%
+Payment item was added.
+%%status_add%ru%%
+Оплата добавлена.
+
+%%status_add_fail%en%%
+Payment item was not added.
+%%status_add_fail%ru%%
+Оплата не добавлена.
+
+%%status_apply%en%%
+Site info was updated.
+%%status_apply%ru%%
+Информация о сайте изменена.
+
+%%status_del_fail%en%%
+Site was not deleted.
+%%status_del_fail%ru%%
+Сайт не удален.
+
+%%status_del%en%%
+Site is deleted.
+%%status_del%ru%%
+Сайт удален.
+
+%%status_del_queued%en%%
+Site was added into queue for deleting.
+%%status_del_queued%ru%%
+Сайт добавлен в очередь на удаление.
+
+%%status_del_exists%en%%
+This site is already in the queue for deleting.
+%%status_del_exists%ru%%
+Сайт уже находится в очереди на удаление.
+
+%%del_checkbox_warn%ru%%
+Внимание! Эту операцию невозможно будет отменить!
+%%del_checkbox_warn%en%%
+Attention! This operation cannot be cancelled!
+
+%%status_memeber_del%ru%%
+Профайл пользователя удален.
+%%status_memeber_del%en%%
+Member's profile was deleted.
+
+%%status_memeber_del_fail%ru%%
+Профайл пользователя не удален.
+%%status_memeber_del_fail%en%%
+Member's profile was not deleted.
+
+%%invalid_date%en%%
+Invalid date - not changed
+%%invalid_date%ru%%
+Неправильная дата, не изменена
+
+%%notify_email_sent_ok%en%%
+Notification was sent to the user by email
+%%notify_email_sent_ok%ru%%
+Пользователю отправлено уведомление
+
+%%notify_email_sent_error%en%%
+Error occurred while sending notification to the user
+%%notify_email_sent_error%ru%%
+Ошибка при отправке уведомления пользователю 
+
+%%zero_date_for_trial%en%%
+Trial sites cannot have zero expire date
+%%zero_date_for_trial%ru%%
+У пробных сайтов время окончания лицензии не может быть нулевым
+
+%%ftp_setup_failed%en%%
+FTP setup failed
+%%ftp_setup_failed%ru%%
+Ошибка конфигурации FTP
+
+%%disk_quota_setup_failed%en%%
+Disk quota not set
+%%disk_quota_setup_failed%ru%%
+Ошибка при задании дисковой квоты
+
+%%email_domain_update_failed%en%%
+Email domain properties not updated
+%%email_domain_update_failed%ru%%
+Ошибка при изменении параметров почтового домена
+
+%%status_change_failed%en%%
+Site status change failed
+%%status_change_failed%ru%%
+Статус сайта не изменен
+
+%%invalid_value%en%%
+Invalid value
+%%invalid_value%ru%%
+Неправильное значение
+
+%%site_copy_fail%en%%
+There was an error while copying the site: _err_text_
+%%site_copy_fail%ru%%
+Ошибка при копировании сайта: _err_text_
+
+%%site_copy_ok%en%%
+Site copied
+%%site_copy_ok%ru%%
+Сайт скопирован
+
+%%dns_zone_created%en%%
+DNS zone added
+%%dns_zone_created%ru%%
+DNS зона создана
+
+%%dns_zone_exists%en%%
+DNS zone is already configured
+%%dns_zone_exists%ru%%
+DNS зона уже существует
+
+%%dns_zone_create_err%en%%
+Cannot configure DNS
+%%dns_zone_create_err%ru%%
+Ошибка конфигурации DNS
+
+%%leave_blank_to_generate%en%%
+Leave passwords blank to generate its automatically
+%%leave_blank_to_generate%ru%%
+Если пароль не задан, он будет сгенерирован автоматически
+
+%%notify_user%en%%
+Send new access info to user by e-mail
+%%notify_user%ru%%
+Отправить новый доступ владельцу сайта по e-mail
+
+%%delete_site%en%%
+Delete source site
+%%delete_site%ru%%
+Удалить скопированный сайт
+
+%%sites_limit_reached%en%%
+Number of sites on this builder is over limit
+%%sites_limit_reached%ru%%
+Превышен лимит на количество созданных сайтов

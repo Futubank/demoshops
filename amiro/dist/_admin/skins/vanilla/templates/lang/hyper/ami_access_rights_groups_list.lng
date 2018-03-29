@@ -1,0 +1,59 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+%%include_language "templates/lang/hyper/ami_access_rights_groups_common.lng"%%
+
+##-- list column headers { --##
+
+%%list_col_is_guest%en%%
+Guest
+%%list_col_is_guest%ru%%
+Гостевая
+
+%%list_col_u_users%en%%
+Users
+%%list_col_u_users%ru%%
+Пользователей
+
+%%list_col_modules%en%%
+Modules
+%%list_col_modules%ru%%
+Модулей
+
+%%list_col_is_moderator%en%%
+Moderator
+%%list_col_is_moderator%ru%%
+Модератор
+
+%%list_col_edit_front_allowed%en%%
+Front<br />editable
+##--<span class="amiro-header__control" style="padding: 0 !important;"><span class="amiro-header__control__page-nav" style="padding: 0 !important;"><a title="Front editable" href="#" onclick="return false;" class="amiro-header__control__view-page"></a></span></span>--##
+%%list_col_edit_front_allowed%ru%%
+<span title="Доступность редактирования на общедоступной части сайта">Фронт</span>
+##-- <span class="amiro-header__control" style="padding: 0 !important;"><span class="amiro-header__control__page-nav" style="padding: 0 !important;"><a title="Доступность редактирования на общедоступной части сайта" href="#" onclick="return false;" class="amiro-header__control__view-page"></a></span></span>--##
+
+%%list_col_is_admin%en%%
+Admin
+%%list_col_is_admin%ru%%
+Администратор
+
+##-- } list column headers --##
+
+%%list_col_icon_is_guest%en%%
+Guest group
+%%list_col_icon_is_guest%ru%%
+Гостевая группа
+
+%%list_col_icon_is_moderator%en%%
+Access to other users items
+%%list_col_icon_is_moderator%ru%%
+Доступ к данным модуля других пользователей
+
+%%list_col_icon_edit_front_allowed%en%%
+Access to edit at front side
+%%list_col_icon_edit_front_allowed%ru%%
+Доступ к редактированию на общедоступной части сайта
+
+%%list_col_icon_is_admin%en%%
+Access to admin panel
+%%list_col_icon_is_admin%ru%%
+Доступ в панель управления сайтом

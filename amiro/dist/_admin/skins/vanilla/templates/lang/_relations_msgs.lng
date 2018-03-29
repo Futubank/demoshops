@@ -1,0 +1,24 @@
+%%status_add_to_list%en%%
+Data is added to the list
+%%status_add_to_list%ru%%
+Данные добавлены в список
+
+%%remove_from_list_confirm%en%%
+Remove this data from the list?
+%%remove_from_list_confirm%ru%%
+Удалить данные из списка?
+
+%%status_grp_move%en%%
+_num_items_ records were added to the list.
+%%status_grp_move%ru%%
+_num_items_ записей добавлено в список связей.
+
+%%status_remove_from_list%en%%
+Data was removed from entity.
+%%status_remove_from_list%ru%%
+Данные удалены.
+
+%%status_invalid_object%en%%
+Invalid object
+%%status_invalid_object%ru%%
+Исходный объект не существует

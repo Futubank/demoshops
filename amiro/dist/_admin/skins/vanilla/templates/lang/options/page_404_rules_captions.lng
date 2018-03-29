@@ -1,0 +1,15 @@
+%%notify_to%en%%
+Notify about not found pages to
+%%notify_to%ru%%
+Уведомлять о не найденных страницах
+
+%%set_404_header%en%%
+Use 404 header for pages not found
+%%set_404_header%ru%%
+Выдавать 404 заголовок для не найденных страниц
+
+%%ban_list%en%%
+Do not notify about pages from this list
+%%ban_list%ru%%
+Не уведомлять о страницах из списка
+

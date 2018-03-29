@@ -1,0 +1,119 @@
+%%spl_sections%en%%
+Categories
+%%spl_sections%ru%%
+Рубрики
+
+%%multicat%en%%
+To show the list of categories in the list of classifieds
+%%multicat%ru%%
+Отображать список рубрик в списке объявлений
+
+%%multicat_in_body_details%en%%
+To show the list of categories in details of announcement
+%%multicat_in_body_details%ru%%
+Отображать список рубрик в деталях объявления
+
+%%show_last_items%en%%
+Support for special link parameter "show_last=N"
+%%show_last_items%ru%%
+Поддержка спец. параметра ссылки "show_last=N"
+
+%%show_subitems%en%%
+Show subitems per category
+%%show_subitems%ru%%
+Отображение объявлений в рубрике
+
+%%use_categories%en%%
+Use rubrics
+%%use_categories%ru%%
+Использование рубрик
+
+%%custom_fields%en%%
+Custom fields
+%%custom_fields%ru%%
+Дополнительные поля
+
+%%front_allow_to_add%en%%
+Allow to add classifieds by visitors
+%%front_allow_to_add%ru%%
+Разрешить добавление посетителям
+
+%%front_allow_to_add_registered_only%en%%
+Allow to add classifieds by registered users only
+%%front_allow_to_add_registered_only%ru%%
+Разрешить добавление только зарегистрированным пользователям
+
+%%front_add_as_published%en%%
+Add as published
+%%front_add_as_published%ru%%
+Добавлять опубликованными
+
+%%front_allow_attach%en%%
+Allow attachments
+%%front_allow_attach%ru%%
+Разрешить прикрепленные файлы
+
+%%max_upload_size%en%%
+Maximum attachment size (in bytes)
+%%max_upload_size%ru%%
+Максимальный размер прикрепленного файла (байт)
+
+%%front_allow_attach_images%en%%
+Allow images usage
+%%front_allow_attach_images%ru%%
+Разрешить использование изображений
+
+%%default_life_time%en%%
+Default Announcement life time
+%%default_life_time%ru%%
+Время жизни объявления по умолчанию
+
+%%autodeletion_period%en%%
+Auto-delete period<br /><i>(0 means no autodeletion)</i>
+%%autodeletion_period%ru%%
+Удалять объявления через<br /><i>(0 - не удалять)</i>
+
+%%small_number_categories%en%%
+Number of categories shown in special block
+%%small_number_categories%ru%%
+Количество рубрик для отображения объявлений в спецблоке
+
+%%small_category_ids%en%%
+Categories to show classifieds in special block
+%%small_category_ids%ru%%
+Рубрики для отображения объявлений в спецблоке
+
+%%small_categories_sort_col%en%%
+Order classifieds in special block by category column
+%%small_categories_sort_col%ru%%
+Сортировать объявления при отображении в спецблоке по полю рубрики
+
+%%small_categories_sort_dim%en%%
+Classifieds order direction in special block (category column)
+%%small_categories_sort_dim%ru%%
+Направление сортировки объявлений при отображении в спецблоке по полю рубрики
+
+%%spl_notification%en%%
+Notifications
+%%spl_notification%ru%%
+Уведомления
+
+%%noticiation_email%en%%
+Notification email about new classifieds
+%%noticiation_email%ru%%
+Email для уведомлений о новых объявлениях
+
+%%notify_admin_on_submission%en%%
+Notify administrator of new submission
+%%notify_admin_on_submission%ru%%
+Уведомлять администратора при добавлении нового объявления
+
+%%notify_author_when_published%en%%
+Notify author when announcement is published
+%%notify_author_when_published%ru%%
+Уведомлять автора объявления при публикации
+
+%%display_inactive_by_direct_link%en%%
+Display inactive classifieds<br /><i>(by direct link only)</i>
+%%display_inactive_by_direct_link%ru%%
+Отображать объявления вне периода<br /><i>(только по прямой ссылке)</i>

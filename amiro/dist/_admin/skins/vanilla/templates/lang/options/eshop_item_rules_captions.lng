@@ -1,0 +1,361 @@
+%%front_page_available_sort%en%%
+Available sorting
+%%front_page_available_sort%ru%%
+Доступные сортировки
+
+%%body_items_cols%en%%
+Number of columns on a page
+%%body_items_cols%ru%%
+Количество столбцов в режиме отображения товаров
+
+%%body_cats_cols%en%%
+Number of columns in the category view
+%%body_cats_cols%ru%%
+Количество столбцов в режиме отображения категорий
+
+%%body_search_cols%en%%
+Number of columns in search results
+%%body_search_cols%ru%%
+Количество столбцов в режиме отображения результатов поиска
+
+%%sub_items_cols%en%%
+Number of columns in sub-product list
+%%sub_items_cols%ru%%
+Количество колонок для списка подчиненных товаров
+
+%%tax_default%en%%
+Tax default
+%%tax_default%ru%%
+Величина налога 'по умолчанию'
+
+%%tax_scheme%en%%
+Tax calculation
+%%tax_scheme%ru%%
+Схема вычисления налога
+
+%%shipping_scheme%en%%
+Shipping cost calculation
+%%shipping_scheme%ru%%
+Схема вычисления величины доставки
+
+%%shipping_tax%en%%
+Value of the tax on shipping (in percentage)
+%%shipping_tax%ru%%
+Величина налога на доставку (в процентах)
+
+%%shipping_const%en%%
+Value of the extra charge to cost of shipping
+%%shipping_const%ru%%
+Величина постоянной надбавки к стоимости доставки
+
+%%number_decimal_digits%en%%
+Number of decimal digits in price
+%%number_decimal_digits%ru%%
+Количество цифр после десятичной точки
+
+%%decimal_point%en%%
+Symbol of a decimal point
+%%decimal_point%ru%%
+Символ десятичной точки
+
+%%thousands_separator%en%%
+Thousands separator
+%%thousands_separator%ru%%
+Разделитель тысяч
+
+%%charge_tax_type%en%%
+Display tax by default
+%%charge_tax_type%ru%%
+Тип налога по умолчанию
+
+%%sku_is_unique%en%%
+Check the SKU number
+%%sku_is_unique%ru%%
+Проверять код товара на уникальность
+
+%%buy_spec_prices%en%%
+It is possible to buy a type of the price, on which
+%%buy_spec_prices%ru%%
+Цена, по которым разрешено осуществлять покупки
+
+%%show_base_price%en%%
+Show base price
+%%show_base_price%ru%%
+Отображать базовую цену
+
+%%show_detail_link%en%%
+Link to detailed description of the products
+%%show_detail_link%ru%%
+Отображать ссылку на детальное описание товара, когда его описание отсутствует
+
+%%show_subcategories%en%%
+Subcategories depth
+%%show_subcategories%ru%%
+Количество уровней (глубина) отображения дочерних категорий относительно родительской категории
+
+%%max_level_subcategories%en%%
+Display subcategories in absolute depth categories
+%%max_level_subcategories%ru%%
+Отображать дочерние категории в категориях абсолютного уровня
+
+%%max_level_subcategories_INFO%en%%
+If negative value, for example,  -1, then all, except level 1, for example -2, then except level 1 and 2, etc
+%%max_level_subcategories_INFO%ru%%
+Если отрицательное значение, например, -1, то все, кроме уровня 1, например -2, то кроме уровня 1 и 2, и т.д
+
+%%show_announce_in_subcats%en%%
+Show announce in subcategories
+%%show_announce_in_subcats%ru%%
+Отображать анонс в подкатегориях
+
+%%show_subcategory_items%en%%
+Display of subcategory products
+%%show_subcategory_items%ru%%
+Отображение подчиненных товаров
+
+%%show_discounts_value%en%%
+Show discount difference values
+%%show_discounts_value%ru%%
+Отображать величину скидки
+
+%%show_calcs_prices%en%%
+Show calculated prices (admin)
+%%show_calcs_prices%ru%%
+Отображать рассчитанные цены (админ)
+
+%%number_decimal_percent%en%%
+Number decimal digits in percent values
+%%number_decimal_percent%ru%%
+Количество цифр после десятичной точки при отображении процентных значений
+
+%%deep_level%en%%
+Number of categories displayed in module block
+%%deep_level%ru%%
+Глубина отображения дерева категорий на спецблоке
+
+%%spec_catname_len%en%%
+Length of category name in module block
+%%spec_catname_len%ru%%
+Длина названия категории в спецблоке
+
+%%tree_template%en%%
+Template file for category tree display in module block
+%%tree_template%ru%%
+Файл шаблона для отображения дерева категорий в спецблоке
+
+%%spec_show_root%en%%
+Show main category in module block
+%%spec_show_root%ru%%
+Отображать главную категорию в спецблоке
+
+%%show_empty_captions%en%%
+Show prices with empty price's caption
+%%show_empty_captions%ru%%
+Отображать цены с незаданным описанием цены
+
+%%splitter_period%en%%
+Number of products before separator
+%%splitter_period%ru%%
+Количество товаров, после которого вставляется разделитель
+
+%%sub_splitter_period%en%%
+Number of sub products before the separator
+%%sub_splitter_period%ru%%
+Количество подчиненных товаров, после которого вставляется разделитель
+
+%%available_item_types%en%%
+The available types of the products
+%%available_item_types%ru%%
+Разрешенные типы товаров
+
+%%default_item_type%en%%
+Default type of the product
+%%default_item_type%ru%%
+Тип товара по умолчанию
+
+%%show_currency_signs%en%%
+Show currency signs
+%%show_currency_signs%ru%%
+Отображать знаки валют
+
+%%show_sku_column%en%%
+Show sku column (admin)
+%%show_sku_column%ru%%
+Показывать колонку с кодом товара (админ)
+
+%%excel_list_rows%en%%
+Number of rows in Excell spread sheet
+%%excel_list_rows%ru%%
+Количество строк в таблице Excel
+
+%%spl_prices_params%en%%
+Price and discount options
+%%spl_prices_params%ru%%
+Параметры формирования цен
+
+%%spl_extra_prices_params%en%%
+Additional prices
+%%spl_extra_prices_params%ru%%
+Дополнительные цены
+
+%%spl_subcats%en%%
+Display sub categories
+%%spl_subcats%ru%%
+Настройка отображения подкатегорий
+
+%%show_current_subcats%en%%
+Displays number of subcategories under current category
+%%show_current_subcats%ru%%
+Показывать у текущей категории все подчиненные категории
+
+%%min_len%en%%
+Minimal allowed search query word's length
+%%min_len%ru%%
+Минимально допустимая длина фразы поискового запроса
+
+%%extrafield_price_on%en%%
+Use additional prices
+%%extrafield_price_on%ru%%
+Используемые дополнительные цены
+
+%%price_buy%en%%
+Allow purchase
+%%price_buy%ru%%
+Разрешить покупку по цене
+
+%%apply_calcs_to_fields%en%%
+Apply price, tax, discount and shipping
+%%apply_calcs_to_fields%ru%%
+Применить к цене налог, скидку и доставку
+
+%%apply_discount_to_fields%en%%
+Apply price and discount
+%%apply_discount_to_fields%ru%%
+Применить к цене скидку
+
+%%show_price_with_tax%en%%
+Display price with tax
+%%show_price_with_tax%ru%%
+Отображать цену, включая величину налога
+
+%%spl_form_params%en%%
+Elements arrangement in product add/edit form
+%%spl_form_params%ru%%
+Расположение элементов в форме добавления/редактирования товаров
+
+%%spl_specblock_cat%en%%
+Module block options of "Product catalog"
+%%spl_specblock_cat%ru%%
+Параметры спецблока "Каталог товаров"
+
+%%spl_specblock_filter%en%%
+Module block options of "Products search/filter"
+%%spl_specblock_filter%ru%%
+Параметры спецблока "Поиск/фильтр товаров"
+
+%%small_filter_templates%en%%
+Template files for display module block
+%%small_filter_templates%ru%%
+Файлы шаблонов для отображения спецблока
+
+%%small_filter_start_cat%en%%
+Starting category
+%%small_filter_start_cat%ru%%
+Стартовая категория
+
+%%small_filter_mode%en%%
+Display mode
+%%small_filter_mode%ru%%
+Режим отображения
+
+%%small_filter_hide_fields%en%%
+Disabled filter's fields
+%%small_filter_hide_fields%ru%%
+Не отображать в фильтре следующие поля
+
+%%pictures_form_location%en%%
+Pictures
+%%pictures_form_location%ru%%
+Изображения
+
+%%base_price_form_location%en%%
+Base price
+%%base_price_form_location%ru%%
+Базовая цена
+
+%%prices_form_location%en%%
+Additional prices
+%%prices_form_location%ru%%
+Дополнительные цены
+
+%%taxes_form_location%en%%
+Tax, shipping, discount
+%%taxes_form_location%ru%%
+Налог, доставка, скидка
+
+%%nwrs_form_location%en%%
+Order amount, weight, rest, size
+%%nwrs_form_location%ru%%
+Кол-во в заказе, вес, остаток, размер
+
+%%specials_form_location%en%%
+Additional attributes
+%%specials_form_location%ru%%
+Дополнительные признаки
+
+%%show_ref_items_in_admin%en%%
+Number of products shown in select box
+%%show_ref_items_in_admin%ru%%
+Число элементов справочника, отображаемых в выпадающем списке на форме редактирования элемента
+
+%%show_shipping_types_in_admin%en%%
+Number of shipping categories shown in select box
+%%show_shipping_types_in_admin%ru%%
+Число наборов способов доставки, отображаемых в выпадающем списке на форме редактирования элемента
+
+##--
+%%multiply_shipping_cost_by_qty%en%%
+Do multiply shipping cost by product quantity
+%%multiply_shipping_cost_by_qty%ru%%
+Умножать величину доставки на количество продукта
+--##
+
+%%small_cols%en%%
+Number of columns on levels (are set through separator ";")
+%%small_cols%ru%%
+Количество колонок по уровням (задаются через разделитель ";")
+
+%%show_all_subitems_level%en%%
+To include in the list the items from all subcategories, since a level
+%%show_all_subitems_level%ru%%
+Включать в список товары всех подкатегорий, начиная с уровня
+
+%%max_upload_size%en%%
+Maximum attachment file size (in bytes)
+%%max_upload_size%ru%%
+Максимальный размер прикрепленного файла (в байтах)
+
+%%item_links_allowed%en%%
+Use item links from another categories
+%%item_links_allowed%ru%%
+Включить использование ссылок на товары в других категориях
+
+%%path_settings_front%en%%
+Displaying the path of category (bread crumbs)
+%%path_settings_front%ru%%
+Отображение пути категорий (хлебные крошки)
+
+%%path_settings_front_strip_text%en%%
+Replace categories skipped in the path by
+%%path_settings_front_strip_text%ru%%
+Заменять пропущенные в пути категории на
+
+%%path_settings%en%%
+Displaying the path of category (bread crumbs, admin)
+%%path_settings%ru%%
+Отображение пути категорий (хлебные крошки, админ)
+
+%%path_settings_strip_text%en%%
+Replace categories skipped in the path by (admin)
+%%path_settings_strip_text%ru%%
+Заменять пропущенные в пути категории на (админ)

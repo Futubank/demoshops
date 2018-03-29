@@ -1,0 +1,17 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/eshop_currency_def.lng"%%
+
+%%eshop_base%en%%
+Store base currency
+%%eshop_base%ru%%
+Базовая валюта каталога товаров
+
+%%eshop_base_currency%en%%
+Store base currency
+%%eshop_base_currency%ru%%
+Базовая валюта каталога товаров

@@ -1,0 +1,288 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_menu_all.lng"%%
+
+%%modules_datasets_add%en%%
+Add new dataset
+%%modules_datasets_add%ru%%
+Добавление набора свойств
+
+%%modules_datasets_apply%en%%
+Edit dataset
+%%modules_datasets_apply%ru%%
+Редактирование набора свойств
+
+%%module_name%en%%
+Module
+%%module_name%ru%%
+Модуль
+
+%%select_module%en%%
+Select module
+%%select_module%ru%%
+Выберите модуль
+
+##-- js warnings --##
+
+%%js_warn_module_name%en%%
+Select module!
+%%js_warn_module_name%ru%%
+Выберите модуль!
+
+%%js_confirm_change_module%en%%
+Field list will be cleared, are you sure?
+%%js_confirm_change_module%ru%%
+Список полей будет очищен, Вы уверены?
+
+%%warn_apply_item%en%%
+Press [Apply] button first to edit list.
+%%warn_apply_item%ru%%
+Для редакирования списка сначала нажмите кнопку [Применить].
+
+%%js_popup_mode%en%%
+Refresh this page later to see added or changed fields. Continue?
+%%js_popup_mode%ru%%
+Для того, чтобы измененные или добавленные поля появились в редактируемом наборе свойств, будет необходимо обновить эту страницу. Продолжить?
+
+%%js_cannot_load_custom_fields%en%%
+Cannot load module custom fields, try later please!
+%%js_cannot_load_custom_fields%ru%%
+Невозможно загрузить поля модуля, пожалуйста, попробуйте позже!
+
+##-- /js warnings --##
+
+%%tooltip_module_name%en%%
+Module name can be set only on property set creation.<br /><br />
+If no custom fields you create appears, be sure,<br />
+that "Custom fields" extension is turned on in module options.
+%%tooltip_module_name%ru%%
+Модуль может быть задан только при создании набора свойств.<br /><br />
+Если в модуле не появляются создаваемые поля, убедитесь,<br />
+что расширение "Дополнительные поля" включено в настройках<br />требуемого модуля.
+
+%%module_usage_simple%en%%
+Use this data set
+%%module_usage_simple%ru%%
+Использовать этот набор данных
+
+%%module_usage_categories%en%%
+Use this data set in categories
+%%module_usage_categories%ru%%
+Использовать этот набор данных в категориях
+
+%%module_usage_categories_list%en%%
+Module categories list for data set
+%%module_usage_categories_list%ru%%
+Список категорий модуля для набора данных
+
+%%module_usage_edit_list%en%%
+Edit list
+%%module_usage_edit_list%ru%%
+Редактировать список
+
+%%categories_counter%en%%
+Categories number
+%%categories_counter%ru%%
+Количество категорий
+
+%%module_usage_pages%en%%
+Use this data set on pages
+%%module_usage_pages%ru%%
+Использовать этот набор данных на страницах
+
+%%module_usage_pages_list%en%%
+Module pages list for data set
+%%module_usage_pages_list%ru%%
+Список страниц модуля для набора данных
+
+%%pages_counter%en%%
+Pages number
+%%pages_counter%ru%%
+Количество страниц
+
+%%postfix%en%%
+Postfix for templates
+%%postfix%ru%%
+Постфикс для шаблонов
+
+%%fields%en%%
+Field list
+%%fields%ru%%
+Список полей
+
+%%postfix_warn%en%%
+Fill posfix field please.
+%%postfix_warn%ru%%
+Пожалуйста, заполните постфикс.
+
+%%fields_map_warn%en%%
+Select one or more attribute please.
+%%fields_map_warn%ru%%
+Пожалуйста, выберите одно или больше свойств.
+
+%%button_add%en%%
+Add
+%%button_add%ru%%
+Добавить
+
+%%fields_name%en%%
+Name
+%%fields_name%ru%%
+Название
+
+%%fields_caption%en%%
+Caption
+%%fields_caption%ru%%
+Заголовок
+
+%%fields_shared%en%%
+Shared
+%%fields_shared%ru%%
+Общее
+
+%%fields_filter%en%%
+Filter
+%%fields_filter%ru%%
+В фильтре
+
+%%fields_shared%en%%
+Shared
+%%fields_shared%ru%%
+Общее
+
+%%hardcoded_Hsplitter%en%%
+Horizontal splitter
+%%hardcoded_Hsplitter%ru%%
+Горизонтальный разделитель
+
+%%hardcoded_Vsplitter%en%%
+Vertical splitter
+%%hardcoded_Vsplitter%ru%%
+Вертикальный разделитель
+
+%%hardcoded_item_with_discount%en%%
+Only with discount
+%%hardcoded_item_with_discount%ru%%
+Только со скидкой
+
+%%hardcoded_item_with_photo%en%%
+Only with photo
+%%hardcoded_item_with_photo%ru%%
+Только с фото
+
+%%hardcoded_price_from%en%%
+Price from
+%%hardcoded_price_from%ru%%
+Цена от
+
+%%hardcoded_price_to%en%%
+Price to
+%%hardcoded_price_to%ru%%
+Цена до
+
+%%hardcoded_Sblock%en%%
+Start block
+%%hardcoded_Sblock%ru%%
+Начало блока
+
+%%hardcoded_Fblock%en%%
+End block
+%%hardcoded_Fblock%ru%%
+Конец блока
+
+%%numfields%en%%
+Fields included
+%%numfields%ru%%
+Кол-во полей
+
+%%numcats%en%%
+Used in categories
+%%numcats%ru%%
+Используется в категорях
+
+%%delete_warn_pre%en%%
+Number of categories in which this attribute list is used:
+%%delete_warn_pre%ru%%
+Количество категорий, в которых использован этот набор свойств:
+
+%%remove_shared%en%%
+This will delete current shared attribute from all of the attribute lists.\nDelete?
+%%remove_shared%ru%%
+Это общее свойство будет так же удалено из всех других наборов свойств.\nУдалить?
+
+%%uncheck_shared%en%%
+Uncheck common flag will affect to all such attributes in all attribute lists.
+%%uncheck_shared%ru%%
+Снятие флажка общего свойства будет произведено во всех наборах свойств для этого поля.
+
+%%dataset_desc%en%%
+<b>Property set name</b> - assigned name for a property set.<br>
+<b>Shared</b> - property will be added to the set and will be available in search.<br>
+<b>Filter</b> - show property in filter on site.<br>
+<b>Caption</b> - property name shown on site including filter.  Use caption add-on for filter, e.g. "Caption[more than]", "Caption[from||to]".
+%%dataset_desc%ru%%
+<b>Название</b> - имя свойства, заданное при создании.<br>
+<b>Общее</b> - свойство будет присутствовать во всех наборах и проектах и может быть использовано в поиске по всему каталогу.<br>
+<b>В фильтре</b> - показывать ли свойство в фильтре на сайте.<br>
+<b>Заголовок</b> - название для свойства, под которым оно будет показываться на сайте, в том числе и в фильтре. Для фильтра возможно использование дополнения описания, например "Заголовок[больше]", "Заголовок[от||до]".
+
+%%dataset_system%en%%
+System attributes list
+%%dataset_system%ru%%
+Системный набор свойств
+%%dataset_system%de%%
+Systemtechnisch satz beschaffenheit
+%%dataset_system%fr%%
+Complexe jeu de propriete
+
+%%button_edit_fields%en%%
+Edit/add new
+%%button_edit_fields%ru%%
+Редактировать/добавить новые
+
+%%def_caption_flt_ne%en%%
+[not equal]
+%%def_caption_flt_ne%ru%%
+[не равно]
+
+%%def_caption_flt_gt%en%%
+[greater than]
+%%def_caption_flt_gt%ru%%
+[больше]
+
+%%def_caption_flt_gte%en%%
+[greater or equal than]
+%%def_caption_flt_gte%ru%%
+[больше или равно]
+
+%%def_caption_flt_lt%en%%
+[less than]
+%%def_caption_flt_lt%ru%%
+[меньше]
+
+%%def_caption_flt_lte%en%%
+[less or equal than]
+%%def_caption_flt_lte%ru%%
+[меньше или равно]
+
+%%def_caption_flt_nint%en%%
+[from||to]
+%%def_caption_flt_nint%ru%%
+[от||до]
+
+%%def_caption_flt_iint%en%%
+[from||to]
+%%def_caption_flt_iint%ru%%
+[от||до]
+
+%%popup_title_edit%en%%
+Field editing
+%%popup_title_edit%ru%%
+Редактирование поля
+
+%%popup_title_add%en%%
+Field adding/editing
+%%popup_title_add%ru%%
+Добавление/редактирование поля

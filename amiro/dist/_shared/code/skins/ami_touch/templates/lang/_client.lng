@@ -1,0 +1,236 @@
+##--system info: module_owner="" module="" system="1"--##
+
+%%confirm_changes%en%%
+Form data were changed, all changes will be lost! Are you sure to continue?
+%%confirm_changes%ru%%
+Данные были изменены, все изменения будут потеряны! Продолжить?
+
+%%confirm_save_no_changes%en%%
+Nothing changed. Save anyway?
+%%confirm_save_no_changes%ru%%
+Ничего не менялось, все равно сохранить?
+
+%%errors_found%en%%
+Form contains errors
+%%errors_found%ru%%
+На форме найдены ошибки
+
+%%form_field_header_filled%en%%
+Please, enter the Header!
+%%form_field_header_filled%ru%%
+Пожалуйста, введите заголовок!
+
+%%form_field_date_created_filled%en%%
+Please, enter the Date!
+%%form_field_date_created_filled%ru%%
+Пожалуйста, введите дату!
+
+%%form_field_date_created_invalid_warn%en%%
+Please, enter correct the Date!
+%%form_field_date_created_invalid_warn%ru%%
+Пожалуйста, введите корректную дату!
+
+%%form_field_date_created_time_filled%en%%
+Please, enter the Time!
+%%form_field_date_created_time_filled%ru%%
+Пожалуйста, введите время!
+
+%%form_field_date_created_time_invalid_warn%en%%
+Please, enter correct the Time!
+%%form_field_date_created_time_invalid_warn%ru%%
+Пожалуйста, введите корректное время!
+
+%%form_field_announce_filled%en%%
+Please, enter the Announce!
+%%form_field_announce_filled%ru%%
+Пожалуйста, введите анонс!
+
+%%form_field_id_cat_filled%en%%
+Select a category!
+%%form_field_id_cat_filled%ru%%
+Выберите категорию!
+
+%%validator_format%en%%
+Invalid field format!
+%%validator_format%ru%%
+Поле заполнено неверно!
+
+%%validator_filled%en%%
+Please, enter the value!
+%%validator_filled%ru%%
+Пожалуйста, заполните поле!
+
+%%sublink_invalid_symbols%en%%
+The link contains illegal character(s)! Possible characters are: [A-Z] [a-z] [0-9] [-] [_] [.] [/].
+%%sublink_invalid_symbols%ru%%
+Недопустимые символы в ссылке! Набор допустимых символов: [A-Z] [a-z] [0-9] [-] [_] [.] [/].
+
+%%sublink_illegal_qm_usage%en%%
+The link contains too many question marks "?"!
+%%sublink_illegal_qm_usage%ru%%
+Ссылка содержит более одного знака вопроса "?"!
+
+%%sublink_illegal_amp_usage%en%%
+Illegal use of "&" or "="!
+%%sublink_illegal_amp_usage%ru%%
+Неверное использование знаков "&" или "="!
+
+%%sublink_start_slash%en%%
+The link cannot be started with "\/"!
+%%sublink_start_slash%ru%%
+Ссылка не может начинаться с символа "\/"!
+
+%%sublink_start_illegal%en%%
+The link can only be started from the characters: [A-Z] [a-z] [-] [_] [.].
+%%sublink_start_illegal%ru%%
+Недопустимый символ в начале ссылки! Адрес может начинаться только со следующих символов: [A-Z] [a-z] [-] [_] [.].
+
+%%select_file%en%%
+Select file
+%%select_file%ru%%
+Выберите файл
+
+%%cancel_file%en%%
+Cancel file
+%%cancel_file%ru%%
+Отказаться от файла
+
+%%upload_in_progress%en%%
+File upload in progress...
+%%upload_in_progress%ru%%
+Идет загрузка файла...
+
+%%upload_failed%en%%
+Upload Failed!
+%%upload_failed%ru%%
+Ошибка загрузки файла!
+
+%%list_confirm_deletion%en%%
+Are you sure to delete item?
+%%list_confirm_deletion%ru%%
+Удалить?
+
+%%list_confirm_yes%en%%
+Yes
+%%list_confirm_yes%ru%%
+Да
+
+%%list_confirm_no%en%%
+No
+%%list_confirm_no%ru%%
+Нет
+
+%%close_message%en%%
+Close
+%%close_message%ru%%
+Закрыть
+
+%%select_item_row%en%%
+Select element
+%%select_item_row%ru%%
+Выберите элемент
+
+%%modules_select_start_type%en%%
+Start typing module name...
+%%modules_select_start_type%ru%%
+Начните набирать имя модуля...
+
+%%modules_select_not_found%en%%
+Found nothing
+%%modules_select_not_found%ru%%
+Совпадений не найдено
+
+%%warning_edit_mode_off%en%%
+Edit mode is off
+%%warning_edit_mode_off%ru%%
+Включите режим редактирования для использования этой функции.
+
+%%select_option%en%%
+Going to the control panel
+%%select_option%ru%%
+Переход в панель управления
+
+%%select_current_module%en%%
+Select module to edit
+%%select_current_module%ru%%
+Перейти к редактированию
+
+%%select_option%en%%
+Jump to the control panel
+%%select_option%ru%%
+Перейти в панель управления
+
+%%select_module%en%%
+Start typing the name of the module
+%%select_module%ru%%
+Начните набирать имя модуля
+
+%%extra_prices_wont_be_saved%en%%
+Extra prices will not be saved, continue?
+%%extra_prices_wont_be_saved%ru%%
+Дополнительные цены не будут сохранены, продолжить?
+
+%%warning_is_android%en%%
+You are using an outdated browser version, unfortunately work correctly in this browser is not guaranteed.
+%%warning_is_android%ru%%
+Вы пользуетесь устаревшей версией браузера, к сожалению корректная работа в этом браузере не гарантируется.Вы пользуетесь устаревшей версией браузера, к сожалению корректная работа в этом браузере не гарантируется.
+
+%%warning_is_android_download%en%%
+Download from the official site and install one of these browsers
+%%warning_is_android_download%ru%%
+Загрузите с официального сайта и установите один из этих браузеров
+
+%%warning_is_android_done%en%%
+Continue to work
+%%warning_is_android_done%ru%%
+Продолжить работу
+
+%%mobile_home_btn%en%%
+Save tab in the form of icons on the desktop for quick access to the management of your site.
+%%mobile_home_btn%ru%%
+Сохраните закладку в виде иконки на рабочем столе для быстрого доступа к управлению вашим сайтом.
+
+%%mobile_home_btn_android%en%%
+<ul><li>Click on the link; </li> <li>In the browser menu, select "Add to Home Screen"; </li> <li>Enter a short name references, such as "My Site" and save it. </li> </ul>
+%%mobile_home_btn_android%ru%%
+<ul><li>Перейдите по указанной внизу ссылке;</li><li>В меню браузера выберите пункт "Добавить на главный экран";</li><li>Введите краткое название ссылки, например "Мой сайт" и сохраните.</li></ul>
+
+%%mobile_home_btn_ios%en%%
+<ul><li>Click on the link; </li> <li>Click the browser menu, click the "Submit»; </li> <li>Select the "On Screen Home" and save the link;</li> <li>Ask short title label, such as "My site" and save. </li> </ul>
+%%mobile_home_btn_ios%ru%%
+<ul><li>Перейдите по указанной внизу ссылке;</li><li>Нажмите в меню браузера кнопку «Отправить»;</li><li>Выберите «На экран Домой» и сохраните ссылку;</li><li>Задайте краткое название ярлыку, например «Мой сайт» и сохраните.</li></ul>
+
+%%request_error%en%%
+There was an error during server request.
+%%request_error%ru%%
+Ошибка во время получения данных от сервера.
+
+%%image_uploader_upload%en%%
+Upload a file
+%%image_uploader_upload%ru%%
+Загрузить файл
+
+%%image_uploader_select%en%%
+Select
+%%image_uploader_select%ru%%
+Выбрать
+
+%%image_uploader_insert%en%%
+Insert image
+%%image_uploader_insert%ru%%
+Вставить изображение
+
+%%image_uploader_error_upload%en%%
+Image uploading error.
+%%image_uploader_error_upload%ru%%
+Ошибка во время загрузки изображения.
+
+%%image_uploader_error_empty%en%%
+No image selected.
+%%image_uploader_error_empty%ru%%
+Нет изображения для вставки в редактор.
+
+%%image_uploader_loading%en%%
+Uploading...
+%%image_uploader_loading%ru%%
+Загрузка...

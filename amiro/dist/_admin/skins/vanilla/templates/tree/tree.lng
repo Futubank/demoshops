@@ -1,0 +1,86 @@
+%%Select Item%en%%
+Select page
+%%Select Item%ru%%
+Выбрать страницу
+
+%%uninstalled%en%%
+not installed
+%%uninstalled%ru%%
+не установлен
+
+%%root_message%en%%
+You can not manage the root item
+%%root_message%ru%%
+Вы не можете изменять корневой элемент
+
+%%move_confirm1%en%%
+Are you sure to move page 
+%%move_confirm1%ru%%
+Переместить страницу 
+
+%%move_confirm2%en%%
+ and all its subpages to 
+%%move_confirm2%ru%%
+ и все подстраницы в
+
+%%copy_confirm1%en%%
+Are you sure to copy page 
+%%copy_confirm1%ru%%
+Скопировать страницу 
+
+%%copy_confirm2%en%%
+ and all its subpages to 
+%%copy_confirm2%ru%%
+ и все подстраницы в
+
+%%image_alt_1%en%%
+%%image_alt_1%ru%%
+
+%%image_alt_10%en%%
+%%image_alt_10%ru%%
+
+%%image_alt_100%en%%
+Not published
+%%image_alt_100%ru%%
+Не опубликована
+
+%%image_alt_10000%en%%
+Root of Section
+%%image_alt_10000%ru%%
+Основная страница раздела
+ 
+%%image_alt_100000%en%%
+Has fixed blocks
+%%image_alt_100000%ru%%
+Содержит фиксированные блоки
+
+%%image_alt_1000%en%%
+Protected area
+%%image_alt_1000%ru%%
+Защищенная область
+
+%%not_published%en%%
+Page is not published
+%%not_published%ru%%
+Страница не опубликована
+
+%%default%en%%
+Default
+%%default%ru%%
+По умолчанию
+
+%%page_id%en%%
+ID:
+%%page_id%ru%%
+ID:
+
+%%page_type%en%%
+Type:
+%%page_type%ru%%
+Тип:
+
+%%link%en%%
+Link
+%%link%ru%%
+Ссылка
+

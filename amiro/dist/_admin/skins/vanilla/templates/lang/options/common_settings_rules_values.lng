@@ -1,0 +1,459 @@
+%%admin_compression_level_0%en%%
+0
+%%admin_compression_level_0%ru%%
+0
+
+%%admin_compression_level_1%en%%
+1
+%%admin_compression_level_1%ru%%
+1
+
+%%admin_compression_level_2%en%%
+2
+%%admin_compression_level_2%ru%%
+2
+
+%%admin_compression_level_3%en%%
+3
+%%admin_compression_level_3%ru%%
+3
+
+%%admin_compression_level_4%en%%
+4
+%%admin_compression_level_4%ru%%
+4
+
+%%admin_compression_level_5%en%%
+5
+%%admin_compression_level_5%ru%%
+5
+
+%%admin_compression_level_6%en%%
+6
+%%admin_compression_level_6%ru%%
+6
+
+%%admin_compression_level_7%en%%
+7
+%%admin_compression_level_7%ru%%
+7
+
+%%admin_compression_level_8%en%%
+8
+%%admin_compression_level_8%ru%%
+8
+
+%%admin_compression_level_9%en%%
+9
+%%admin_compression_level_9%ru%%
+9
+
+%%front_compression_level_0%en%%
+0
+%%front_compression_level_0%ru%%
+0
+
+%%front_compression_level_1%en%%
+1
+%%front_compression_level_1%ru%%
+1
+
+%%front_compression_level_2%en%%
+2
+%%front_compression_level_2%ru%%
+2
+
+%%front_compression_level_3%en%%
+3
+%%front_compression_level_3%ru%%
+3
+
+%%front_compression_level_4%en%%
+4
+%%front_compression_level_4%ru%%
+4
+
+%%front_compression_level_5%en%%
+5
+%%front_compression_level_5%ru%%
+5
+
+%%front_compression_level_6%en%%
+6
+%%front_compression_level_6%ru%%
+6
+
+%%front_compression_level_7%en%%
+7
+%%front_compression_level_7%ru%%
+7
+
+%%front_compression_level_8%en%%
+8
+%%front_compression_level_8%ru%%
+8
+
+%%front_compression_level_9%en%%
+9
+%%front_compression_level_9%ru%%
+9
+
+%%compression_method_HANDLER%en%%
+Handler
+%%compression_method_HANDLER%ru%%
+Handler
+
+%%compression_method_MANUAL%en%%
+Manual
+%%compression_method_MANUAL%ru%%
+Manual
+
+%%debug_ip1_value_EXTDEB_1%en%%
+Templates parser: debug structures
+%%debug_ip1_value_EXTDEB_1%ru%%
+Парсер шаблонов: отладочные конструкции
+
+%%debug_ip1_value_EXTDEB_2%en%%
+Templates parser: full information
+%%debug_ip1_value_EXTDEB_2%ru%%
+Парсер шаблонов: полная информация
+
+%%debug_ip1_value_TO_BODY%en%%
+Buffering debug output
+%%debug_ip1_value_TO_BODY%ru%%
+Буферизация выдачи отладочной информации
+
+%%debug_ip1_value_DISABLE_CACHE_FRONTSIDE%en%%
+Disable cache
+%%debug_ip1_value_DISABLE_CACHE_FRONTSIDE%ru%%
+Отключение кэширования
+
+%%debug_ip1_value_DISABLE_JS_OPTIMIZATION%en%%
+Disable JS optimization
+%%debug_ip1_value_DISABLE_JS_OPTIMIZATION%ru%%
+Отключить оптимизацию JS скриптов
+
+%%debug_ip1_value_DISABLE_JS_CSS_CACHE%en%%
+Disable JS/CSS cache
+%%debug_ip1_value_DISABLE_JS_CSS_CACHE%ru%%
+Отключить кэширование JS/CSS
+
+%%debug_ip2_value_EXTDEB_1%en%%
+Templates parser: debug structures
+%%debug_ip2_value_EXTDEB_1%ru%%
+Парсер шаблонов: отладочные конструкции
+
+%%debug_ip2_value_EXTDEB_2%en%%
+Templates parser: full information
+%%debug_ip2_value_EXTDEB_2%ru%%
+Парсер шаблонов: полная информация
+
+%%debug_ip2_value_TO_BODY%en%%
+Buffering debug output
+%%debug_ip2_value_TO_BODY%ru%%
+Буферизация выдачи отладочной информации
+
+%%debug_ip2_value_DISABLE_CACHE_FRONTSIDE%en%%
+Disable cache
+%%debug_ip2_value_DISABLE_CACHE_FRONTSIDE%ru%%
+Отключение кэширования
+
+%%debug_ip2_value_DISABLE_JS_OPTIMIZATION%en%%
+Disable JS optimization
+%%debug_ip2_value_DISABLE_JS_OPTIMIZATION%ru%%
+Отключить оптимизацию JS скриптов
+
+%%debug_ip2_value_DISABLE_JS_CSS_CACHE%en%%
+Disable JS/CSS cache
+%%debug_ip2_value_DISABLE_JS_CSS_CACHE%ru%%
+Отключить кэширование JS/CSS
+
+%%debug_ip3_value_EXTDEB_1%en%%
+Templates parser: debug structures
+%%debug_ip3_value_EXTDEB_1%ru%%
+Парсер шаблонов: отладочные конструкции
+
+%%debug_ip3_value_EXTDEB_2%en%%
+Templates parser: full information
+%%debug_ip3_value_EXTDEB_2%ru%%
+Парсер шаблонов: полная информация
+
+%%debug_ip3_value_TO_BODY%en%%
+Buffering debug output
+%%debug_ip3_value_TO_BODY%ru%%
+Буферизация выдачи отладочной информации
+
+%%debug_ip3_value_DISABLE_CACHE_FRONTSIDE%en%%
+Disable cache
+%%debug_ip3_value_DISABLE_CACHE_FRONTSIDE%ru%%
+Отключение кэширования
+
+%%debug_ip3_value_DISABLE_JS_OPTIMIZATION%en%%
+Disable JS optimization
+%%debug_ip3_value_DISABLE_JS_OPTIMIZATION%ru%%
+Отключить оптимизацию JS скриптов
+
+%%debug_ip3_value_DISABLE_JS_CSS_CACHE%en%%
+Disable JS/CSS cache
+%%debug_ip3_value_DISABLE_JS_CSS_CACHE%ru%%
+Отключить кэширование JS/CSS
+
+%%debug_ip4_value_EXTDEB_1%en%%
+Templates parser: debug structures
+%%debug_ip4_value_EXTDEB_1%ru%%
+Парсер шаблонов: отладочные конструкции
+
+%%debug_ip4_value_EXTDEB_2%en%%
+Templates parser: full information
+%%debug_ip4_value_EXTDEB_2%ru%%
+Парсер шаблонов: полная информация
+
+%%debug_ip4_value_TO_BODY%en%%
+Buffering debug output
+%%debug_ip4_value_TO_BODY%ru%%
+Буферизация выдачи отладочной информации
+
+%%debug_ip4_value_DISABLE_CACHE_FRONTSIDE%en%%
+Disable cache
+%%debug_ip4_value_DISABLE_CACHE_FRONTSIDE%ru%%
+Отключение кэширования
+
+%%debug_ip4_value_DISABLE_JS_OPTIMIZATION%en%%
+Disable JS optimization
+%%debug_ip4_value_DISABLE_JS_OPTIMIZATION%ru%%
+Отключить оптимизацию JS скриптов
+
+%%debug_ip4_value_DISABLE_JS_CSS_CACHE%en%%
+Disable JS/CSS cache
+%%debug_ip4_value_DISABLE_JS_CSS_CACHE%ru%%
+Отключить кэширование JS/CSS
+
+%%debug_ip5_value_EXTDEB_1%en%%
+Templates parser: debug structures
+%%debug_ip5_value_EXTDEB_1%ru%%
+Парсер шаблонов: отладочные конструкции
+
+%%debug_ip5_value_EXTDEB_2%en%%
+Templates parser: full information
+%%debug_ip5_value_EXTDEB_2%ru%%
+Парсер шаблонов: полная информация
+
+%%debug_ip5_value_TO_BODY%en%%
+Buffering debug output
+%%debug_ip5_value_TO_BODY%ru%%
+Буферизация выдачи отладочной информации
+
+%%debug_ip5_value_DISABLE_CACHE_FRONTSIDE%en%%
+Disable cache
+%%debug_ip5_value_DISABLE_CACHE_FRONTSIDE%ru%%
+Отключение кэширования
+
+%%debug_ip5_value_DISABLE_JS_OPTIMIZATION%en%%
+Disable JS optimization
+%%debug_ip5_value_DISABLE_JS_OPTIMIZATION%ru%%
+Отключить оптимизацию JS скриптов
+
+%%debug_ip5_value_DISABLE_JS_CSS_CACHE%en%%
+Disable JS/CSS cache
+%%debug_ip5_value_DISABLE_JS_CSS_CACHE%ru%%
+Отключить кэширование JS/CSS
+
+%%display_nickname_as_NICKNAME%en%%
+Nickname
+%%display_nickname_as_NICKNAME%ru%%
+Псевдоним (Nickname)
+
+%%display_nickname_as_USERNAME%en%%
+Login
+%%display_nickname_as_USERNAME%ru%%
+Логин
+
+%%display_nickname_as_NAME_SURNAME%en%%
+Name and surname
+%%display_nickname_as_NAME_SURNAME%ru%%
+Имя и фамилия
+
+%%time_zone_-14%en%%
+-14
+%%time_zone_-14%ru%%
+-14
+
+%%time_zone_-13%en%%
+-13
+%%time_zone_-13%ru%%
+-13
+
+%%time_zone_-12%en%%
+-12
+%%time_zone_-12%ru%%
+-12
+
+%%time_zone_-11%en%%
+-11
+%%time_zone_-11%ru%%
+-11
+
+%%time_zone_-10%en%%
+-10
+%%time_zone_-10%ru%%
+-10
+
+%%time_zone_-9%en%%
+-9
+%%time_zone_-9%ru%%
+-9
+
+%%time_zone_-8%en%%
+-8
+%%time_zone_-8%ru%%
+-8
+
+%%time_zone_-7%en%%
+-7
+%%time_zone_-7%ru%%
+-7
+
+%%time_zone_-6%en%%
+-6
+%%time_zone_-6%ru%%
+-6
+
+%%time_zone_-5%en%%
+-5
+%%time_zone_-5%ru%%
+-5
+
+%%time_zone_-4%en%%
+-4
+%%time_zone_-4%ru%%
+-4
+
+%%time_zone_-3%en%%
+-3
+%%time_zone_-3%ru%%
+-3
+
+%%time_zone_-2%en%%
+-2
+%%time_zone_-2%ru%%
+-2
+
+%%time_zone_-1%en%%
+-1
+%%time_zone_-1%ru%%
+-1
+
+%%time_zone_0%en%%
+0
+%%time_zone_0%ru%%
+0
+
+%%time_zone_1%en%%
+1
+%%time_zone_1%ru%%
+1
+
+%%time_zone_2%en%%
+2
+%%time_zone_2%ru%%
+2
+
+%%time_zone_3%en%%
+3
+%%time_zone_3%ru%%
+3
+
+%%time_zone_4%en%%
+4
+%%time_zone_4%ru%%
+4
+
+%%time_zone_5%en%%
+5
+%%time_zone_5%ru%%
+5
+
+%%time_zone_6%en%%
+6
+%%time_zone_6%ru%%
+6
+
+%%time_zone_7%en%%
+7
+%%time_zone_7%ru%%
+7
+
+%%time_zone_8%en%%
+8
+%%time_zone_8%ru%%
+8
+
+%%time_zone_9%en%%
+9
+%%time_zone_9%ru%%
+9
+
+%%time_zone_10%en%%
+10
+%%time_zone_10%ru%%
+10
+
+%%time_zone_11%en%%
+11
+%%time_zone_11%ru%%
+11
+
+%%time_zone_12%en%%
+12
+%%time_zone_12%ru%%
+12
+
+%%search%en%%
+Interactive modules :: Search
+%%search%ru%%
+Модули управления :: Поиск
+
+%%slash_reaction_301%en%%
+301 Moved permanently
+%%slash_reaction_301%ru%%
+301 Перемещено
+
+%%slash_reaction_404%en%%
+404 Not found
+%%slash_reaction_404%ru%%
+404 Не найдено
+
+%%bb_post_allow_urls_reg_only_-2%en%%
+Forbid for all
+%%bb_post_allow_urls_reg_only_-2%ru%%
+Запретить всем
+
+%%bb_post_allow_urls_reg_only_-1%en%%
+Forbid for unregistered (guests)
+%%bb_post_allow_urls_reg_only_-1%ru%%
+Запретить незарегистрированным (гостям)
+
+%%bb_post_allow_urls_reg_only_0%en%%
+Allow all visitors
+%%bb_post_allow_urls_reg_only_0%ru%%
+Разрешить всем
+
+%%bb_post_allow_urls_reg_only_10%en%%
+Forbid for written messages less than
+%%bb_post_allow_urls_reg_only_10%ru%%
+Запретить написавшим сообщений менее чем
+
+%%less_css_mode_NONE%en%%
+Don't use
+%%less_css_mode_NONE%ru%%
+Не использовать
+
+%%less_css_mode_CLASSIC%en%%
+Use without compression
+%%less_css_mode_CLASSIC%ru%%
+Использовать без сжатия
+
+%%less_css_mode_COMPRESS%en%%
+Use with compression
+%%less_css_mode_COMPRESS%ru%%
+Использовать со сжатием

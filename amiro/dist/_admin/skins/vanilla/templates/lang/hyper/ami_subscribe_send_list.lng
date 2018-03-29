@@ -1,0 +1,25 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_header%en%%
+Message subject
+%%list_col_header%ru%%
+Тема сообщения
+
+%%list_col_attach%en%%
+%%list_col_attach%ru%%
+
+%%list_col_topic%en%%
+Topic
+%%list_col_topic%ru%%
+Тема
+
+%%list_col_status%en%%
+Status
+%%list_col_status%ru%%
+Статус
+
+%%list_col_send_to%en%%
+Sent to
+%%list_col_send_to%ru%%
+Отправлен

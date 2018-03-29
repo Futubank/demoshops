@@ -1,0 +1,42 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_field_id_user%en%%
+User
+%%form_field_id_user%ru%%
+Пользователь
+
+%%form_field_announce%en%%
+Description
+%%form_field_announce%ru%%
+Описание
+
+%%form_field_api_key%en%%
+API Key
+%%form_field_api_key%ru%%
+Ключ API
+
+%%form_field_modules%en%%
+Supported Modules
+%%form_field_modules%ru%%
+Поддерживаемые модули
+
+%%select_user%en%%
+Select User
+%%select_user%ru%%
+Выберите пользователя
+
+%%user_not_set%en%%
+User not set
+%%user_not_set%ru%%
+Пользователь не задан
+
+%%select_user_title%en%%
+Select User
+%%select_user_title%ru%%
+Открыть окно выбора пользователя
+
+%%form_field_active%en%%
+Active
+%%form_field_active%ru%%
+Включен

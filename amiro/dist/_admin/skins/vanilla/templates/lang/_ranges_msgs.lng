@@ -1,0 +1,29 @@
+%%warn_wait_until_page_is_loaded%en%%
+Please wait until page is loaded
+%%warn_wait_until_page_is_loaded%ru%%
+Пожалуйста, дождитесь загрузки страницы
+
+%%warn_missing_max_range_limit%en%%
+Missing maximum range limit
+%%warn_missing_max_range_limit%ru%%
+Пропущен верхний предел диапазона
+
+%%warn_invalid_max_range_limit%en%%
+Invalid maximum range limit (could be positive number)
+%%warn_invalid_max_range_limit%ru%%
+Неправильное значение верхнего предела диапазона (должно быть положительное число)
+
+%%warn_invalid_max_range_limit_int%en%%
+Invalid maximum range limit (could be integer positive number)
+%%warn_invalid_max_range_limit_int%ru%%
+Неправильное значение верхнего предела диапазона (должно быть целое положительное число)
+
+%%duplicate_max_range_limit%en%%
+Duplicate maximum range limit
+%%duplicate_max_range_limit%ru%%
+Такой верхний предел диапазона уже существует
+
+%%warn_range_overlap%en%%
+An averlap with another range arose. Press [OK] to correct ranges or [Cancel] to change current range limit.
+%%warn_range_overlap%ru%%
+Возникло пересечение с другим диапазоном. Нажмите [ОК] чтобы скорректировать диапазоны или [Отмена], чтобы изменить границу.

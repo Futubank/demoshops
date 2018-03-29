@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%list_action_grp_restore%en%%
+Restore localizations with default content
+%%list_action_grp_restore%ru%%
+Восстановить локализации содержимым по умолчанию
+
+%%list_confirm_grp_restore%en%%
+Restore selected localizations with default content? Operation is irreversible!
+%%list_confirm_grp_restore%ru%%
+Заменить выбранные локализации на содержание по умолчанию? Операция необратима!

@@ -1,0 +1,91 @@
+##--system info: module_owner="" module="" system="1"--##
+
+%%form_field_price%en%%
+Price
+%%form_field_price%ru%%
+Цена
+
+%%form_field_update_all%en%%
+Apply prices captions and formulas for all sub categories
+%%form_field_update_all%ru%%
+Применить заголовки цен и формулы для всех дочерних категорий
+
+%%form_field_update_force%en%%
+Update prices for all products
+%%form_field_update_force%ru%%
+Обновить цены для всех товаров
+
+%%form_tab_body_tab%en%%
+Description
+%%form_tab_body_tab%ru%%
+Описание
+
+%%form_tab_extra_prices_tab%en%%
+Prices
+%%form_tab_extra_prices_tab%ru%%
+Цены
+
+%%price_caption%en%%
+Price caption
+%%price_caption%ru%%
+Заголовок для цены
+
+%%price_value%en%%
+Price
+%%price_value%ru%%
+Цена
+
+%%form_field_price%en%%
+Base price [price]
+%%form_field_price%ru%%
+Базовая цена [price]
+
+%%form_field_id_discount%en%%
+Discount
+%%form_field_id_discount%ru%%
+Скидка
+
+%%form_field_discount_apply_to_subcategories%en%%
+Apply to subcategories
+%%form_field_discount_apply_to_subcategories%ru%%
+Назначить подкатегориям
+
+%%wrong_expression%en%%
+wrong expression
+%%wrong_expression%ru%%
+неверное выражение
+
+%%update_all%en%%
+Apply prices captions and formulas for all sub categories
+%%update_all%ru%%
+Применить заголовки цен и формулы для всех дочерних категорий
+
+%%currency%en%%
+Currency
+%%currency%ru%%
+валюта
+
+%%currency_db%en%%
+Storage
+%%currency_db%ru%%
+ввода и хранения
+
+%%currency_site%en%%
+Displayed
+%%currency_site%ru%%
+отображения
+
+%%db_currency_no%en%%
+-- not specified --
+%%db_currency_no%ru%%
+-- не задано --
+
+%%form_field_id_external%en%%
+Id used for data exchange
+%%form_field_id_external%ru%%
+Идентификатор, используемый для обмена данными
+
+%%form_field_id_parent%en%%
+Parent Category
+%%form_field_id_parent%ru%%
+Родительская категория

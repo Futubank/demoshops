@@ -1,0 +1,89 @@
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%code%en%%
+Code
+%%code%ru%%
+Код
+
+%%code_tooltip%en%%
+<a href="http://en.wikipedia.org/wiki/ISO_4217" target="_blank">Wikipedia currency codes description &raquo;&raquo;</a>
+%%code_tooltip%ru%%
+<a href="http://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D0%B2%D0%B0%D0%BB%D1%8E%D1%82" target="_blank">Описание кодов валют в Wikipedia &raquo;&raquo;</a>
+
+%%exchange%en%%
+Rate
+%%exchange%ru%%
+Курс
+
+%%small_base%en%%
+Exchange base currency
+%%small_base%ru%%
+Базовая валюта блока валют
+
+%%prefix%en%%
+Prefix
+%%prefix%ru%%
+Префикс
+
+%%postfix%en%%
+Postfix
+%%postfix%ru%%
+Постфикс
+
+%%eshop_currency_add%en%%
+Add currency
+%%eshop_currency_add%ru%%
+Добавить валюту
+
+%%eshop_currency_apply%en%%
+Edit currency
+%%eshop_currency_apply%ru%%
+Редактирование валюты
+
+%%currency_block_base_currency%en%%
+base currency rate
+%%currency_block_base_currency%ru%%
+Базовая валюта блока валют
+
+%%get_currency_btn%en%%
+Get current currencies
+%%get_currency_btn%ru%%
+Получить текущие курсы
+
+%%currencies%en%%
+Currencies
+%%currencies%ru%%
+Валюты
+
+%%currency_sources%en%%
+Currency source
+%%currency_sources%ru%%
+Источник обновлений
+
+%%last_update%en%%
+Last update
+%%last_update%ru%%
+Последнее обновление
+
+%%update_confirm%en%%
+Are you sure to update currencies?
+%%update_confirm%ru%%
+Вы действительно хотите обновить курсы валют вручную?
+
+%%code_digit%en%%
+Digit code
+%%code_digit%ru%%
+Цифровой код
+
+%%exchange_warn%en%%
+Please, enter the Rate correctly!
+%%exchange_warn%ru%%
+Пожалуйста, правильно введите величину курса!
+
+%%code_warn%en%%
+Currency code must be set as three latin symbols, specify code or select currency in the list to setup code and digital code!
+%%code_warn%ru%%
+Код валюты должен состоятиь из трёх заглавных латинских символов, задайте код или выберите валюту из списка, чтобы установить код и цифровой код!

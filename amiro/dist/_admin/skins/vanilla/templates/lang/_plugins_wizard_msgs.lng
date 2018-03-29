@@ -1,0 +1,156 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_no_plugins_found%en%%
+No plugins found
+%%status_no_plugins_found%ru%%
+Плагинов не найдено
+
+%%status_added%en%%
+Added new plugins: _cnt_ (_list_)
+%%status_added%ru%%
+Добавлено новых плагинов: _cnt_ (_list_)
+
+%%status_updated%en%%
+Updated plugins: _cnt_ (_list_)
+%%status_updated%ru%%
+Обновлено плагинов: _cnt_ (_list_)
+
+%%status_skipped%en%%
+Skipped plugins: _cnt_ (_list_)
+%%status_skipped%ru%%
+Пропущено плагинов: _cnt_ (_list_)
+
+%%status_deleted%en%%
+Deleted plugins: _cnt_
+%%status_deleted%ru%%
+Удалено плагинов: _cnt_
+
+%%status_error%en%%
+Skipped plugins because of errors in configuration: _cnt_ (_list_)
+%%status_error%ru%%
+Пропущено неверных плагинов из-за ошибок конфигурации: _cnt_ (_list_)
+
+%%status_plugin_error%en%%
+Errors of plugin '_id_': _errors_
+%%status_plugin_error%ru%%
+Ошибки плагина '_id_': _errors_
+
+%%status_missing_param_id%en%%
+Missing required plugin configuration parameter 'id'
+%%status_missing_param_id%ru%%
+Отсутствует требуемый конфигурационный параметр 'id'
+
+%%status_missing_param_version%en%%
+Missing required plugin configuration parameter 'version'
+%%status_missing_param_version%ru%%
+Отсутствует требуемый конфигурационный параметр 'version'
+
+%%status_missing_param_config%en%%
+Missing required plugin configuration parameter 'config'
+%%status_missing_param_config%ru%%
+Отсутствует требуемый конфигурационный параметр 'config'
+
+%%status_missing_work_modes%en%%
+Unable to detect work modes
+%%status_missing_work_modes%ru%%
+Невозможно определить режимы работы
+
+%%status_missing_files%en%%
+Some files specified in config are missing
+%%status_missing_files%ru%%
+Отсутствуют некоторые файлы, описанные в конфигурации
+
+%%owner_is_not_installed%en%%
+Owner '_owner_' is not istalled
+%%owner_is_not_installed%ru%%
+Раздел '_owner_' не установлен
+
+%%module_exists%en%%
+Module '_module_' already exists
+%%module_exists%ru%%
+Модуль '_module_' уже существует
+
+%%status_installed%en%%
+Plugin was installed
+%%status_installed%ru%%
+Плагин установлен
+
+%%status_is_not_installed%en%%
+Plugin is not installed
+%%status_is_not_installed%ru%%
+Плагин не установлен
+
+%%status_not_installed%en%%
+Plugin was not installed
+%%status_not_installed%ru%%
+Плагин не был установлен
+
+%%status_file_exists%en%%
+File _file_ already exists
+%%status_file_exists%ru%%
+Файл _file_ уже существует
+
+%%status_cannot_create_install_path%en%%
+Cannot create install path _path_
+%%status_cannot_create_install_path%ru%%
+Невозможно создать путь для инсталляции _path_
+
+%%status_invalid_id%en%%
+Invalid plguin ID
+%%status_invalid_id%ru%%
+Неверный идентификатор плагина
+
+%%status_style_exists%en%%
+Cannot add style for plugin _pluginId_ to plugins.css. Styles block already exists.
+%%status_style_exists%ru%%
+Не могу добавить стиль для плагина _pluginId_ в plugins.css. Блок стилей уже существует.
+
+%%status_cannot_add_style%en%%
+Cannot add style blocks to file /_mod_files/_css/plugins.css, permission dinied.
+%%status_cannot_add_style%ru%%
+Невозможно добавить блок стилей в файл /_mod_files/_css/plugins.css, нет прав.
+
+%%status_cannot_copy%en%%
+Cannot copy file from _from_ to _to_
+%%status_cannot_copy%ru%%
+Не могу скопировать файл из _from_ в _to_
+
+%%status_no_free_plugins%en%%
+No free plugin modules found. Plugin modules limit is _limit_
+%%status_no_free_plugins%ru%%
+Не найдено свободных модулей плагинов. Лимит модулей плагинов: _limit_
+
+%%status_already_installed%en%%
+Plugin is already installed
+%%status_already_installed%ru%%
+Плагин уже установлен
+
+%%status_uninstalled%en%%
+Plugin was uninstalled
+%%status_uninstalled%ru%%
+Плагин удален
+
+%%status_already_not_installed%en%%
+Plugin is not installed
+%%status_already_not_installed%ru%%
+Плагин не установлен
+
+%%status_delete_files_error%en%%
+Some plugin's files were not deleted
+%%status_delete_files_error%ru%%
+Некоторые файлы плагина не были удалены
+
+%%status_no_changes%en%%
+No changes in plugins distributive detected
+%%status_no_changes%ru%%
+Не найдено изменений в дистрибутивах плагина
+
+%%status_sql_fail%en%%
+File _file_ is not found
+%%status_sql_fail%ru%%
+Файл _file_ не найден
+
+%%status_mod_having_id_already_installed%en%%
+Module having id is already installed
+%%status_mod_having_id_already_installed%ru%%
+Модуль с таким идентификатором уже установлен

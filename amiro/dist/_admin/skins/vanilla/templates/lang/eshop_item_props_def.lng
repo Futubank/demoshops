@@ -1,0 +1,84 @@
+%%prop_rest%en%%
+Rest
+%%prop_rest%ru%%
+Остаток
+
+%%button_add%en%%
+Add
+%%button_add%ru%%
+Добавить
+
+%%button_apply%en%%
+Save options
+%%button_apply%ru%%
+Сохранить подвиды
+
+%%props_already_exists%en%%
+Such options set already exists!
+%%props_already_exists%ru%%
+Такой набор подвидов уже существует!
+
+%%opers_already_exists%en%%
+Such influence fields set already exists!
+%%opers_already_exists%ru%%
+Такой набор управляющих записей уже существует!
+
+%%oper_price%en%%
+Price
+%%oper_price%ru%%
+Цену
+
+%%oper_weight%en%%
+Weight
+%%oper_weight%ru%%
+Вес
+
+%%oper_size%en%%
+Size
+%%oper_size%ru%%
+Размер
+
+%%oper_stop%en%%
+Stop
+%%oper_stop%ru%%
+Остановить выполнение правил
+
+%%button_apply_oper%en%%
+Save injection records
+%%button_apply_oper%ru%%
+Сохранить управляющие записи
+
+%%show_item_table%en%%
+Show
+%%show_item_table%ru%%
+Показать
+
+%%hide_item_table%en%%
+Hide
+%%hide_item_table%ru%%
+Скрыть
+
+%%prop_any%en%%
+Any
+%%prop_any%ru%%
+Неважно
+
+%%opers_changed%en%%
+Operation fields changes will be lost. Continue?
+%%opers_changed%ru%%
+Изменение в списке управляющих записей будет утеряно. Продолжить?
+
+%%opers_total%en%%
+Total rows
+%%opers_total%ru%%
+Всего
+
+%%props_total%en%%
+Total rows
+%%props_total%ru%%
+Всего
+
+%%props_operate_at%en%%
+Operation settings on:
+%%props_operate_at%ru%%
+Параметры влияния на:

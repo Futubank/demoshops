@@ -1,0 +1,66 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_apply%en%%
+Locale was updated.
+%%status_apply%ru%%
+Локализация изменена.
+
+%%warn_source_default_page_not_found%en%%
+Source default page (_page_) not found!
+%%warn_source_default_page_not_found%ru%%
+Исходная страница по умолчанию (_page_) не найдена!
+
+%%warn_source_layout_not_found%en%%
+Source layout (_layout_) not found!
+%%warn_source_layout_not_found%ru%%
+Исходный макет (_layout_) не найден!
+
+%%warn_installation_failed%en%%
+Locale installation failed!
+%%warn_installation_failed%ru%%
+Локализация не инсталлирована!
+
+%%layout_and_default_page_created%en%%
+Layout and default page are created for new locale.
+%%layout_and_default_page_created%ru%%
+Макет и страница по умолчанию созданы для новой локализации.
+
+%%warn_duplicate_lang%en%%
+Code is already exists!
+%%warn_duplicate_lang%ru%%
+Такой код уже существует!
+
+%%warn_invalid_lang%en%%
+Invalid code (must contains latin letters only)!
+%%warn_invalid_lang%ru%%
+Неверный код (должен содержать только латинские символы)!
+
+%%warn_invalid_name%en%%
+Invalid name (must contains latin letters, digits, dots or spaces only)!
+%%warn_invalid_name%ru%%
+Пропущено название (должно содержать только латинские символы, цифры, точки и пробелы)!
+
+%%warn_missing_default_title%en%%
+Missing default title!
+%%warn_missing_default_title%ru%%
+Пропущен заголовок по умолчанию!
+
+%%warn_missing_dateformat%en%%
+Missing date format!
+%%warn_missing_dateformat%ru%%
+Пропущен формат даты!
+
+##--%%warn_missing_encoding%en%%
+Missing encoding!
+%%warn_missing_encoding%ru%%
+Пропущена кодировка!
+--##
+%%locale_data_is_deleted%en%%
+Locale data is deleted.
+%%locale_data_is_deleted%ru%%
+Данные локализации удалены.
+
+%%warn_cannot_save_file%en%%
+Cannot write locale file &quot;_file_&quot;!
+%%warn_cannot_save_file%ru%%
+Не удалось сохранить файл локализации &quot;_file_&quot;!

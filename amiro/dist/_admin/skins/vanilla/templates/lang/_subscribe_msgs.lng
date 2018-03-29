@@ -1,0 +1,57 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%question_warn%en%%
+Please, enter the question
+%%question_warn%ru%%
+Пожалуйста, введите вопрос
+
+%%answers_warn%en%%
+Please, enter at least one answer
+%%answers_warn%ru%%
+Пожалуйста, введите хотя бы один ответ
+
+%%status_add%en%%
+Subscriber item was added.
+%%status_add%ru%%
+Подписчик добавлен.
+
+%%status_apply%en%%
+Subscriber item was updated.
+%%status_apply%ru%%
+Адрес изменен.
+
+%%status_del%en%%
+Subscriber item was deleted.
+%%status_del%ru%%
+Подписчик удален.
+
+%%status_error%en%%
+Subscriber with this _login_field_ is already exists. Please press "back" and type another data.
+%%status_error%ru%%
+Подписчик с таким _login_field_ уже существует. Пожалуйста, нажмите "назад" и введите другие данные.
+
+%%login_field_username%en%%
+username
+%%login_field_username%ru%%
+логином
+
+%%login_field_email%en%%
+e-mail
+%%login_field_email%ru%%
+e-mail
+
+%%login_field_phone%en%%
+phone
+%%login_field_phone%ru%%
+телефоном
+
+%%status_activate_fail%en%%
+Unable to make this subscriber active because the member is inactive
+%%status_activate_fail%ru%%
+Невозможно сделать подписчика активным, потому что пользователь неактивен
+
+%%status_reset%en%%
+Password has been reset, the new password has been emailed to subscriber.
+%%status_reset%ru%%
+Пароль сброшен. Новый пароль выслан подписчику на электронный адрес.
+

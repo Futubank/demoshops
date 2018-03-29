@@ -1,0 +1,13 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_categories.lng"%%
+%%include_language "templates/lang/ext_images.lng"%%
+
+%%photoalbum_cat_add%en%%
+Add album
+%%photoalbum_cat_add%ru%%
+Добавить альбом
+
+%%photoalbum_cat_apply%en%%
+Edit album
+%%photoalbum_cat_apply%ru%%
+Редактировать альбом

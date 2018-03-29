@@ -1,0 +1,22 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_common.lng"%%
+
+%%caption_flt_author%en%%
+Author
+%%caption_flt_author%ru%%
+Автор
+
+%%caption_flt_ip%en%%
+IP
+%%caption_flt_ip%ru%%
+IP
+
+%%list_col_count_children%en%%
+Answers<br />total/public
+%%list_col_count_children%ru%%
+Ответов:<br />всего / публ.
+
+%%list_action_reply%en%%
+Reply
+%%list_action_reply%ru%%
+Ответить

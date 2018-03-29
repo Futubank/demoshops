@@ -1,0 +1,128 @@
+%%spl_pictures_params%en%%
+Pictures
+%%spl_pictures_params%ru%%
+Изображения
+
+%%item_pictures%en%%
+Available pictures for module
+%%item_pictures%ru%%
+Доступные изображения для модуля
+
+%%col_picture_type%en%%
+Type of the image for display in the list (admin)
+%%col_picture_type%ru%%
+Тип изображения для отображения в списке (админ)
+
+%%generate_pictures%en%%
+Resize selected pictures automatically
+%%generate_pictures%ru%%
+Выбранные изображения будут уменьшены автоматически
+
+%%prior_source_picture%en%%
+Prior source picture
+%%prior_source_picture%ru%%
+Приоритетное исходное изображение
+
+%%picture_maxwidth%en%%
+Resized picture in details maximum width
+%%picture_maxwidth%ru%%
+Максимальная ширина изображения в деталях
+
+%%picture_maxheight%en%%
+Resized picture in details maximum height
+%%picture_maxheight%ru%%
+Максимальная высота уменьшенного изображения
+
+%%popup_picture_maxwidth%en%%
+Popup picture maximum width
+%%popup_picture_maxwidth%ru%%
+Максимальная ширина всплывающего изображения
+
+%%popup_picture_maxheight%en%%
+Popup picture maximum height
+%%popup_picture_maxheight%ru%%
+Максимальная высота всплывающего изображения
+
+%%small_picture_maxwidth%en%%
+Picture in list maximum width
+%%small_picture_maxwidth%ru%%
+Максимальная ширина изображения в списке
+
+%%small_picture_maxheight%en%%
+Picture in list maximum height
+%%small_picture_maxheight%ru%%
+Максимальная высота изображения в списке
+
+%%generate_bigger_image%en%%
+Generate bigger image from original if required
+%%generate_bigger_image%ru%%
+Увеличивать ли изображение, если оно меньше чем задано
+
+%%static_watermark%en%%
+Static watermark file for all pictures
+%%static_watermark%ru%%
+Файл статического водяного знака для всех картинок
+
+##-- 6.0 { --##
+
+%%spl_ext_images%en%%
+Extension &quot;Images&quot;
+%%spl_ext_images%ru%%
+Расширение &quot;Изображения&quot;
+
+%%ext_img_fields%en%%
+Available pictures for module
+%%ext_img_fields%ru%%
+Доступные изображения для модуля
+
+%%ext_img_list_col%en%%
+Type of the image for display in the list (admin)
+%%ext_img_list_col%ru%%
+Тип изображения для отображения в списке (админ)
+
+%%ext_img_creatable%en%%
+Resize selected pictures automatically
+%%ext_img_creatable%ru%%
+Выбранные изображения будут уменьшены автоматически
+
+%%ext_img_source%en%%
+Prior source picture
+%%ext_img_source%ru%%
+Приоритетное исходное изображение
+
+%%ext_img_maxwidth%en%%
+Resized picture in details maximum width
+%%ext_img_maxwidth%ru%%
+Максимальная ширина изображения в деталях
+
+%%ext_img_maxheight%en%%
+Resized picture in details maximum height
+%%ext_img_maxheight%ru%%
+Максимальная высота уменьшенного изображения
+
+%%ext_img_popup_maxwidth%en%%
+Popup picture maximum width
+%%ext_img_popup_maxwidth%ru%%
+Максимальная ширина всплывающего изображения
+
+%%ext_img_popup_maxheight%en%%
+Popup picture maximum height
+%%ext_img_popup_maxheight%ru%%
+Максимальная высота всплывающего изображения
+
+%%ext_img_small_maxwidth%en%%
+Picture in list maximum width
+%%ext_img_small_maxwidth%ru%%
+Максимальная ширина изображения в списке
+
+%%ext_img_small_maxheight%en%%
+Picture in list maximum height
+%%ext_img_small_maxheight%ru%%
+Максимальная высота изображения в списке
+
+%%ext_img_create_bigger%en%%
+Generate bigger image from original if required
+%%ext_img_create_bigger%ru%%
+Увеличивать ли изображение, если оно меньше чем задано
+
+##-- } 6.0 --##

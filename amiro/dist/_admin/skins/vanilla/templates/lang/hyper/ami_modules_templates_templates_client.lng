@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+%%list_action_grp_restore%en%%
+Restore templates with default content
+%%list_action_grp_restore%ru%%
+Восстановить шаблоны содержимым по умолчанию
+
+%%list_confirm_grp_restore%en%%
+Restore selected templates with default content? Operation is irreversible!
+%%list_confirm_grp_restore%ru%%
+Заменить выбранные шаблоны на содержание по умолчанию? Операция необратима!

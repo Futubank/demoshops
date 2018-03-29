@@ -1,0 +1,14 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_categories.lng"%%
+
+%%articles_cat_add%en%%
+Add articles category
+%%articles_cat_add%ru%%
+Добавить категорию статей
+
+%%articles_cat_apply%en%%
+Edit articles category
+%%articles_cat_apply%ru%%
+Редактировать категорию статей

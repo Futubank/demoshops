@@ -1,0 +1,158 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_hst_tariff_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%hst_tariff_add%en%%
+Add tariff
+%%hst_tariff_add%ru%%
+Добавить тариф
+
+%%hst_tariff_apply%en%%
+Edit tariff
+%%hst_tariff_apply%ru%%
+Редактировать тариф
+
+%%archive%en%%
+Archived
+%%archive%ru%%
+Архивный
+
+%%tariff_number%en%%
+Tariff number
+%%tariff_number%ru%%
+Номер тарифа
+
+%%setup_fee%en%%
+Setup fee
+%%setup_fee%ru%%
+Стоимость установки
+
+%%comments%en%%
+Commentary to user
+%%comments%ru%%
+Комментарий пользователю
+
+%%hidden_comments%en%%
+Hidden commentary
+%%hidden_comments%ru%%
+Скрытый комментарий
+
+%%tariff_link%en%%
+Link to tariff (included http://)
+%%tariff_link%ru%%
+Ссылка на тариф (включая http://)
+
+%%primary_pkg%en%%
+Primary package
+%%primary_pkg%ru%%
+Главный пакет
+
+%%period%en%%
+Period
+%%period%ru%%
+Период
+
+%%period_mon%en%%
+Period, mon.
+%%period_mon%ru%%
+Период, мес.
+
+%%period_fee%en%%
+Period fee
+%%period_fee%ru%%
+Стоимость за период
+
+%%button_add_period%en%%
+Add period
+%%button_add_period%ru%%
+Добавить период
+
+%%select_package%en%%
+Select package
+%%select_package%ru%%
+Выберите пакет
+
+%%accessible_packages_in_tariff%en%%
+Accessible packages in this tariff
+%%accessible_packages_in_tariff%ru%%
+Пакеты, доступные в данном тарифе
+
+%%included%en%%
+Included
+%%included%ru%%
+Включен
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена
+
+%%button_add_package%en%%
+Add package
+%%button_add_package%ru%%
+Добавить пакет
+
+%%tariff_pkgs%en%%
+Included packages
+%%tariff_pkgs%ru%%
+Включено пакетов
+
+%%subs_count%en%%
+Subscriptions count
+%%subs_count%ru%%
+Число договоров
+
+%%hint_primary_pkg%en%%
+<b>Primary package</b> - it's package, whereon based the subscription, which included main resources.
+%%hint_primary_pkg%ru%%
+<b>Главный пакет</b> - это пакет, на котором базируется подписка, включающий основной набор ресурсов.
+
+%%hint_added_pkgs%en%%
+<b>public</b> package will be available to client for buy<br>
+<br>If turned on, package is available to purchasing by client as additional.
+<br>If turned off, package is not available to purchasing by client as additional.
+<p><b>included</b> package is inlcuded in tariff and it's price is included in tariff price.
+%%hint_added_pkgs%ru%%
+<b>публиковать:</b> пакет будет доступен клиенту для покупки.
+<br>Включите чтобы клиент мог покупать данный пакет как дополнительный.
+<br>Выключите если необходимо запретить клиенту покупать данный пакет как дополнительный.
+<p><b>включен:</b> пакет входит в тариф и его стоимость включена в стоимость данного тарифа.
+
+%%hint_subs_exist_cant_change_tariff%en%%
+There are subscriptions on the tariff. To edit this tariff make a copy the tariff and arvihe this one.
+%%hint_subs_exist_cant_change_tariff%ru%%
+На данном тарифе существуют договоры. Для того, чтобы изменить тариф, необходимо создать копию тарифа, а данный тариф сделать архивным.
+
+%%resources%en%%
+Resources
+%%resources%ru%%
+Ресурсы
+
+%%using%en%%
+Using
+%%using%ru%%
+Использование
+
+%%bound%en%%
+Bound
+%%bound%ru%%
+Максимум
+
+%%no_resources%en%%
+No resources found.
+%%no_resources%ru%%
+Ресурсы не найдены.
+
+%%overbound_price%en%%
+Over bound price
+%%overbound_price%ru%%
+Цена за превышение
+
+%%overbound_step%en%%
+Over bound step
+%%overbound_step%ru%%
+Шаг превышения
+

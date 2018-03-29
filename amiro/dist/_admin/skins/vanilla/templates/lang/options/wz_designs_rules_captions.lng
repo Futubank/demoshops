@@ -1,0 +1,89 @@
+%%require_login%en%%
+Allow to create sites only to registered users
+%%require_login%ru%%
+Позволять создавать сайты только зарегистрированным пользователям
+
+%%exp_period%en%%
+Default site lifetime (0: forvever)
+%%exp_period%ru%%
+Время жизни сайта по умолчанию (0: не ограничено)
+
+%%free%en%%
+Free
+%%free%ru%%
+Бесплатный
+
+%%wizard_email%en%%
+Email address for notifications about site creation
+%%wizard_email%ru%%
+Email для уведомлений о создании сайтов
+
+%%forbidden_names%en%%
+Forbidden subdomain names (separated by '|', '*' wildcard allowed)
+%%forbidden_names%ru%%
+Запрещенные имена поддоменов (разделяются символом '|', можно использовать '*')
+
+%%proxy_reseller_id%en%%
+Reseller ID in remote builder
+%%proxy_reseller_id%ru%%
+ID партнера в удаленном конструкторе
+
+%%proxy_mode_enabled%en%%
+Enable passing requests to remote builders
+%%proxy_mode_enabled%ru%%
+Отправлять запросы на создание сайтов на удаленный конструктор
+
+%%spl_builder%en%%
+Builder
+%%spl_builder%ru%%
+Конструктор
+
+%%small_sort%en%%
+Order items by column
+%%small_sort%ru%%
+Сортировать данные по полю
+
+%%small_rows%en%%
+Number of rows
+%%small_rows%ru%%
+Количество рядов
+
+%%small_cols%en%%
+Number of columns
+%%small_cols%ru%%
+Количество столбцов
+
+%%rows%en%%
+Number of rows
+%%rows%ru%%
+Количество рядов
+
+%%cols%en%%
+Number of columns
+%%cols%ru%%
+Количество столбцов
+
+%%lay_cols%en%%
+Number of columns of design preview
+%%lay_cols%ru%%
+Количество столбцов в предварительном просмотре дизайна
+
+%%type_cols%en%%
+Number of columns of packets types
+%%type_cols%ru%%
+Количество столбцов при отображении типов пакетов
+
+%%sitemap_cols%en%%
+Number of columns of sitemaps
+%%sitemap_cols%ru%%
+Количество столбцов при отображении пакетов
+
+%%html_protecting%en%%
+HTML protect options
+%%html_protecting%ru%%
+Защита HTML
+
+
+
+
+

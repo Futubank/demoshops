@@ -1,0 +1,24 @@
+%%title%en%%
+IRR Export
+%%title%ru%%
+IRR (Из рук в руки) экспорт
+
+%%export_decription%en%%
+IRR Export
+%%export_decription%ru%%
+Экспорт данных в формате IRR (Из рук в руки)
+
+%%status_rur_currency_is_missing%en%%
+RUR currency is missing
+%%status_rur_currency_is_missing%ru%%
+Валюта RUR (рубли) не найдена
+
+%%status_wrong_export_irr%en%%
+IRR export error
+%%status_wrong_export_irr%ru%%
+Ошибка экспорта IRR (Из рук в руки)
+
+%%status_callback_error%en%%
+Unknown error.
+%%status_callback_error%ru%%
+Неизвестная ошибка.

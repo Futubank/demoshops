@@ -1,0 +1,44 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+%%include_language "templates/lang/hyper/ami_forum_forum_common.lng"%%
+
+%%filter_field_flt_author%en%%
+Author
+%%filter_field_flt_author%ru%%
+Автор
+
+%%filter_field_category%en%%
+Section
+%%filter_field_category%ru%%
+Раздел
+
+%%filter_field_id_message%en%%
+ID
+%%filter_field_id_message%ru%%
+ID
+
+%%filter_field_search%en%%
+Seartch
+%%filter_field_search%ru%%
+Поиск
+
+%%filter_field_locked%en%%
+locked
+%%filter_field_locked%ru%%
+Закрытые
+
+%%filter_field_ip%en%%
+IP
+%%filter_field_ip%ru%%
+IP
+
+%%filter_field_unanswered%en%%
+Unanswered
+%%filter_field_unanswered%ru%%
+Неотвеченные
+
+
+%%path_all%en%%
+All
+%%path_all%ru%%
+Все

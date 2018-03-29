@@ -1,0 +1,175 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_adv_campaign_types_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%adv_campaign_types_add%en%%
+Add campaign type
+%%adv_campaign_types_add%ru%%
+Добавить тип кампании
+
+%%adv_campaign_types_apply%en%%
+Edit campaign type
+%%adv_campaign_types_apply%ru%%
+Редактировать тип кампании
+
+%%opt_def_max_views%en%%
+Max views number
+%%opt_def_max_views%ru%%
+Макс. кол-во показов
+
+%%opt_def_max_clicks%en%%
+Max clicks number
+%%opt_def_max_clicks%ru%%
+Макс. кол-во переходов
+
+%%opt_def_lifetime%en%%
+Campaign duration
+%%opt_def_lifetime%ru%%
+Продолжительность
+
+%%opt_def_lifetime_minute%en%%
+Minutes
+%%opt_def_lifetime_minute%ru%%
+Минут
+
+%%opt_def_lifetime_hour%en%%
+Hours
+%%opt_def_lifetime_hour%ru%%
+Часов
+
+%%opt_def_lifetime_day%en%%
+Days
+%%opt_def_lifetime_day%ru%%
+Дней
+
+%%opt_def_lifetime_week%en%%
+Weeks
+%%opt_def_lifetime_week%ru%%
+Недель
+
+%%opt_def_lifetime_month%en%%
+Months
+%%opt_def_lifetime_month%ru%%
+Месяцев
+
+%%opt_def_lifetime_month%en%%
+Months
+%%opt_def_lifetime_month%ru%%
+Месяцев
+
+%%opt_def_lifetime_year%en%%
+Years
+%%opt_def_lifetime_year%ru%%
+Лет
+
+%%opt_unlimited%en%%
+Unlimited
+%%opt_unlimited%ru%%
+Неограничено
+
+%%ids_places%en%%
+Advertisement places
+%%ids_places%ru%%
+Рекламные места
+
+%%id_place%en%%
+Advertisement place
+%%id_place%ru%%
+Рекламное место
+
+%%zero_unlim%en%%
+0 = unlimited
+%%zero_unlim%ru%%
+0 = неограничено
+
+%%opt_def_priority%en%%
+Priority
+%%opt_def_priority%ru%%
+Приоритет
+
+%%opt_def_priority_low%en%%
+Low
+%%opt_def_priority_low%ru%%
+Низкий
+
+%%opt_def_priority_normal%en%%
+Normal
+%%opt_def_priority_normal%ru%%
+Нормальный
+
+%%opt_def_priority_high%en%%
+High
+%%opt_def_priority_high%ru%%
+Высокий
+
+%%opt_def_max_views_day%en%%
+Max views per day
+%%opt_def_max_views_day%ru%%
+Макс. кол-во показов в день
+
+%%cost%en%%
+Campaign onetime cost
+%%cost%ru%%
+Единовременная стоимость кампании
+
+%%cost_view%en%%
+One view cost
+%%cost_view%ru%%
+Стоимость одного показа
+
+%%cost_click%en%%
+One click cost
+%%cost_click%ru%%
+Стоимость одного клика
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%num_places%en%%
+Places
+%%num_places%ru%%
+Мест
+
+%%allow_reserve%en%%
+Allow to be reserved
+%%allow_reserve%ru%%
+Разрешить резервирование
+
+%%code%en%%
+Code
+%%code%ru%%
+Код
+
+%%type_groups%en%%
+Group
+%%type_groups%ru%%
+Группа
+
+%%type_group_none%en%%
+No group
+%%type_group_none%ru%%
+Нет группы
+
+%%material_type%en%%
+Advertisement materials type
+%%material_type%ru%%
+Тип рекламных материалов
+
+%%material_type_banner%en%%
+Banners
+%%material_type_banner%ru%%
+Баннеры
+
+%%material_type_module%en%%
+Modules
+%%material_type_module%ru%%
+Модули
+
+%%max_items%en%%
+Maximum number of items
+%%max_items%ru%%
+Макс. кол-во элементов

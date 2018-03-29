@@ -1,0 +1,194 @@
+%%front_page_sort_col%en%%
+Order topics by column
+%%front_page_sort_col%ru%%
+Сортировать темы по полю
+
+%%page_size%en%%
+Number of topics per page
+%%page_size%ru%%
+Количество тем на странице
+
+%%messages_per_page%en%%
+Number of messages per page
+%%messages_per_page%ru%%
+Количество сообщений на странице
+
+%%messages_pages%en%%
+Number of messages pages
+%%messages_pages%ru%%
+Количество страниц сообщений
+
+%%topic_tool_tip_length%en%%
+Topic tool tip length
+%%topic_tool_tip_length%ru%%
+Количество символов во всплывающей подсказке темы
+
+%%spl_notification%en%%
+Notifications
+%%spl_notification%ru%%
+Уведомления
+
+%%notify_admin_about_new_topic%en%%
+Send new topic notification to administrator
+%%notify_admin_about_new_topic%ru%%
+Отправлять уведомление о новой теме администратору
+
+%%forum_admin_email%en%%
+Message Board adminisatrator email
+%%forum_admin_email%ru%%
+Email администратора форума
+
+%%messages_dim%en%%
+Topic messages sort order
+%%messages_dim%ru%%
+Направление сортировки сообщений в теме
+
+%%multicat%en%%
+Show the list of sections in the list of topics
+%%multicat%ru%%
+Отображать список разделов в списке топиков
+
+%%multicat_in_body_details%en%%
+To show the list of subjects in details of question
+%%multicat_in_body_details%ru%%
+Отображать список тем в деталях вопроса
+
+%%show_last_items%en%%
+Support for special link parameter "show_last=N"
+%%show_last_items%ru%%
+Поддержка спец. параметра ссылки "show_last=N"
+
+%%show_subitems%en%%
+Show subitems per category
+%%show_subitems%ru%%
+Отображение вопросов в теме
+
+%%spl_categories%en%%
+Sections
+%%spl_categories%ru%%
+Разделы
+
+%%add_topics_by_registered_only%en%%
+Allow only registered users to add topics
+%%add_topics_by_registered_only%ru%%
+Добавление тем только зарегистрированными пользователями
+
+%%add_messages_by_registered_only%en%%
+Allow only registered users to add messages
+%%add_messages_by_registered_only%ru%%
+Добавление сообщений только зарегистрированными пользователями
+
+%%body_cats_cols%en%%
+Columns in the subject browse mode
+%%body_cats_cols%ru%%
+Количество столбцов в режиме отображения тем
+
+%%noindex_external_links%en%%
+Frame external links by no index
+%%noindex_external_links%ru%%
+Заключать внешние ссылки в noindex
+
+%%sys_user_as_administration%en%%
+Display admin username as &quot;Administration&quot;
+%%sys_user_as_administration%ru%%
+Отображать логин администратора как &quot;Администрация&quot;
+
+%%small_number_items%en%%
+Count of items for special block
+%%small_number_items%ru%%
+Количество вопросов в спецблоке
+
+%%small_number_items_INFO%en%%
+Count of items, which will be shown. If category(ies) is specified, then count of items from each category.
+%%small_number_items_INFO%ru%%
+Количество вопросов, которые будут отображены. Если указаны темы, то количество элементов из каждой темы.
+
+%%small_category_ids%en%%
+Category ids to show articles in special block
+%%small_category_ids%ru%%
+ID тем для отображения вопросов в спецблоке
+
+%%small_number_categories%en%%
+Number of categories shown in special block
+%%small_number_categories%ru%%
+Количество тем для отображения вопросов в спецблоке
+
+%%small_categories_sort_col%en%%
+Order articles in special block by category column
+%%small_categories_sort_col%ru%%
+Сортировать темы при отображении в спецблоке по полю темы
+
+%%small_categories_sort_dim%en%%
+Direction of articles sorting in special block by category column
+%%small_categories_sort_dim%ru%%
+Направление сортировки вопросов при отображении в спецблоке по полю темы
+
+%%small_items_sort_col%en%%
+Order items in special block by column
+%%small_items_sort_col%ru%%
+Сортировать вопросы в спецблоке по полю
+
+%%small_items_sort_dim%en%%
+Direction of items sorting in special block
+%%small_items_sort_dim%ru%%
+Направление сортировки вопросов в спецблоке
+
+%%use_categories%en%%
+Use sections
+%%use_categories%ru%%
+Использовать разделы
+
+%%avatar_maxwidth%en%%
+Avatar maximum width
+%%avatar_maxwidth%ru%%
+Максимальная ширина аватара
+
+%%avatar_maxheight%en%%
+Avatar maximum height
+%%avatar_maxheight%ru%%
+Максимальная высота аватара
+
+%%front_images%en%%
+Allow images uploading
+%%front_images%ru%%
+Разрешить загрузку изображений
+
+%%updatable_period%en%%
+Author can update his\her message
+%%updatable_period%ru%%
+Автор может внести изменения в свое сообщение
+
+%%rss_elements_period%en%%
+Display messages for
+%%rss_elements_period%ru%%
+Отображать сообщения за
+
+%%small_display_message%en%%
+Display messages
+%%small_display_message%ru%%
+Отображать сообщения
+
+%%small_topic_length%en%%
+Topic length
+%%small_topic_length%ru%%
+Длина темы
+
+%%small_message_length%en%%
+Message length
+%%small_message_length%ru%%
+Длина сообщения
+
+%%small_cache_expire%en%%
+Cache live time for special block
+%%small_cache_expire%ru%%
+Время жизни кеша спецблока
+
+%%publish_from_not_athorized%en%%
+Add topics/posts as published from not authorized visitors
+%%publish_from_not_athorized%ru%%
+Публиковать темы/сообщения от неавторизованных пользователей
+
+%%publish_from_athorized%en%%
+Add topics/posts as published from authorized visitors
+%%publish_from_athorized%ru%%
+Публиковать темы/сообщения от авторизованных пользователей

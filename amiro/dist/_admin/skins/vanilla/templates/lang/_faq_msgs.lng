@@ -1,0 +1,83 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_categories_items_msgs.lng"%%
+
+%%subject_warn%en%%
+Please, enter the Subject!
+%%subject_warn%ru%%
+Пожалуйста, введите тему!
+
+%%question_warn%en%%
+Please, enter the Question!
+%%question_warn%ru%%
+Пожалуйста, введите вопрос!
+
+%%send_empty_answer_warn%en%%
+Please, enter the Answer before sending it to the author!
+%%send_empty_answer_warn%ru%%
+Пожалуйста, введите ответ, прежде чем послать его автору!
+
+%%publish_empty_answer_warn%en%%
+Please, enter the Answer before publishing the question!
+%%publish_empty_answer_warn%ru%%
+Пожалуйста, введите ответ, прежде чем опубликовать вопрос на сайте!
+
+%%status_add%en%%
+Faq item was added.
+%%status_add%ru%%
+Вопрос добавлен.
+
+%%status_apply%en%%
+Faq item was updated.
+%%status_apply%ru%%
+Вопрос обновлен.
+
+%%status_del%en%%
+Faq item was deleted.
+%%status_del%ru%%
+Вопрос удален.
+
+%%status_error%en%%
+An error occurred while processing...
+%%status_error%ru%%
+Произошла ошибка...
+
+%%status_sent%en%%
+Notification was sent to author of question.
+%%status_sent%ru%%
+Уведомление отправлено автору вопроса.
+
+%%m_answered_subject%en%%
+Your question is answered.
+%%m_answered_subject%ru%%
+Ответ на ваш вопрос опубликован на сайте.
+
+%%m_robot%en%%
+FAQ mailing service.
+%%m_robot%ru%%
+Почтовый сервис Часто Задаваемых Вопросов.
+
+%%status_create_category%en%%
+Category '_name_' was created.
+%%status_create_category%ru%%
+Тема '_name_' создана.
+
+%%status_create_category_fail%en%%
+Category '_name_' was not created.
+%%status_create_category_fail%ru%%
+Тема '_name_' не создана.
+
+%%status_items_moved%en%%
+_num_items_ was moved to category '_name_'.
+%%status_items_moved%ru%%
+_num_items_ вопрос(ов) перемещены в тему '_name_'.
+
+%%status_items_moved_fail%en%%
+Items was not moved to category '_name_'.
+%%status_items_moved_fail%ru%%
+Вопрос(ы) не были перемещены в тему '_name_'.
+
+%%status_delete_category%en%%
+Category '_name_' was deleted.
+%%status_delete_category%ru%%
+Тема '_name_' удалена.
+

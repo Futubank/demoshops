@@ -1,0 +1,82 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_messages.lng"%%
+
+%%status_add%en%%
+Template was added.
+%%status_add%ru%%
+Шаблон добавлен.
+
+%%status_apply%en%%
+Template was updated.
+%%status_apply%ru%%
+Шаблон изменен.
+
+%%status_del%en%%
+Template was deleted.
+%%status_del%ru%%
+Шаблон удален.
+
+%%status_del_fail%en%%
+Template was not deleted.
+%%status_del_fail%ru%%
+Шаблон не удален.
+
+%%status_copy%en%%
+Template was copied to _name_.
+%%status_copy%ru%%
+Шаблон скопирован в _name_.
+
+%%status_copy_fail%en%%
+Template was not copied.
+%%status_copy_fail%ru%%
+Шаблон не скопирован.
+
+%%status_modified_templates%en%%
+There are modified templates on disk: _num_
+%%status_modified_templates%ru%%
+На диске имеются измененные шаблоны в количестве: _num_
+
+%%status_new_templates%en%%
+There are new templates on disk: _num_
+%%status_new_templates%ru%%
+На диске имеются новые шаблоны в количестве: _num_
+
+%%status_exported_templates%en%%
+Export successfully completed. Added: _added_, updated: _updated_, ignored: _ignored_
+%%status_exported_templates%ru%%
+Экспорт шаблонов завершен. Создано: _added_, обновлено: _updated_, пропущено: _ignored_
+
+%%status_export_failed_templates%en%%
+_failed_ errors with templates creating was happened.
+%%status_export_failed_templates%ru%%
+Произошли ошибки записи при экспорте шаблонов: _failed_ шт.
+
+%%status_imported_templates%en%%
+Import successfully completed. Added: _added_, updated: _updated_, ignored: _ignored_
+%%status_imported_templates%ru%%
+Импорт шаблонов завершен. Создано: _added_, обновлено: _updated_, пропущено: _ignored_
+
+%%templates_read_from_disk%en%%
+Templates are read from disk. Export, modifying, adding, deleting templates are impossible.
+%%templates_read_from_disk%ru%%
+Шаблоны читаются с диска. Экспорт, редактирование, добавление, удаление шаблонов невозможно.
+
+%%status_tpl_exists%en%%
+File named _tpl_ already exists.
+%%status_tpl_exists%ru%%
+Файл с именем _tpl_ уже существует.
+
+%%status_invalid_header%en%%
+Template name should start with module name.
+%%status_invalid_header%ru%%
+Название шаблона должно начинаться с имени модуля.
+
+%%status_restored%en%%
+Template was restored by default content.
+%%status_restored%ru%%
+Шаблон восстановлен содержимым по умолчанию.
+
+%%status_grp_restore%en%%
+Restored templates: _num_items_
+%%status_grp_restore%ru%%
+Восстановлено шаблонов: _num_items_

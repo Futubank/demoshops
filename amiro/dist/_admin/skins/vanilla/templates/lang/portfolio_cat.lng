@@ -1,0 +1,47 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_portfolio_msgs.lng"%%
+%%include_language "templates/lang/_portfolio_main.lng"%%
+%%include_language "templates/lang/eshop_cat_def.lng"%%
+
+%%update_force%en%%
+Update prices for all projects
+%%update_force%ru%%
+Обновить цены для всех элементов
+
+%%counter_product%en%%
+Projects:<br>All/Public
+%%counter_product%ru%%
+Проектов: Всего/Публ.
+
+%%del_with_items%en%%
+Delete with all projects and subcategories
+%%del_with_items%ru%%
+Удалить вместе с элементами и подкатегориями
+
+%%del_move_other%en%%
+Move all projects and subcategories to category
+%%del_move_other%ru%%
+Переместить все элементы и подкатегории в категорию
+
+%%tab_prices%en%%
+Prices
+%%tab_prices%ru%%
+Цены
+
+%%eshop_references_add%en%%
+Add from reference
+%%eshop_references_add%ru%%
+Добавить из справочника
+
+%%tab_custom_fields%en%%
+Category attributes
+%%tab_custom_fields%ru%%
+Свойства категории
+
+%%dataset_name%en%%
+Attribute list name
+%%dataset_name%ru%%
+Название набора свойств

@@ -1,0 +1,97 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+
+
+%%err_purge_update%en%%
+Cannot delete update files
+%%err_purge_update%ru%%
+Не удалось удалить файлы обновления
+
+%%files_deleted%en%%
+Update files deleted
+%%files_deleted%ru%%
+Файлы обновления удалены
+
+%%update_deleted%en%%
+Update deleted
+%%update_deleted%ru%%
+Обновление удалено
+
+%%no_file_write_perm%en%%
+No write permission on files. Cannot install updates
+%%no_file_write_perm%ru%%
+Отсутствуют права на запись в файлы. Установка обновлений невозможна.
+
+%%update_impossible%en%%
+Updates cannot be installed on this server
+%%update_impossible%ru%%
+Установка обновлений на этом сервере невозможна
+
+%%updates_list_corrupt%en%%
+Updates list is corrupt or absent. Choose 'Download from updates server' option and try again
+%%updates_list_corrupt%ru%%
+Список обновлений поврежден или отсутствует. Выберите вариант 'Скачать с сервера обновлений' и попытайтесь снова
+
+%%err_get_updates%en%%
+An error occurred while getting new updates. The server may be temporarily unavailable. Please try again later
+%%err_get_updates%ru%%
+Произошла ошибка при получении обновлений. Возможно, сервер временно недоступен. Пожалуйста, попробуйте позже.
+
+%%no_downloader%en%%
+cURL PHP extension not found on this server. cURL is needed to download updates
+%%no_downloader%ru%%
+В PHP на этом сервере нет поддержки cURL. Без нее невозможно получить файлы обновлений.
+
+%%update_expired%en%%
+Free updates lifetime has expired. <a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">Renew update</a>
+%%update_expired%ru%%
+Льготный период продления обновлений истек, <a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">продлите обновления</a>
+
+%%update_low%en%%
+Free updates lifetime expires in less than 60 days<br><a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">Extend updates at a discounted price now</a>
+%%update_low%ru%%
+Льготный период продления обновлений истекает менее чем через 60 дней.<br><a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">Продлите обновления по льготной цене сейчас</a>
+
+%%debug_is_enabled%en%%
+Warning!<br>Read templates from disk is enabled. Updates installation unavailable.<br>To enable updates installation, revert templates from disk and disable read templates from disk option.
+%%debug_is_enabled%ru%%
+Внимание!<br>Включено чтение шаблонов с диска. Установка обновлений невозможна.<br>Для установки обновлений необходимо восстановить шаблоны с диска и отключить чтение шаблонов с диска.
+
+%%status_std_locale_restriction%en%%
+Additional localizations detected.<br />
+Automatic update cannot be done.<br />
+Contact <a href="http://support.amiro.ru" target="_blank">support</a> please.
+%%status_std_locale_restriction%ru%%
+В вашей конфигурации обнаружены дополнительные локализации.<br />
+Произвести обновление в автоматическом режиме невозможно.<br />
+Пожалуйста, обратитесь в <a href="http://support.amiro.ru" target="_blank">службу поддержки</a>.
+
+%%udpatesblock_updates_at%en%%
+Free updates lifetime expires
+%%udpatesblock_updates_at%ru%%
+Льготный период продления обновлений истекает
+
+%%udpatesblock_updates_at_end%en%%
+.<br><a target="_blank" class="udpatesblock-warn__message-link" href="http://www.amiro.ru/product/amiro.cms/updates">Extend updates at a discounted price now</a>
+%%udpatesblock_updates_at_end%ru%%
+.<br><a target="_blank" class="udpatesblock-warn__message-link" href="http://www.amiro.ru/product/amiro.cms/updates">Продлите обновления по льготной цене сейчас</a>
+
+%%udpatesblock_updates%en%%
+Free updates lifetime expires in less than 60 days.<br><a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">Extend updates at a discounted price now</a>
+%%udpatesblock_updates%ru%%
+Льготный период продления обновлений истекает менее чем через 60 дней.<br><a class="udpatesblock-warn__message-link" target="_blank" href="http://www.amiro.ru/product/amiro.cms/updates">Продлите обновления по льготной цене сейчас</a>
+
+%%haveblock_updates%en%%
+Updates are available
+%%haveblock_updates%ru%%
+Имеются обновления
+
+%%installlock_updates%en%%
+Install updates
+%%installlock_updates%ru%%
+Установить обновления
+
+%%installlock_updates_details%en%%
+More
+%%installlock_updates_details%ru%%
+Подробнее

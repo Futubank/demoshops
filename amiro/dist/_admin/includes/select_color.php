@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1041 xkqwrznsmllmywmppiymlkzxlkpqqqglzqgnuywmgusgylrkkuwwspswsguylptkywttpnir
+ */ ?><?php foreach(array(22302=>'LDZGM`GOG',22303=>"DWrMGtD") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $ILlIlIl =1; $l1IIllL =true; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $adm->Gui->delScript(); $adm->Gui->addScript(I22302); $adm->Gui->addScript($GLOBALS['CURRENT_SKIN_PATH']."_js/ami.admin.js"); $adm->Gui->addScript($GLOBALS['CURRENT_SKIN_PATH']."_js/color.js"); $l1l111I[I22303] =$adm->Gui->getScripts(); $adm->Gui->addBlock("select_color", "templates/ce/select_color.tpl"); $l1l111I["metas"] =$adm->Gui->getMetas(); $l1Il1Ll =$adm->Gui->get("select_color", $l1l111I); echo $l1Il1Ll; $conn->Out(); ?>

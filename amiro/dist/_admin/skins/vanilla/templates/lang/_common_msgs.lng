@@ -1,0 +1,367 @@
+%%empty%en%%
+No data found
+%%empty%ru%%
+Нет данных удовлетворяющих условиям фильтра
+
+%%empty_sites%en%%
+No data found. Please use Search option to display sites (recommended entries .com, .net, etc.)
+%%empty_sites%ru%%
+Нет данных удовлетворяющих условиям фильтра.<br/>Пожалуйста, используйте опции поискового фильтра, чтобы отобразить сайты (например, введите .ru, .com и т.п.)
+
+%%announce_warn%en%%
+Please, enter the Announce!
+%%announce_warn%ru%%
+Пожалуйста, введите анонс!
+
+%%header_warn%en%%
+Please, enter the Header!
+%%header_warn%ru%%
+Пожалуйста, введите заголовок!
+
+%%name_warn%en%%
+Please, enter the Name!
+%%name_warn%ru%%
+Пожалуйста, введите название!
+
+%%pictures_warn%en%%
+Please, select popup or regular picture!
+%%pictures_warn%ru%%
+Пожалуйста, выберите всплывающее или обычное изображение!
+
+%%file_warn%en%%
+Please, choose the File!
+%%file_warn%ru%%
+Пожалуйста, укажите файл!
+
+%%date_warn%en%%
+Please, enter the Date!
+%%date_warn%ru%%
+Пожалуйста, введите дату!
+
+%%price_warn%en%%
+Please, enter the Price correctly!
+%%price_warn%ru%%
+Пожалуйста, правильно введите цену!
+
+%%title_warn%en%%
+Please, enter the Subject!
+%%title_warn%ru%%
+Пожалуйста, введите тему!
+
+%%author_warn%en%%
+Please, enter the Name!
+%%author_warn%ru%%
+Пожалуйста, введите имя!
+
+%%category_warn%en%%
+Please, select the Category!
+%%category_warn%ru%%
+Пожалуйста, выберите категорию!
+
+%%new_category_warn%en%%
+Please, enter the name of the Category!
+%%new_category_warn%ru%%
+Пожалуйста, введите название категории!
+
+%%type_warn%en%%
+Please, select the Type!
+%%type_warn%ru%%
+Пожалуйста, выберите тип!
+
+%%body_warn%en%%
+Please, enter the Message!
+%%body_warn%ru%%
+Пожалуйста, введите сообщение!
+
+%%email_invalid%en%%
+Invalid E-mail!
+%%email_invalid%ru%%
+Некорректный адрес!
+
+%%email_warn%en%%
+Please, enter E-mail!
+%%email_warn%ru%%
+Пожалуйста, введите электронный адрес!
+
+%%username_warn%en%%
+Please, enter Username!
+%%username_warn%ru%%
+Пожалуйста, введите имя пользователя!
+
+%%firstname_warn%en%%
+Please, enter First name!
+%%firstname_warn%ru%%
+Пожалуйста, введите имя!
+
+%%lastname_warn%en%%
+Please, enter Last name!
+%%lastname_warn%ru%%
+Пожалуйста, введите фамилию!
+
+%%phone_warn%en%%
+Please, enter Phone!
+%%phone_warn%ru%%
+Пожалуйста, введите телефон!
+
+%%address_warn%en%%
+Please, enter Address!
+%%address_warn%ru%%
+Пожалуйста, введите адрес!
+
+%%status_add%en%%
+Item was added.
+%%status_add%ru%%
+Добавлено.
+
+%%status_add_fail%en%%
+Item was not added!
+%%status_add_fail%ru%%
+Элемент не добавлен!
+
+%%status_apply%en%%
+Item was updated.
+%%status_apply%ru%%
+Информация изменена.
+
+%%status_apply_fail%en%%
+Item was not updated!
+%%status_apply_fail%ru%%
+Информация не изменена!
+
+%%status_changed%en%%
+Item status was changed.
+%%status_changed%ru%%
+Статус изменен.
+
+%%status_changed_fail%en%%
+Item status was not changed!
+%%status_changed_fail%ru%%
+Статус не изменен!
+
+%%status_publish%en%%
+Item publish status was changed.
+%%status_publish%ru%%
+Статус опубликования изменен.
+
+%%status_grp_publish%en%%
+_num_items_ items was published.
+%%status_grp_publish%ru%%
+Опубликовано элементов: _num_items_.
+
+%%status_grp_unpublish%en%%
+_num_items_ items was unpublished.
+%%status_grp_unpublish%ru%%
+Скрыто элементов: _num_items_.
+
+%%status_publish_fail%en%%
+Item publish status was not changed!
+%%status_publish_fail%ru%%
+Статус опубликования не изменен!
+
+%%status_special%en%%
+Item "on special" status was changed.
+%%status_special%ru%%
+Статус "специальный" изменен.
+
+%%status_grp_special_on%en%%
+"on special" status was changed for _num_items_ items.
+%%status_grp_special_on%ru%%
+Помечено товаров как "Специальные": _num_items_.
+
+%%status_grp_special_off%en%%
+"on special" status was changed for _num_items_ items.
+%%status_grp_special_off%ru%%
+Помечено товаров как "Обычные": _num_items_.
+
+%%status_special_fail%en%%
+Item "on special" status was not changed.
+%%status_special_fail%ru%%
+Статус "специальный" не был изменен.
+
+%%status_activate%en%%
+Item "active" status was changed.
+%%status_activate%ru%%
+Статус активности изменен.
+
+%%status_activate_fail%en%%
+Item "active" status was not changed!
+%%status_activate_fail%ru%%
+Статус активности не изменен!
+
+%%status_archive%en%%
+Item "archive" status was changed.
+%%status_archive%ru%%
+Статус архивности изменен.
+
+%%status_grp_activate%en%%
+"Active" status was changed for _num_items_ items.
+%%status_grp_activate%ru%%
+Помечено элементов как "Активные": _num_items_.
+
+%%status_grp_unactivate%en%%
+"Active" status was changed for _num_items_ items.
+%%status_grp_unactivate%ru%%
+Помечено элементов как "Неактивные": _num_items_.
+
+%%status_archive_fail%en%%
+Item "archive" status was not changed!
+%%status_archive_fail%ru%%
+Статус архивности не изменен!
+
+%%status_grp_archive%en%%
+"Archive" status was changed for _num_items_ items.
+%%status_grp_archive%ru%%
+Помечено элементов как "Архивные": _num_items_.
+
+%%status_grp_unarchive%en%%
+"Archive" status was changed for _num_items_ items.
+%%status_grp_unarchive%ru%%
+Помечено элементов как "Активные": _num_items_.
+
+%%status_del%en%%
+Item was deleted.
+%%status_del%ru%%
+Удалено.
+
+%%status_grp_del%en%%
+_num_items_ item was deleted.
+%%status_grp_del%ru%%
+Удалено элементов: _num_items_.
+
+%%status_grp_copy%en%%
+_num_items_ item was copied.
+%%status_grp_copy%ru%%
+Скопировано элементов: _num_items_.
+
+%%status_grp_no_index_details%en%%
+Status of items indexing was changed.
+%%status_grp_no_index_details%ru%%
+Статус индексирования изменен.
+
+%%status_del_fail%en%%
+Item was not deleted!
+%%status_del_fail%ru%%
+Не удалено!
+
+%%status_image_upload_fail%en%%
+An error occurred while image uploading!
+%%status_image_upload_fail%ru%%
+Ошибка добавления изображения!
+
+
+%%status_template_upload_fail%en%%
+An error occurred while template uploading!
+%%status_template_upload_fail%ru%%
+Ошибка добавления шаблона страниц!
+
+%%status_error%en%%
+An error occurred while processing...
+%%status_error%ru%%
+Ошибка выполнения...
+
+%%status_warn_link%en%%
+The item with the same link is already present. Link was not changed.
+%%status_warn_link%ru%%
+Элемент с такой же ссылкой уже есть. Ссылка не изменена.
+
+%%status_add_warn_link_symb%en%%
+The item's link contains not allowed symbols. Link was cleared.
+%%status_add_warn_link_symb%ru%%
+Путь элемента содержит недопустимые символы. Ссылка очищена.
+
+%%position_warn%en%%
+For activation of these actions, it is necessary to sort data by this field.
+%%position_warn%ru%%
+Для активации действий, необходимо установить сортировку по данному полю.
+
+%%position_move_top_warn%en%%
+Item is already first in the list.
+%%position_move_top_warn%ru%%
+Элемент уже первый в списке.
+
+%%position_move_up_warn%en%%
+Item is already first in the list.
+%%position_move_up_warn%ru%%
+Элемент уже первый в списке.
+
+%%position_move_bottom_warn%en%%
+Item is already last in the list.
+%%position_move_bottom_warn%ru%%
+Элемент уже последний в списке.
+
+%%position_move_down_warn%en%%
+Item is already last in the list.
+%%position_move_down_warn%ru%%
+Элемент уже последний в списке.
+
+%%status_order%en%%
+Item position is changed.
+%%status_order%ru%%
+Позиция элемента изменена.
+
+%%status_apply_note_linkauto%en%%
+Link of item was created automatically as [_link_]
+%%status_apply_note_linkauto%ru%%
+Ссылка на элемент была создана автоматически как [_link_]
+
+%%status_apply_linkauto_page_found_warn%en%%
+Page with the link [<a href="_front_link_" target="_blank">_front_link_</a>] already exists.
+%%status_apply_linkauto_page_found_warn%ru%%
+Страница со ссылкой [<a href="_front_link_" target="_blank">_front_link_</a>] уже существует.
+
+%%status_apply_linkauto_vpage_found_warn%en%%
+The link [<a href="_front_link_" target="_blank">_front_link_</a>] predefined for the module _module_name_.
+%%status_apply_linkauto_vpage_found_warn%ru%%
+Cсылка [<a href="_front_link_" target="_blank">_front_link_</a>] зарезервирована для модуля _module_name_.
+
+%%status_apply_linkauto_item_found_warn%en%%
+The element with link [<a href="_front_link_" target="_blank">_front_link_</a>] already exists. Element name: [_name_].
+%%status_apply_linkauto_item_found_warn%ru%%
+Элемент со ссылкой [<a href="_front_link_" target="_blank">_front_link_</a>] уже существует. Элемент: [_name_].
+
+%%status_apply_note_kwauto%en%%
+Page title and keywords have generated for selected pages
+%%status_apply_note_kwauto%ru%%
+Заголовок и ключевые слова сгенерированы автоматически
+
+%%status_grp_note_kwauto%en%%
+Page title and keywords have generated for _num_items_ items.
+%%status_grp_note_kwauto%ru%%
+Заголовок и ключевые слова сгенерированы автоматически. Обработано элементов: _num_items_.
+
+%%status_grp_note_linkauto%en%%
+Item's link have generated for _num_items_ items.
+%%status_grp_note_linkauto%ru%%
+Ссылки на элементы сгенерированы автоматически. Обработано элементов: _num_items_.
+
+%%allowed_actions%en%%
+Allowed actions: _r__w__d_
+%%allowed_actions%ru%%
+Разрешенные действия: _r__w__d_
+
+
+%%action_forbidden%en%%
+You cannot perform this action
+%%action_forbidden%ru%%
+У вас нет прав на выполнение этого действия
+
+%%status_audit_del%en%%
+Item was requested on deleting
+%%status_audit_del%ru%%
+Элемент был запрошен на удаление
+
+%%status_repair_positions%en%%
+The positions were repaired.
+%%status_repair_positions%ru%%
+Позиции восстановлены.
+
+%%status_repair_search_hash%en%%
+Shearch hashes repaired.
+%%status_repair_search_hash%ru%%
+Поисковые хэши восстановлены.
+
+%%status_warn_sending_email%en%%
+Email was not sent!
+%%status_warn_sending_email%ru%%
+Письмо не было отправлено!
+

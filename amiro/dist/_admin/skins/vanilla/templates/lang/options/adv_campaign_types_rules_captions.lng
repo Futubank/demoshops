@@ -1,0 +1,25 @@
+%%spl_reserve%en%%
+Front-end ad campaigns
+%%spl_reserve%ru%%
+Резервирование кампаний на фронте
+
+%%banners_required%en%%
+Assign banners on front end
+%%banners_required%ru%%
+Для резервирования требуются подходящие для места баннеры
+
+%%show_more_expensive_campaigns%en%%
+Show campaign types over allowed user balance
+%%show_more_expensive_campaigns%ru%%
+Показывать типы кампаний со стоимостью больше баланса пользователя
+
+%%show_reserved_campaigns%en%%
+Show campaigns reserved by user
+%%show_reserved_campaigns%ru%%
+Показывать типы кампаний, которые уже зарезервированы пользователем
+
+%%allow_renew_reserved%en%%
+Permit extension of campaigns not allowed for reservation
+%%allow_renew_reserved%ru%%
+Разрешить продление кампаний, не разрешенных к резервированию рекламодателями, имеющими активную кампанию этого типа
+

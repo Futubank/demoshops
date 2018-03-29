@@ -1,0 +1,41 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_sys_modules_popup_msgs.lng"%%
+
+%%title%en%%
+Modules
+%%title%ru%%
+Модули
+
+%%select_modules%en%%
+Select modules and press apply
+%%select_modules%ru%%
+Выберите модули и нажмите применить
+
+%%select_all%en%%
+Select all/none
+%%select_all%ru%%
+Выбрать всё/ничего
+
+%%sys_right_r%en%%
+read
+%%sys_right_r%ru%%
+чтение
+
+%%sys_right_w%en%%
+write
+%%sys_right_w%ru%%
+запись
+
+%%sys_right_d%en%%
+delete
+%%sys_right_d%ru%%
+удаление
+
+%%sys_right_r%en%%
+access
+%%sys_right_r%ru%%
+доступ
+

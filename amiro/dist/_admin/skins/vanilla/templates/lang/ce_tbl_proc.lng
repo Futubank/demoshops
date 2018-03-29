@@ -1,0 +1,17 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_ce_tbl_proc_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_ce_tbl_proc_msgs.lng"%%
+
+%%title%en%%
+Table Properties
+%%title%ru%%
+Свойства Таблицы
+
+%%un_table%en%%
+Insertng/Editing of table
+%%un_table%ru%%
+Вставку / Изменение таблицы
+

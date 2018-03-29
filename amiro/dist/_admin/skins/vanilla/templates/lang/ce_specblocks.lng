@@ -1,0 +1,16 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_ce_specblocks_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_ce_specblocks_msgs.lng"%%
+
+%%title%en%%
+Special blocks
+%%title%ru%%
+Специальные блоки
+
+%%un_ins_specblock%en%%
+Inserting / tuning of specblock
+%%un_ins_specblock%ru%%
+Вставку/Настройку спецблока

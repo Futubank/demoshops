@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="amiro.articles5" version="1.0" manifestVersion="1.0">
+    <information lang="en">
+        <title>Articles</title>
+        <description>Articles</description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amirocms.com</source>
+    </information>
+    <information lang="ru">
+        <title>Статьи</title>
+        <description>Статьи</description>
+        <author>Amiro.CMS</author>
+        <source>http://www.amiro.ru</source>
+    </information>
+    <contents>
+        <content hypermodule="ami_multifeeds5" configuration="articles" version="1.0" />
+    </contents>
+    <installation>
+        <install hypermodule="ami_multifeeds5" configuration="articles" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_multifeeds5" version="1.0" />
+    </dependencies>
+</package>

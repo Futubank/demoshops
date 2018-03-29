@@ -1,0 +1,59 @@
+%%title%en%%
+phpBB2 Forum Data Import
+%%title%ru%%
+Импорт данных форума phpBB2
+
+%%prefix%en%%
+Database tables prefix
+%%prefix%ru%%
+Префикс таблиц базы данных
+
+%%erase_forum%en%%
+Erase all forum messages and topics before import
+%%erase_forum%ru%%
+Удалить все сообщения и разделы форума перед импортом
+
+%%warn_prefix%en%%
+Specify database tables prefix please
+%%warn_prefix%ru%%
+Пожалуйста, укажите префикс таблиц базы данных
+
+%%warn_erase_forum%en%%
+Are you sure to erase forum data?
+%%warn_erase_forum%ru%%
+Вы уверенны, что хотите очистить форум?
+
+%%status_data_not_found%en%%
+Data not found
+%%status_data_not_found%ru%%
+Данные не найдены
+
+%%status_invalid_db_prefix%en%%
+Invalid database tables prefix
+%%status_invalid_db_prefix%ru%%
+Неверный префикс таблиц базы данных
+
+%%status_statistics%en%%
+<center><table><tr><td>
+Sections imported: <b>_sections_</b><br />
+Topics imported: <b>_topics_</b><br />
+Messages imported: <b>_messages_</b><br />
+New users created: <b>_new_users_</b>
+</td></tr></table></center>
+%%status_statistics%ru%%
+<center><table><tr><td>
+Импортировано разделов: <b>_sections_</b><br />
+Импортировано тем: <b>_topics_</b><br />
+Импортировано сообщений: <b>_messages_</b><br />
+Создано новых пользователей: <b>_new_users_</b>
+</td></tr></table></center>
+
+%%import_avatars%en%%
+Import avatars
+%%import_avatars%ru%%
+Импортировать аватары
+
+%%tooltip_import_avatars%en%%
+You should copy avatars images by yourself from phpBB folder <b>&quot;skins/vanilla/images/avatars&quot;</b> to our system folder <b>&quot;_mod_files/users&quot;</b>.
+%%tooltip_import_avatars%ru%%
+Изображения аватар Вы должны скопировать вручную из папки phpBB <b>&quot;skins/vanilla/images/avatars&quot;</b> в папку нашей системы <b>&quot;_mod_files/users&quot;</b>.

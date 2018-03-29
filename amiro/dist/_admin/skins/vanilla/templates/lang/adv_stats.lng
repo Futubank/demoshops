@@ -1,0 +1,130 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_adv_stats_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%empty%en%%
+No statisitcs data
+%%empty%ru%%
+Нет данных статистики
+
+%%place_name%en%%
+Place name
+%%place_name%ru%%
+Место
+
+%%campaign_name%en%%
+Campaign
+%%campaign_name%ru%%
+Кампания
+
+%%banner_name%en%%
+Banner
+%%banner_name%ru%%
+Баннер
+
+%%day%en%%
+Date
+%%day%ru%%
+Дата
+
+%%hour%en%%
+Hour
+%%hour%ru%%
+Час
+
+%%views%en%%
+Views
+%%views%ru%%
+Показов
+
+%%clicks%en%%
+Clicks
+%%clicks%ru%%
+Кликов
+
+%%ctr%en%%
+CTR
+%%ctr%ru%%
+CTR
+
+%%cost_views%en%%
+For views
+%%cost_views%ru%%
+За показы
+
+%%cost_clicks%en%%
+For clicks
+%%cost_clicks%ru%%
+За клики
+
+%%byhour%en%%
+hours
+%%byhour%ru%%
+часам
+
+%%byday%en%%
+days
+%%byday%ru%%
+дням
+
+%%byweek%en%%
+weeks
+%%byweek%ru%%
+неделям
+
+%%bymonth%en%%
+months
+%%bymonth%ru%%
+месяцам
+
+%%byyear%en%%
+years
+%%byyear%ru%%
+годам
+
+%%sum_views%en%%
+Total views
+%%sum_views%ru%%
+Всего показов
+
+%%sum_clicks%en%%
+Total clicks
+%%sum_clicks%ru%%
+Всего кликов
+
+%%sum_ctr%en%%
+Total CTR
+%%sum_ctr%ru%%
+Суммарный CTR
+
+%%sum_all%en%%
+Total
+%%sum_all%ru%%
+Всего
+
+%%byall%en%%
+all types
+%%byall%ru%%
+всем типам
+
+%%byplaces%en%%
+places
+%%byplaces%ru%%
+местам
+
+%%bycampaigns%en%%
+campaigns
+%%bycampaigns%ru%%
+кампаниям
+
+%%bybanners%en%%
+banners
+%%bybanners%ru%%
+баннерам
+
+%%byperiod%en%%
+periods
+%%byperiod%ru%%
+периодам

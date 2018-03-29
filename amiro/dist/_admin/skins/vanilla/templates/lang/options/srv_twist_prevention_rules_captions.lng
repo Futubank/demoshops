@@ -1,0 +1,99 @@
+%%spl_parameters%en%%
+Parameters
+%%spl_parameters%ru%%
+Параметры
+
+%%visitors_originality_parameters%en%%
+Use following methods to determine if visitor is unique
+%%visitors_originality_parameters%ru%%
+Проверять уникальность посетителя по следующим параметрам
+
+%%allow_disabled_cookies%en%%
+Allow user action if cookies are disabled
+%%allow_disabled_cookies%ru%%
+Допускать пользователей, у которых выключены cookies
+
+%%record_ttl%en%%
+Records time to live
+%%record_ttl%ru%%
+Удалять записи старше указанного периода
+
+%%use_js_protection%en%%
+Protection from robots (JavaScript)
+%%use_js_protection%ru%%
+Защита от роботов (JavaScript)
+
+%%spl_captcha_parameters%en%%
+Image parameters
+%%spl_captcha_parameters%ru%%
+Параметры изображения
+
+%%image_digits_qty%en%%
+Number of symbols in captcha (security image)
+%%image_digits_qty%ru%%
+Кол-во символов в изображении, предотвращающем совершения действия роботом
+
+%%image_symbols_set%en%%
+Captcha symbols
+%%image_symbols_set%ru%%
+Набор допустимых символов в изображении
+
+%%show_captcha_for_registered_users%en%%
+Show captcha for registered users
+%%show_captcha_for_registered_users%ru%%
+Отображать изображение для зарегистрированных пользователей
+
+%%type%en%%
+Image type
+%%type%ru%%
+Тип изображения
+
+%%bg_color%en%%
+Background color (Hex)
+%%bg_color%ru%%
+Цвет фона изображения
+
+%%text_color%en%%
+Text color (Hex)
+%%text_color%ru%%
+Цвет текста
+
+%%noise_color%en%%
+Noise color (Hex)
+%%noise_color%ru%%
+Цвет шума
+
+%%font_type%en%%
+Font type
+%%font_type%ru%%
+Тип шрифта
+
+%%jitter_amplitude%en%%
+Jitter amplitude
+%%jitter_amplitude%ru%%
+Амплитуда разброса символов
+
+%%noise_level%en%%
+Noise level
+%%noise_level%ru%%
+Уровень шума
+
+%%zoom%en%%
+Zoom
+%%zoom%ru%%
+Масштаб
+
+%%margin%en%%
+Margin
+%%margin%ru%%
+Отступ от края изображения
+
+%%wave_amplitude%en%%
+Wave amplitude
+%%wave_amplitude%ru%%
+Амплитуда волны  
+
+%%split_image%en%%
+Split image into two parts
+%%split_image%ru%%
+Разделять изображение на две части  

@@ -1,0 +1,53 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Import name
+%%filter_field_header%ru%%
+Тип импорта
+
+%%filter_field_driver_name%en%%
+Import type
+%%filter_field_driver_name%ru%%
+Тип импорта
+
+%%filter_field_frequncy%en%%
+Only manual start
+%%filter_field_frequency%ru%%
+Только ручной запуск
+
+%%filter_field_last_success%en%%
+Only successed
+%%filter_field_last_success%ru%%
+Только успешные
+
+%%filter_field_datefrom%en%%
+Date of the next import, from:
+%%filter_field_datefrom%ru%%
+Дата следующего импорта, c:
+
+
+%%filter_field_dateto%en%%
+to:
+%%filter_field_dateto%ru%%
+по:
+
+%%ami_rss_driver_name%en%%
+RSS import
+%%ami_rss_driver_name%ru%%
+Импорт RSS
+
+%%ami_csv_driver_name%en%%
+CSV import
+%%ami_csv_driver_name%ru%%
+Импорт из CSV
+
+%%ami_no_driver_name%en%%
+All
+%%ami_no_driver_name%ru%%
+Все
+
+%%filter_field_import_type%en%%
+Import type
+%%filter_field_import_type%ru%%
+Тип импорта

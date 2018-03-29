@@ -1,0 +1,14 @@
+%%include_language "templates/lang/help/_common_help.lng"%%
+%%include_language "templates/lang/help/_buttons_help.lng"%%
+%%include_language "templates/lang/help/_filter_help.lng"%%
+%%include_language "templates/lang/help/_legend_help.lng"%%
+
+%%main_topic%en%%
+List of News headlines is hyperlinked to the full-text version that opens in new window.
+%%main_topic%ru%%
+Список новостей сайта. Отображается в виде краткого списка в любой части сайта. При нажатии на ссылку "далее", отображается полная версия статьи.
+
+%%form_archive%en%%
+Archive item or make it active
+%%form_arhive%ru%%
+Архивный \ не архивный элемент

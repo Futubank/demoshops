@@ -1,0 +1,86 @@
+%%include_language "templates/lang/_menu_all.lng"%%
+
+%%close_btn%en%%
+Close
+%%close_btn%ru%%
+Закрыть
+
+%%categories_list%en%%
+Categories list for module
+%%categories_list%ru%%
+Список категорий модуля
+
+%%pages_list%en%%
+Pages list for module
+%%pages_list%ru%%
+Список страниц модуля
+
+%%selected_list_empty%en%%
+No data
+%%selected_list_empty%ru%%
+Данных нет
+
+%%list_empty%en%%
+No data
+%%list_empty%ru%%
+Данных нет
+
+%%entities_list%en%%
+Select entity
+%%entities_list%ru%%
+Выберите данные
+
+%%remove_from_list%en%%
+Remove from the list
+%%remove_from_list%ru%%
+Удалить из списка
+
+%%remove_from_list_confirm%en%%
+Remove this data from the list?
+%%remove_from_list_confirm%ru%%
+Удалить данные из списка?
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%dataset_name%en%%
+Used in data set
+%%dataset_name%ru%%
+Использовано в наборе данных
+
+%%actions%en%%
+Actions
+%%actions%ru%%
+Действия
+
+%%add_to_list%en%%
+Add to list
+%%add_to_list%ru%%
+В список
+
+%%edit_category%en%%
+Edit category
+%%edit_category%ru%%
+Редактировать категорию
+
+%%edit_page%en%%
+Edit page
+%%edit_page%ru%%
+Редактировать страницу
+
+%%grp_add_to_list%en%%
+Add selected elements to list
+%%grp_add_to_list%ru%%
+Добавить выбранные элементы в список
+
+%%grp_move_warn%en%%
+Are you sure to add the selected elements to list?
+%%grp_move_warn%ru%%
+Добавить выбранные элементы в список?

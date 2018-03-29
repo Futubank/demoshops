@@ -1,0 +1,217 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%hst_error_10000%en%%
+Success
+%%hst_error_10000%ru%%
+Успешно
+
+%%hst_error_10001%en%%
+Internal error
+%%hst_error_10001%ru%%
+Внутренняя ошибка
+
+%%hst_error_10002%en%%
+Access violation
+%%hst_error_10002%ru%%
+Нарушение доступа
+
+%%hst_error_10003%en%%
+Method specified is not supported. Possible, method name is wrong.
+%%hst_error_10003%ru%%
+Указанный метод не поддерживается. Возможно, имя метода неверно.
+
+%%hst_error_10005%en%%
+Method specified is not supported
+%%hst_error_10005%ru%%
+Данный метод не поддерживается
+
+%%hst_error_10006%en%%
+Required parameter missing
+%%hst_error_10006%ru%%
+Отсутствует обязательный параметр
+
+%%hst_error_10007%en%%
+Invalid parameter
+%%hst_error_10007%ru%%
+Недопустимый параметр
+
+%%hst_error_10008%en%%
+Driver internal error
+%%hst_error_10008%ru%%
+Внутрянняя ошибка драйвера
+
+%%hst_status_add_fail%en%%
+Package cannot be added. Hosting error: _text_
+%%hst_status_add_fail%ru%%
+Пакет не может быть добавлен. Ошибка хостинга: _text_
+
+%%hst_status_apply_fail%en%%
+Package cannot be updated. Hosting error: _text_
+%%hst_status_apply_fail%ru%%
+Пакет не может быть изменен. Ошибка хостинга: _text_
+
+%%hst_status_set_status_fail%en%%
+Set active status failed. Hosting error: _text_
+%%hst_status_set_status_fail%ru%%
+Ошибка при установке статуса активности. Ошибка хостинга: _text_
+
+%%hst_status_del_fail%en%%
+Package cannot be deleted. Hosting error: _text_
+%%hst_status_del_fail%ru%%
+Пакет не может быть удален. Ошибка хостинга: _text_
+
+%%hst_status_del_depended_resources_fail%en%%
+Package cannot be deleted because destroy depended resources fail.
+%%hst_status_del_depended_resources_fail%ru%%
+Пакет не может быть удален так как не удалось уничтожить зависимые ресурсы.
+
+%%hst_status_del_dependence_fail%en%%
+Deleting dependence of this resource from other fail.
+%%hst_status_del_dependence_fail%ru%%
+Не удалось удалить зависимости данного ресура от других.
+
+%%hst_error_unknown%en%%
+No error description
+%%hst_error_unknown%ru%%
+Описание ошибки отсутствует
+
+%%hst_error_201%en%%
+Wrong response from hosting
+%%hst_error_201%ru%%
+Неверный ответ от хостинга
+
+%%hst_status_move_fail%en%%
+Package cannot be moved. Hosting error: _text_
+%%hst_status_move_fail%ru%%
+Пакет не может быть перенесен. Ошибка хостинга: _text_
+
+%%select_subscription_warn%en%%
+Do you really want to change subscription?
+%%select_subscription_warn%ru%%
+Вы действительно хотите изменить договор?
+
+%%select_vhost_warn%en%%
+Do you really want to change virtual host?
+%%select_vhost_warn%ru%%
+Вы действительно хотите изменить домен?
+
+%%vhost_warn%en%%
+Please, select a virtual host
+%%vhost_warn%ru%%
+Пожалуйста, выберите домен
+
+%%different_passwords_inputed%en%%
+Different passwords inputed!
+%%different_passwords_inputed%ru%%
+Введенные пароли не совпадают!
+
+%%hst_status_used_value_update_fail%en%%
+Updating the used resources value fail.
+%%hst_status_used_value_update_fail%ru%%
+Ошибка изменения количества используемых ресурсов.
+
+%%hst_status_add_dependence_fail%en%%
+Adding dependdence fail
+%%hst_status_add_dependence_fail%ru%%
+Ошибка добавления зависимостей
+
+%%hst_status_bound_obtain%en%%
+This resource not available in subscription or maximum amount of this resources are used.
+%%hst_status_bound_obtain%ru%%
+Данный вид ресурсов не доступен по договору, либо использовано максимальное количество русурсов данного вида.
+
+%%the_field%en%%
+Field
+%%the_field%ru%%
+Поле
+
+%%is_required_input_it%en%%
+is required. Please, fill it.
+%%is_required_input_it%ru%%
+является обязательным. Пожалуйста заполните его.
+
+%%status_cannot_move%en%%
+Cannot move resource to selected subscription
+%%status_cannot_move%ru%%
+Невозможно перенести ресурс на указанный договор
+
+%%status_subscription_access_deny%en%%
+Access deny to subscription #
+%%status_subscription_access_deny%ru%%
+Отказано в доступе к договору №
+
+%%status_resource_access_deny%en%%
+Access deny to resource.
+%%status_resource_access_deny%ru%%
+Отказано в доступе к русурсу.
+
+
+%%status_base_package_apply_fail%en%%
+Applyng base part of resource fail
+%%status_base_package_apply_fail%ru%%
+Ошибка при обновлении базовой части ресурса
+
+%%status_move_dependent_fail%en%%
+Moving dependent resources fail
+%%status_move_dependent_fail%ru%%
+Ошибка при переносе зависимых ресурсов
+
+%%status_move_dependent%en%%
+Dependent resources is moved
+%%status_move_dependent%ru%%
+Зависимые ресурсы перенесены
+
+%%hst_status_prepare_data_fail%en%%
+Prepare the data fail
+%%hst_status_prepare_data_fail%ru%%
+Ошибка при подготовке данных
+
+%%status_move%en%%
+Resource was moved.
+%%status_move%ru%%
+Ресурс перенесен.
+
+%%status_move_fail%en%%
+Resource was not moved!
+%%status_move_fail%ru%%
+Ресурс не перенесен!
+
+%%status_empty_required_field%en%%
+Required field '_text_' is empty.
+%%status_empty_required_field%ru%%
+Не заполнено обязательное поле '_text_'.
+
+%%status_empty_domain%en%%
+Virtual host in not selected.
+%%status_empty_domain%ru%%
+Не выбран домен.
+
+%%status_empty_subscription%en%%
+Subscription is not selected.
+%%status_empty_subscription%ru%%
+Не выбран договор.
+
+%%access_violation%en%%
+Access violation.
+%%access_violation%ru%%
+Нарушение доступа.
+
+%%status_activate%en%%
+Active state of resource was changed.
+%%status_activate%ru%%
+Статус активности ресурса изменён.
+
+%%status_activate_fail%en%%
+Active state of resource was not changed.
+%%status_activate_fail%ru%%
+Статус активности ресурса не изменён.
+
+%%subscription_is_blocked_warn%en%%
+Subscription is blocked.
+%%subscription_is_blocked_warn%ru%%
+Договор, за которым закреплён данный ресурс, заблокирован.
+
+%%hst_status_move_resource_forbidden%en%%
+This resource is dependent. Move this resource to another subscription is forbidden. Resource was not moved.
+%%hst_status_move_resource_forbidden%ru%%
+Данный ресурс является зависимым. Перенесение его на другой договор невозможно. Ресурс не перенесён.

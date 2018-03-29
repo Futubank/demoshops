@@ -1,0 +1,50 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_data_exchange.lng"%%
+
+%%import_categories_logheader%en%%
+CATEGORIES:<br>
+%%import_categories_logheader%ru%%
+КАТЕГОРИИ:<br>
+
+%%import_items_logheader%en%%
+ITEMS:<br>
+%%import_items_logheader%ru%%
+ТОВАРЫ:<br>
+
+%%import_images_logheader%en%%
+IMAGES:<br>
+%%import_images_logheader%ru%%
+ИЗОБРАЖЕНИЯ:<br>
+
+%%dest_category%en%%
+Default category
+%%dest_category%ru%%
+Категория по умолчанию
+
+%%photoalbum_additional_params%en%%
+Photoalbum additional parameters
+%%photoalbum_additional_params%ru%%
+Дополнительные параметры фотоальбома
+
+%%photoalbum_cats_create%en%%
+Create albums with names like folder name
+%%photoalbum_cats_create%ru%%
+Создать альбомы с именами как у папок
+
+%%photoalbum_cats_use%en%%
+Import to default album
+%%photoalbum_cats_use%ru%%
+Импортировать все в альбом по умолчанию
+
+%%photoalbum_note%en%%
+All pictures from all folders will be copied to selected album. In case of automatic albums creation all root pictures will be copied to selected default album and others to created albums, else all pictures will be copied to default album.
+%%photoalbum_note%ru%%
+Все графические файлы из всех подпапок будут скопированы в выбранный альбом. Если выбрано автоматическое создание альбомов, то все картинки из корня импортируемой папки будут перемещены в выбранный альбом по умолчанию, а остальные в созданные альбомы, иначе все изображения будут перемещены в альбом по умолчанию.
+
+%%force_rewrite%en%%
+Rewrite existing pictures
+%%force_rewrite%ru%%
+Перезаписать существующие изображения
+
+%%photoalbum_delete_form%en%%
+%%photoalbum_delete_form%ru%%

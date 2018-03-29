@@ -1,0 +1,804 @@
+%%filter%en%%
+Filter
+%%filter%ru%%
+Фильтр
+
+%%flt_has_alias%en%%
+Has alias
+%%flt_has_alias%ru%%
+Есть алиас
+
+%%limit%en%%
+Items on page
+%%limit%ru%%
+Показывать по
+
+%%datefrom%en%%
+From:
+%%datefrom%ru%%
+С даты:
+
+%%dateto%en%%
+To:
+%%dateto%ru%%
+По дату:
+
+%%submit%en%%
+Apply
+%%submit%ru%%
+Применить
+
+%%adv_search%en%%
+Advanced search
+%%adv_search%ru%%
+Расширенный поиск
+
+%%collapse_search%en%%
+Hide
+%%collapse_search%ru%%
+Свернуть
+
+%%rst_filter%en%%
+Reset filter
+%%rst_filter%ru%%
+Сбросить фильтр
+
+%%appl_filter%en%%
+Apply filter
+%%appl_filter%ru%%
+Применить фильтр
+
+%%flt_header%en%%
+Header:
+%%flt_header%ru%%
+Заголовок:
+
+%%flt_cat_id%en%%
+Category:
+%%flt_cat_id%ru%%
+Категория:
+
+%%cat_id%en%%
+Category:
+%%cat_id%ru%%
+Категория:
+
+%%stat_id%en%%
+Status:
+%%stat_id%ru%%
+Статус:
+
+%%username%en%%
+Customer:
+%%username%ru%%
+ФИО:
+
+%%flt_username%en%%
+Login:
+%%flt_username%ru%%
+Логин:
+
+%%flt_nickname%en%%
+Nickname:
+%%flt_nickname%ru%%
+Nickname:
+
+%%flt_email%en%%
+E-mail:
+%%flt_email%ru%%
+Почта:
+
+%%type_id%en%%
+Type:
+%%type_id%ru%%
+Тип:
+
+%%flt_name%en%%
+Name:
+%%flt_name%ru%%
+Название:
+
+%%flt_eshop_item_name%en%%
+Item name:
+%%flt_eshop_item_name%ru%%
+Название товара:
+
+%%topic_id%en%%
+Topic:
+%%topic_id%ru%%
+Тема:
+
+%%flt_archive%en%%
+Show archived items
+%%flt_archive%ru%%
+Показывать архивные
+
+%%admin_stat_id%en%%
+Admin status:
+%%admin_stat_id%ru%%
+Админ. статус:
+
+%%flt_query%en%%
+Query:
+%%flt_query%ru%%
+Запрос:
+
+%%flt_amount%en%%
+Amount:
+%%flt_amount%ru%%
+Сумма:
+
+%%flt_debtors%en%%
+Debtors
+%%flt_debtors%ru%%
+Должники
+
+%%flt_owner%en%%
+Choose:
+%%flt_owner%ru%%
+Раздел:
+
+%%flt_module%en%%
+Module:
+%%flt_module%ru%%
+Модуль:
+
+%%flt_view_mode%en%%
+View mode:
+%%flt_view_mode%ru%%
+Режим просмотра:
+
+%%flt_module_name%en%%
+Module
+%%flt_module_name%ru%%
+Модуль
+
+%%group_id%en%%
+Group
+%%group_id%ru%%
+Группа
+
+%%flt_domain%en%%
+Domain:
+%%flt_domain%ru%%
+Домен:
+
+%%flt_login%en%%
+Login:
+%%flt_login%ru%%
+Логин:
+
+%%flt_ip%en%%
+IP:
+%%flt_ip%ru%%
+IP:
+
+%%flt_order_id%en%%
+Order #
+%%flt_order_id%ru%%
+№:
+
+%%flt_type%en%%
+Type:
+%%flt_type%ru%%
+Тип:
+
+%%flt_public%en%%
+Only public
+%%flt_public%ru%%
+Только опубликованные
+
+%%flt_id_page%en%%
+Page:
+%%flt_id_page%ru%%
+Страница:
+
+%%flt_code%en%%
+Code:
+%%flt_code%ru%%
+Код:
+
+%%flt_table_name%en%%
+Reference:
+%%flt_table_name%ru%%
+Справочник:
+
+%%flt_discount%en%%
+With discount
+%%flt_discount%ru%%
+Со скидкой
+
+%%flt_special%en%%
+Special
+%%flt_special%ru%%
+Специальные
+
+%%flt_btn_save%en%%
+Save
+%%flt_btn_save%ru%%
+Сохранить
+
+%%flt_grp_selected%en%%
+Only selected
+%%flt_grp_selected%ru%%
+Только выбранные
+
+%%flt_lastname%en%%
+Last name:
+%%flt_lastname%ru%%
+Фамилия:
+
+%%flt_firstname%en%%
+First name:
+%%flt_firstname%ru%%
+Имя:
+
+%%flt_daemon_ignore%en%%
+Do not expire
+%%flt_daemon_ignore%ru%%
+Лиц. не отслеживается
+
+%%flt_search%en%%
+Search:
+%%flt_search%ru%%
+Поиск:
+
+%%flt_ftp_status%en%%
+FTP enabled
+%%flt_ftp_status%ru%%
+FTP разрешен
+
+%%flt_is_demo_site%en%%
+Demo sites
+%%flt_is_demo_site%ru%%
+Демо-сайты
+
+%%flt_all_options%en%%
+Show all options
+%%flt_all_options%ru%%
+Показывать все параметры
+
+%%flt_paysrc%en%%
+Type:
+%%flt_paysrc%ru%%
+Тип:
+
+%%flt_doc_type%en%%
+Document:
+%%flt_doc_type%ru%%
+Документ:
+
+%%flt_paynum%en%%
+Order #
+%%flt_paynum%ru%%
+Номер документа:
+
+%%flt_date_zero_from%en%%
+Paid until: from
+%%flt_date_zero_from%ru%%
+Исчерпание баланса: от
+
+%%flt_date_zero_to%en%%
+to
+%%flt_date_zero_to%ru%%
+до
+
+%%flt_amount_from%en%%
+Balance from:
+%%flt_amount_from%ru%%
+Баланс от:
+
+%%flt_amount_to%en%%
+to:
+%%flt_amount_to%ru%%
+до:
+
+%%flt_amount_min_from%en%%
+Min. amount from:
+%%flt_amount_min_from%ru%%
+Мин. сумма от:
+
+%%flt_amount_min_to%en%%
+to:
+%%flt_amount_min_to%ru%%
+до:
+
+%%flt_billing_off%en%%
+Billing disabled
+%%flt_billing_off%ru%%
+Биллинг отключен
+
+%%flt_order_owner%en%%
+Order type:
+%%flt_order_owner%ru%%
+Тип заказа:
+
+%%gal_name%en%%
+Picture name:
+%%gal_name%ru%%
+Название картинки:
+
+%%flt_alb_cat_id%en%%
+Album:
+%%flt_alb_cat_id%ru%%
+Альбом:
+
+%%flt_subject_id%en%%
+Subject:
+%%flt_subject_id%ru%%
+Тема:
+
+%%flt_status%en%%
+Status:
+%%flt_status%ru%%
+Статус:
+
+%%flt_vacancy%en%%
+Vacancy:
+%%flt_vacancy%ru%%
+Вакансия:
+
+%%flt_flname%en%%
+Name:
+%%flt_flname%ru%%
+ФИО:
+
+%%flt_job_cat_id%en%%
+Department:
+%%flt_job_cat_id%ru%%
+Отдел:
+
+%%flt_dataset_id%en%%
+Property set:
+%%flt_dataset_id%ru%%
+Набор свойств:
+
+%%flt_is_prop%en%%
+Property type:
+%%flt_is_prop%ru%%
+Тип свойства:
+
+%%flt_admin_form%en%%
+Visible
+%%flt_admin_form%ru%%
+Видимые
+
+%%flt_advertiser_id%en%%
+Advertiser:
+%%flt_advertiser_id%ru%%
+Рекламодатель:
+
+%%flt_campaign_id%en%%
+Campaign:
+%%flt_campaign_id%ru%%
+Кампания:
+
+%%dayfrom%en%%
+From:
+%%dayfrom%ru%%
+С даты:
+
+%%dayto%en%%
+To:
+%%dayto%ru%%
+По дату:
+
+%%flt_groupby%en%%
+Group by:
+%%flt_groupby%ru%%
+Группировать по:
+
+%%flt_reportby%en%%
+Report by:
+%%flt_reportby%ru%%
+Отчет по:
+
+%%flt_place_id%en%%
+Advertisement place:
+%%flt_place_id%ru%%
+Рекламное место:
+
+%%flt_adv_places%en%%
+Place:
+%%flt_adv_places%ru%%
+Место:
+
+%%flt_banners%en%%
+Banner:
+%%flt_banners%ru%%
+Баннер:
+
+%%flt_modules%en%%
+Module:
+%%flt_modules%ru%%
+Модуль:
+
+%%flt_adv_item%en%%
+Item:
+%%flt_adv_item%ru%%
+Позиция:
+
+%%flt_type_group%en%%
+Group:
+%%flt_type_group%ru%%
+Группа:
+
+%%flt_audit_status%en%%
+Audit status
+%%flt_audit_status%ru%%
+Статус проверки
+
+%%flt_orig_status%en%%
+Original status
+%%flt_orig_status%ru%%
+Оригинальный статус
+
+%%flt_cmpg_type_id%en%%
+Campaign type
+%%flt_cmpg_type_id%ru%%
+Тип кампании
+
+%%flt_cmpg_status%en%%
+Status
+%%flt_cmpg_status%ru%%
+Статус
+
+%%flt_item_id%en%%
+Item ID
+%%flt_item_id%ru%%
+ID элемента
+
+%%ext_module%en%%
+Module:
+%%ext_module%ru%%
+Модуль:
+
+%%flt_ext_module%en%%
+Module:
+%%flt_ext_module%ru%%
+Модуль:
+
+%%flt_twist%en%%
+Twisted:
+%%flt_twist%ru%%
+Накрутка:
+
+%%flt_is_generated%en%%
+New visitor:
+%%flt_is_generated%ru%%
+Новый посетитель:
+
+%%flt_reason%en%%
+Reason:
+%%flt_reason%ru%%
+Причина:
+
+%%flt_kind%en%%
+Kind:
+%%flt_kind%ru%%
+Вид:
+
+%%flt_condition%en%%
+Discount application:
+%%flt_condition%ru%%
+Условия предоставления скидки:
+
+%%flt_shipping_method%en%%
+Shipping method:
+%%flt_shipping_method%ru%%
+Способ доставки:
+
+%%flt_value%en%%
+Shipping cost value:
+%%flt_value%ru%%
+Величина стоимости доставки:
+
+%%flt_custom_conditions%en%%
+Special terms:
+%%flt_custom_conditions%ru%%
+Особые условия:
+
+%%flt_custom_fields%en%%
+Set of fields:
+%%flt_custom_fields%ru%%
+Наборы полей:
+
+%%flt_doc_num%en%%
+Number:
+%%flt_doc_num%ru%%
+Номер:
+
+%%apply%en%%
+Apply filter
+%%apply%ru%%
+Применить фильтр
+
+%%reset%en%%
+Reset filter
+%%reset%ru%%
+Сбросить фильтр
+
+%%flt_report%en%%
+Report:
+%%flt_report%ru%%
+Отчет:
+
+%%flt_fnum%en%%
+Property number:
+%%flt_fnum%ru%%
+Номер свойства:
+
+%%flt_sys_name%en%%
+System name:
+%%flt_sys_name%ru%%
+Системное название:
+
+%%flt_question%en%%
+Question:
+%%flt_question%ru%%
+Вопрос:
+
+%%flt_fname%en%%
+File Name:
+%%flt_fname%ru%%
+Имя файла:
+
+%%flt_jobsname%en%%
+Position:
+%%flt_jobsname%ru%%
+Должность:
+
+%%flt_competitor%en%%
+Competitor:
+%%flt_competitor%ru%%
+Соискатель:
+
+%%flt_id_reseller%en%%
+Reseller:
+%%flt_id_reseller%ru%%
+Партнер:
+
+%%flt_daily%en%%
+Downpayments:
+%%flt_daily%ru%%
+Списания:
+
+%%flt_no_act%en%%
+Have no act
+%%flt_no_act%ru%%
+Не выставлен Акт/СФ
+
+%%flt_domain_type%en%%
+Domain type:
+%%flt_domain_type%ru%%
+Тип домена:
+
+%%flt_id_node%en%%
+Node:
+%%flt_id_node%ru%%
+Узел:
+
+%%flt_adv_block%en%%
+Block:
+%%flt_adv_block%ru%%
+Блок:
+
+%%flt_adv_page_url%en%%
+Page:
+%%flt_adv_page_url%ru%%
+Страница:
+
+%%flt_adv_url%en%%
+URL:
+%%flt_adv_url%ru%%
+URL:
+
+%%flt_adv_name%en%%
+Name:
+%%flt_adv_name%ru%%
+Название:
+
+%%flt_tpl_name%en%%
+Template:
+%%flt_tpl_name%ru%%
+Шаблон:
+
+%%flt_tpl_content%en%%
+Content:
+%%flt_tpl_content%ru%%
+Содержимое:
+
+%%flt_tpl_set%en%%
+Set:
+%%flt_tpl_set%ru%%
+Сет:
+
+%%flt_tpl_lang%en%%
+Variable:
+%%flt_tpl_lang%ru%%
+Переменная:
+
+%%flt_tpl_modules%en%%
+Module:
+%%flt_tpl_modules%ru%%
+Модуль:
+
+%%flt_tpl_module_name%en%%
+Module name:
+%%flt_tpl_module_name%ru%%
+Название модуля:
+
+%%flt_tpl_module_type%en%%
+Template type:
+%%flt_tpl_module_type%ru%%
+Тип шаблона:
+
+%%flt_urgent%en%%
+Sticky only
+%%flt_urgent%ru%%
+Только прикрепленные
+
+%%flt_item_links%en%%
+Item-links only
+%%flt_item_links%ru%%
+Только товары-ссылки
+
+%%flt_plugin_id%en%%
+Plugin ID
+%%flt_plugin_id%ru%%
+Идентификатор плагина
+
+%%flt_is_installed%en%%
+Installation status
+%%flt_is_installed%ru%%
+Состояние установки
+
+%%flt_coupon%en%%
+Coupon:
+%%flt_coupon%ru%%
+Купон:
+
+%%flt_used%en%%
+Used
+%%flt_used%ru%%
+Использованные
+
+%%flt_bind_member%en%%
+Apply to customer
+%%flt_bind_member%ru%%
+Привязка к пользователю
+
+%%flt_section_id%en%%
+Sections:
+%%flt_section_id%ru%%
+Разделы:
+
+%%flt_topics_only%en%%
+Topics
+%%flt_topics_only%ru%%
+Темы
+
+%%flt_locked%en%%
+Locked
+%%flt_locked%ru%%
+Закрытые
+
+%%flt_author%en%%
+Author:
+%%flt_author%ru%%
+Автор:
+
+%%flt_unanswered%en%%
+Unanswered
+%%flt_unanswered%ru%%
+Неотвеченные
+
+%%flt_jname%en%%
+Job:
+%%flt_jname%ru%%
+Должность:
+
+%%flt_tag%en%%
+Tag:
+%%flt_tag%ru%%
+Тег:
+
+%%flt_pages%en%%
+Advanced search pages:
+%%flt_pages%ru%%
+Страницы расширенного поиска:
+
+%%flt_query_group%en%%
+Group by queries
+%%flt_query_group%ru%%
+Группировать по запросам
+
+%%flt_show_modified_templates%en%%
+Show modified on disk templates only
+%%flt_show_modified_templates%ru%%
+Показывать только измененные на диске шаблоны
+
+%%flt_company%en%%
+Company:
+%%flt_company%ru%%
+Компания:
+
+%%flt_action%en%%
+Action:
+%%flt_action%ru%%
+Действие:
+
+%%flt_tax_class_code%en%%
+Tax class code:
+%%flt_tax_class_code%ru%%
+Код:
+
+%%flt_zip%en%%
+Zip/Postal:
+%%flt_zip%ru%%
+Индекс:
+
+%%flt_country%en%%
+Country:
+%%flt_country%ru%%
+Страна:
+
+%%flt_state%en%%
+State:
+%%flt_state%ru%%
+Область:
+
+%%flt_useragent%en%%
+User-Agent:
+%%flt_useragent%ru%%
+User-Agent:
+
+%%flt_method%en%%
+Method:
+%%flt_method%ru%%
+Метод:
+
+%%flt_id%en%%
+ID:
+%%flt_id%ru%%
+ID:
+
+%%flt_installed%en%%
+Installed
+%%flt_installed%ru%%
+Установлено
+
+%%flt_encoding%en%%
+Encoding:
+%%flt_encoding%ru%%
+Кодировка:
+
+%%flt_authoremail%en%%
+Author/E-mail:
+%%flt_authoremail%ru%%
+Автор/Почта:
+
+%%flt_info%en%%
+Information:
+%%flt_info%ru%%
+Информация:
+
+%%flt_id_dataset%en%%
+Element dataset:
+%%flt_id_dataset%ru%%
+Набор полей элемента:
+
+%%flt_module_id_dataset%en%%
+Dataset:
+%%flt_module_id_dataset%ru%%
+Набор полей:
+
+%%flt_sku%en%%
+SKU:
+%%flt_sku%ru%%
+Код:
+
+%%flt_id_external%en%%
+ID for data exchange:
+%%flt_id_external%ru%%
+ID для обмена данными:

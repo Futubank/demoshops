@@ -1,0 +1,40 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_view_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%announce%en%%
+Announce
+%%announce%ru%%
+Анонс
+
+%%eshop_view_add%en%%
+Add view
+%%eshop_view_add%ru%%
+Добавить отображение
+
+%%eshop_view_apply%en%%
+Edit view
+%%eshop_view_apply%ru%%
+Редактировать отображение
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%view_items%en%%
+View items
+%%view_items%ru%%
+Просмотр элементов
+
+%%multi_sites_select%en%%
+Select site
+%%multi_sites_select%ru%%
+Выберите сайт

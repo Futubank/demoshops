@@ -1,0 +1,61 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_user_add%en%%
+User was successfully added
+%%status_user_add%ru%%
+Пользователь был добавлен
+
+%%status_user_apply%en%%
+User data was successfully updated
+%%status_user_apply%ru%%
+Данные пользователя были обновлены
+
+%%status_user_del%en%%
+User was successfully deleted
+%%status_user_del%ru%%
+Пользователь был удалён
+
+%%status_reset%en%%
+Password has been reset, the new password has been emailed to member.
+%%status_reset%ru%%
+Пароль сброшен. Новый пароль выслан пользователю на электронный адрес.
+
+%%status_add_to_list%en%%
+User was added to the group
+%%status_add_to_list%ru%%
+Пользователь добавлен в группу
+
+%%status_remove_from_list%en%%
+User was removed from the group
+%%status_remove_from_list%ru%%
+Пользователь удалён из группы
+
+%%status_add_fail%en%%
+Member with this _login_field_ is already exists!
+%%status_add_fail%ru%%
+Пользователь с таким _login_field_ уже существует!
+
+%%login_field_username%en%%
+username
+%%login_field_username%ru%%
+логином
+
+%%login_field_email%en%%
+e-mail
+%%login_field_email%ru%%
+e-mail
+
+%%login_field_phone%en%%
+phone
+%%login_field_phone%ru%%
+телефоном
+
+%%login_field_nickname%en%%
+nickname
+%%login_field_nickname%ru%%
+ником
+
+%%status_admin_del_fail%en%%
+Site administrator cannot be deleted
+%%status_admin_del_fail%ru%%
+Удалить администратора сайта нельзя

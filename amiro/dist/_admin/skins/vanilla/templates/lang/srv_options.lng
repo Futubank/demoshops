@@ -1,0 +1,227 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%option%en%%
+Option
+%%option%ru%%
+Параметр
+
+%%value%en%%
+Value
+%%value%ru%%
+Значение
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%undo_changes_msg%en%%
+Undo changes of this option?
+%%undo_changes_msg%ru%%
+Отменить изменения этого параметра?
+
+%%core%en%%
+Core
+%%core%ru%%
+Ядро
+
+%%not_set_error%en%%
+ERROR: OPTION VALUE IS NOT SET!
+%%not_set_error%ru%%
+ОШИБКА: ЗНАЧЕНИЕ НЕ ЗАДАНО!
+
+%%not_set%en%%
+Is not set
+%%not_set%ru%%
+Не задано
+
+%%core_module%en%%
+Core
+%%core_module%ru%%
+Ядро
+
+%%empty%en%%
+This module has no options
+%%empty%ru%%
+Данный модуль не имеет настроек
+
+%%apply_btn%en%%
+Apply changes
+%%apply_btn%ru%%
+Применить изменения
+
+%%set_modules%en%%
+Delete personal options of module on the following pages:
+%%set_modules%ru%%
+Удалить персональные настройки модуля на страницах:
+
+%%set_specblocks%en%%
+Delete personal options of the following specblocks of module:
+%%set_specblocks%ru%%
+Удалить персональные настройки спецблоков модуля:
+
+%%in_page%en%%
+in the body of page
+%%in_page%ru%%
+в теле страницы
+
+%%on_page%en%%
+on the page
+%%on_page%ru%%
+на странице
+
+%%in_layout%en%%
+in the layout
+%%in_layout%ru%%
+в макете
+
+%%in_block%en%%
+in the block
+%%in_block%ru%%
+в блоке
+
+%%in_protected_block%en%%
+in the protected block
+%%in_protected_block%ru%%
+в защищенном блоке
+
+%%select%en%%
+Select
+%%select%ru%%
+Выбрать
+
+%%switch_group%en%%
+Click to open/close the group of options
+%%switch_group%ru%%
+Нажмите чтобы открыть/закрыть группу параметров
+
+%%inherit_from%en%%
+Inherit from
+%%inherit_from%ru%%
+Наследовать от
+
+%%following_inherited_options%en%%
+Following inherited options will be changed
+%%following_inherited_options%ru%%
+Следующие наследуемые параметры изменятся
+
+%%from_parameter%en%%
+From parameter
+%%from_parameter%ru%%
+От параметра
+
+%%continue%en%%
+Continue
+%%continue%ru%%
+Продолжить
+
+%%dont_inherit%en%%
+Do not inherit
+%%dont_inherit%ru%%
+Не наследовать
+
+%%inherited_option%en%%
+Inherited option
+%%inherited_option%ru%%
+Параметр наследуется
+
+%%by_default%en%%
+By default
+%%by_default%ru%%
+По умолчанию
+
+%%common_settings%en%%
+Common module settings
+%%common_settings%ru%%
+Перейти к общим настройкам
+
+%%view_mode%en%%
+View mode:
+%%view_mode%ru%%
+Режим просмотра
+
+%%view_mode_0%en%%
+Full
+%%view_mode_0%ru%%
+Полный
+
+%%view_mode_100%en%%
+Short
+%%view_mode_100%ru%%
+Сокращенный
+
+%%srv_options_add%en%%
+%%srv_options_add%ru%%
+
+%%srv_options_start_type_mod_name%en%%
+Start typing module name...
+%%srv_options_start_type_mod_name%ru%%
+Начните набирать имя модуля...
+
+%%srv_options_start_type_opt_name%en%%
+Start typing param name...
+%%srv_options_start_type_opt_name%ru%%
+Начните набирать имя параметра...
+
+%%srv_options_not_found%en%%
+Found nothing
+%%srv_options_not_found%ru%%
+Совпадений не найдено
+
+%%srv_options_too_much%en%%
+First __count__ matches of total __total__ shown
+%%srv_options_too_much%ru%%
+Показаны первые __count__ совпадений из __total__
+
+%%srv_options_count_msg1%en%%
+Search by __count__ options
+%%srv_options_count_msg1%ru%%
+Поиск по __count__ настройке
+
+%%srv_options_count_msg2%en%%
+Search by __count__ options
+%%srv_options_count_msg2%ru%%
+Поиск по __count__ настройкам
+
+%%srv_options_search_this_module%en%%
+Search in current module only
+%%srv_options_search_this_module%ru%%
+Искать только в текущем модуле
+
+%%srv_options_searc_in_descriptions%en%%
+Search in descriptions
+%%srv_options_searc_in_descriptions%ru%%
+Искать в описаниях
+
+%%srv_options_search_settings%en%%
+SEARCH SETTINGS
+%%srv_options_search_settings%ru%%
+НАСТРОЙКИ ПОИСКА
+
+%%srv_options_common_settings%en%%
+Common module settings
+%%srv_options_common_settings%ru%%
+Общие настройки
+
+%%srv_options_popup_title%en%%
+SETTINGS
+%%srv_options_popup_title%ru%%
+НАСТРОЙКИ
+
+%%srv_options_not_installed%en%%
+Access forbidden for module settings.
+%%srv_options_not_installed%ru%%
+Отсутствует доступ к этому разделу.
+
+%%apply_btn_skin%en%%
+Save
+%%apply_btn_skin%ru%%
+Сохранить
+
+%%cancell_btn_skin%en%%
+Cancell
+%%cancell_btn_skin%ru%%
+Отменить

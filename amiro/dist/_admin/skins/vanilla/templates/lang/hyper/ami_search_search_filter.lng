@@ -1,0 +1,22 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Query
+%%filter_field_header%ru%%
+Запрос
+
+%%filter_field_group%en%%
+Group by queries
+%%filter_field_group%ru%%
+Группировать по запросам
+
+%%filter_field_pages%en%%
+Advanced search pages
+%%filter_field_pages%ru%%
+Страницы расширенного поиска
+
+%%common_item%en%%
+All
+%%common_item%ru%%
+Все

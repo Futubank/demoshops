@@ -1,0 +1,346 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_hst_subscriptions_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%hst_subscriptions_add%en%%
+Add subscription
+%%hst_subscriptions_add%ru%%
+Добавить договор
+
+%%hst_subscriptions_apply%en%%
+Edit subscription
+%%hst_subscriptions_apply%ru%%
+Редактировать договор
+
+%%date_start%en%%
+Date start
+%%date_start%ru%%
+Дата начала
+
+%%date_end%en%%
+Date end
+%%date_end%ru%%
+Дата окончания
+
+%%firstname%en%%
+First name
+%%firstname%ru%%
+Имя
+
+%%lastname%en%%
+Last name
+%%lastname%ru%%
+Фамилия
+
+%%clientname%en%%
+Client
+%%clientname%ru%%
+Клиент
+
+%%tariff%en%%
+Tariff
+%%tariff%ru%%
+Тариф
+
+%%by_tariff%en%%
+By tariff
+%%by_tariff%ru%%
+По тарифу
+
+%%period_mon%en%%
+Period, mon.
+%%period_mon%ru%%
+Период, мес.
+
+%%domains%en%%
+Domains
+%%domains%ru%%
+Домены
+
+%%email_add_footer%en%%
+Email add footer
+%%email_add_footer%ru%%
+Ставить подпись в почте
+
+%%os_user%en%%
+OS user
+%%os_user%ru%%
+ОС пользователь
+
+%%os_group%en%%
+OS group
+%%os_group%ru%%
+OS group
+
+%%locked%en%%
+Blocked
+%%locked%ru%%
+Заблокирован
+
+%%active_state%en%%
+Active state
+%%active_state%ru%%
+Состояние активности
+
+%%active%en%%
+Active
+%%active%ru%%
+Активный
+
+%%half_blocked%en%%
+Half-blocked
+%%half_blocked%ru%%
+Часточно заблокирован
+
+%%blocked%en%%
+Blocked
+%%blocked%ru%%
+Заблокирован
+
+%%balance%en%%
+Balance
+%%balance%ru%%
+Баланс
+
+%%client%en%%
+Client
+%%client%ru%%
+Клиент
+
+%%select_client%en%%
+Select the client
+%%select_client%ru%%
+Выберите клиента
+
+%%select_tariff%en%%
+Select the tariff
+%%select_tariff%ru%%
+Выберите тариф
+
+%%all_tariffs%en%%
+All tariffs
+%%all_tariffs%ru%%
+Все тарифы
+
+%%hst_add_packages_button%en%%
+Add packages
+%%hst_add_packages_button%ru%%
+Добавить пакеты
+
+%%hst_add_packages%en%%
+Adding the packages
+%%hst_add_packages%ru%%
+Добавление пакетов
+
+%%mon%en%%
+mon
+%%mon%ru%%
+мес
+
+%%packages%en%%
+Packages
+%%packages%ru%%
+Пакеты
+
+%%pkg_name%en%%
+Package name
+%%pkg_name%ru%%
+Название пакета
+
+%%price_of_month%en%%
+Price of month
+%%price_of_month%ru%%
+Цена за месяц
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена
+
+%%cost%en%%
+Cost
+%%cost%ru%%
+Стоимость
+
+%%setup_cost%en%%
+Setup fee
+%%setup_cost%ru%%
+Стоимость установки
+
+%%setup_fee%en%%
+Setup fee
+%%setup_fee%ru%%
+Плата за установку
+
+%%buyed_count%en%%
+Buyed count
+%%buyed_count%ru%%
+Куплено пакетов
+
+%%buy_count%en%%
+Buy
+%%buy_count%ru%%
+Купить
+
+%%buy_pkg_count%en%%
+Buy count
+%%buy_pkg_count%ru%%
+<span style='color: blue'>Купить пакетов</span>
+
+%%adtn_pkgs%en%%
+Additional packages
+%%adtn_pkgs%ru%%
+Доп. пакеты
+
+%%total%en%%
+Total
+%%total%ru%%
+Всего
+
+%%total_packages%en%%
+Total count
+%%total_packages%ru%%
+Всего пакетов
+
+%%packages_price%en%%
+Packages price
+%%packages_price%ru%%
+Стоимость пакетов
+
+%%total_price%en%%
+Price total
+%%total_price%ru%%
+Итого
+
+%%current_s%en%%
+Current
+%%current_s%ru%%
+Текущая
+
+%%new_s%en%%
+New
+%%new_s%ru%%
+Новая
+
+%%do_add_packages%en%%
+Add packages
+%%do_add_packages%ru%%
+Добавить пакеты
+
+%%included%en%%
+Included
+%%included%ru%%
+Включено
+
+%%number%en%%
+#
+%%number%ru%%
+№
+
+%%icon_active_on%en%%
+Click here to lock.
+%%icon_active_on%ru%%
+Нажмите здесь чтобы заблокировать.
+
+%%icon_active_off%en%%
+Click here to unlock.
+%%icon_active_off%ru%%
+Нажмите здесь чтобы разблокировать.
+
+%%hst_subscriptions_delete_form%en%%
+Deleting subscription
+%%hst_subscriptions_delete_form%ru%%
+Удаление договора
+
+%%del_move_other%en%%
+Move subscription resources to another subscription
+%%del_move_other%ru%%
+Перенести ресурсы удаляемого договора на другой договор
+
+%%del_with_items%en%%
+Delete the subscription with its resources
+%%del_with_items%ru%%
+Удалить договор вместе со всеми ресурсами
+
+%%resources%en%%
+Resources
+%%resources%ru%%
+Ресурсы
+
+%%using_in_this_month%en%%
+Using in this month
+%%using_in_this_month%ru%%
+Используется в текущем месяце
+
+%%tariff_bound%en%%
+Tariff bound
+%%tariff_bound%ru%%
+Максимум на тарифе
+
+%%subs_bound%en%%
+Available
+%%subs_bound%ru%%
+Доступно
+
+%%no_resources%en%%
+This subscription have no resources.
+%%no_resources%ru%%
+На данном договоре нет ресурсов.
+
+%%resource%en%%
+Resource
+%%resource%ru%%
+Ресурс
+
+%%select_another_tariff%en%%
+select another tariff
+%%select_another_tariff%ru%%
+выбрать другой тариф
+
+%%hst_select_tariff%en%%
+Select the tariff
+%%hst_select_tariff%ru%%
+Выбор тарифа
+
+%%period%en%%
+Period
+%%period%ru%%
+Период
+
+%%comments%en%%
+Comments
+%%comments%ru%%
+Комментарии
+
+%%used_resource%en%%
+Used resource
+%%used_resource%ru%%
+Используемый ресурс
+
+%%exceed_maximum%en%%
+Exceed maximum
+%%exceed_maximum%ru%%
+превышает максимум
+
+%%not_available_in_tariff%en%%
+not available in tariff
+%%not_available_in_tariff%ru%%
+не доступен в тарифе
+
+%%not_available_to_buy_in_tariff%en%%
+not available in tariff in used count
+%%not_available_to_buy_in_tariff%ru%%
+не доступен в тарифе в используемом количестве
+
+%%not_defined%en%%
+not defined
+%%not_defined%ru%%
+не задан
+
+%%recalc_legend%en%%
+<b>Legend:</b> <span style='color: red; font-weight: bold;'>Red</span> - over than available values, <span style='color: blue; font-weight: bold;'>Blue</span> - new values
+%%recalc_legend%ru%%
+<b>Легенда:</b> <span style='color: red; font-weight: bold;'>Красный</span> - превышение допустимых значений, <span style='color: blue; font-weight: bold;'>Синий</span> - новые значиения

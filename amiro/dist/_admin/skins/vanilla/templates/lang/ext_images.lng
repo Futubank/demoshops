@@ -1,0 +1,36 @@
+%%include_language "templates/lang/main.lng"%%
+
+%%images%en%%
+Images
+%%images%ru%%
+Изображения
+
+%%picture%en%%
+In details
+%%picture%ru%%
+В деталях
+
+%%popup_picture%en%%
+Popup
+%%popup_picture%ru%%
+Всплывающее
+  
+%%small_picture%en%%
+In list
+%%small_picture%ru%%
+В списке
+
+%%picture_generated%en%%
+generated picture
+%%picture_generated%ru%%
+созданное изображение
+
+%%generated%en%%
+generated
+%%generated%ru%%
+сгенерировано
+
+%%click_to_change%en%%
+Click to either add or change the Image
+%%click_to_change%ru%%
+Кликните чтобы добавить или изменить изображение

@@ -1,0 +1,25 @@
+##--system info: module_owner="services" module="mod_manager" system="1"--##
+%%header%en%%
+Unable to execute query
+%%header%ru%%
+Невозможно выполнить запрос
+
+%%content%en%%
+Module is already installing/uninstalling right now or installation was interrupted unsuccessfully.<br />
+%%content%ru%%
+В данный момент уже происходит установка/удаление модуля или процесс установки был завершен не успешно.<br />
+
+%%repeat_after%en%%
+Repeat after
+%%repeat_after%ru%%
+Повторить попытку можно будет через
+
+%%repeat_after_sec%en%%
+sec
+%%repeat_after_sec%ru%%
+сек
+
+%%repeat%en%%
+Repeat again please.
+%%repeat%ru%%
+Попробуйте еще раз.

@@ -1,0 +1,24 @@
+%%archive_size%en%%
+Term of elements' lifetime
+%%archive_size%ru%%
+Срок хранения элементов
+
+%%archive_period%en%%
+Group items with period
+%%archive_period%ru%%
+Период группировки
+
+%%show_count_blog%en%%
+Show count of items in period
+%%show_count_blog%ru%%
+Отображать количество элементов в периоде
+
+%%archive_page_size%en%%
+Show periods on page
+%%archive_page_size%ru%%
+Количество периодов на странице
+
+%%show_only_archived%en%%
+Show archived items only
+%%show_only_archived%ru%%
+Показывать только архивные

@@ -1,0 +1,46 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_maxds_fail%en%%
+Maximum number of datasets exceeded.
+%%status_maxds_fail%ru%%
+Превышено максимально допустимое количество наборов полей.
+
+%%status_del_sys_fail%en%%
+System custom fields dataset was not deleted!
+%%status_del_sys_fail%ru%%
+Системный набор полей не был удален!
+
+%%status_apply%en%%
+Custom fields dataset was changed.
+%%status_apply%ru%%
+Набор полей изменен.
+
+%%status_del%en%%
+Custom fields dataset was deleted.
+%%status_del%ru%%
+Набор полей удален.
+
+%%status_del_fail%en%%
+Custom fields dataset was not deleted.
+%%status_del_fail%ru%%
+Набор полей не был удален.
+
+%%status_add%en%%
+Custom fields dataset was added.
+%%status_add%ru%%
+Набор полей добавлен.
+
+%%status_add_fail%en%%
+Custom fields dataset was not added.
+%%status_add_fail%ru%%
+Набор полей не добавлен.
+
+%%status_copy%en%%
+Custom fields dataset was copied.
+%%status_copy%ru%%
+Набор полей скопирован.
+
+%%status_copy_fail%en%%
+Custom fields dataset was not copied.
+%%status_copy_fail%ru%%
+Набор полей не скопирован.

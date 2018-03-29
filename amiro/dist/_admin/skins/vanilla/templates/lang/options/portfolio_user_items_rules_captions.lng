@@ -1,0 +1,6 @@
+%%include_language "templates/lang/options/eshop_user_items_rules_captions.lng"%%
+
+%%publish%en%%
+Auto-publish new user projects
+%%publish%ru%%
+Автоматически публиковать новые проекты пользователя

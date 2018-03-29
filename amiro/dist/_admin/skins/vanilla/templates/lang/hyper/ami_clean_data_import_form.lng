@@ -1,0 +1,186 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_tab_data_task%en%%
+Executing settings
+%%form_tab_data_task%ru%%
+Параметры запуска
+
+%%form_tab_data_driver%en%%
+Import settings
+%%form_tab_data_driver%ru%%
+Настройки импорта
+
+%%caption_public%en%%
+Is task active
+%%caption_public%ru%%
+Задача активна
+
+%%form_field_public%en%%
+Is task active
+%%form_field_public%ru%%
+Задача активна
+
+%%caption_driver_name%en%%
+Import type
+%%caption_driver_name%ru%%
+Тип импорта
+
+%%caption_header%en%%
+Task name
+%%caption_header%ru%%
+Название задачи
+
+%%caption_source_url%en%%
+Data url
+%%caption_source_url%ru%%
+URL источника
+
+%%caption_frequency%en%%
+Import frequency
+%%caption_frequency%ru%%
+Частота запуска
+
+%%caption_update_start%en%%
+Import start
+%%caption_update_start%ru%%
+Разрешить импорт в промежуток времени
+
+%%caption_update_start2%en%%
+Import end
+%%caption_update_start2%ru%%
+Окончание импорта
+
+%%caption_driver_no_fields%en%%
+This driver has no editable settings
+%%caption_driver_no_fields%ru%%
+Этот драйвер не имеет настраиваемых параметров
+
+%%ami_rss_driver_name%en%%
+RSS import
+%%ami_rss_driver_name%ru%%
+Импорт RSS
+
+%%ami_csv_driver_name%en%%
+CSV import
+%%ami_csv_driver_name%ru%%
+Импорт из CSV
+
+%%frequency_0%en%%
+Only by user executing
+%%frequency_0%ru%%
+Запускается пользователем
+
+%%frequency_12h%en%%
+Two times per day
+%%frequency_12h%ru%%
+Два раза в сутки
+
+%%frequency_24h%en%%
+One time per day
+%%frequency_24h%ru%%
+Раз в сутки
+
+%%frequency_1w%en%%
+One time per week
+%%frequency_1w%ru%%
+Раз в неделю
+
+%%frequency_1m%en%%
+One time per month
+%%frequency_1m%ru%%
+Раз в месяц
+
+%%form_validate_update_start_not_valid%en%%
+Update period is not valud!
+%%form_validate_update_start_not_valid%ru%%
+Период импорта задан неверно!
+
+%%caption_table_name%en%%
+Destination table
+%%caption_table_name%ru%%
+Модуль назначения
+
+%%caption_table_fields%en%%
+Module fields (',' is delimiter)
+%%caption_table_fields%ru%%
+Поля модуля (',' - разделитель)
+
+%%caption_import_fields%en%%
+Import fields
+%%caption_import_fields%ru%%
+Соответствующие поля импорта
+
+%%caption_strip_tags%en%%
+Strip HTML
+%%caption_strip_tags%ru%%
+Вырезать HTML
+
+%%caption_strip_tags%en%%
+Strip HTML
+%%caption_strip_tags%ru%%
+Вырезать HTML
+
+%%caption_rss_type%en%%
+RSS feed type
+%%caption_rss_type%ru%%
+Тип RSS ленты
+
+%%rss_type_10%en%%
+RSS 1.0
+%%rss_type_10%ru%%
+RSS 1.0
+
+%%rss_type_20%en%%
+RSS 2.0
+%%rss_type_20%ru%%
+RSS 2.0
+
+%%rss_type_atom10%en%%
+Atom 1.0
+%%rss_type_atom10%ru%%
+Atom 1.0
+
+%%form_field_csv_delimiter%en%%
+CSV delimiter
+%%form_field_csv_delimiter%ru%%
+Разделитель
+
+%%form_field_csv_enclosure%en%%
+CSV border enclosure
+%%form_field_csv_enclosure%ru%%
+CSV ограничитель
+
+%%form_field_file_name%en%%
+File in FTP folder
+%%form_field_file_name%ru%%
+Файл в папке FTP
+
+%%hint_file_name%en%%
+File must be uploaded into _mod_files/upload/ folder
+%%hint_file_name%ru%%
+Файл должен быть загружен в папку _mod_files/upload/
+
+%%csv_files_not_found%en%%
+No csv files found in the folder
+%%csv_files_not_found%ru%%
+Нет доступных csv файлов
+
+%%form_field_id_cat%en%%
+Category Id
+%%form_field_id_cat%ru%%
+Id категории
+
+%%form_field_allow_duplicate%en%%
+##--Allow duplicate records--##
+Allow repeated import of items
+%%form_field_allow_duplicate%ru%%
+Допускать повторный импорт элементов
+##--Допускать дубли элементов--##
+
+%%no_destination_modules%en%%
+Import is supported to next Multifeeds configurations: 'News', 'Blog', 'Articles'.<br />
+You can set up its from <a href="engine.php?mod_id=ami_market" style="font-weight: bold;">Market &raquo;</a>.
+%%no_destination_modules%ru%%
+Импорт поддерживается в следующие конфигурации инфолент: 'Новости', 'Блог', 'Статьи'.<br />
+Вы можете установить их из <a href="engine.php?mod_id=ami_market" style="font-weight: bold;">маркета &raquo;</a>.

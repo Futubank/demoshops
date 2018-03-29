@@ -1,0 +1,86 @@
+%%dateformat_front%en%%
+Date format
+%%dateformat_front%ru%%
+Формат даты
+
+%%allow_multi_lang%en%%
+Multilanguage support
+%%allow_multi_lang%ru%%
+Многоязычная поддержка
+
+%%default_gui_lang%en%%
+Admin interface default language
+%%default_gui_lang%ru%%
+Язык интерфейса администратора "по умолчанию"
+
+%%default_data_lang%en%%
+Site data default language
+%%default_data_lang%ru%%
+Язык данных "по умолчанию"
+
+%%company_name%en%%
+Company name
+%%company_name%ru%%
+Название компании
+
+%%company_url%en%%
+Company site link
+%%company_url%ru%%
+Ссылка на сайт компании
+
+%%company_email%en%%
+Company email
+%%company_email%ru%%
+Email компании
+
+%%company_robot_email%en%%
+Mail sender email
+%%company_robot_email%ru%%
+Email рассыльщика почты
+
+%%errors_notification_email%en%%
+Notification email for errors
+%%errors_notification_email%ru%%
+Email для нотификации об ошибках
+
+%%auto_redirect_by_lang%en%%
+Auto detect front side browser language
+%%auto_redirect_by_lang%ru%%
+Автоматическое определение языка браузера клиента
+
+%%use_front_filter_cookie%en%%
+Strore front list sorting in the cookie
+%%use_front_filter_cookie%ru%%
+Сохранять сортировку списка для общедоступной части сайта в cookie
+
+%%html_protecting%en%%
+HTML protect options
+%%html_protecting%ru%%
+Защита HTML
+
+%%php_memory_limit%en%%
+PHP memory limit (bytes)
+%%php_memory_limit%ru%%
+Ограничение памяти PHP (байт)
+
+%%images_generator_lib%en%%
+Most priority functions library for images manipulating
+%%images_generator_lib%ru%%
+Приоритетная библиотека функций для манипуляции изображениями
+
+%%use_user_groups_at_front%en%%
+Use user groups at front side<br />
+<span style="font-style: italic; color: red;">Enabling this option can reduce performance and faster filling of system cache</span>
+%%use_user_groups_at_front%ru%%
+Использовать разбиение пользователей по группам на общедоступной части сайта<br />
+<span style="font-style: italic; color: red;">Не включайте без необходимости. Использование групп приводит к замедлению производительности и кратному заполнению кеша системы.</span>
+
+%%allow_edit_at_front%en%%
+Allow editing at front side (edit-in-place)
+%%allow_edit_at_front%ru%%
+Разрешить редактирование на публичной части сайта (edit-in-place)
+
+%%spl_notification%en%%
+Notifications
+%%spl_notification%ru%%
+Уведомления

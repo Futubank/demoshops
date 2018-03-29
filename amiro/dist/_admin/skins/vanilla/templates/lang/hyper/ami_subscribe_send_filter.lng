@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_id_topic%en%%
+Topic
+%%filter_field_id_topic%ru%%
+Тема
+
+%%flt_all_topics%en%%
+All
+%%flt_all_topics%ru%%
+Все

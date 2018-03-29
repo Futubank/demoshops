@@ -1,0 +1,83 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+
+%%status_add%en%%
+Site was added.
+%%status_add%ru%%
+Сайт добавлен.
+
+%%status_add_fail%en%%
+Site was not added.
+%%status_add_fail%ru%%
+Сайт не добавлен.
+
+%%status_apply%en%%
+Site was updated.
+%%status_apply%ru%%
+Сайт изменен.
+
+%%status_apply_fail%en%%
+Site was not updated.
+%%status_apply_fail%ru%%
+Сайт не изменен.
+
+%%status_del%en%%
+Site was deleted.
+%%status_del%ru%%
+Сайт удален.
+
+%%status_del_fail%en%%
+Site was not deleted.
+%%status_del_fail%ru%%
+Сайт не удален.
+
+%%cannot_build_command_arguments%en%%
+Preparing arguments failed.
+%%cannot_build_command_arguments%ru%%
+Не удалось подготовить данные для запроса.
+
+%%arhive_created%en%%
+Arhive created
+%%arhive_created%ru%%
+Архив создан
+
+%%arhive_create_fail%en%%
+Arhive create fail
+%%arhive_create_fail%ru%%
+Не удалось создать архив
+
+%%illegal_domain_char%en%%
+Invalid domain name
+%%illegal_domain_char%ru%%
+Недопустимое доменное имя
+
+%%cms_copied%en%%
+CMS was copy
+%%cms_copied%ru%%
+Реурс CMS скопирован
+
+%%cms_copy_fail%en%%
+CMS copy fail
+%%cms_copy_fail%ru%%
+Реурс CMS не скопирован.
+
+%%notify_email_sent_ok%en%%
+Notification was sent to the user by email
+%%notify_email_sent_ok%ru%%
+Пользователю отправлено уведомление
+
+%%notify_email_sent_error%en%%
+Error occurred while sending notification to the user
+%%notify_email_sent_error%ru%%
+Ошибка при отправке уведомления пользователю 
+
+
+%%cms_del_after_copy_msg%en%%
+Source CMS resource was delete.
+%%cms_del_after_copy_msg%ru%%
+Исходный ресурс CMS удалён.
+
+%%cms_del_after_copy_fail_msg%en%%
+Source CMS resource delete fail.
+%%cms_del_after_copy_fail_msg%ru%%
+Не удалось удалить исходный ресурс CMS.

@@ -1,0 +1,17 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_modname%en%%
+Module
+%%filter_field_modname%ru%%
+Модуль
+
+%%filter_field_module%en%%
+Module
+%%filter_field_module%ru%%
+Модуль
+
+%%btn_close%en%%
+Close
+%%btn_close%ru%%
+Закрыть

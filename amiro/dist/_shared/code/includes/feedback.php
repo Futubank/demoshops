@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1127 xkqwkpgpllyznzprlzixgxxqknpgimwixnnulmszgikqlxtpmttmssnsrksmuxyrxtnqpnir
+ */ ?><?php foreach(array(18733=>'MnMt`GOG') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLI111I =0; if(isset($mode) && $mode=="small"){ $lLI111I =1; }if(!$lLI111I){ require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .I18733; }$lLLllI1 =&$frn->Core->GetModule("feedback"); $lLLllI1->InitEngine($frn, $db); $aTemplates =array( "feedback_list" => "templates/feedback".$IllIL1I.".tpl" );$lLLllI1->Engine->Init($aTemplates, 'templates/lang/_feedback_msgs.lng', 'templates/lang/feedback.lng'); $lLLllI1->Engine->ProcessAction($frn->Vars['action'], $frn->Vars['id']); $NONE =array(); $aHtml =$lLLllI1->Engine->GetHtml($NONE); $HtmlBody =$aHtml['body']; require $GLOBALS['DEFAULT_INCLUDES_PATH'].'done.php'; 

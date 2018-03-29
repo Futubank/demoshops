@@ -1,0 +1,11 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+##-- form { --##
+
+%%form_image_warn%en%%
+Please, select popup or regular picture!
+%%form_image_warn%ru%%
+Пожалуйста, выберите всплывающее или обычное изображение!
+
+##-- } form --##

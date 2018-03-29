@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Contact
+%%filter_field_header%ru%%
+Информация
+
+%%filter_field_author%en%%
+Author/E-mail
+%%filter_field_author%ru%%
+Автор/Почта

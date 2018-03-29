@@ -1,0 +1,46 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Subject was added.
+%%status_add%ru%%
+Тема добавлена.
+
+%%status_apply%en%%
+Subject was updated.
+%%status_apply%ru%%
+Тема изменена.
+
+%%status_del%en%%
+Subject was deleted. All subordinate questions were deleted.
+%%status_del%ru%%
+Тема удалена. Все вопросы из этой темы удалены.
+
+%%grp_delete_warn%en%%
+Delete selected subjects? All subordinate questions will be deleted.
+%%grp_delete_warn%ru%%
+Удалить выбранные темы? Все вопросы из этих тем будут удалены.
+
+%%status_apply_warn_link_symb%en%%
+The subject's link contains not allowed symbols. Link was not changed.
+%%status_apply_warn_link_symb%ru%%
+Путь темы содержит недопустимые символы. Ссылка не изменена.
+
+%%status_apply_warn_link%en%%
+Subject with the same link is already present. Link was not changed.<br> Subject name with the same link is:
+%%status_apply_warn_link%ru%%
+Тема с такой же ссылкой уже есть. Ссылка не изменена.<br> Тема с такой же ссылкой:
+
+%%status_add_warn_link%en%%
+Subject with the same link is already present. Link is cleared.<br> Subject name with the same link is:
+%%status_add_warn_link%ru%%
+Тема с такой же ссылкой уже есть. Ссылка очищена.<br> Тема с такой же ссылкой:
+
+%%status_add_warn_link_symb%en%%
+The subject's link contains forbidden symbols. Link was cleared.
+%%status_add_warn_link_symb%ru%%
+Путь темы содержит недопустимые символы. Ссылка очищена.
+
+%%status_repair_counters%en%%
+The counters of items of subjects were repaired.
+%%status_repair_counters%ru%%
+Счетчики элементов тем восстановлены.

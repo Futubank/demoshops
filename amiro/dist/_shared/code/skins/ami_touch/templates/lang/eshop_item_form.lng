@@ -1,0 +1,91 @@
+##--system info: module_owner="" module="" system="1"--##
+
+%%form_field_price%en%%
+Price
+%%form_field_price%ru%%
+Цена
+
+%%form_tab_special_announce_tab%en%%
+Special announce
+%%form_tab_special_announce_tab%ru%%
+Спец. анонс
+
+%%form_tab_special_announce_tab%en%%
+Special announce
+%%form_tab_special_announce_tab%ru%%
+Спец. анонс
+
+%%form_tab_body_tab%en%%
+Description
+%%form_tab_body_tab%ru%%
+Описание
+
+##-- extra prices, discount { --##
+
+%%form_tab_extra_prices_tab%en%%
+Prices
+%%form_tab_extra_prices_tab%ru%%
+Цены
+
+%%exta_price_caption%en%%
+Caption
+%%exta_price_caption%ru%%
+Название
+
+%%exta_price_fixed_price%en%%
+Fixed price
+%%exta_price_fixed_price%ru%%
+Фиксированная цена
+
+%%exta_price_use_formula%en%%
+Use formula
+%%exta_price_use_formula%ru%%
+Использовать формулу
+
+%%form_field_discount%en%%
+Discount
+%%form_field_discount%ru%%
+Скидка
+
+%%form_field_discount_type%en%%
+%%form_field_discount_type%ru%%
+
+##-- } extra prices, discount --##
+##-- special flags { --##
+
+%%section_special_flags%en%%
+Special flags
+%%section_special_flags%ru%%
+Специальные признаки
+
+%%special_flag_0%en%%
+On Special
+%%special_flag_0%ru%%
+Специальный
+
+##-- } special flags --##
+
+%%form_field_max_quantity%en%%
+Max quantity for order (0 - unlimited)
+%%form_field_max_quantity%ru%%
+Максимальное кол-во в заказе (0 - неограничено)
+
+%%form_field_weight%en%%
+Weight
+%%form_field_weight%ru%%
+Вес
+
+%%form_field_size%en%%
+Size
+%%form_field_size%ru%%
+Размер
+
+%%form_field_rest%en%%
+Rest
+%%form_field_rest%ru%%
+Остаток
+
+%%form_field_id_external%en%%
+Id used for data exchange
+%%form_field_id_external%ru%%
+Идентификатор, используемый для обмена данными

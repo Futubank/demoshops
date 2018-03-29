@@ -1,0 +1,46 @@
+%%include_language "_shared/code/templates/lang/_common_msgs.lng"%%
+
+%%sku_warn%en%%
+Please, enter the SKU!
+%%sku_warn%ru%%
+Пожалуйста, введите Код!
+
+%%other_prices_warn%en%%
+Please, enter the Other Prices!
+%%other_prices_warn%ru%%
+Пожалуйста, введите дополнительные цены!
+
+%%change_cat_warning%en%%
+Attention! The page will be reloaded. The earlier made changes will be lost. Do you want to continue?
+%%change_cat_warning%ru%%
+Внимание! Страница будет обновлена. Ранее сделанные изменения будут потеряны. Продолжить?
+
+%%status_add%en%%
+Eshop item was added.
+%%status_add%ru%%
+Товар добавлен.
+
+%%status_apply%en%%
+Eshop item was updated.
+%%status_apply%ru%%
+Товар изменен.
+
+%%status_del_image%en%%
+Eshop item image was deleted.
+%%status_del_image%ru%%
+Изображение удалено.
+
+%%status_del%en%%
+Eshop item was deleted.
+%%status_del%ru%%
+Товар удален.
+
+%%status_del_fail%en%%
+Eshop item was not deleted.
+%%status_del_fail%ru%%
+Товар не удален.
+
+%%reference_not_found%en%%
+Manually added reference element was not found in reference
+%%reference_not_found%ru%%
+Вручную добавленный элемент справочника не найден в справочнике

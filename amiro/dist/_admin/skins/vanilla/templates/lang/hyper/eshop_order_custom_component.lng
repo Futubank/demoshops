@@ -1,0 +1,26 @@
+##--system info: module_owner="" module="" system="1"--##
+
+%%status_of_order%en%%
+Status of order №
+%%status_of_order%ru%%
+Статус заказа №
+
+%%changed%en%%
+changed
+%%changed%ru%%
+изменен
+
+%%of%en%%
+of
+%%of%ru%%
+из
+
+%%orders_changed%en%%
+changed
+%%orders_changed%ru%%
+изменено
+
+%%no_order_changed%en%%
+Status is not changed to any order
+%%no_order_changed%ru%%
+Статус не изменен ни одному заказу

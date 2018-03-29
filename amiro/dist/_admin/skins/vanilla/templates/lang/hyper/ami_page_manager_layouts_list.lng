@@ -1,0 +1,50 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_is_default%en%%
+%%list_col_is_default%ru%%
+
+%%list_col_id_layout%en%%
+ID
+%%list_col_id_layout%ru%%
+ID
+
+%%list_col_header%en%%
+Name
+%%list_col_header%ru%%
+Название
+
+%%list_col_css_file%en%%
+CSS file
+%%list_col_css_file%ru%%
+Файл стилей
+
+%%list_action_is_default%en%%
+Item is default
+%%list_action_is_default%ru%%
+Элемент по умолчанию
+
+%%list_action_unis_default%en%%
+Item is not default
+%%list_action_unis_default%ru%%
+Элемент не по умолчанию
+
+%%list_action_show%en%%
+View
+%%list_action_show%ru%%
+Смотреть
+
+%%list_action_copy%en%%
+Copy
+%%list_action_copy%ru%%
+Копировать
+
+%%list_action_restore%en%%
+Restore
+%%list_action_restore%ru%%
+Восстановить
+
+%%list_action_backup%en%%
+Backup
+%%list_action_backup%ru%%
+Сделать резервную копию

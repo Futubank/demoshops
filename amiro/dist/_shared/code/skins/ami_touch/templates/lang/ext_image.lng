@@ -1,0 +1,138 @@
+##--system info: module_owner="" module="" system="1"--##
+%%no_picture%en%%
+No image
+%%no_picture%ru%%
+Нет изображения
+
+%%list_col_ext_img%en%%
+Picture in details
+%%list_col_ext_img%ru%%
+Изображение в деталях
+
+%%list_col_ext_img_popup%en%%
+Popup picture
+%%list_col_ext_img_popup%ru%%
+Всплывающее изображение
+
+%%list_col_ext_img_small%en%%
+Picture in list
+%%list_col_ext_img_small%ru%%
+Изображение в списке
+
+%%list_col_picture%en%%
+Picture in details
+%%list_col_picture%ru%%
+Изображение в деталях
+
+%%list_col_popup_picture%en%%
+Popup picture
+%%list_col_popup_picture%ru%%
+Всплывающее изображение
+
+%%list_col_small_picture%en%%
+Picture in list
+%%list_col_small_picture%ru%%
+Изображение в списке
+
+%%images%en%%
+Images
+%%images%ru%%
+Изображения
+
+%%ext_img%en%%
+In details
+%%ext_img%ru%%
+В деталях
+
+%%ext_img_popup%en%%
+Popup
+%%ext_img_popup%ru%%
+Всплывающее
+
+%%ext_img_small%en%%
+In list
+%%ext_img_small%ru%%
+В списке
+
+%%picture_generated%en%%
+generated picture
+%%picture_generated%ru%%
+созданное изображение
+
+%%generated%en%%
+generated
+%%generated%ru%%
+сгенерировано
+
+%%edit_images%en%%
+Edit images
+%%edit_images%ru%%
+Редактировать изображения
+
+%%add_images%en%%
+Add images
+%%add_images%ru%%
+Добавить изображения
+
+%%add_new_image%en%%
+Add image
+%%add_new_image%ru%%
+Задать изображение
+
+%%click_to_change%en%%
+Click to either add or change the Image
+%%click_to_change%ru%%
+Кликните чтобы добавить или изменить изображение
+
+%%form_field_ext_img_popup%en%%
+%%form_field_ext_img_popup%ru%%
+
+%%form_field_ext_img%en%%
+%%form_field_ext_img%ru%%
+
+%%form_field_ext_img_small%en%%
+%%form_field_ext_img_small%ru%%
+
+%%form_field_pictures_js%en%%
+%%form_field_pictures_js%ru%%
+
+%%byte%en%%
+bytes
+%%byte%ru%%
+байт
+
+%%kilobyte%en%%
+Kb
+%%kilobyte%ru%%
+Кб
+
+%%megabyte%en%%
+Mb
+%%megabyte%ru%%
+Мб
+
+%%gigabyte%en%%
+Gb
+%%gigabyte%ru%%
+Гб
+
+%%error_file_size_limit%en%%
+Uploaded File exceeds the maximum allowed size _max_size_!
+%%error_file_size_limit%ru%%
+Размер загруженного файла превышает допустимый размер _max_size_!
+
+%%upload_disabled_demo%en%%
+File upload is unavailable in demo mode.
+%%upload_disabled_demo%ru%%
+Загрузка файлов недоступна в демонстрационном режиме.
+
+%%error_invalid_image%en%%
+Invalid image format.
+%%error_invalid_image%ru%%
+Загруженное изображение имеет неподдерживаемый формат.
+
+%%error_missing_tmp_dir%en%%
+Unable to upload file to temporary directory.
+%%error_missing_tmp_dir%ru%%
+Невозможно загрузить файл во временную папку.
+

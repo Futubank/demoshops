@@ -1,0 +1,56 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Reseller was added.
+%%status_add%ru%%
+Партнёр добавлен.
+
+%%status_add_fail%en%%
+Reseller was not added.
+%%status_add_fail%ru%%
+Партнёр не добавлен.
+
+%%status_apply%en%%
+Reseller was updated.
+%%status_apply%ru%%
+Партнёр изменен.
+
+%%status_apply_fail%en%%
+Reseller was not updated.
+%%status_apply_fail%ru%%
+Партнёр не изменен.
+
+%%status_del%en%%
+Reseller was deleted.
+%%status_del%ru%%
+Партнёр удален.
+
+%%status_del_fail%en%%
+Reseller was not deleted.
+%%status_del_fail%ru%%
+Партнёр не удален.
+
+%%status_have_clients%en%%
+This reseller have a clients.
+%%status_have_clients%ru%%
+У данного партнёра есть клиенты.
+
+%%status_name_exist%en%%
+Such reseller already exists
+%%status_name_exist%ru%%
+Партнёр с таким именем уже существует
+
+%%status_reset%en%%
+Password has been reset, the new password has been emailed to reseller.
+%%status_reset%ru%%
+Пароль сброшен. Новый пароль выслан партнёру на электронный адрес.
+
+%%sysuser_login_change_forbidden%en%%
+Login name not changed (admin login name never changes)
+%%sysuser_login_change_forbidden%ru%%
+Логин не изменен (логин администратора нельзя изменить)
+
+%%passwd_change_error%en%%
+Password not changed (an error occurred)
+%%passwd_change_error%ru%%
+Пароль не изменен (произошла ошибка)

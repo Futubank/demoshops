@@ -1,0 +1,32 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_header%en%%
+Name
+%%list_col_header%ru%%
+Название
+
+%%list_col_country%en%%
+Country
+%%list_col_country%ru%%
+Страна
+
+%%list_col_state%en%%
+State
+%%list_col_state%ru%%
+Область
+
+%%list_col_zip%en%%
+Zip/Postal
+%%list_col_zip%ru%%
+Индекс
+
+%%list_col_tax_rate%en%%
+Tax rate
+%%list_col_tax_rate%ru%%
+Налоговая ставка
+
+%%list_col_icon_is_default%en%%
+Default tax zone for e-shop
+%%list_col_icon_is_default%ru%%
+Зона налогообложения по умолчанию для Интернет магазина

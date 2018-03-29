@@ -1,0 +1,134 @@
+##--system info: module_owner="services" module="mod_manager" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+%%include_language "templates/lang/modules/mod_manager_common.lng"%%
+
+%%form_caption_add%en%%
+Add new instnace
+%%form_caption_add%ru%%
+Добавить новый экземпляр
+
+%%add_btn%en%%
+Install
+%%add_btn%ru%%
+Установить
+
+%%form_field_section%en%%
+Section
+%%form_field_section%ru%%
+Раздел
+
+%%form_field_taborder%en%%
+Position
+%%form_field_taborder%ru%%
+Позиция
+
+%%select_section%en%%
+Select section...
+%%select_section%ru%%
+Выберите раздел...
+
+%%hypermod_config%en%%
+Рyperinstance / configuration
+%%hypermod_config%ru%%
+Гипермодуль / конфигурация
+
+%%form_field_new_mod_id%en%%
+<nowrap>New instance id</nowrap>
+%%form_field_new_mod_id%ru%%
+<nobr>Идентификатор нового экземпляра</nobr>
+
+%%form_field_hypermod_config%en%%
+Instance
+%%form_field_hypermod_config%ru%%
+Экземпляр
+
+%%form_field_hypermod_config_caption%en%%
+Hyperinstance&nbsp;/&nbsp;Сonfiguration
+%%form_field_hypermod_config_caption%ru%%
+Гипермодуль&nbsp;/&nbsp;Конфигурация
+
+%%select_hypermodule_and_configuration%en%%
+Select instance...
+%%select_hypermodule_and_configuration%ru%%
+Выберите экземпляр...
+
+%%form_field_install_mode%en%%
+Installation mode
+%%form_field_install_mode%ru%%
+Режим установки
+
+%%install_mode_common%en%%
+Common
+%%install_mode_common%ru%%
+Обычный
+
+%%install_mode_append%en%%
+Append missing data of instance
+%%install_mode_append%ru%%
+Добавить недостающие данные экземпляра
+
+%%install_mode_overwrite%en%%
+Overwrite all data of instance
+%%install_mode_overwrite%ru%%
+Перезаписать все данные экземпляра
+
+%%install_mode_tooltip%en%%
+%%install_mode_tooltip%ru%%
+
+%%install_mode_tooltip_common%en%%
+create database tables, files, templates, locales. If one of these already exists, installation will be interrupted
+%%install_mode_tooltip_common%ru%%
+создает таблицы базы данных, файлы, шаблоны, локализации. Если любая из создаваемых сущностей уже существует, установка будет прервана
+
+%%install_mode_tooltip_append%en%%
+append missing database tables, files, templates, locales
+%%install_mode_tooltip_append%ru%%
+добавляет отсутствующе таблицы базы данных, файлы, шаблоны, локализации
+
+%%install_mode_tooltip_overwrite%en%%
+recreate database tables, overwrite all files, templates, locales
+%%install_mode_tooltip_overwrite%ru%%
+пересоздает таблицы базы данных, перезаписывает все файлы, шаблоны, локализации
+
+%%form_tab_captions_en%en%%
+English captions
+%%form_tab_captions_en%ru%%
+Английские заголовки
+
+%%form_tab_captions_ru%en%%
+Russian captions
+%%form_tab_captions_ru%ru%%
+Русские заголовки
+
+%%form_field_add_to_groups%en%%
+add rights for instance to all user groups with access to control panel
+%%form_field_add_to_groups%ru%%
+добавить права на экземпляр всем группам пользователей с разрешенным доступом в панель управления
+
+%%form_field_edit_at_front%en%%
+allow to edit at front side
+%%form_field_edit_at_front%ru%%
+позволять редактировать на общедоступной части сайта
+
+%%hint_install_mode%en%%
+<ul>
+    <li><b>Common</b>: create database tables, files, templates, locales. If one of these already exists, installation will be interrupted;<br /><br /></li>
+    <li><b>Append missing data of instance</b>: append missing database tables, files, templates, locales;<br /><br /></li>
+    <li><b>Overwrite all data of instance</b>: recreate database tables, overwrite all files, templates, locales.<br /><br /></li>
+</ul>
+%%hint_install_mode%ru%%
+<ul>
+    <li><b>Обычный</b>: создает таблицы базы данных, файлы, шаблоны, локализации. Если любая из создаваемых сущностей уже существует, установка будет прервана;<br /><br /></li>
+    <li><b>Добавить недостающие данные экземпляра</b>: добавляет отсутствующе таблицы базы данных, файлы, шаблоны, локализации;<br /><br /></li>
+    <li><b>Перезаписать все данные экземпляра</b>: пересоздает таблицы базы данных, перезаписывает все файлы, шаблоны, локализации.<br /><br /></li>
+</ul>
+
+%%section_advanced%en%%
+Advanced Settings
+%%section_advanced%ru%%
+Расширенные настройки
+
+%%please_accept_public_offer%en%%
+I agree and accept the conditions of the <a href="http://www.amiro.ru/product/amiro.cms/buy/docs/offer" target="_blank">Public Offer</a>.
+%%please_accept_public_offer%ru%%
+Устанавливая продукт из Амиро.Маркет, вы безусловно принимаете (акцептируете) условия <a href="http://www.amiro.ru/product/amiro.cms/buy/docs/offer" target="_blank">публичной Оферты</a>.

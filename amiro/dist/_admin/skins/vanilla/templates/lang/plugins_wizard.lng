@@ -1,0 +1,211 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_plugins_wizard_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%icon_installed_on%en%%
+Installed
+%%icon_installed_on%ru%%
+Установлено
+
+%%icon_installed_off%en%%
+Not installed
+%%icon_installed_off%ru%%
+Не установлено
+
+%%icon_install%en%%
+Install
+%%icon_install%ru%%
+Установить
+
+%%icon_uninstall%en%%
+Uninstall
+%%icon_uninstall%ru%%
+Удалить
+
+%%leg_installed%en%%
+Installed
+%%leg_installed%ru%%
+Установлено
+
+%%leg_notinstalled%en%%
+Not installed
+%%leg_notinstalled%ru%%
+Не установлено
+
+%%leg_install%en%%
+Install plugin
+%%leg_install%ru%%
+Установить плагин
+
+%%leg_uninstall%en%%
+Uninstall plugin
+%%leg_uninstall%ru%%
+Удалить плагин
+
+%%check_btn%en%%
+Sync with distributive
+%%check_btn%ru%%
+Обновить список плагинов
+
+%%plugin_id%en%%
+Plugin ID
+%%plugin_id%ru%%
+Идентификатор плагина
+
+%%installed_as%en%%
+Plugin is installed as
+%%installed_as%ru%%
+Плагин установлен как
+
+%%overwrite%en%%
+Overwrite existing files
+%%overwrite%ru%%
+Перезаписать существующие файлы
+
+%%copy_allowed%en%%
+Can by copied
+%%copy_allowed%ru%%
+Можно скопировать
+
+%%is_copied%en%%
+Is copied
+%%is_copied%ru%%
+Скопирован
+
+%%installing%en%%
+Installing plugin
+%%installing%ru%%
+Установка плагина
+
+%%work_modes%en%%
+Work modes
+%%work_modes%ru%%
+Режимы работы
+
+%%files%en%%
+Files
+%%files%ru%%
+Файлы
+
+%%files%en%%
+Files
+%%files%ru%%
+Файлы
+
+%%requirements%en%%
+Requirements
+%%requirements%ru%%
+Требования
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%file_type%en%%
+File type
+%%file_type%ru%%
+Тип файла
+
+%%file_name%en%%
+File name
+%%file_name%ru%%
+Имя файла
+
+%%availability%en%%
+Availabile
+%%availability%ru%%
+Доступен
+
+%%admin%en%%
+Admin module
+%%admin%ru%%
+Модуль управления
+
+%%specblock%en%%
+Specblock
+%%specblock%ru%%
+Спецблок
+
+%%config%en%%
+Configuration
+%%config%ru%%
+Настройки
+
+%%other%en%%
+Other
+%%other%ru%%
+Прочие
+
+%%icon%en%%
+Icon (for admin module only)
+%%icon%ru%%
+Иконка (только для административного модуля)
+
+%%work_mode_missing%en%%
+No work modes found
+%%work_mode_missing%ru%%
+Нет режимов работы
+
+%%admin_header%en%%
+Module header
+%%admin_header%ru%%
+Название модуля
+
+%%install_btn%en%%
+Install
+%%install_btn%ru%%
+Установить
+
+%%install_as%en%%
+Install as
+%%install_as%ru%%
+Установить как
+
+%%install_as_warn%en%%
+Please select the target module how plugin has to be installed as
+%%install_as_warn%ru%%
+Пожалуйста, выберите модуль куда будет установлен плагин
+
+%%select_module%en%%
+Select module
+%%select_module%ru%%
+Выберите модуль
+
+%%uninstall_warn%en%%
+Do you want uninstall this plugin?
+%%uninstall_warn%ru%%
+Вы хотите удалить плагин?
+
+%%copy_files%en%%
+Copy source files
+%%copy_files%ru%%
+Копировать файлы плагина
+
+%%copy_files_warn%en%%
+Warning! If you copy files then plugin couldnot be upgraded automatically
+%%copy_files_warn%ru%%
+Внимание! При копировании файлов плагин, он не будет автоматически обновляться
+
+%%icon_is_copied_off%en%%
+Files are shared
+%%icon_is_copied_off%ru%%
+Файлы общие
+
+%%icon_is_copied_on%en%%
+Files are copied
+%%icon_is_copied_on%ru%%
+Файлы скопированы
+
+%%obsolete_functionality%en%%
+Plugins are deprecated.
+We recommend search extensions in <a href="engine.php?mod_id=ami_market">Amiro.Market</a> to improve system functionality.<br />
+Deprecated plugins work in compatibility mode.<br />
+Operability is not guaranteed in the future.
+%%obsolete_functionality%ru%%
+Плагины устарели.<br />
+Для расширения возможностей системы рекомендуется выбирать решения в <a href="engine.php?mod_id=ami_market">Амиро.Маркет</a>.<br />
+Плагины данного раздела работают в режиме совместимости.<br />
+Работоспособность в будущих версиях не гарантирована.

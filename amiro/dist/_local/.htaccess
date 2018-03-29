@@ -1,0 +1,7 @@
+
+ErrorDocument 404 default
+
+<Files XML1cV8ExchangeDriverConfig.xml>
+    Order Allow,Deny
+    Deny from all
+</Files>

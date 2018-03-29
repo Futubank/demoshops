@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       912 xkqwntwpugirpywpnsiqwntutwiirrqrlqwrxrggmlgxkymugmgqkwykzkukrugmmznrpnir
+ */ ?><?php foreach(array(20753=>"DtBJQ",20754=>"DtBJQ%WHntQnt") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $ILlIlIl=1; $l1IIllL =true; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $adm->Gui->addBlock(I20753,"templates/ce_style_proc.tpl"); $l1IL1IL["www_root"] =$ROOT_PATH_WWW; $l1IL1IL["admin_root"] =$ADMIN_PATH_WWW; $l1IL1IL["content"] =$adm->Gui->get(I20754,$l1IL1IL); $l1IL1IL["metas"] =$adm->Gui->getMetas(); $html =$adm->Gui->get(I20753,$l1IL1IL); echo $html; $conn->Out(); 

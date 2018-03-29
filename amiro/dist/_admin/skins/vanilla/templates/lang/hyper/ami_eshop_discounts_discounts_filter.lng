@@ -1,0 +1,77 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Name
+%%filter_field_header%ru%%
+Название
+
+%%filter_field_kind%en%%
+Kind
+%%filter_field_kind%ru%%
+Вид
+
+%%kind_single%en%%
+Single
+%%kind_single%ru%%
+Разовая
+
+%%kind_inc%en%%
+Accumulative
+%%kind_inc%ru%%
+Накопительная
+
+%%kind_accumulative%en%%
+Accumulative
+%%kind_accumulative%ru%%
+Накопительная
+
+%%kind_coupon%en%%
+Coupon
+%%kind_coupon%ru%%
+Купон
+
+%%kind_mixed%en%%
+Mixed
+%%kind_mixed%ru%%
+Смешанная
+
+%%filter_field_type%en%%
+Type
+%%filter_field_type%ru%%
+Тип
+
+%%type_abs%en%%
+Absolute
+%%type_abs%ru%%
+Абсолютная
+
+%%type_percent%en%%
+Percentage
+%%type_percent%ru%%
+В процентах
+
+%%filter_field_condition%en%%
+Discount applicable to
+%%filter_field_condition%ru%%
+Условия предоставления скидки
+
+%%condition_global%en%%
+Global
+%%condition_global%ru%%
+Глобальная
+
+%%condition_category%en%%
+Per categories
+%%condition_category%ru%%
+На категории
+
+%%condition_total%en%%
+On sum
+%%condition_total%ru%%
+На сумму
+
+%%condition_items_count%en%%
+On total products count
+%%condition_items_count%ru%%
+На суммарное количество товаров

@@ -1,0 +1,78 @@
+%%include_language "templates/lang/_menu_all.lng"%%
+%%__file_comment__%en%%
+-- there you can redefine names for eshop menu bar --
+
+%%eshop_item%en%%
+Products
+%%eshop_item%ru%%
+Товары
+
+%%eshop_cat%en%%
+Categories
+%%eshop_cat%ru%%
+Категории
+
+%%eshop_currency%en%%
+Currency
+%%eshop_currency%ru%%
+Валюта
+
+%%pay_drivers%en%%
+Payment methods
+%%pay_drivers%ru%%
+Способы оплаты
+
+%%eshop_order%en%%
+Orders
+%%eshop_order%ru%%
+Список заказов
+
+%%eshop_digitals%en%%
+Import files
+%%eshop_digitals%ru%%
+Импорт файлов
+
+%%eshop_coupons%en%%
+Coupons
+%%eshop_coupons%ru%%
+Купоны
+
+%%eshop_coupons_cat%en%%
+Coupon categories
+%%eshop_coupons_cat%ru%%
+Категории купонов
+
+%%eshop_shipping_methods%en%%
+Shipping methods
+%%eshop_shipping_methods%ru%%
+Способы доставки
+
+%%eshop_shipping_types%en%%
+Shipping categories
+%%eshop_shipping_types%ru%%
+Наборы способов доставки
+
+%%eshop_shipping_regions%en%%
+Shipping regions
+%%eshop_shipping_regions%ru%%
+Регионы доставки
+
+%%eshop_tax_zones%en%%
+Tax zones
+%%eshop_tax_zones%ru%%
+Зоны налогообложения
+
+%%eshop_tax_classes%en%%
+Tax classes
+%%eshop_tax_classes%ru%%
+Типы налогов
+
+%%eshop_datasets%en%%
+Property sets
+%%eshop_datasets%ru%%
+Наборы свойств
+
+%%eshop_order_reports%en%%
+Order reports
+%%eshop_order_reports%ru%%
+Отчеты о заказах

@@ -1,0 +1,115 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%username%en%%
+Username
+%%username%ru%%
+Пользователь
+
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%in%en%%
+In
+%%in%ru%%
+Вх.
+
+%%out%en%%
+Out
+%%out%ru%%
+Исх.
+
+%%total%en%%
+Total by period
+%%total%ru%%
+Всего за период
+
+%%last_update%en%%
+Information is updated every hour.<br>Last update time
+%%last_update%ru%%
+Информация обновляется каждый час.<br>Время последнего обновления
+
+%%month_total%en%%
+Month total
+%%month_total%ru%%
+Всего за месяц
+
+%%quota%en%%
+Month limit
+%%quota%ru%%
+Макс. в месяц
+
+
+%%srv_host_trafic_view%en%%
+Traffic details
+%%srv_host_trafic_view%ru%%
+Детализация трафика
+
+%%month%en%%
+Month
+%%month%ru%%
+Месяц
+
+%%month_num_1%en%%
+January
+%%month_num_1%ru%%
+Январь
+
+%%month_num_2%en%%
+February
+%%month_num_2%ru%%
+Февраль
+
+%%month_num_3%en%%
+March
+%%month_num_3%ru%%
+Март
+
+%%month_num_4%en%%
+April
+%%month_num_4%ru%%
+Апрель
+
+%%month_num_5%en%%
+May
+%%month_num_5%ru%%
+Май
+
+%%month_num_6%en%%
+June
+%%month_num_6%ru%%
+Июнь
+
+%%month_num_7%en%%
+July
+%%month_num_7%ru%%
+Июль
+
+%%month_num_8%en%%
+August
+%%month_num_8%ru%%
+Август
+
+%%month_num_9%en%%
+September
+%%month_num_9%ru%%
+Сентябрь
+
+%%month_num_10%en%%
+October
+%%month_num_10%ru%%
+Октябрь
+
+%%month_num_11%en%%
+November
+%%month_num_11%ru%%
+Ноябрь
+
+%%month_num_12%en%%
+December
+%%month_num_12%ru%%
+Декабрь
+

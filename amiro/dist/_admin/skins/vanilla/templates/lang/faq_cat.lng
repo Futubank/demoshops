@@ -1,0 +1,19 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_categories.lng"%%
+
+%%faq_cat_add%en%%
+Add a new FAQ subject
+%%faq_cat_add%ru%%
+Добавить новую тему для вопросов
+
+%%faq_cat_apply%en%%
+Edit FAQ subject
+%%faq_cat_apply%ru%%
+Редактировать тему вопросов
+
+%%status_apply%en%%
+Subject was updated.
+%%status_apply%ru%%
+Тема изменена.

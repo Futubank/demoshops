@@ -1,0 +1,17 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_header%en%%
+Name
+%%filter_field_header%ru%%
+Название
+
+%%filter_field_id_method%en%%
+Shipping method
+%%filter_field_id_method%ru%%
+Способ доставки
+
+%%flt_all%en%%
+All
+%%flt_all%ru%%
+Все

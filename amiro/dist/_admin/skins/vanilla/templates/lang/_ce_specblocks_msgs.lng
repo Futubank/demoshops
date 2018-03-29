@@ -1,0 +1,158 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "_local/_admin/templates/lang/modules/_specblocks.lng"%%
+
+%%spec_module_body_desc%en%%
+Content of module that has been set up as type of page.
+%%spec_module_body_desc%ru%%
+Данные модуля который установлен как тип страницы
+
+%%spec_lang_select_desc%en%%
+Lang selection element
+%%spec_lang_select_desc%ru%%
+Элемент выбора языка веб сайта
+
+%%spec_main_menu_desc%en%%
+Main menu
+%%spec_main_menu_desc%ru%%
+Главное меню
+
+%%spec_top_menu_desc%en%%
+Top menu
+%%spec_top_menu_desc%ru%%
+Верхнее меню
+
+%%spec_bottom_menu_desc%en%%
+Bottom menu
+%%spec_bottom_menu_desc%ru%%
+Нижнее меню
+
+%%spec_page_header_desc%en%%
+Page header
+%%spec_page_header_desc%ru%%
+Заголовок страницы
+
+%%spec_prev_next_desc%en%%
+Navigation links to previous and next pages
+%%spec_prev_next_desc%ru%%
+Ссылки на следующую и предыдущую страницы
+
+%%spec_custom_block_desc%en%%
+Currency rates (sample)
+%%spec_custom_block_desc%ru%%
+Курсы валют (пример)
+
+%%spec_section_map_desc%en%%
+Section map
+%%spec_section_map_desc%ru%%
+Карта раздела
+
+%%spec_eshop_cat_desc%en%%
+Product catalog
+%%spec_eshop_cat_desc%ru%%
+Разделы каталога товаров
+
+%%spec_kb_cat_desc%en%%
+Categories of knowledge base
+%%spec_kb_cat_desc%ru%%
+Разделы базы знаний
+
+%%spec_eshop_filter_desc%en%%
+Products search/filter
+%%spec_eshop_filter_desc%ru%%
+Поиск/фильтр товаров
+
+%%spec_kb_filter_desc%en%%
+Knowledge base search/filter
+%%spec_kb_filter_desc%ru%%
+Поиск/фильтр базы знаний
+
+%%spec_portfolio_filter_desc%en%%
+Portfolio search/filter
+%%spec_portfolio_filter_desc%ru%%
+Поиск/фильтр портфолио
+
+%%spec_eshop_special_desc%en%%
+Special products announce
+%%spec_eshop_special_desc%ru%%
+Анонс специальных товаров
+
+%%spec_kb_special_desc%en%%
+Knowledge base announce
+%%spec_kb_special_desc%ru%%
+Анонс базы знаний
+
+%%spec_eshop_reference_types_desc%en%%
+Eshop references's data
+%%spec_eshop_reference_types_desc%ru%%
+Данные справочников интернет-магазина
+
+%%spec_eshop_cart_desc%en%%
+Shopping cart short information
+%%spec_eshop_cart_desc%ru%%
+Краткая информация о содержимом корзины
+
+%%spec_eshop_compare_desc%en%%
+Products to compare short information
+%%spec_eshop_compare_desc%ru%%
+Краткая информация о продуктах для сравнения
+
+%%spec_eshop_currency_desc%en%%
+Shop currency rates
+%%spec_eshop_currency_desc%ru%%
+Курсы валют магазина
+
+%%spec_small_designs_desc%en%%
+Short list of designs
+%%spec_small_designs_desc%ru%%
+Краткий список дизайнов конструктора
+
+
+%%common_blocks_desc%en%%
+Common blocks
+%%common_blocks_desc%ru%%
+Общие блоки
+
+%%modules_blocks_desc%en%%
+Modules blocks
+%%modules_blocks_desc%ru%%
+Блоки модулей
+
+%%custom_blocks_desc%en%%
+Custom blocks
+%%custom_blocks_desc%ru%%
+Пользовательские блоки
+
+%%spec_small_gallery_desc%en%%
+Short list of gallery
+%%spec_small_gallery_desc%ru%%
+Краткий список фотографий галереи
+
+%%spec_adv_places_desc%en%%
+Advertisements place
+%%spec_adv_places_desc%ru%%
+Рекламное место
+
+%%spec_portfolio_special_desc%en%%
+Portfolio announce
+%%spec_portfolio_special_desc%ru%%
+Анонс портфолио
+
+%%spec_kb_reference_types_desc%en%%
+Knowledge base references's data
+%%spec_kb_reference_types_desc%ru%%
+Данные справочников базы знаний
+
+%%spec_portfolio_reference_types_desc%en%%
+Portfolio references's data
+%%spec_portfolio_reference_types_desc%ru%%
+Данные справочников портфолио
+
+%%spec_portfolio_cat_desc%en%%
+Categories of portfolio
+%%spec_portfolio_cat_desc%ru%%
+Разделы портфолио
+
+%%spec_small_tags_desc%en%%
+Tags specblock
+%%spec_small_tags_desc%ru%%
+Спецблок тегов

@@ -1,0 +1,155 @@
+%%fast_register%en%%
+Fast register user during purchase
+%%fast_register%ru%%
+Быстрая регистрация пользователя при оформлении заказа
+
+%%person_type_on%en%%
+Support Personal/Corporate person choice
+%%person_type_on%ru%%
+Поддержка выбора типа лица (Юридическое\Физическое)
+
+%%person_type_default%en%%
+Default type of person
+%%person_type_default%ru%%
+Тип лица по умолчанию
+
+%%payment_type_default%en%%
+Default type of payment
+%%payment_type_default%ru%%
+Тип платежа по умолчанию
+
+%%spelled_out_currency%en%%
+Spelled out currency
+%%spelled_out_currency%ru%%
+Валюта вывода суммы прописью
+
+%%eshop_admin_email%en%%
+E-shop administrator's e-mail
+%%eshop_admin_email%ru%%
+E-mail администратора интернет-магазина
+
+%%eshop_admin_sms_email%en%%
+E-shop administrator's short messages (SMS) e-mail
+%%eshop_admin_sms_email%ru%%
+E-mail администратора интернет-магазина для коротких сообщений (SMS)
+
+%%shipping_checkbox_enable%en%%
+Enable shipping checkbox
+%%shipping_checkbox_enable%ru%%
+Отображать флажок использования доставки
+
+%%merchant_id%en%%
+Merchant id
+%%merchant_id%ru%%
+Идентификатор интернет-магазина
+
+%%min_delivery_days%en%%
+Showed minimum delivery period in days
+%%min_delivery_days%ru%%
+Минимальный срок доставки, дней
+
+%%show_delivery_days%en%%
+Showed maximum delivery period in days
+%%show_delivery_days%ru%%
+Максимальный срок доставки, дней
+
+%%printed_forms%en%%
+The accessible printed forms
+%%printed_forms%ru%%
+Доступные печатные формы
+
+%%default_printed_form%en%%
+Default printed form
+%%default_printed_form%ru%%
+Печатная форма по умолчанию
+
+%%bill_form_with_shipping%en%%
+Include shipping in bill printed form
+%%bill_form_with_shipping%ru%%
+Показывать стоимость доставки в печатной форме 'Накладная'
+
+%%send_registration_email%en%%
+Send registration email
+%%send_registration_email%ru%%
+Отправлять письмо при регистрации нового пользователя
+
+%%spl_print_forms%en%%
+The printed forms
+%%spl_print_forms%ru%%
+Печатные формы
+
+%%sms_gate%en%%
+SMS-gate <br />
+(To install a driver of SMS-gate visit <a href='engine.php?mod_id=ami_market' target='_top'>Amiro.Market</a>)
+%%sms_gate%ru%%
+SMS-шлюз отправки сообщений<br />
+<i>(Если нужного драйвера нет, установите его из <a href='engine.php?mod_id=ami_market' target='_top'>Амиро.Маркет</a>)</i>
+
+%%sms_notification_template%en%%
+SMS-notification template <br />
+<i>(use #OrderId# and #Status# variables)</i>
+%%sms_notification_template%ru%%
+Шаблон SMS-уведомления <br />
+<i>(используйте переменные #orderId# и #status#)</i>
+
+%%order_sms_notification%en%%
+SMS-notification when order status is changed
+%%order_sms_notification%ru%%
+SMS-уведомление о смене статуса заказа
+
+%%spl_registration_order%en%%
+Registration of the order
+%%spl_registration_order%ru%%
+Оформление заказа
+
+%%allow_user_email_double%en%%
+To permit registration, if the user with such e-mail already exists
+%%allow_user_email_double%ru%%
+Разрешать регистрацию, если пользователь с таким e-mail уже существует
+
+%%allowed_drivers%en%%
+Allowed payments
+%%allowed_drivers%ru%%
+Доступные способы оплаты
+
+%%use_requirements_order%en%%
+To make out additional request order in case of absence of the goods in a store
+%%use_requirements_order%ru%%
+Оформлять дополнительный заказ на поставку в случае отсутствия товара в наличии
+
+%%allow_fractional_quantity%en%%
+Allow fractional value for quantity of goods in order
+%%allow_fractional_quantity%ru%%
+Разрешить дробное количество товара в заказе
+
+%%minimal_unit%en%%
+Minimal order unit
+%%minimal_unit%ru%%
+Минимальная единица количества заказа
+
+%%minimal_order_amount%en%%
+Minimal order amount in eshop base currency<br />
+<i>0 means no limit</i>
+%%minimal_order_amount%ru%%
+Минимальная сумма заказа в базовой валюте магазина<br />
+<i>0 означает отсутствие ограничения</i>
+
+%%statuses_actions%en%%
+Actions on change of the status of the order
+%%statuses_actions%ru%%
+Действия на изменение статуса заказа
+
+%%statuses_expire%en%%
+Expired orders period
+%%statuses_expire%ru%%
+Период удаления устаревших заказов
+
+%%default_currency%en%%
+Default currency
+%%default_currency%ru%%
+Валюта по умолчанию
+
+%%show_image_in_order_details%en%%
+Show image in order details
+%%show_image_in_order_details%ru%%
+Показывать изображение в списке товаров заказа

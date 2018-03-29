@@ -1,0 +1,59 @@
+%%warn_missing_coupon%en%%
+Enter Coupon please!
+%%warn_missing_coupon%ru%%
+Пожалуйста, введите купон!
+
+%%warn_coupon_lenght%en%%
+Coupon should contais at least 8 symbols!
+%%warn_coupon_lenght%ru%%
+Купон должен содержать как минимум 8 символов!
+
+%%warn_missing_date_start%en%%
+Enter Start time please!
+%%warn_missing_date_start%ru%%
+Пожалуйста, введите дату начала!
+
+%%warn_missing_date_end%en%%
+Enter Close time please!
+%%warn_missing_date_end%ru%%
+Пожалуйста, введите дату окончания!
+
+%%warn_missing_member%en%%
+Using selected category you should specify member!
+%%warn_missing_member%ru%%
+Для выбранной категории необходимо указать пользователя!
+
+%%warn_id_length%en%%
+Coupon id length should be from 4 to 128!
+%%warn_id_length%ru%%
+Допустимый диапазон для длины купона от 4 до 128!
+
+%%warn_number_of_coupons%en%%
+Enter positive integer number please!
+%%warn_number_of_coupons%ru%%
+Пожалуйста, введите целое число больше нуля!
+
+%%warn_id_length_number_of_coupons%en%%
+Unable to create so many coupons based on creation type and id length!
+%%warn_id_length_number_of_coupons%ru%%
+Невозможно создать столько купонов исходя из заданных типа генерирования и длины купона!
+
+%%status_add%en%%
+Coupon was added
+%%status_add%ru%%
+Купон добавлен
+
+%%status_add_fail%en%%
+Fail to add Coupon
+%%status_add_fail%ru%%
+Купон не добавлен
+
+%%status_apply%en%%
+Coupon's data has been changed
+%%status_apply%ru%%
+Данные о купоне были изменены
+
+%%status_duplicate_coupon%en%%
+Duplicate coupon!
+%%status_duplicate_coupon%ru%%
+Такой купон уже существует!

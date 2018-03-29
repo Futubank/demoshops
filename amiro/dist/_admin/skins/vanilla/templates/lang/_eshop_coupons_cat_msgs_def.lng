@@ -1,0 +1,19 @@
+%%status_add%en%%
+Coupon Category was added.
+%%status_add%ru%%
+Категория купонов добавлена.
+
+%%status_apply%en%%
+Coupon Category updated.
+%%status_apply%ru%%
+Данные категории купонов изменены.
+
+%%status_del%en%%
+Coupon Category. All subordinate сoupons were deleted.
+%%status_del%ru%%
+Категория купонов. Все купоны из этой темы удалены.
+
+%%grp_delete_warn%en%%
+Delete selected сoupons сategories? All subordinate сoupons will be deleted.
+%%grp_delete_warn%ru%%
+Удалить категории купонов? Все купоны из этих категорий будут удалены.

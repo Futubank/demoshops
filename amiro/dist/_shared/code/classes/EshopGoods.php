@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1045 xkqwynrmkrynmktnztsuwkgpxgqnznyzliikisyyxsxwknutxukiizzsyxsgrknzpxklpnir
+ */ ?><?php foreach(array(4425=>"tQIGJZtQgHDtfMx") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class EshopGoodsAdmin extends EshopExtention {function TT11ll1($action, &$vData) {parent::TT11ll1($action, $vData); }}class EshopGoodsFront extends EshopExtention {function TT111TT($pageType, &$aItem, &$aData) {switch($pageType) {case "order_notify_email": $aItem[$this->modName] =$this->cms->Gui->get("es_order_mail:order_".$this->modName.$aData[I4425]."_".$this->oEshop->langData, $aData); break; }}}?>

@@ -1,0 +1,14 @@
+%%status_add_to_list%en%%
+Data is added to the list.
+%%status_add_to_list%ru%%
+Данные добавлены в список.
+
+%%status_grp_move%en%%
+_num_items_ records were added to the list.
+%%status_grp_move%ru%%
+_num_items_ записей добавлено в список.
+
+%%status_remove_from_list%en%%
+Data was removed.
+%%status_remove_from_list%ru%%
+Данные удалены.

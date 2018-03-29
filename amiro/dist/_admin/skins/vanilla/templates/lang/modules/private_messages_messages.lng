@@ -1,0 +1,37 @@
+##--system info: module_owner="services" module="private_messages" system="1"--##
+%%include_language "templates/lang/modules/_messages.lng"%%
+
+%%status_add%en%%
+Message was sent.
+%%status_add%ru%%
+Сообщение отправлено.
+
+%%status_add_fail%en%%
+Message wasn't sent!
+%%status_add_fail%ru%%
+Сообщение не отправлено!
+
+%%status_del%en%%
+Message was deleted.
+%%status_del%ru%%
+Сообщение удалено.
+
+%%status_del_fail%en%%
+Message was not deleted.
+%%status_del_fail%ru%%
+Сообщение не удалено.
+
+%%status_del_moved%en%%
+Message was moved to deleted.
+%%status_del_moved%ru%%
+Сообщение перемещено в удаленные.
+
+%%status_unread%en%%
+Message was marked as unread.
+%%status_unread%ru%%
+Сообщение помечено как непрочитанное.
+
+%%status_marked_as_read%en%%
+Messages were marked as read.
+%%status_marked_as_read%ru%%
+Сообщения были помечены как прочитанные.

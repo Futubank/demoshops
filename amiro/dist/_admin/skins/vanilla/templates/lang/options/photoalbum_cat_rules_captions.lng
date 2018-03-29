@@ -1,0 +1,10 @@
+%%show_empty_cats%en%%
+Show empty albums
+%%show_empty_cats%ru%%
+Отображать пустые альбомы
+
+%%average_cat_rating%en%%
+Set album ratings as its elements' average
+%%average_cat_rating%ru%%
+Устанавливать рейтинг альбома по среднему рейтингу его элементов
+

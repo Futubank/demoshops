@@ -1,0 +1,40 @@
+%%driver_title%en%%
+WebMoney
+%%driver_title%ru%%
+WebMoney
+
+%%url%en%%
+Payment page URL
+%%url%ru%%
+URL страницы оплаты
+
+%%pass_phrase%en%%
+Security phrase for payment validation<br>made through WebMoney web merchant interface
+%%pass_phrase%ru%%
+Секретная фраза для проверки платежа,<br>сделанного через веб интерфейс сайта WebMoney
+
+%%merchant_id%en%%
+Purse number that allow money accept
+%%merchant_id%ru%%
+Номер кошелька для приема денег
+
+%%merchant_idz%en%%
+Purse number that allow money accept (WMZ, USD)
+%%merchant_idz%ru%%
+Номер кошелька для приема денег (WMZ, USD)
+
+%%merchant_idr%en%%
+Purse number that allow money accept (WMR, RUR)
+%%merchant_idr%ru%%
+Номер кошелька для приема денег (WMR, RUR)
+
+%%merchant_ide%en%%
+Purse number that allow money accept (WME, EUR)
+%%merchant_ide%ru%%
+Номер кошелька для приема денег (WME, EUR)
+
+%%driver_author%en%%
+<a href="http://amirocms.com/" target="_blank">Amiro</a>
+%%driver_author%ru%%
+<a href="http://www.amiro.ru/" target="_blank">Амиро</a>
+

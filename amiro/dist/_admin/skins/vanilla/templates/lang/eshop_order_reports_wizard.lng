@@ -1,0 +1,56 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_reports_msgs_def.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/reports_def.lng"%%
+
+%%eshop_order_reports_wizard_add%en%%
+Add report
+%%eshop_order_reports_wizard_add%ru%%
+Добавить отчет
+
+%%eshop_order_reports_wizard_apply%en%%
+Edit report
+%%eshop_order_reports_wizard_apply%ru%%
+Редактировать отчет
+
+%%calc_field_item_amount%en%%
+Total per product
+%%calc_field_item_amount%ru%%
+Итого по товару
+
+%%filter_field_stat_id%en%%
+Status
+%%filter_field_stat_id%ru%%
+Статус
+
+%%filter_field_datefrom%en%%
+Date from, days
+%%filter_field_datefrom%ru%%
+Дата от текущего дня, дни
+
+%%filter_field_dateto%en%%
+Date to, days
+%%filter_field_dateto%ru%%
+Дата до текущего дня, дни
+
+%%group_id_product%en%%
+Product
+%%group_id_product%ru%%
+Товар
+
+%%group_item_name%en%%
+Product name
+%%group_item_name%ru%%
+Название товара
+
+%%group_price_number%en%%
+Price number
+%%group_price_number%ru%%
+Номер цены
+
+%%calc_field_qty%en%%
+Quantity
+%%calc_field_qty%ru%%
+Количество

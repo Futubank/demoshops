@@ -1,0 +1,162 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/wz_host_users.lng"%%
+
+%%last_payment%en%%
+Last payment
+%%last_payment%ru%%
+Последний платеж
+
+%%last_down_payment%en%%
+Last downpayment
+%%last_down_payment%ru%%
+Последнее списание
+
+%%num_payments%en%%
+Total payments
+%%num_payments%ru%%
+Всего платежей
+
+%%balance%en%%
+Balance
+%%balance%ru%%
+Баланс
+
+%%min_balance%en%%
+Min balance
+%%min_balance%ru%%
+Минимальный баланс
+
+%%min_payment%en%%
+Min payment
+%%min_payment%ru%%
+Минимальный платеж
+
+%%sum_payments%en%%
+Totals
+%%sum_payments%ru%%
+Всего
+
+%%note%en%%
+Note
+%%note%ru%%
+Примечание
+
+%%hidden_note%en%%
+Hidden note
+%%hidden_note%ru%%
+Скрытое примечание
+
+%%remind%en%%
+Remind
+%%remind%ru%%
+Напоминание
+
+%%date_amount_zero%en%%
+Paid until
+%%date_amount_zero%ru%%
+Оплачено до
+
+%%srv_host_payments_apply%en%%
+Edit account
+%%srv_host_payments_apply%ru%%
+Редактировать счет
+
+%%srv_host_payments_view%en%%
+Аccount
+%%srv_host_payments_view%ru%%
+Состояние счета
+
+%%view_history_for%en%%
+View payment history for
+%%view_history_for%ru%%
+Смотреть историю платежей для 
+
+%%history%en%%
+history
+%%history%ru%%
+история
+
+%%history_title%en%%
+Payments history 
+%%history_title%ru%%
+История платежей
+
+%%sites_title%en%%
+Sites
+%%sites_title%ru%%
+Сайты
+
+%%amount_month%en%%
+Monthly fee
+%%amount_month%ru%%
+Аренда в месяц
+
+%%traffic_over%en%%
+Traffic over limit fee
+%%traffic_over%ru%%
+Превышение трафика
+
+%%type_onoff%en%%
+Type / Billing On
+%%type_onoff%ru%%
+Тип / Биллинг вкл.
+
+%%billing_on%en%%
+Billing enabled
+%%billing_on%ru%%
+Биллинг включен
+
+%%billing_date%en%%
+Next billing date
+%%billing_date%ru%%
+Следующая дата билинга
+
+%%days%en%%
+days
+%%days%ru%%
+дней
+
+%%weeks%en%%
+weeks
+%%weeks%ru%%
+недель
+
+%%months%en%%
+months
+%%months%ru%%
+месяцев
+
+%%traf_included%en%%
+Traffic included
+%%traf_included%ru%%
+Включенный трафик
+
+%%add_funds%en%%
+Add funds
+%%add_funds%ru%%
+Пополнить баланс
+
+%%delay_of_payment_on%en%%
+Delay of payment is active
+%%delay_of_payment_on%ru%%
+Активирована отсрочка платежа
+
+%%delay_of_payment_on%en%%
+Delay of payment 
+%%delay_of_payment_on%ru%%
+Отсрочка платежа
+
+%%delay_of_payment_do%en%%
+Active the delay of payment
+%%delay_of_payment_do%ru%%
+Активировать отсрочку платежа
+
+%%delay_of_payment_info%en%%
+<p>By activating the "delay of payment", you set the minimum balance in the negative.</p>
+<p>In this panel the site will work as long as the amount on the balance reaches a minimum value, then the control panel will be disabled until the site filling.</p>
+%%delay_of_payment_info%ru%%
+<p>Активируя "Отсрочку платежа", Вы устанавливаете минимальное значение баланса в отрицательное значение из расчета на 7 дней работы без учета списаний за превышение трафика.</p>
+<p>Панель управления сайтом будет работать, пока сумма на балансе не достигнет минимального значения, после чего панель управления сайтом будет отключена до пополнения баланса.</p>

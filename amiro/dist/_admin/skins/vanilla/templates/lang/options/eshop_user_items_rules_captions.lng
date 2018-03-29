@@ -1,0 +1,19 @@
+%%publish%en%%
+Auto-publish new user items
+%%publish%ru%%
+Автоматически публиковать новые товары пользователя
+
+%%notification_email%en%%
+Notification e-mail
+%%notification_email%ru%%
+E-mail для уведомлений
+
+%%notification_name%en%%
+Name of the recipient for the notice
+%%notification_name%ru%%
+Имя отправителя для уведомления
+
+%%allow_edit_commission%en%%
+To allow to edit a commission
+%%allow_edit_commission%ru%%
+Позволять редактировать величину комиссии

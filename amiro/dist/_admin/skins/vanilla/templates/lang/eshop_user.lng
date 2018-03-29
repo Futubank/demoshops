@@ -1,0 +1,34 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/_eshop_main.lng"%%
+%%include_language "templates/lang/_history.lng"%%
+%%include_language "templates/lang/eshop_user_def.lng"%%
+
+%%eshop_user_add%en%%
+Add E-Commerce customer
+%%eshop_user_add%ru%%
+Добавить пользователя магазина
+
+%%eshop_user_apply%en%%
+Edit Eshop customer
+%%eshop_user_apply%ru%%
+Редактировать пользователя магазина
+
+%%user_items%en%%
+items number
+%%user_items%ru%%
+кол-во товаров
+
+%%user_items_list%en%%
+User items list
+%%user_items_list%ru%%
+Список товаров пользователя
+
+%%user%en%%
+Buyer
+%%user%ru%%
+Покупатель

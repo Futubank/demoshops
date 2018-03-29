@@ -1,0 +1,12 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%popup_title%en%%
+Add a competitor
+%%popup_title%ru%%
+Добавить соискателя
+
+%%list_confirm_deletion%en%%
+Are you sure to delete item?
+%%list_confirm_deletion%ru%%
+Удалить?

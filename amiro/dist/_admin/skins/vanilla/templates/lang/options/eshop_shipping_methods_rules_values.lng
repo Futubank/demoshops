@@ -1,0 +1,44 @@
+%%show_intersection%en%%
+Show intersection
+%%show_intersection%ru%%
+Показывать пересечение
+
+%%show_shipping_for_each_type%en%%
+Show shipping methods for each type
+%%show_shipping_for_each_type%ru%%
+Показывать способы доставки для каждого типа
+
+%%ask_to_change_order%en%%
+Ask to change order
+%%ask_to_change_order%ru%%
+Просить изменить заказ
+
+%%use_each_shipping_type_mode%en%%
+Use each shipping type mode
+%%use_each_shipping_type_mode%ru%%
+Использовать режим отображения способов доставки для каждого типа
+
+%%sort_BY_POSITION%en%%
+By position
+%%sort_BY_POSITION%ru%%
+По позиции
+
+%%sort_BY_NAME%en%%
+By name
+%%sort_BY_NAME%ru%%
+По названию
+
+%%rest%en%%
+Rest
+%%rest%ru%%
+Остаток
+
+%%weight%en%%
+Weight
+%%weight%ru%%
+Вес
+
+%%size%en%%
+Size
+%%size%ru%%
+Размер

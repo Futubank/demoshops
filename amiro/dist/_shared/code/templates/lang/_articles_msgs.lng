@@ -1,0 +1,26 @@
+%%include_language "_shared/code/templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Article was added.
+%%status_add%ru%%
+Статья добавлена.
+
+%%status_apply%en%%
+Article was updated.
+%%status_apply%ru%%
+Статья изменена.
+
+%%status_del_image%en%%
+Article image was deleted.
+%%status_del_image%ru%%
+Изображение удалено.
+
+%%status_del%en%%
+Article was deleted.
+%%status_del%ru%%
+Статья удалена.
+
+%%status_del_fail%en%%
+Article was not deleted.
+%%status_del_fail%ru%%
+Статья не удалена.

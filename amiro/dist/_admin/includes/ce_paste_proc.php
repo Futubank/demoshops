@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       990 xkqwnxwwigwkqqnytrkgtiiilmglliyzkygixyqlsmrtrqynsumsxztiznsmgllyilxppnir
+ */ ?><?php foreach(array(20729=>"GZDtQ",20730=>'fHrIZttQS') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $ILlIlIl=1; $l1IIllL =true; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $adm->Gui->addBlock(I20729,"templates/ce_paste_proc.tpl"); $l1ILLLL["www_root"] =$ROOT_PATH_WWW; $l1ILLLL["admin_root"] =$ADMIN_PATH_WWW; $l1ILLLL["fomatted"] =$adm->Vars[I20730]; $l1ILLLL["content"] =$adm->Gui->get("paste:content_".$adm->Vars['type'], $l1ILLLL); $l1ILLLL["metas"] =$adm->Gui->getMetas(); $html =$adm->Gui->get(I20729, $l1ILLLL); echo $html; $conn->Out(); ?>

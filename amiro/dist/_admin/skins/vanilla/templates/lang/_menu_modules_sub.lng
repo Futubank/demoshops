@@ -1,0 +1,157 @@
+%%include_language "templates/lang/_menu_all.lng"%%
+
+%%__file_comment__%en%%
+-- there you can redefine names for modules duplicated as submodules. For content dock menu bar --
+
+%%subscribe%en%%
+Subscribers list
+%%subscribe%ru%%
+Подписчики
+
+##--
+%%articles%en%%
+Items
+%%articles%ru%%
+Элементы
+
+%%classifieds%en%%
+Classifieds
+%%classifieds%ru%%
+Объявления
+
+%%faq%en%%
+Questions
+%%faq%ru%%
+Вопросы
+
+%%faq_cat%en%%
+Subjects
+%%faq_cat%ru%%
+Темы
+
+%%photoalbum%en%%
+Photos
+%%photoalbum%ru%%
+Фотографии
+
+%%photoalbum_data_exchange%en%%
+Photo import
+%%photoalbum_data_exchange%ru%%
+Импорт фотографий
+
+%%discussion%en%%
+Messages
+%%discussion%ru%%
+Сообщения
+
+%%forum_cat%en%%
+Sections
+%%forum_cat%ru%%
+Разделы
+
+%%forum_data_exchange%en%%
+Data exchange
+%%forum_data_exchange%ru%%
+Обмен данными
+
+%%kb%en%%
+Items
+%%kb%ru%%
+Элементы
+
+%%news%en%%
+Items
+%%news%ru%%
+Элементы
+
+%%blog%en%%
+Records
+%%blog%ru%%
+Записи
+
+%%files%en%%
+Items
+%%files%ru%%
+Элементы
+
+%%search%en%%
+Search history
+%%search%ru%%
+История поиска
+
+%%forum%en%%
+Messages
+%%forum%ru%%
+Сообщения
+
+%%jobs%en%%
+Vacancies
+%%jobs%ru%%
+Вакансии
+
+%%jobs_cat%en%%
+Departments
+%%jobs_cat%ru%%
+Отделы
+
+%%jobs_history%en%%
+Competitors queries
+%%jobs_history%ru%%
+Запросы соискателей
+
+--##
+
+%%adv_places%en%%
+Advertisement places
+%%adv_places%ru%%
+Рекламные места
+
+%%adv_groups%en%%
+Places groups
+%%adv_groups%ru%%
+Группы мест
+
+%%adv_campaign_types%en%%
+Campaign types
+%%adv_campaign_types%ru%%
+Типы кампаний
+
+%%adv_campaign_types_groups%en%%
+Campaign types groups
+%%adv_campaign_types_groups%ru%%
+Группы типов кампаний
+
+%%adv_campaigns%en%%
+Campaigns
+%%adv_campaigns%ru%%
+Кампании
+
+%%adv_banners%en%%
+Banners
+%%adv_banners%ru%%
+Баннеры
+
+%%adv_stats%en%%
+Statistics-banners
+%%adv_stats%ru%%
+Статистика-баннеры
+
+%%adv_modules_stats%en%%
+Statistics-modules
+%%adv_modules_stats%ru%%
+Статистика-модули
+
+%%adv_links_stats%en%%
+Statistics-links
+%%adv_links_stats%ru%%
+Статистика-ссылки
+
+%%adv_advertisers%en%%
+Advertisers
+%%adv_advertisers%ru%%
+Рекламодатели
+
+%%prt%en%%
+Items
+%%prt%ru%%
+Проекты

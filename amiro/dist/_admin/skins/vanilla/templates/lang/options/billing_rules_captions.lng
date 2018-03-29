@@ -1,0 +1,456 @@
+%%test_mode%en%%
+Test mode
+%%test_mode%ru%%
+Режим тестирования
+
+%%driver%en%%
+Type of payment system
+%%driver%ru%%
+Тип платежной системы
+
+%%payment_type%en%%
+Payment type
+%%payment_type%ru%%
+Тип оплаты
+
+%%business_email%en%%
+Business e-mail
+%%business_email%ru%%
+E-mail
+
+%%PAYPAL_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order for PayPal
+%%PAYPAL_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа для PayPal
+
+%%BILLING_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%BILLING_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%STUB_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%STUB_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%PRINT_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%PRINT_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%ACCOUNT_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%ACCOUNT_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%WM_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%WM_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%ROBOXCHANGE_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%ROBOXCHANGE_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%RBK_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%RBK_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%MONEYBOOKERS_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%MONEYBOOKERS_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%ASSIST_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%ASSIST_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%ECX_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%ECX_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%PAYPAL_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%PAYPAL_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%BILLING_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%BILLING_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%STUB_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%STUB_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%PRINT_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%PRINT_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%ACCOUNT_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%ACCOUNT_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%WM_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%WM_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%ROBOXCHANGE_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%ROBOXCHANGE_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%RBK_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%RBK_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%MONEYBOOKERS_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%MONEYBOOKERS_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%ASSIST_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%ASSIST_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%ECX_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%ECX_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%PAYPAL_DRIVER_fee_curr%en%%
+Fee currency for PayPal
+%%PAYPAL_DRIVER_fee_curr%ru%%
+Валюта надбавки для PayPal
+
+%%BILLING_DRIVER_fee_curr%en%%
+Fee currency
+%%BILLING_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%STUB_DRIVER_fee_curr%en%%
+Fee currency
+%%STUB_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%PRINT_DRIVER_fee_curr%en%%
+Fee currency
+%%PRINT_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%ACCOUNT_DRIVER_fee_curr%en%%
+Fee currency
+%%ACCOUNT_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%WM_DRIVER_fee_curr%en%%
+Fee currency
+%%WM_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%ROBOXCHANGE_DRIVER_fee_curr%en%%
+Fee currency
+%%ROBOXCHANGE_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%RBK_DRIVER_fee_curr%en%%
+Fee currency
+%%RBK_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%MONEYBOOKERS_DRIVER_fee_curr%en%%
+Fee currency
+%%MONEYBOOKERS_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%ASSIST_DRIVER_fee_curr%en%%
+Fee currency
+%%ASSIST_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%ECX_DRIVER_fee_curr%en%%
+Fee currency
+%%ECX_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%BILLING_DRIVER_pass_phrase%en%%
+Security phrase for communication
+%%BILLING_DRIVER_pass_phrase%ru%%
+Секретная фраза для связи
+
+%%WM_DRIVER_pass_phrase%en%%
+Security phrase for payment validation made through WebMoney web merchant interface
+%%WM_DRIVER_pass_phrase%ru%%
+Секретная фраза для проверки платежа, сделанного через веб интерфейс сайта WebMoney
+
+%%BILLING_DRIVER_merchant_id%en%%
+Id merchant
+%%BILLING_DRIVER_merchant_id%ru%%
+Id merchant
+
+%%WM_DRIVER_merchant_id%en%%
+Purse number that allow money accept
+%%WM_DRIVER_merchant_id%ru%%
+Номер кошелька для приема денег
+
+%%WM_DRIVER_merchant_idz%en%%
+Purse number that allow money accept (WMZ, USD)
+%%WM_DRIVER_merchant_idz%ru%%
+Номер кошелька для приема денег (WMZ, USD)
+
+%%WM_DRIVER_merchant_idr%en%%
+Purse number that allow money accept (WMR, RUR)
+%%WM_DRIVER_merchant_idr%ru%%
+Номер кошелька для приема денег (WMR, RUR)
+
+%%WM_DRIVER_merchant_ide%en%%
+Purse number that allow money accept (WME, EUR)
+%%WM_DRIVER_merchant_ide%ru%%
+Номер кошелька для приема денег (WME, EUR)
+
+%%ROBOXCHANGE_DRIVER_merchant_id%en%%
+Merchant login
+%%ROBOXCHANGE_DRIVER_merchant_id%ru%%
+Логин мерчанта
+
+%%ROBOXCHANGE_DRIVER_password1%en%%
+Payment initiation interface password (Password 1)
+%%ROBOXCHANGE_DRIVER_password1%ru%%
+Пароль интерфейса инициации оплаты  (Password 1)
+
+%%ROBOXCHANGE_DRIVER_password2%en%%
+Payment notification interface password (Password 2)
+%%ROBOXCHANGE_DRIVER_password2%ru%%
+Пароль интерфейса оповещения об оплате (Password 2)
+
+%%ASSIST_DRIVER_merchant_id%en%%
+Id merchant
+%%ASSIST_DRIVER_merchant_id%ru%%
+Id merchant
+
+%%PRINT_DRIVER_payservice_tpl%en%%
+Template file for printed forms
+%%PRINT_DRIVER_payservice_tpl%ru%%
+Файл шаблона печатных форм
+
+%%WM_DRIVER_cb_pass%en%%
+Your WebMoney merchant account passowrd. Will be used for payment validation made through WMKeeper. (MD5 is more secure)
+%%WM_DRIVER_cb_pass%ru%%
+Ваш пароль для интерфейса продавца WebMoney. Будет использован для проверки платежа, сделанного через WMKeeper. (Желательно MD5)
+
+%%RBK_DRIVER_in_email%en%%
+RBK Money account e-mail
+%%RBK_DRIVER_in_email%ru%%
+E-mail, на который зарегестрирован аккаунт RBK Money
+
+%%RBK_DRIVER_secret_key%en%%
+Secret key configured in account settings
+%%RBK_DRIVER_secret_key%ru%%
+Secret Key, установленный в настройках аккаунта RBK Money
+
+%%MONEYBOOKERS_DRIVER_pay_to_email%en%%
+Moneybooker account e-mail
+%%MONEYBOOKERS_DRIVER_pay_to_email%ru%%
+E-mail, на который зарегестрирован аккаунт Monebookers
+
+%%MONEYBOOKERS_DRIVER_secret_word%en%%
+Secret word that you setup in your Moneybookers Merchant Tools
+%%MONEYBOOKERS_DRIVER_secret_word%ru%%
+Secret word, который вы установили в Merchant Tools интерфейса Moneybookers
+
+%%ASSIST_DRIVER_login%en%%
+Login
+%%ASSIST_DRIVER_login%ru%%
+Login
+
+%%spl_YANDEX_DRIVER%en%%
+Money.Yandex settings
+%%spl_YANDEX_DRIVER%ru%%
+Настройки Яндекс.Деньги
+
+%%spl_PAYPAL_DRIVER%en%%
+PayPal settings
+%%spl_PAYPAL_DRIVER%ru%%
+Настройки PayPal
+
+%%spl_ECX_DRIVER%en%%
+ECX settings
+%%spl_ECX_DRIVER%ru%%
+Настройки ECX
+
+%%spl_BILLING_DRIVER%en%%
+Billing settings
+%%spl_BILLING_DRIVER%ru%%
+Настройки внутреннего билинга
+
+%%spl_STUB_DRIVER%en%%
+Stub settings
+%%spl_STUB_DRIVER%ru%%
+Настройки заявки менеджеру
+
+%%spl_PRINT_DRIVER%en%%
+Printing account settings
+%%spl_PRINT_DRIVER%ru%%
+Настройки печати счета
+
+%%spl_WM_DRIVER%en%%
+Web money settings
+%%spl_WM_DRIVER%ru%%
+Настройки Web money
+
+%%spl_ROBOXCHANGE_DRIVER%en%%
+ROBOXchange settings
+%%spl_ROBOXCHANGE_DRIVER%ru%%
+Настройки ROBOXchange
+
+%%spl_RBK_DRIVER%en%%
+RBK Money settings
+%%spl_RBK_DRIVER%ru%%
+Настройки RBK Money
+
+%%spl_MONEYBOOKERS_DRIVER%en%%
+Moneybookers settings
+%%spl_MONEYBOOKERS_DRIVER%ru%%
+Настройки Moneybookers
+
+%%spl_ASSIST_DRIVER%en%%
+Assist settings
+%%spl_ASSIST_DRIVER%ru%%
+Настройки Assist
+
+%%spl_ACCOUNT_DRIVER%en%%
+Account settings
+%%spl_ACCOUNT_DRIVER%ru%%
+Настройки внутреннего счета
+
+%%PAYPAL_DRIVER_url%en%%
+Payment page URL
+%%PAYPAL_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%BILLING_DRIVER_url%en%%
+Payment page URL
+%%BILLING_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%WM_DRIVER_url%en%%
+Payment page URL
+%%WM_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%ROBOXCHANGE_DRIVER_url%en%%
+Payment page URL
+%%ROBOXCHANGE_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%RBK_DRIVER_url%en%%
+Payment page URL
+%%RBK_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%ASSIST_DRIVER_url%en%%
+Payment page URL
+%%ASSIST_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%ASSIST_DRIVER_pass_phrase%en%%
+Pass phrase
+%%ASSIST_DRIVER_pass_phrase%ru%%
+Пароль
+
+%%YANDEX_DRIVER_url%en%%
+Payment page URL
+%%YANDEX_DRIVER_url%ru%%
+URL страницы оплаты
+
+%%YANDEX_DRIVER_pay_service%en%%
+Usage variant
+%%YANDEX_DRIVER_pay_service%ru%%
+Вариант использования
+
+%%YANDEX_DRIVER_shop_address%en%%
+Shop address on @yandex.ru
+%%YANDEX_DRIVER_shop_address%ru%%
+E-mail адрес магазина на @yandex.ru
+
+%%YANDEX_DRIVER_account_id%en%%
+Account ID
+%%YANDEX_DRIVER_account_id%ru%%
+Номер счета (4100...)
+
+%%YANDEX_DRIVER_template_1%en%%
+Template for user order message
+%%YANDEX_DRIVER_template_1%ru%%
+Шаблон для информации о заказе для яндекс
+
+%%YANDEX_DRIVER_shop_error_info%en%%
+Template for order error
+%%YANDEX_DRIVER_shop_error_info%ru%%
+Шаблон для ошибки во время заказа
+
+%%YANDEX_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order for Yandex
+%%YANDEX_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа для Яндекс
+
+%%YANDEX_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order
+%%YANDEX_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа
+
+%%YANDEX_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%YANDEX_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%YANDEX_DRIVER_fee_curr%en%%
+Fee currency
+%%YANDEX_DRIVER_fee_curr%ru%%
+Валюта надбавки
+
+%%ROBOXCHANGE_DRIVER_merchant_currency%en%%
+ROBOXchange account merchant currency<br />
+<i>If there is no needed currency create it in Currency Module</i>
+%%ROBOXCHANGE_DRIVER_merchant_currency%ru%%
+Валюта продавца в системе ROBOXchange<br />
+<i>Если в списке нет нужной валюты, создайте ее в модуле валют</i>
+
+%%GOOGLE_DRIVER_fee_percent%en%%
+Fee percent to the sum of the order for Google Checkout
+%%GOOGLE_DRIVER_fee_percent%ru%%
+Процент надбавки к сумме заказа для Google Checkout
+
+%%GOOGLE_DRIVER_fee_const%en%%
+Fee const to the sum of the order
+%%GOOGLE_DRIVER_fee_const%ru%%
+Постоянная надбавка к сумме заказа
+
+%%GOOGLE_DRIVER_fee_curr%en%%
+Fee currency for Google Checkout
+%%GOOGLE_DRIVER_fee_curr%ru%%
+Валюта надбавки для Google Checkout
+
+%%spl_GOOGLE_DRIVER%en%%
+Google Checkout settings
+%%spl_GOOGLE_DRIVER%ru%%
+Настройки Google Checkout
+
+%%GOOGLE_DRIVER_merchant_id%en%%
+Merchant ID
+%%GOOGLE_DRIVER_merchant_id%ru%%
+Merchant ID
+
+%%GOOGLE_DRIVER_merchant_key%en%%
+Merchant Key
+%%GOOGLE_DRIVER_merchant_key%ru%%
+Merchant Key

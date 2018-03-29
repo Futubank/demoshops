@@ -1,0 +1,21 @@
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_eshop_reference_popup_def_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_reference_popup_msgs.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/eshop_reference_popup_def.lng"%%
+
+%%title%en%%
+Eshop references
+%%title%ru%%
+Справочники
+
+%%remove_reference%en%%
+Remove from product
+%%remove_reference%ru%%
+Удалить из товара
+
+%%value_related_items_warn%en%%
+Please select related products!
+%%value_related_items_warn%ru%%
+Пожалуйста, выберите список связанных товаров!

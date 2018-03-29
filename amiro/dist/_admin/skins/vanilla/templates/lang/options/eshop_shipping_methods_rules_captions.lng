@@ -1,0 +1,54 @@
+%%use_shipping_module%en%%
+Use shipping module
+%%use_shipping_module%ru%%
+Использовать модуль доставки
+
+%%shipping_conflicts%en%%
+Shipping conflicts
+%%shipping_conflicts%ru%%
+Конфликты доставки
+
+%%on_intersection_emptiness%en%%
+In case of shipping methods intersection emptiness
+%%on_intersection_emptiness%ru%%
+В случае отсутствия способов доставки при пересечении
+
+%%page_sort_col%en%%
+Order shipping methods by column (admin)
+%%page_sort_col%ru%%
+Сортировать способы доставки по полю (админ)
+
+%%sort%en%%
+Sorting
+%%sort%ru%%
+Сортировка
+
+%%fieldsets%en%%
+Used sets of fields
+%%fieldsets%ru%%
+Используемые наборы полей
+
+%%fieldsets_options%en%%
+Used groups in sets of fields
+%%fieldsets_options%ru%%
+Используемые группы в наборах полей
+
+%%available_shipping_fields%en%%
+Available properties in sets of shipping fields
+%%available_shipping_fields%ru%%
+Доступные свойства в наборах полей доставки
+
+%%range_field%en%%
+Free property range field
+%%range_field%ru%%
+Поле произвольной характеристики диапазонов
+
+%%use_yandex_fast_order%en%%
+Show Yandex.Market fast order button
+%%use_yandex_fast_order%ru%%
+Показывать кнопку быстрого заказа Яндекс.Маркет
+
+%%use_yandex_fast_order_hint%en%%
+<br /><i>The redirect URL:<br />%s</i>
+%%use_yandex_fast_order_hint%ru%%
+<br /><i>Адрес страницы перенаправления:<br />%s</i>

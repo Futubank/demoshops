@@ -1,0 +1,37 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_u_login%en%%
+Username
+%%list_col_u_login%ru%%
+Логин
+
+%%list_col_u_email%en%%
+E-Mail
+%%list_col_u_email%ru%%
+Почта
+
+%%list_col_u_firstname%en%%
+First name
+%%list_col_u_firstname%ru%%
+Имя
+
+%%list_col_u_lastname%en%%
+Last name
+%%list_col_u_lastname%ru%%
+Фамилия
+
+%%list_col_topics%en%%
+Topics
+%%list_col_topics%ru%%
+Темы
+
+%%list_col_u_date_created%en%%
+Subscription/IP
+%%list_col_u_date_created%ru%%
+Подписка/IP
+
+%%list_action_reset%en%%
+Reset Password
+%%list_action_reset%ru%%
+Сбросить пароль

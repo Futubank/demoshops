@@ -1,0 +1,42 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_field_header%en%%
+Name
+%%form_field_header%ru%%
+Название
+
+%%form_field_tax_class_code%en%%
+Tax class code
+%%form_field_tax_class_code%ru%%
+Код
+
+%%form_field_tax_rate%en%%
+Tax rate
+%%form_field_tax_rate%ru%%
+Налоговая ставка
+
+%%form_field_tax_apply_type%en%%
+Tax apply type
+%%form_field_tax_apply_type%ru%%
+Начислять/Выделять
+
+%%charge%en%%
+Charge
+%%charge%ru%%
+Начислять
+
+%%detach%en%%
+Detach
+%%detach%ru%%
+Выделять
+
+%%form_caption_show%en%%
+Tax classes
+%%form_caption_show%ru%%
+Типы налогов
+
+%%tax_classes_us_desc%en%%
+Tax classes are not used in the current tax system.
+%%tax_classes_us_desc%ru%%
+В выбранной системе налогообложения типы налогов не используются.

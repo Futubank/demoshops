@@ -1,0 +1,128 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_field_useragent%en%%
+User-Agent
+%%form_field_useragent%ru%%
+User-Agent
+
+%%form_field_action%en%%
+Action
+%%form_field_action%ru%%
+Действие
+
+%%form_field_login%en%%
+User
+%%form_field_login%ru%%
+Пользователь             
+
+%%form_field_ip%en%%
+IP address
+%%form_field_ip%ru%%
+IP адрес
+
+%%form_field_time%en%%
+Time (sec.)
+%%form_field_time%ru%%
+Время (сек.)
+
+%%list_col_time%en%%
+Sec.
+%%list_col_time%ru%%                                                                                                               
+Сек.
+
+%%form_field_size%en%%
+Size
+%%form_field_size%ru%%
+Размер
+
+%%form_field_num_urls%en%%
+Links
+%%form_field_num_urls%ru%%
+Ссылок
+
+%%form_field_status%en%%
+State
+%%form_field_status%ru%%
+Статус
+
+%%form_field_sitemap_size%en%%
+Size
+%%form_field_sitemap_size%ru%%
+Размер
+
+%%act_gen_sitemap%en%%
+Sitemap creation
+%%act_gen_sitemap%ru%%
+Создание Sitemap
+
+%%act_auto_gen_sitemap%en%%
+Sitemap auto-creation
+%%act_auto_gen_sitemap%ru%%
+Автоматическое создание Sitemap
+
+%%act_send_sitemap%en%%
+Sending Sitemap to Google manually
+%%act_send_sitemap%ru%%
+Ручная отправка Sitemap в Google
+
+%%act_auto_send_sitemap%en%%
+Auto-sending Sitemap to Google
+%%act_auto_send_sitemap%ru%%
+Автоматическая отправка Sitemap в Google
+
+%%act_output_sitemap%en%%
+Request
+%%act_output_sitemap%ru%%
+Запрос
+
+%%form_field_sitemap_file%en%%
+Current Sitemap
+%%form_field_sitemap_file%ru%%
+Текущий Sitemap
+
+%%sm_status_ok%en%%
+OK
+%%sm_status_ok%ru%%
+OK
+
+%%sitemap_sent%en%%
+Sitemap file was sent to Google.
+%%sitemap_sent%ru%%
+Файл Sitemap был отправлен в Google.
+
+%%sitemap_sent_err_file_not_created%en%%
+Sitemap file not created
+%%sitemap_sent_err_file_not_created%ru%%
+Файл Sitemap не создан
+
+%%sitemap_sent_err_file_not_found%en%%
+Sitemap file not found
+%%sitemap_sent_err_file_not_found%ru%%
+Файл Sitemap не найден
+
+%%sitemap_sent_err_http_code%en%%
+Sitemap sending error
+%%sitemap_sent_err_http_code%ru%%
+Ошибка при отправке Sitemap
+
+
+%%byte%en%%
+bytes
+%%byte%ru%%
+байт
+
+%%kilobyte%en%%
+Kb
+%%kilobyte%ru%%
+Кб
+
+%%megabyte%en%%
+Mb
+%%megabyte%ru%%
+Мб
+
+%%gigabyte%en%%
+Gb
+%%gigabyte%ru%%
+Гб

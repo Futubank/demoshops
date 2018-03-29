@@ -1,0 +1,431 @@
+##--system info: module_owner="" module="" system="1"--##
+%%browser_not_valid%en%%
+<b>Your browser is outdated.</b><br><br>
+To use this module, you must install the new version of browser.
+%%browser_not_valid%ru%%
+<b>Ваш браузер устарел.</b><br><br>
+Для работы с данным модулем необходимо установить новую версию.
+
+%%compatible_browser_list%en%%
+%%compatible_browser_list%ru%%
+Ознакомиться с требованиями и скачать новые версии браузеров
+
+##-- filter { --##
+
+%%filter_is_empty%en%%
+No data found
+%%filter_is_empty%ru%%
+Нет данных удовлетворяющих условиям фильтра
+
+##-- } filter --##
+##-- list { --##
+
+%%list_confirm_deletion%en%%
+Are you sure to delete item?
+%%list_confirm_deletion%ru%%
+Удалить?
+
+%%list_confirm_copy%en%%
+Are you sure to copy item?
+%%list_confirm_copy%ru%%
+Скопировать?
+
+%%list_add_new_button%en%%
+add new
+%%list_add_new_button%ru%%
+добавить
+
+##-- } list --##
+##-- group operations { --##
+
+%%group_num_checked%en%%
+Checked:
+%%group_num_checked%ru%%
+Выбрано:
+
+%%grp_reset_all%en%%
+reset
+%%grp_reset_all%ru%%
+сбросить
+
+%%grp_select_all%en%%
+select all
+%%grp_select_all%ru%%
+выбрать все
+
+%%group_operations%en%%
+Group operations:
+%%group_operations%ru%%
+Групповые операции:
+
+%%list_action_grp_public%en%%
+Publish selected
+%%list_action_grp_public%ru%%
+Опубликовать отмеченное
+
+%%list_action_grp_unpublic%en%%
+Unpublish selected
+%%list_action_grp_unpublic%ru%%
+Снять с публикации отмеченное
+
+%%list_action_grp_delete%en%%
+Delete selected
+%%list_action_grp_delete%ru%%
+Удалить выбранные
+
+%%list_action_grp_gen_sublink%en%%
+Generate links for selected
+%%list_action_grp_gen_sublink%ru%%
+Сгенерировать ссылки для отмеченного
+
+%%list_action_grp_gen_html_meta%en%%
+Create titles, keywords and descriptions for selected (except manually specified)
+%%list_action_grp_gen_html_meta%ru%%
+Сгенерировать заголовок страницы, ключевые слова и описания? (значения заданные вручную сохранятся)
+
+%%list_action_grp_gen_html_meta_force%en%%
+Create titles, keywords and descriptions for selected
+%%list_action_grp_gen_html_meta_force%ru%%
+Сгенерировать для отмеченных заголовок страницы, ключевые слова и описания
+
+%%list_action_grp_index_details%en%%
+Allow search engines indexing for selected
+%%list_action_grp_index_details%ru%%
+Разрешить индексирование поисковыми роботами для отмеченного
+
+%%list_action_grp_no_index_details%en%%
+Deny search engines indexing for selected
+%%list_action_grp_no_index_details%ru%%
+Запретить индексирование поисковыми роботами для отмеченного
+
+%%list_action_grp_copy%en%%
+Copy selected
+%%list_action_grp_copy%ru%%
+Скопировать выбранные
+
+%%group_nonchecked_warn%en%%
+Nothing is selected!
+%%group_nonchecked_warn%ru%%
+Ничего не отмечено!
+
+%%grp_public_warn%en%%
+Publish selected?
+%%grp_public_warn%ru%%
+Опубликовать отмеченное?
+
+%%grp_unpublic_warn%en%%
+Unpublish selected?
+%%grp_unpublic_warn%ru%%
+Снять с публикации отмеченное?
+
+%%grp_delete_warn%en%%
+Delete selected?
+%%grp_delete_warn%ru%%
+Удалить выбранное?
+
+%%grp_gen_sublink_warn%en%%
+Generate links for selected?
+%%grp_gen_sublink_warn%ru%%
+Сгенерировать ссылки для отмеченного?
+
+%%grp_gen_html_meta_warn%en%%
+Create titles, keywords and descriptions for selected (except manually specified)?
+%%grp_gen_html_meta_warn%ru%%
+Сгенерировать для отмеченных (кроме заданных вручную) заголовок страницы, ключевые слова и описания?
+
+%%grp_gen_html_meta_force_warn%en%%
+Create titles, keywords and descriptions for selected?
+%%grp_gen_html_meta_force_warn%ru%%
+Сгенерировать для отмеченных заголовок страницы, ключевые слова и описания?
+
+%%grp_index_details_warn%en%%
+Allow search engines indexing for selected?
+%%grp_index_details_warn%ru%%
+Разрешить индексирование поисковыми роботами для отмеченного?
+
+%%grp_no_index_details_warn%en%%
+Deny search engines indexing for selected?
+%%grp_no_index_details_warn%ru%%
+Запретить индексирование поисковыми роботами для отмеченного?
+
+%%grp_copy_items%en%%
+Copy
+%%grp_copy_items%ru%%
+скопировать
+
+%%grp_move_items%en%%
+Move
+%%grp_move_items%ru%%
+переместить
+
+%%grp_popup_on_page%en%%
+On page
+%%grp_popup_on_page%ru%%
+на страницу
+
+%%grp_copy_warn%en%%
+Copy selected?
+%%grp_copy_warn%ru%%
+Скопировать отмеченное?
+
+##-- } group operations --##
+##-- form { --##
+
+%%form_item_created%en%%
+Added
+%%form_item_created%ru%%
+Добавлено
+
+%%form_item_not_created%en%%
+Nothing is added!
+%%form_item_not_created%ru%%
+Не добавлено!
+
+%%form_item_saved%en%%
+Updated
+%%form_item_saved%ru%%
+Обновлено
+
+%%form_item_not_saved%en%%
+Nothing is updated!
+%%form_item_not_saved%ru%%
+Не обновлено!
+
+%%form_item_not_found%en%%
+Not found!
+%%form_item_not_found%ru%%
+Не найдено
+
+%%errors_found%en%%
+Form contains errors
+%%errors_found%ru%%
+На форме найдены ошибки
+
+%%form_field_header_empty_warn%en%%
+Please, enter the Header!
+%%form_field_header_empty_warn%ru%%
+Пожалуйста, введите заголовок!
+
+%%form_field_date_created_empty_warn%en%%
+Please, enter the Date!
+%%form_field_date_created_empty_warn%ru%%
+Пожалуйста, введите дату!
+
+%%form_field_date_created_invalid_warn%en%%
+Please, enter correct the Date!
+%%form_field_date_created_invalid_warn%ru%%
+Пожалуйста, введите корректную дату!
+
+%%form_field_date_created_time_empty_warn%en%%
+Please, enter the Time!
+%%form_field_date_created_time_empty_warn%ru%%
+Пожалуйста, введите время!
+
+%%form_field_date_created_time_invalid_warn%en%%
+Please, enter correct the Time!
+%%form_field_date_created_time_invalid_warn%ru%%
+Пожалуйста, введите корректное время!
+
+%%form_field_announce_empty_warn%en%%
+Please, enter the Announce!
+%%form_field_announce_empty_warn%ru%%
+Пожалуйста, введите анонс!
+
+%%form_field_id_cat_empty_warn%en%%
+Select a category!
+%%form_field_id_cat_empty_warn%ru%%
+Выберите категорию!
+
+%%validator_format%en%%
+Invalid field format!
+%%validator_format%ru%%
+Поле заполнено неверно!
+
+%%validator_filled%en%%
+Please, enter the value!
+%%validator_filled%ru%%
+Пожалуйста, заполните поле!
+
+%%sublink_invalid_symbols%en%%
+The link contains illegal character(s)! Possible characters are: [A-Z] [a-z] [0-9] [-] [_] [.] [/].
+%%sublink_invalid_symbols%ru%%
+Недопустимые символы в ссылке! Набор допустимых символов: [A-Z] [a-z] [0-9] [-] [_] [.] [/].
+
+%%sublink_illegal_qm_usage%en%%
+The link contains too many question marks "?"!
+%%sublink_illegal_qm_usage%ru%%
+Ссылка содержит более одного знака вопроса "?"!
+
+%%sublink_illegal_amp_usage%en%%
+Illegal use of "&" or "="!
+%%sublink_illegal_amp_usage%ru%%
+Неверное использование знаков "&" или "="!
+
+%%sublink_start_slash%en%%
+The link cannot be started with "\/"!
+%%sublink_start_slash%ru%%
+Ссылка не может начинаться с символа "\/"!
+
+%%sublink_start_illegal%en%%
+The link can only be started from the characters: [A-Z] [a-z] [-] [_] [.].
+%%sublink_start_illegal%ru%%
+Недопустимый символ в начале ссылки! Адрес может начинаться только со следующих символов: [A-Z] [a-z] [-] [_] [.].
+
+%%form_changed%en%%
+Form data were changed, all changes will be lost! Are you sure to continue?
+%%form_changed%ru%%
+Данные были изменены, все изменения будут потеряны! Продолжить?
+
+##-- } form --##
+
+##-- positions { --##
+
+%%position_move_top%en%%
+Move top
+%%position_move_top%ru%%
+Наверх
+
+%%position_move_up%en%%
+Move up
+%%position_move_up%ru%%
+Выше
+
+%%position_move_down%en%%
+Move down
+%%position_move_down%ru%%
+Ниже
+
+%%position_move_bottom%en%%
+Move bottom
+%%position_move_bottom%ru%%
+Вниз
+
+%%position_warn_positionInactive%en%%
+For activation of these actions, it is necessary to sort data by this field.
+%%position_warn_positionInactive%ru%%
+Для активации действий, необходимо установить сортировку по данному полю.
+
+%%position_warn_positionIsFirst%en%%
+Already at the top of the list!
+%%position_warn_positionIsFirst%ru%%
+Уже в начале списка
+
+%%position_warn_positionIsLast%en%%
+Already at the bottom of the list!
+%%position_warn_positionIsLast%ru%%
+Уже последний в списке
+
+%%grp_move_position%en%%
+Move:
+%%grp_move_position%ru%%
+Переместить:
+
+%%grp_move_position_top%en%%
+In a beginning
+%%grp_move_position_top%ru%%
+В начало
+
+%%grp_move_position_bottom%en%%
+In the end
+%%grp_move_position_bottom%ru%%
+В конец
+
+%%grp_move_position_custom%en%%
+After position...
+%%grp_move_position_custom%ru%%
+После позиции...
+
+%%grp_move_position_custom_wrong%en%%
+The position is specified incorrectly!
+%%grp_move_position_custom_wrong%ru%%
+Позиция указана неверно!
+
+%%grp_move_position_warn%en%%
+Move selected?
+%%grp_move_position_warn%ru%%
+Переместить выбранное?
+
+##-- } positions --##
+
+##-- id_page { --##
+
+%%grp_id_page_warn%en%%
+Copy/move to selected page?
+%%grp_id_page_warn%ru%%
+Переместить/скопировать на выбранную страницу?
+
+##-- } id_page --##
+
+%%grp_popup_to_cat%en%%
+to categoory
+%%grp_popup_to_cat%ru%%
+в категорию
+
+%%grp_id_cat_warn%en%%
+Copy/move to selected category?
+%%grp_id_cat_warn%ru%%
+Переместить/скопировать в выбранную категорию?
+
+##-- file_uploader { --##
+
+%%select_file%en%%
+Select file
+%%select_file%ru%%
+Выберите файл
+
+%%cancel_file%en%%
+Cancel file
+%%cancel_file%ru%%
+Отказаться от файла
+
+%%upload_in_progress%en%%
+File upload in progress...
+%%upload_in_progress%ru%%
+Идет загрузка файла...
+
+%%multiselect_check_all%en%%
+Check all
+%%multiselect_check_all%ru%%
+Все
+
+%%multiselect_uncheckAllText%en%%
+Uncheck all
+%%multiselect_uncheckAllText%ru%%
+Ничего
+
+%%multiselect_andAlso%en%%
+and also
+%%multiselect_andAlso%ru%%
+и еще
+
+%%multiselect_noneSelectedText%en%%
+Select options
+%%multiselect_noneSelectedText%ru%%
+не задано
+
+%%multiselect_selectedText%en%%
+Selected #
+%%multiselect_selectedText%ru%%
+Выбрано #
+
+%%multiselect_mark%en%%
+Select
+%%multiselect_mark%ru%%
+Выбрать
+
+%%upload_failed%en%%
+Upload Failed!
+%%upload_failed%ru%%
+Ошибка загрузки файла!
+
+##-- } file_uploader --##
+
+##-- todo: move to separate eshop_item_client_serve_eshop_order.lng --##
+%%products_having_props_adding_forbidden%en%%
+Adding products having properties is forbidden.
+%%products_having_props_adding_forbidden%ru%%
+Добавление товаров с подвидами запрещено.
+%%not_found%en%%
+Found nothing
+%%not_found%ru%%
+Совпадений не найдено

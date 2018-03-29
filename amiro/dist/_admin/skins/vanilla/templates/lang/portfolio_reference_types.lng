@@ -1,0 +1,26 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_portfolio_msgs.lng"%%
+%%include_language "templates/lang/eshop_reference_types_def.lng"%%
+
+%%portfolio_reference_types_add%en%%
+Add reference
+%%portfolio_reference_types_add%ru%%
+Добавление справочника
+
+%%portfolio_reference_types_apply%en%%
+Edit reference
+%%portfolio_reference_types_apply%ru%%
+Редактирование справочника
+
+%%ftype_related_items%en%%
+Related projects
+%%ftype_related_items%ru%%
+Связанные проекты
+
+%%delete_ref_warn%en%%
+Delete?\nAll project's attributes that uses this reference will be removed as well.
+%%delete_ref_warn%ru%%
+Удалить?\nТак же будут удалены все свойства проектов, которые опираются на данный справочник.

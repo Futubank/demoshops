@@ -1,0 +1,5 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_categories.lng"%%
+%%include_language "templates/lang/eshop_coupons_cat_def.lng"%%

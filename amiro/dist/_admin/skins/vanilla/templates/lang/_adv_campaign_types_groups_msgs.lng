@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Campaign types group was added.
+%%status_add%ru%%
+Группа типов кампаний добавлена.
+
+%%status_apply%en%%
+Campaign types group was updated.
+%%status_apply%ru%%
+Группа типов кампаний изменена.
+
+%%status_del%en%%
+Campaign types group was deleted.
+%%status_del%ru%%
+Группа типов кампаний удалена.
+
+%%status_del_fail%en%%
+Campaign types group was not deleted.
+%%status_del_fail%ru%%
+Группа типов кампаний не была удалена.
+
+%%name_warn%en%%
+Please, enter the name
+%%name_warn%ru%%
+Пожалуйста, введите название

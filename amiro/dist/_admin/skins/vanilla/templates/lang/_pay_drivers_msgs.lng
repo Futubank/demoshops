@@ -1,0 +1,41 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_already_installed%en%%
+Driver is already installed
+%%status_already_installed%ru%%
+Драйвер уже установлен
+
+%%status_no_driver%en%%
+No driver modules found.
+%%status_no_driver%ru%%
+Не найдено файлов драйвера.
+
+%%status_installed%en%%
+Driver was installed
+%%status_installed%ru%%
+Драйвер установлен
+
+%%status_already_not_installed%en%%
+Driver is not installed
+%%status_already_not_installed%ru%%
+Драйвер ещё не установлен
+
+%%status_uninstalled%en%%
+Вкшмук was uninstalled
+%%status_uninstalled%ru%%
+Драйвер деинсталлирован
+
+%%status_is_not_installed%en%%
+Driver is not installed
+%%status_is_not_installed%ru%%
+Драйвер не установлен
+
+%%status_added%en%%
+_cnt_ drivers are added
+%%status_added%ru%%
+Драйверов добавлено: _cnt_
+
+%%status_deleted%en%%
+_cnt_ drivers are deleted
+%%status_deleted%ru%%
+Драйверов удалено: _cnt_

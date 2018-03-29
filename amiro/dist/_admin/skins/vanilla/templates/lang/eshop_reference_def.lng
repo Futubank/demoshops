@@ -1,0 +1,116 @@
+%%eshop_reference_add%en%%
+Add reference item
+%%eshop_reference_add%ru%%
+Добавление элемента справочника
+
+%%eshop_reference_apply%en%%
+Edit reference item
+%%eshop_reference_apply%ru%%
+Редактирование элемента справочника
+
+%%select_reference%en%%
+Select the reference please
+%%select_reference%ru%%
+Выберите справочник
+
+%%flagmap_is_empty%en%%
+There is no flags currently.<br>
+Please attach reference to attribute and create flags first.
+%%flagmap_is_empty%ru%%
+В настоящее время нет флагов.<br>
+Пожалуйста, сначала назначьте справочник свойству и создайте флаги.
+
+%%empty%en%%
+No data for this reference
+%%empty%ru%%
+Нет данных для справочника
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%description_form%en%%
+Description (used and hints to reference values on site if set)
+%%description_form%ru%%
+Описание (используется как подсказка для значения на сайте, если задано)
+
+%%cdate%en%%
+Created
+%%cdate%ru%%
+Создан
+
+%%description_warn%en%%
+Fill in the description please!
+%%description_warn%ru%%
+Пожалуйста, введите описание!
+
+%%sku_code%en%%
+SKU code
+%%sku_code%ru%%
+Код товара
+
+%%value%en%%
+Value
+%%value%ru%%
+Значение
+
+%%related_cats_add_icon%en%%
+Set list of related categories
+%%related_cats_add_icon%ru%%
+Назначить список связанных категорий
+
+%%related_cats_edit_icon%en%%
+Edit list of related categories
+%%related_cats_edit_icon%ru%%
+Редактировать список связанных категорий
+
+%%related_cats_add_list%en%%
+Set related cats list
+%%related_cats_add_list%ru%%
+Создание списка связанных категорий
+
+%%related_cats_edit_list%en%%
+Edit related categories list
+%%related_cats_edit_list%ru%%
+Редактирование списка связанных категорий
+
+%%number_related_cats%en%%
+Number of related categories
+%%number_related_cats%ru%%
+Кол-во связанных категорий
+
+%%value_warn%en%%
+Please fill the value!
+%%value_warn%ru%%
+Пожалуйста, введите значение!
+
+%%value_int_warn%en%%
+Please fill the integer value!
+%%value_int_warn%ru%%
+Пожалуйста, введите целочисленное значение!
+
+%%value_float_warn%en%%
+Please fill the float value!
+%%value_float_warn%ru%%
+Пожалуйста, введите правильное значение числа с плавающей точкой!
+
+%%value_date_warn%en%%
+Please fill the date value!
+%%value_date_warn%ru%%
+Пожалуйста, введите дату как значение!
+
+%%value_related_cats_warn%en%%
+Please select related categories!
+%%value_related_cats_warn%ru%%
+Пожалуйста, выберите список связанных категорий!
+
+%%name_form%en%%
+Name (for grouping)
+%%name_form%ru%%
+Название (для группировки)
+
+%%note%en%%
+Name will be used in filter and value in all other cases.
+%%note%ru%%
+Название будет использовано только в фильтре.

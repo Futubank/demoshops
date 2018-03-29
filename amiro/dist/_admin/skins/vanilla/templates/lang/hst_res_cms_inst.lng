@@ -1,0 +1,135 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/hst.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/hst_res_inst.lng"%%
+%%include_language "templates/lang/_hst_res_inst_msgs.lng"%%
+%%include_language "templates/lang/_hst_res_cms_inst_msgs.lng"%%
+
+%%hst_res_cms_inst_add%en%%
+Add site
+%%hst_res_cms_inst_add%ru%%
+Добавить сайт
+
+%%hst_res_cms_inst_apply%en%%
+Edit site
+%%hst_res_cms_inst_apply%ru%%
+Редактировать сайт
+
+%%username%en%%
+Username
+%%username%ru%%
+Пользователь
+
+%%admin_status%en%%
+Control panel
+%%admin_status%ru%%
+Админ
+
+%%admin_status%en%%
+Control panel
+%%admin_status%ru%%
+Админ
+
+%%status_!error%en%%
+Error
+%%status_!error%ru%%
+Ошибка
+
+%%status_active%en%%
+Running
+%%status_active%ru%%
+Работает
+
+%%status_suspend%en%%
+Suspended
+%%status_suspend%ru%%
+Отключен
+
+%%is_absent%en%%
+is absent
+%%is_absent%ru%%
+отсутствует
+
+%%login_to%en%%
+admin
+%%login_to%ru%%
+админ
+
+%%last_login_date%en%%
+Login login date / total
+%%last_login_date%ru%%
+Дата последнего входа / всего
+
+%%archive%en%%
+Archive
+%%archive%ru%%
+Архивировать
+
+%%archive_before_del%en%%
+Arhive before delete
+%%archive_before_del%ru%%
+Архивировать при удалении
+
+%%cms_type%en%%
+Type
+%%cms_type%ru%%
+Тип
+
+%%cms_type_single%en%%
+Single
+%%cms_type_single%ru%%
+Отдельностоящий
+
+%%cms_type_shared%en%%
+Shared
+%%cms_type_shared%ru%%
+С разделяемым кодом
+
+%%title_copy%en%%
+Copy
+%%title_copy%ru%%
+Копирование
+
+%%copy_cms%en%%
+Copy CMS
+%%copy_cms%ru%%
+Копирование сайта
+
+%%copy_to_level2_domain%en%%
+Copy to level 2 domain
+%%copy_to_level2_domain%ru%%
+Копировать на домен второго уровня
+
+%%add_dns_zone_if_not_exist%en%%
+Add DNS zone if not exist on this server
+%%add_dns_zone_if_not_exist%ru%%
+Добавить DNS зону, если ее нет на этом сервере
+
+%%copy_to_level3_domain%en%%
+Copy to level 3 domain
+%%copy_to_level3_domain%ru%%
+Копировать на домен третьего уровня
+
+%%send_new_access_to_ovner_on_email%en%%
+Send new access to ovner on e-mail
+%%send_new_access_to_ovner_on_email%ru%%
+Отправить новый доступ владельцу сайта по e-mail
+
+%%delete_copied_site%en%%
+Delete copied site
+%%delete_copied_site%ru%%
+Удалить скопированный сайт
+
+%%apply%en%%
+  Apply  
+%%apply%ru%%
+  Применить  
+
+%%cancel%en%%
+Cancel
+%%cancel%ru%%
+Отмена
+
+

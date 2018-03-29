@@ -1,0 +1,10 @@
+%%valid_check%en%%
+Automatically check free updates expire date from updates server
+%%valid_check%ru%%
+Автоматически запрашивать у сервера дату, до которой доступны обновления
+
+%%valid_notify%en%%
+Show warning when less than 30 days left for free updates expiration date
+%%valid_notify%ru%%
+Предупреждать при входе в панель администрирования, если срок обновлений истекает менее чем через 30 дней
+

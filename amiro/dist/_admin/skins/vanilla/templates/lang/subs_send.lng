@@ -1,0 +1,160 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_subs_send_msgs.lng"%%
+%%attach_images%en%%
+Send images as links
+%%attach_images%ru%%
+Посылать изображения как ссылки
+
+%%store_in_history%en%%
+Store in history
+%%store_in_history%ru%%
+Сохранить в истории
+
+%%active_only%en%%
+Active subscribers only
+%%active_only%ru%%
+Только активным подписчикам
+
+%%inactive_only%en%%
+Inactive subscribers only
+%%inactive_only%ru%%
+Только неактивным подписчикам
+
+%%all_subs%en%%
+All subscribers
+%%all_subs%ru%%
+Всем подписчикам
+
+%%active_status%en%%
+Send to
+%%active_status%ru%%
+Отправить
+
+%%inactive_warn%en%%
+Are you sure to send the letter to inactive subscribers?
+%%inactive_warn%ru%%
+Вы уверены, что хотите отправить письмо неактивным подписчикам?
+
+%%put_into_queue%en%%
+Put into queue
+%%put_into_queue%ru%%
+Поместить в очередь
+
+
+%%attach%en%%
+Attach file
+%%attach%ru%%
+Вставить файл
+
+%%subject%en%%
+Message subject
+%%subject%ru%%
+Тема сообщения
+
+%%message%en%%
+Message text
+%%message%ru%%
+Текст сообщения
+
+%%test%en%%
+Send letter to test email only
+%%test%ru%%
+Отправить только на тестовый адрес
+
+%%test_user%en%%
+Send letter as test private message only
+%%test_user%ru%%
+Отправить как тестовое личное сообщению пользователю
+
+%%format%en%%
+Use plain text format only
+%%format%ru%%
+Простой текст
+
+%%empty%en%%
+No messages were sent
+%%empty%ru%%
+Нет отправленных сообщений
+
+%%topic%en%%
+Topic
+%%topic%ru%%
+Тема
+
+%%send_to%en%%
+Sent to
+%%send_to%ru%%
+Отправлен
+
+%%active%en%%
+Active
+%%active%ru%%
+Активным
+
+%%all%en%%
+All
+%%all%ru%%
+Всем
+
+%%inactive%en%%
+Inactive
+%%inactive%ru%%
+Неактивным
+
+%%status%en%%
+Status
+%%status%ru%%
+Статус
+
+%%queued%en%%
+Queued
+%%queued%ru%%
+В очереди
+
+%%sent%en%%
+Sent
+%%sent%ru%%
+Отправлено
+
+%%host_users%en%%
+Site administrators
+%%host_users%ru%%
+Администраторам сайтов
+
+%%local_sites%en%%
+Local sites
+%%local_sites%ru%%
+Локальные сайты
+
+%%status_saved%en%%
+Saved
+%%status_saved%ru%%
+Сохранено
+
+%%host_licence_type_all%en%%
+All
+%%host_licence_type_all%ru%%
+Все
+
+%%host_licence_type_free%en%%
+Free
+%%host_licence_type_free%ru%%
+Бесплатная
+
+%%host_licence_type_trial%en%%
+Trial
+%%host_licence_type_trial%ru%%
+Пробная
+
+%%host_licence_type_paid%en%%
+Paid
+%%host_licence_type_paid%ru%%
+Платная
+
+%%testtome%en%%
+Send only to me
+%%testtome%ru%%
+Отправить самому себе

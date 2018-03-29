@@ -1,0 +1,48 @@
+%%include_language "templates/lang/_tags_reindex.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/main.lng"%%
+
+%%page_title%en%%
+Indexation
+%%page_title%ru%%
+Индексация
+
+%%srv_tags_reindex%en%%
+Indexation
+%%srv_tags_reindex%ru%%
+Индексация
+
+%%srv_tags_reindex_add%en%%
+Indexation
+%%srv_tags_reindex_add%ru%%
+Индексация
+
+%%index_size%en%%
+Index size
+%%index_size%ru%%
+Размер индекса
+
+%%progress%en%%
+Progress
+%%progress%ru%%
+Прогресс
+
+%%reindexing%en%%
+Site index creation
+%%reindexing%ru%%
+Создание индекса сайта
+
+%%reindexed%en%%
+Site content was indexed
+%%reindexed%ru%%
+Сайт индексирован
+
+%%timeout%en%%
+Script exceeds timeout period.<br>Site content will be indexed automatically later
+%%timeout%ru%%
+Превышено время индексации.<br>Сайт будет индексирован позднее автоматически
+
+%%reindex_error%en%%
+Error occurs during indexation.<br>Site will be indexed automatically later
+%%reindex_error%ru%%
+Произошла ошибка индексации.<br>Сайт будет индексирован позднее автоматически

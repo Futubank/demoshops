@@ -1,0 +1,11 @@
+##--system info: module_owner="services" module="private_messages" system="1"--##
+%%include_language "templates/lang/modules/_client.lng"%%
+
+##-- list { --##
+
+%%list_action_grp_read%en%%
+Mark selected  messages as read
+%%list_action_grp_read%ru%%
+Сделать выбранные сообщения прочитанными
+
+##-- } list --##

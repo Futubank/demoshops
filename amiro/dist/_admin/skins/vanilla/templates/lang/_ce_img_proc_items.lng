@@ -1,0 +1,585 @@
+%%include_language "templates/lang/_common_items.lng"%%
+
+%%bg_repeat-x%en%%
+Repeat horizontally
+%%bg_repeat-x%ru%%
+Повторять по горизонтали
+
+%%bg_repeat-y%en%%
+Repeat vertically
+%%bg_repeat-y%ru%%
+Повторять по вертикали
+
+%%img_url%en%%
+Image
+%%img_url%ru%%
+Изображение
+
+%%bg_img_url%en%%
+Background image
+%%bg_img_url%ru%%
+Фоновое изображение
+
+%%img_url_path%en%%
+Image URL
+%%img_url_path%ru%%
+URL изображения
+
+%%popup_img_url%en%%
+Popup Image 
+%%popup_img_url%ru%%
+Всплывающее изображение
+
+%%image_over%en%%
+Mouse over image
+%%image_over%ru%%
+Изображение при наведении
+
+%%browse_img%en%%
+Click browse to choose an image
+%%browse_img%ru%%
+Нажмите browse\обзор чтобы указать изображение
+
+%%alt_text%en%%
+Alternate Text
+%%alt_text%ru%%
+Альтернативный текст
+
+%%title_text%en%%
+Title Text
+%%title_text%ru%%
+Всплывающий текст
+
+%%header_text%en%%
+Header
+%%header_text%ru%%
+Заголовок
+
+%%description_text%en%%
+Description
+%%description_text%ru%%
+Описание
+
+%%group_text%en%%
+Group name
+%%group_text%ru%%
+Группа
+
+%%link_text%en%%
+URL
+%%link_text%ru%%
+Cсылка
+
+%%link_caption%en%%
+URL Caption
+%%link_caption%ru%%
+Заголовок ссылки
+
+%%link_note%en%%
+will be shown in popup frame under the image, looks like link, leading http:// required for external links
+%%link_note%ru%%
+отображается во всплывающем окне под изображением, оформляется как ссылка, для ссылок на другие сайты вначале необходимо указывать http://
+
+%%alt_image%en%%
+Alternate Image
+%%alt_image%ru%%
+Альтернативное изображение
+
+%%alignment%en%%
+Alignment
+%%alignment%ru%%
+Выравнивание
+
+%%hor_spacing%en%%
+Horizontal spacing
+%%hor_spacing%ru%%
+Горизонтальные отступы
+
+%%ver_spacing%en%%
+Vertical spacing
+%%ver_spacing%ru%%
+Вертикальные отступы
+
+
+%%hor_ver_spacing%en%%
+Horizontal | Vertical spacing
+%%hor_ver_spacing%ru%%
+Горизонтальные | Вертикальные отступы
+
+
+%%border%en%%
+Border Thickness
+%%border%ru%%
+Толщина рамки
+
+%%width%en%%
+Width
+%%width%ru%%
+Ширина
+
+%%height%en%%
+Height
+%%height%ru%%
+Высота
+
+%%popup_width%en%%
+Popup width
+%%popup_width%ru%%
+Ширина всплывающего
+
+%%popup_width_height%en%%
+Popup width Х height
+%%popup_width_height%ru%%
+Ширина Х Высота всплывающего
+
+%%popup_height%en%%
+Popup height
+%%popup_height%ru%%
+Высота всплывающего
+
+%%choose_img%en%%
+or choose Image from existing ones below
+%%choose_img%ru%%
+или выберите изображение из загруженных ранее
+
+%%upload_img%en%%
+Upload
+%%upload_img%ru%%
+Загрузить
+
+%%upload%en%%
+Upload
+%%upload%ru%%
+Загрузить
+
+%%upload_to_dir%en%%
+Upload to dir
+%%upload_to_dir%ru%%
+Загрузить в папку
+
+%%noset%en%%
+
+%%left%en%%
+Left
+%%left%ru%%
+Влево
+
+%%right%en%%
+Right
+%%right%ru%%
+Вправо
+
+%%center%en%%
+Center
+%%center%ru%%
+По середине
+
+
+%%picture%en%%
+Current picture
+%%picture%ru%%
+Current picture
+
+
+%%picture_none%en%%
+No picture uploaded
+%%picture_none%ru%%
+Нет изображения
+
+%%file%en%%
+File(2 Mb max)
+%%file%ru%%
+Файл(2 Mb максимум)
+
+%%place%en%%
+Where to place
+%%place%ru%%
+Где разместить
+
+%%delete%en%%
+Delete selected images
+%%delete%ru%%
+Удалить выбранные изображения
+
+%%show_images%en%%
+Show Images
+%%show_images%ru%%
+Показать Изображения
+
+%%hide_images%en%%
+Hide Images
+%%hide_images%ru%%
+Скрыть Изображения
+
+
+%%browse_as_list%en%%
+List
+%%browse_as_list%ru%%
+Список
+
+%%browse_as_icons%en%%
+Icons
+%%browse_as_icons%ru%%
+Иконки
+
+%%dir_menu%en%%
+Menu Images
+%%dir_menu%ru%%
+Картинки меню
+
+%%dir_common%en%%
+Main Directory
+%%dir_common%ru%%
+Главная директория
+
+%%dir_common_name%en%%
+Common Images
+%%dir_common_name%ru%%
+Разные Картинки
+
+%%dir_eshop%en%%
+E-Shop Images
+%%dir_eshop%ru%%
+Картинки для каталога товаров
+
+%%dir_kb%en%%
+Knowledge Base Images
+%%dir_kb%ru%%
+Картинки для базы знаний
+
+%%dir_portfolio%en%%
+Portfolio Images
+%%dir_portfolio%ru%%
+Картинки для портфолио
+
+%%dir_gallery%en%%
+Gallery Images
+%%dir_gallery%ru%%
+Картинки для галереи
+
+%%dir_photoalbum%en%%
+Photoalbum Images
+%%dir_photoalbum%ru%%
+Картинки для фотоальбома
+
+%%dir_news%en%%
+News Images
+%%dir_news%ru%%
+Картинки для новостей
+
+%%dir_animation%en%%
+Animation
+%%dir_animation%ru%%
+Анимация
+
+%%dir_articles%en%%
+Articles Images
+%%dir_articles%ru%%
+Картинки для статей
+
+%%name%en%%
+Name
+%%name%ru%%
+Имя
+
+%%fsize%en%%
+Size
+%%fsize%ru%%
+Размер
+
+%%resolution%en%%
+Resolution
+%%resolution%ru%%
+Разрешение
+
+%%action%en%%
+Action
+%%action%ru%%
+Действие
+
+%%select%en%%
+Select
+%%select%ru%%
+Выбрать
+
+%%set_no_image%en%%
+Set no image
+%%set_no_image%ru%%
+Убрать изображение
+
+%%refresh%en%%
+Refresh
+%%refresh%ru%%
+Обновить
+
+%%force_owerwrite%en%%
+Overwrite existing images on the server
+%%force_owerwrite%ru%%
+Перезаписывать существующие на сервере изображения
+
+%%custom_size%en%%
+Custom size
+%%custom_size%ru%%
+Указать размер
+
+%%align_not_set%en%%
+Not set
+%%align_not_set%ru%%
+Не задано
+
+%%align_left%en%%
+Left
+%%align_left%ru%%
+Слева
+
+%%align_right%en%%
+Right
+%%align_right%ru%%
+Справа
+
+%%align_texttop%en%%
+Text top
+%%align_texttop%ru%%
+По верхней границе самых высоких символов строки
+
+%%align_absmiddle%en%%
+Abs middle
+%%align_absmiddle%ru%%
+По абсолютной середине строки текста
+
+%%align_middle%en%%
+Middle
+%%align_middle%ru%%
+По середине строки текста
+
+%%align_baseline%en%%
+Baseline
+%%align_baseline%ru%%
+Нижняя рамка по базовой линии строки текста
+
+%%align_absbottom%en%%
+Abs bottom
+%%align_absbottom%ru%%
+Нижняя граница по нижней границе строки текста
+
+%%align_bottom%en%%
+Bottom
+%%align_bottom%ru%%
+По нижней границе
+
+%%align_top%en%%
+Top
+%%align_top%ru%%
+По верхней границе
+
+%%sample_text%en%%
+Sample of text position deppending on alignment
+%%sample_text%ru%%
+Пример обтекания изображения текстом в зависимости от типа выравнивания
+
+%%resize%en%%
+Create copies with another dimensions
+%%resize%ru%%
+Создать копии с другими размерами
+
+%%keep_ratio%en%%
+Preserve aspect ratio
+%%keep_ratio%ru%%
+Сохранять пропорции
+
+%%delete_orig%en%%
+Do not store original image
+%%delete_orig%ru%%
+Не сохранять оригинал
+
+%%upload_files%en%%
+Files to upload:
+%%upload_files%ru%%
+Файлов:
+
+%%upload_size%en%%
+Common size:
+%%upload_size%ru%%
+Общий размер:
+
+%%move_images%en%%
+Move selected images to this directory
+%%move_images%ru%%
+Переместить выбранные изображения в эту папку
+
+%%folder_delete%en%%
+Delete this folder
+%%folder_delete%ru%%
+Удалить эту папку
+
+%%new_folder%en%%
+Create folder
+%%new_folder%ru%%
+Создать папку
+
+%%dir_watermarks%en%%
+Watermarks Images
+%%dir_watermarks%ru%%
+Картинки-водяные знаки
+
+%%size_splitter%en%%
+x
+%%size_splitter%ru%%
+x
+
+%%set_watermark%en%%
+Set watermark for uploaded and resized images
+%%set_watermark%ru%%
+Наложить водяной знак на загружаемые изображения
+
+%%watermark_source%en%%
+Watermark
+%%watermark_source%ru%%
+Водяной знак
+
+%%watermark_method%en%%
+Lay method
+%%watermark_method%ru%%
+Метод наложения
+
+%%watermark_alpha%en%%
+Transparency
+%%watermark_alpha%ru%%
+Прозрачность
+
+%%watermark_method_downright%en%%
+Right bottom corner
+%%watermark_method_downright%ru%%
+Справа внизу
+
+%%watermark_method_downleft%en%%
+Left down corner
+%%watermark_method_downleft%ru%%
+Слева внизу
+
+%%watermark_method_upright%en%%
+Up right corner
+%%watermark_method_upright%ru%%
+Справа вверху
+
+%%watermark_method_upleft%en%%
+Up left corner
+%%watermark_method_upleft%ru%%
+Слева вверху
+
+%%watermark_method_center%en%%
+Center
+%%watermark_method_center%ru%%
+По центру
+
+%%watermark_method_tile%en%%
+Tile
+%%watermark_method_tile%ru%%
+Замостить
+
+%%watermark_dont_use%en%%
+Do not set watermark
+%%watermark_dont_use%ru%%
+Не накладывать
+
+%%dir_users%en%%
+Users Photos
+%%dir_users%ru%%
+Фотографии пользователей
+
+%%dir_smiles%en%%
+Smiles
+%%dir_smiles%ru%%
+Смайлики
+
+%%dir_blog%en%%
+Blog Images
+%%dir_blog%ru%%
+Картинки дневника
+
+%%dir_classifieds%en%%
+Classifieds Images
+%%dir_classifieds%ru%%
+Картинки для объявлений
+
+%%dir_adv%en%%
+Advertisement Images
+%%dir_adv%ru%%
+Картинки для рекламы
+
+%%upload%en%%
+Upload
+%%upload%ru%%
+Загрузить
+
+%%choose%en%%
+Choose
+%%choose%ru%%
+Выбрать из коллекции
+
+%%clean%en%%
+Clean
+%%clean%ru%%
+Очистить
+
+
+%%search%en%%
+Search
+%%search%ru%%
+Поиск
+
+%%img_title%en%%
+click to this field and either upload image or choose from images below
+%%img_title%ru%%
+кликните на это поле и загрузите изображение или кликните на изображение из списка имеющихся на сервере
+
+%%popup_img_title%en%%
+will be shown in popup frame on click by image
+%%popup_img_title%ru%%
+будет показано во всплывающем окне при клике на изображение
+
+%%over_img_title%en%%
+will be shown in popup lay on mouse over image event
+%%over_img_title%ru%%
+будет показано во всплывающем окне при наведении мыши на изображение
+
+%%alt_title%en%%
+will be shown instead of image if the last is broken or image view is disabled
+%%alt_title%ru%%
+будет показан вместо изображения если изображения отключены или невозможно их загрузить
+
+%%title_title%en%%
+tooltip that shown in abot 2 seconds when holding mouse over image like this tooltip
+%%title_title%ru%%
+текст подсказка, появляется ненадолго если задержать указатель мыши над изображением, аналогично этой подсказке
+
+%%header_title%en%%
+shown in popup frame above the popup image
+%%header_title%ru%%
+отображается во всплывающем окне над всплывающим изображением
+
+%%description_title%en%%
+shown in popup frame, HTML tags allowed
+%%description_title%ru%%
+отображается во всплывающем окне, допускается использование HTML тегов
+
+%%group_title%en%%
+images with the same group will be shown in frame slider of popup
+%%group_title%ru%%
+изображения объединенные в одну группу будут отображены в ленте во всплывающем окне
+
+%%popup_width_height_title%en%%
+works only for popup Flash animation 
+%%popup_width_height_title%ru%%
+позволяет задавать размеры всплывающей Flash анимации
+
+
+%%over_no_flash%en%%
+Flash animation cannot be set as mouse over image
+%%over_no_flash%ru%%
+Flash анимация не может быть установлена в качестве изображения при наведении
+
+%%upload_note%en%%
+A choosen image it will be set original image of first of uploaded images, if you need to set another of uploaded images choose it from collection after upload.
+%%upload_note%ru%%
+В качестве выбраного изображения устанавливается оригинал первого из загруженных изображений. Если необходимо указать другое из загруженных изображений, выберите его из колекции после загрузки.

@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/mod_manager_messages.lng"%%
+
+%%status_unpack_failed%en%%
+Failed to unpack package file.
+%%status_unpack_failed%ru%%
+Не удалось распаковать файл дистрибутива.

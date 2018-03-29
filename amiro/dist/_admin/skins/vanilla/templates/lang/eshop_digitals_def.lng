@@ -1,0 +1,39 @@
+%%remove%en%%
+Remove files after import
+%%remove%ru%%
+Удалить файлы после импорта
+
+%%import%en%%
+Import
+%%import%ru%%
+Импорт
+
+%%icon%en%%
+Type
+%%icon%ru%%
+Тип
+
+%%fname%en%%
+File name
+%%fname%ru%%
+Имя файла
+
+%%size%en%%
+Size
+%%size%ru%%
+Размер
+
+%%dir_empty%en%%
+FTP folder is empty
+%%dir_empty%ru%%
+FTP папка пуста
+
+%%force_rewrite%en%%
+Rewrite if exists
+%%force_rewrite%ru%%
+Заменить существующие
+
+%%warn_forbidden_path%en%%
+Forbidden path
+%%warn_forbidden_path%ru%%
+Запрещенный путь

@@ -1,0 +1,14 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_categories.lng"%%
+
+%%files_cat_add%en%%
+Add files category
+%%files_cat_add%ru%%
+Добавить категорию файлов
+
+%%files_cat_apply%en%%
+Edit files category
+%%files_cat_apply%ru%%
+Редактировать категорию файлов

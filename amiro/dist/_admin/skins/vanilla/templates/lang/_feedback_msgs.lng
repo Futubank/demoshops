@@ -1,0 +1,22 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+
+%%status_add%en%%
+Feedback item was added.
+%%status_add%en%%
+Добавлено.
+
+%%status_apply%en%%
+Feedback item was updated.
+%%status_apply%en%%
+Изменено.
+
+%%status_del%en%%
+Feedback item was deleted.
+%%status_del%ru%%
+Удалено.
+
+%%status_error%en%%
+An error occurred while processing...
+%%status_error%en%%
+Произошла ошибка...

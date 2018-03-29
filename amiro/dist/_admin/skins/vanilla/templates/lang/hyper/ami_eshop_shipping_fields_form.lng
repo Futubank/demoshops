@@ -1,0 +1,62 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%form_field_postfix%en%%
+Postfix for templates
+%%form_field_postfix%ru%%
+Постфикс для шаблонов
+
+%%form_field_postfix_hint%en%%
+Postfix can be set only on fields set creation.
+%%form_field_postfix_hint%ru%%
+Постфикс может быть задан только при создании набора полей.
+
+%%form_field_buttons_hint%en%%
+Press [Apply] button first to edit templates.
+%%form_field_buttons_hint%ru%%
+Для редактирования шаблонов сначала нажмите кнопку [Применить].
+
+%%btn_title%en%%
+Edit
+%%btn_title%ru%%
+Редактировать
+
+%%form_field_btn_template%en%%
+Shipping fields template 
+%%form_field_btn_template%ru%%
+Шаблон наборов полей
+
+%%form_field_btn_locale%en%%
+Language variables
+%%form_field_btn_locale%ru%%
+Языковые переменные
+
+%%form_field_btn_locale_adm%en%%
+Language variables (admin)
+%%form_field_btn_locale_adm%ru%%
+Языковые переменные (админ)
+
+%%popup_title_templates%en%%
+Modules templates
+%%popup_title_templates%ru%%
+Шаблоны модулей
+
+%%popup_title_templates_langs%en%%
+Modules localizations
+%%popup_title_templates_langs%ru%%
+Локализации модулей
+
+%%popup_tooltip_tpl%en%%
+Add the shipping fields into set 
+%%popup_tooltip_tpl%ru%%
+Поля доставки необходимо добавить в сет 
+
+%%popup_tooltip_lng%en%%
+Shipping fields language variables
+%%popup_tooltip_lng%ru%%
+Языковые переменные полей доставки
+
+%%popup_tooltip_admlng%en%%
+Shipping fields admin language variables
+%%popup_tooltip_admlng%ru%%
+Языковые переменные полей доставки в панели управления

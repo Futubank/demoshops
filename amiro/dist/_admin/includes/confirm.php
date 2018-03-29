@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       860 xkqwgwqzqxmrpqtxltsgprwlpxwruwitsrqnggkumznqpulswylrittlpygmnxnxwztkpnir
+ */ ?><?php foreach(array(20823=>"WHnfMrI",20824=>"tQxt") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $adm->Gui->addBlock(I20823,"templates/confirm.tpl"); $html["admin_root"] =$ADMIN_PATH_WWW; $html["metas"] =$adm->Gui->getMetas(); if(empty($adm->VarsGet["text"])) {$html[I20824] =$adm->Words['are_you_sure']; }else {$html[I20824] =$adm->VarsGet[I20824]; }echo($adm->Gui->get(I20823, $html)); $conn->Out(); ?>

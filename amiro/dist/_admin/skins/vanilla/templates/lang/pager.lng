@@ -1,0 +1,31 @@
+%%page_size%en%%
+Items on page
+%%page_size%ru%%
+Показывать по
+
+%%first%en%%
+First page
+%%first%ru%%
+Первая страница
+
+%%last%en%%
+Last page
+%%last%ru%%
+Последняя страница
+
+%%prev%en%%
+Previouse page
+%%prev%ru%%
+Предыдущая страница
+
+%%next%en%%
+Next page
+%%next%ru%%
+Следующая страница
+
+%%active%en%%
+Current page
+%%active%ru%%
+Текущая страница
+
+

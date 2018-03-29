@@ -1,0 +1,30 @@
+%%include_language "templates/lang/_common_items.lng"%%
+%%name%en%%
+Position
+%%name%ru%%
+Должность
+
+%%department%en%%
+Department
+%%department%ru%%
+Отдел
+
+%%duty%en%%
+The main duties
+%%duty%ru%%
+Обязанности
+
+%%requirements1%en%%
+Requirements
+%%requirements1%ru%%
+Требования
+
+%%requirements2%en%%
+Other requirements
+%%requirements2%ru%%
+Дополнительные требования
+
+%%salary%en%%
+Salary
+%%salary%ru%%
+Зарплата

@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+Tax zone was added.
+%%status_add%ru%%
+Зона налогообложения добавлена.
+
+%%status_apply%en%%
+Tax zone was updated.
+%%status_apply%ru%%
+Зона налогообложения изменена.
+
+%%status_del%en%%
+Tax zone was deleted.
+%%status_del%ru%%
+Зона налогообложения удалена.
+
+%%status_del_fail%en%%
+Tax zone was not deleted.
+%%status_del_fail%ru%%
+Зона налогообложения не удалена.
+
+%%tax_rate_warn%en%%
+Please, enter the tax rate!
+%%tax_rate_warn%ru%%
+Пожалуйста, введите ставку налога!

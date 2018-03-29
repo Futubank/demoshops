@@ -1,0 +1,25 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_srv_multi_sites_msgs.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+
+
+%%empty%en%%
+No data
+%%empty%ru%%
+Нет данных
+
+%%id%en%%
+ID
+%%id%ru%%
+ID
+
+%%name%en%%
+Name
+%%name%ru%%
+Название
+
+%%url%en%%
+URL
+%%url%ru%%
+URL

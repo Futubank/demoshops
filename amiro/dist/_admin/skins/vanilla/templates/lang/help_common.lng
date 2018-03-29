@@ -1,0 +1,43 @@
+%%title%en%%
+Help
+%%title%ru%%
+Справка
+
+%%step_1%en%%
+<br>
+Click 'Online Manual' link below this window to open online help with current topic.
+%%step_1%ru%%
+<br>
+Перейдите по ссылке «Документация» для открытия справки по разделу.
+
+##--
+%%common_1%en%%
+%%common_1%ru%%
+Добро пожаловать в Amiro.CMS<br>Данная справка познакомит вас с основными принципами работы с сайтом.<br>Нажмите <div id='data-help-popup__nav-common_2' class='data-help-popup__nav data-help-popup__nav-common'>2</div> или <div class='data-help-popup__blockinfo-nextbtn'>→</div>, чтобы продолжить и узнать как отключать и включать данную справку.
+--##
+
+
+%%manual_link_text%en%%
+Online Manual
+%%manual_link_text%ru%%
+Документация
+
+%%manual_link_title%en%%
+Open manual in new tab
+%%manual_link_title%ru%%
+Документация будет открыта в новой вкладке
+
+%%cb_disable_common%en%%
+Don't show common help
+%%cb_disable_common%ru%%
+Больше не показывать общую информацию
+
+%%cb_disable_help%en%%
+Don't show this help automatically
+%%cb_disable_help%ru%%
+Не показывать это окно автоматически
+
+%%cb_disable_version%en%%
+Don't show &quot;What's new&quot; block
+%%cb_disable_version%ru%%
+Не показывать блок &quot;Что нового&quot;

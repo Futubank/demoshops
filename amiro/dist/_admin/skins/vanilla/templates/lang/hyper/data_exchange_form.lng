@@ -1,0 +1,7 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_form.lng"%%
+
+%%import_btn%en%%
+Run
+%%import_btn%ru%%
+Выполнить

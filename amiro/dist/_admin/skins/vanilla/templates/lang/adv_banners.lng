@@ -1,0 +1,176 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/adv_targeting.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_adv_banners_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%adv_banners_add%en%%
+Add banner
+%%adv_banners_add%ru%%
+Добавить баннер
+
+%%adv_banners_apply%en%%
+Edit banner
+%%adv_banners_apply%ru%%
+Редактировать баннер
+
+%%status%en%%
+Status
+%%status%ru%%
+Статус
+
+%%status_waiting%en%%
+Waiting
+%%status_waiting%ru%%
+Ожидание
+
+%%status_approved%en%%
+Approved
+%%status_approved%ru%%
+Разрешен
+
+%%status_declined%en%%
+Declined
+%%status_declined%ru%%
+Отклонен
+
+%%url%en%%
+URL
+%%url%ru%%
+Адрес
+
+%%type%en%%
+Content type
+%%type%ru%%
+Тип содержимого
+
+%%type_text%en%%
+Text
+%%type_text%ru%%
+Текст
+
+%%current_image%en%%
+Current picture
+%%current_image%ru%%
+Текущее изображение
+
+%%type_imgflash%en%%
+Picture/Flash
+%%type_imgflash%ru%%
+Изображение/Флэш
+
+%%type_img%en%%
+Picture
+%%type_img%ru%%
+Изображение
+
+%%type_flash%en%%
+Flash
+%%type_flash%ru%%
+Флэш
+
+%%type_unknown%en%%
+Unknown
+%%type_unknown%ru%%
+Неизвестный
+
+%%campaigns%en%%
+Campaigns
+%%campaigns%ru%%
+Кампании
+
+%%places%en%%
+Places
+%%places%ru%%
+Рекламные места
+
+%%content%en%%
+Content
+%%content%ru%%
+Содержимое
+
+%%file%en%%
+Picture
+%%file%ru%%
+Изображение
+
+%%file_notice%en%%
+empty = current picture
+%%file_notice%ru%%
+пусто = текущее изображение
+
+%%targeting%en%%
+Targeting
+%%targeting%ru%%
+Таргетинг
+
+%%targ_header_criteria%en%%
+Criteria
+%%targ_header_criteria%ru%%
+Критерий
+
+%%targ_header_condition%en%%
+Condition
+%%targ_header_condition%ru%%
+Условие
+
+%%link_title%en%%
+Click to see the banner
+%%link_title%ru%%
+Нажмите, чтобы увидеть баннер
+
+%%text_field_0%en%%
+Banner header
+%%text_field_0%ru%%
+Заголовок баннера
+
+%%text_field_1%en%%
+Banner body
+%%text_field_1%ru%%
+Тело баннера
+
+%%text_field_2%en%%
+Banner link
+%%text_field_2%ru%%
+Ссылка баннера
+
+%%text_field_3%en%%
+Field 4
+%%text_field_3%ru%%
+Поле 4
+
+%%text_field_4%en%%
+Field 5
+%%text_field_4%ru%%
+Поле 5
+
+%%text_field_5%en%%
+Field 6
+%%text_field_5%ru%%
+Поле 6
+
+%%text_field_6%en%%
+Field 7
+%%text_field_6%ru%%
+Поле 7
+
+%%text_field_7%en%%
+Field 8
+%%text_field_7%ru%%
+Поле 8
+
+%%text_field_8%en%%
+Field 9
+%%text_field_8%ru%%
+Поле 9
+
+%%text_field_9%en%%
+Field 10
+%%text_field_9%ru%%
+Поле 10
+
+%%is_default%en%%
+Default banner
+%%is_default%ru%%
+Баннер по умолчанию

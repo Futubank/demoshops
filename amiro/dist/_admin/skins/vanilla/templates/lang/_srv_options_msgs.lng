@@ -1,0 +1,62 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+
+%%options_grp_changed%en%%
+Options changed: _num_items_
+%%options_grp_changed%ru%%
+Изменено параметров: _num_items_
+
+%%options_grp_save_fail%en%%
+Error during option saving. Options were not changed
+%%options_grp_save_fail%ru%%
+Ошибка записи параметров. Параметры не были изменены
+
+%%options_grp_eval_fail%en%%
+Error in option: [_item_name_]. Option was not changed
+%%options_grp_eval_fail%ru%%
+Ошибка выражения значения в параметре: [_item_name_]. Параметр не был изменен
+
+%%options_grp_adjust_fail%en%%
+Error in option: [_item_name_]. Option was not changed
+%%options_grp_adjust_fail%ru%%
+Ошибка формата значения в параметре: [_item_name_]. Параметр не был изменен
+
+%%options_grp_adjust_fail_custom_warn%en%%
+_custom_warn_<br/>Error in option: [_item_name_]. Option was not changed
+%%options_grp_adjust_fail_custom_warn%ru%%
+_custom_warn_<br/>Ошибка формата значения в параметре: [_item_name_]. Параметр не был изменен
+
+%%options_grp_fail_total%en%%
+Options NOT changed: _num_items_
+%%options_grp_fail_total%ru%%
+НЕ изменено параметров: _num_items_
+
+%%options_reload_page%en%%
+Reload page to see the changes
+%%options_reload_page%ru%%
+Перегрузите страницу, чтобы увидеть изменения
+
+%%options_cloned%en%%
+Options of this module are common for: _owners_.
+%%options_cloned%ru%%
+Настройки этого модуля являются общими для: _owners_.
+
+%%page_options_deleted%en%%
+Personal options of specblock '_spec_name_' in the body of page '_page_name_' deleted.
+%%page_options_deleted%ru%%
+Персональные настройки спецблока '_spec_name_' в теле страницы '_page_name_' удалены.
+
+%%block_options_deleted%en%%
+Personal options of specblock '_spec_name_' in block '_block_name_' deleted.
+%%block_options_deleted%ru%%
+Персональные настройки спецблока '_spec_name_'  в блоке '_block_name_' удалены.
+
+%%protected_block_options_deleted%en%%
+Personal options of specblock '_spec_name_' in protected block '_block_name_' on page '_page_name_' deleted.
+%%protected_block_options_deleted%ru%%
+Персональные настройки спецблока '_spec_name_'  в защищенном блоке '_block_name_' на странице '_page_name_' удалены.
+
+%%module_options_deleted%en%%
+Personal options of module on page '_page_name_' deleted.
+%%module_options_deleted%ru%%
+Персональные настройки модуля на странице '_page_name_' удалены.

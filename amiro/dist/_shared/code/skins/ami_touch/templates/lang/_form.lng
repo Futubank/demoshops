@@ -1,0 +1,297 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "_shared/code/skins/ami_touch/templates/lang/_menu_owners.lng"%%
+%%include_language "_shared/code/skins/ami_touch/templates/lang/_menu_all.lng"%%
+
+##-- common captions { --##
+
+%%caption_id_page%en%%
+Page
+%%caption_id_page%ru%%
+Страница
+
+%%caption_header%en%%
+Header
+%%caption_header%ru%%
+Заголовок
+
+%%caption_announce%en%%
+Announce
+%%caption_announce%ru%%
+Анонс
+
+%%caption_body%en%%
+Body
+%%caption_body%ru%%
+Текст
+
+##-- } common captions --##
+
+%%undefined%en%%
+undefined
+%%undefined%ru%%
+не определен
+
+%%all%en%%
+All
+%%all%ru%%
+Все
+
+##-- form title { --##
+
+%%form_caption_add%en%%
+Add new
+%%form_caption_add%ru%%
+Добавить
+
+%%form_caption_apply%en%%
+Edit
+%%form_caption_apply%ru%%
+Редактировать
+
+%%form_caption_show%en%%
+View
+%%form_caption_show%ru%%
+Просмотр
+
+##-- } form title --##
+##-- form tabs { --##
+
+%%form_tab_announce_tab%en%%
+Announce
+%%form_tab_announce_tab%ru%%
+Анонс
+
+%%form_tab_body_tab%en%%
+Body
+%%form_tab_body_tab%ru%%
+Текст
+
+%%form_tab_options_tab%en%%
+Options and SEO
+%%form_tab_options_tab%ru%%
+Параметры и SEO
+
+##-- } form tabs --##
+
+%%required_fields%en%%
+* Required Fields
+%%required_fields%ru%%
+* Обязательные поля
+
+%%ok_btn%en%%
+Save
+%%ok_btn%ru%%
+Сохранить
+
+%%save_btn%en%%
+Save
+%%save_btn%ru%%
+Сохранить
+
+%%apply_btn%en%%
+Apply
+%%apply_btn%ru%%
+Применить
+
+%%add_btn%en%%
+Add
+%%add_btn%ru%%
+Добавить
+
+%%cancel_btn%en%%
+Cancel
+%%cancel_btn%ru%%
+Отменить
+
+%%modified%en%%
+Modified
+%%modified%ru%%
+Данные изменены
+
+%%form_field_public%en%%
+Public
+%%form_field_public%ru%%
+Публиковать
+
+%%form_field_date_created%en%%
+Date
+%%form_field_date_created%ru%%
+Дата
+
+%%errors_found%en%%
+Form contains errors
+%%errors_found%ru%%
+На форме найдены ошибки
+
+%%common_item%en%%
+Shared item
+%%common_item%ru%%
+Общий элемент
+
+%%common_page_noindex%en%%
+<strong>Shared element:</strong> search engines will have duplicate content for the shared element. It's recommended to deny item details indexing. Use "Options" tab.
+%%common_page_noindex%ru%%
+<strong>Общий элемент:</strong> в поисковые системы попадет дублирующее содержимое с общим элементом. Рекомендуется во вкладке "Параметры" запретить индексирование элемента.
+
+%%form_field_sublink%en%%
+Sublink
+%%form_field_sublink%ru%%
+Ссылка
+
+%%form_field_html_title%en%%
+Page title
+%%form_field_html_title%ru%%
+Заголовок страницы в браузере (title)
+
+%%form_field_html_keywords%en%%
+Page keywords
+%%form_field_html_keywords%ru%%
+Ключевые слова (через запятую)
+
+%%form_field_html_description%en%%
+Page description
+%%form_field_html_description%ru%%
+Описание
+
+%%clear_fields%en%%
+Clear fields
+%%clear_fields%ru%%
+Очистить поля
+
+%%form_field_details_noindex%en%%
+Deny indexing by search engines
+%%form_field_details_noindex%ru%%
+Запретить индексирование поисковыми системами
+
+%%form_field_date%en%%
+Date
+%%form_field_date%ru%%
+Дата
+
+%%form_field_position%en%%
+%%form_field_position%ru%%
+
+%%form_field_hide_in_list%en%%
+Don't show in lists
+%%form_field_hide_in_list%ru%%
+Не отображать в списках
+
+%%form_field_sticky%en%%
+Stick to the top of the list
+%%form_field_sticky%ru%%
+Отображать первым в списке (прикрепить)
+
+%%form_field_date_sticky_till%en%%
+Till
+%%form_field_date_sticky_till%ru%%
+До
+
+%%form_field_catname_id_page%en%%
+%%form_field_catname_id_page%ru%%
+
+%%form_field_ext_tags%en%%
+%%form_field_ext_tags%ru%%
+
+%%form_field_page_break_js%en%%
+%%form_field_page_break_js%ru%%
+
+%%form_field_ext_relations%en%%
+%%form_field_ext_relations%ru%%
+
+%%form_field_ext_custom_fields_js%en%%
+%%form_field_ext_custom_fields_js%ru%%
+
+%%highlight_code%en%%
+Highlight template code
+%%highlight_code%ru%%
+Подсвечивать синтаксис
+
+%%wrap_lines%en%%
+Wrap lines
+%%wrap_lines%ru%%
+Перенос строк
+
+%%hl_search_for%en%%
+Search for
+%%hl_search_for%ru%%
+Найти
+
+%%hl_search%en%%
+Search
+%%hl_search%ru%%
+Найти
+
+%%hl_replace_with%en%%
+Replce with
+%%hl_replace_with%ru%%
+Заменить на
+
+%%hl_replace%en%%
+Replace
+%%hl_replace%ru%%
+Заменить
+
+%%hl_replace_all%en%%
+Replace All
+%%hl_replace_all%ru%%
+Заменить все
+
+%%hl_confirm_replace%en%%
+Are you sure you want to replace this entry?
+%%hl_confirm_replace%ru%%
+Вы действительно хотите заменить это вхождение?
+
+%%hl_confirm_replace_all%en%%
+Are you sure you want to replace all (%d) entries?
+%%hl_confirm_replace_all%ru%%
+Вы действительно хотите заменить все (%d) вхождения?
+
+%%hl_ctrlf_warning%en%%
+Please use this form to search through the editable area.
+%%hl_ctrlf_warning%ru%%
+Пожалуйста, используйте форму поиска для поиска в редакторе.
+
+%%no_categories_usage_header%en%%
+Category usage disabled
+%%no_categories_usage_header%ru%%
+Использование категорий отключено
+
+%%no_categories_usage_content%en%%
+To turn on switch &quot;Use categories&quot; option in &quot;Categories&quot; section of parent module.
+%%no_categories_usage_content%ru%%
+Включить категории можно в настройке основного модуля &quot;Использование категорий&quot; в разделе &quot;Категории&quot;.
+
+%%form_field_og_image%en%%
+Image for social networks
+%%form_field_og_image%ru%%
+Изображение для соц. сетей
+
+%%form_field_show_password%en%%
+Show password
+%%form_field_show_password%ru%%
+Показать пароль
+
+%%delete_content%en%%
+Delete content
+%%delete_content%ru%%
+Удалить содержимое
+
+%%form_field_id_page%en%%
+Page
+%%form_field_id_page%ru%%
+Страница
+
+%%form_field_id_cat%en%%
+Category
+%%form_field_id_cat%ru%%
+Категория
+
+%%select_category%en%%
+Select category
+%%select_category%ru%%
+Выберите категорию
+
+%%confirm_changes%en%%
+Form data were changed, all changes will be lost! Are you sure to continue?
+%%confirm_changes%ru%%
+Данные были изменены, все изменения будут потеряны! Продолжить?

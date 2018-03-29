@@ -1,0 +1,95 @@
+%%domain%en%%
+Domain
+%%domain%ru%%
+Домен
+
+%%date%en%%
+Date
+%%name%ru%%
+Дата
+
+%%doc_num%en%%
+Number
+%%doc_num%ru%%
+Номер
+
+%%amount%en%%
+Amount
+%%amount%ru%%
+Сумма
+
+%%amount_tax%en%%
+Tax
+%%amount_tax%ru%%
+Налог
+
+%%note%en%%
+Service description
+%%note%ru%%
+Наименование услуги
+
+%%document%en%%
+Document
+%%document%ru%%
+Документ
+
+%%status%en%%
+Status
+%%status%ru%%
+Статус
+
+%%client_name%en%%
+Client
+%%client_name%ru%%
+Покупатель
+
+%%contractor_name%en%%
+Contractor
+%%contractor_name%ru%%
+Продавец
+
+%%type_1%en%%
+Bill
+%%type_1%ru%%
+Счет
+
+%%type_2%en%%
+Invoice
+%%type_2%ru%%
+Акт/счет-фактура
+
+%%bill_0%en%%
+Paid
+%%bill_0%ru%%
+Оплачен
+
+%%bill_1%en%%
+Not paid
+%%bill_1%ru%%
+Не оплачен
+
+%%invoice_0%en%%
+Ready
+%%invoice_0%ru%%
+Проведен
+
+%%invoice_1%en%%
+Draft
+%%invoice_1%ru%%
+Не проведен
+
+%%print_documents%en%%
+Print version of documents
+%%print_documents%ru%%
+Печатная версия документов
+
+%%payment_docs%en%%
+Payments documents
+%%payment_docs%ru%%
+Платежно-расчетные документы
+
+%%srv_host_payments_docs_apply%en%%
+Edit document
+%%srv_host_payments_docs_apply%ru%%
+Редактировать документ
+

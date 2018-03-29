@@ -1,0 +1,19 @@
+%%discounts_syncopation%en%%
+Compounded discounts
+%%discounts_syncopation%ru%%
+Метод наложения скидок
+
+%%products_discounts_syncopation%en%%
+Products compounded discount
+%%products_discounts_syncopation%ru%%
+Метод наложения скидки на товар
+
+%%default_discount_period%en%%
+Default discount period
+%%default_discount_period%ru%%
+Период действия скидки по умолчанию
+
+%%order_details_discount_view%en%%
+Display of discounts in order details
+%%order_details_discount_view%ru%%
+Отображение скидки в деталях заказа

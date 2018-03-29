@@ -1,0 +1,14 @@
+%%number_decimal_digits%en%%
+Number of decimal digits in price
+%%number_decimal_digits%ru%%
+Количество цифр после десятичной точки
+
+%%decimal_point%en%%
+Symbol of a decimal point
+%%decimal_point%ru%%
+Символ десятичной точки
+
+%%thousands_separator%en%%
+Thousands separator
+%%thousands_separator%ru%%
+Разделитель тысяч

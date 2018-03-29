@@ -1,0 +1,14 @@
+%%invalid_value%en%%
+Invalid value
+%%invalid_value%ru%%
+Некорректное значение
+
+%%invalid_value_datefrom%en%%
+Field "From" had invalid value, corrected
+%%invalid_value_datefrom%ru%%
+Начальная дата содержала некорректное значение, исправлено
+
+%%invalid_value_dateto%en%%
+Field "To" had invalid value, corrected
+%%invalid_value_dateto%ru%%
+Конечная дата содержала некорректное значение, исправлено

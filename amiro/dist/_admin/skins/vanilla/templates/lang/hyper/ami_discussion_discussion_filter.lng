@@ -1,0 +1,23 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_filter.lng"%%
+%%include_language "templates/lang/hyper/ami_discussion_common.lng"%%
+
+%%filter_field_ext_module%en%%
+Module
+%%filter_field_ext_module%ru%%
+Модуль
+
+%%path_all_modules%en%%
+All modules
+%%path_all_modules%ru%%
+Все модули
+
+%%path_mod_item%en%%
+To element containing this discussion
+%%path_mod_item%ru%%
+Перейти к комментируемому элементу
+
+%%reset_parent%en%%
+<b>Move to the upper level: <span id="discussion-parent-level"></span></b>
+%%reset_parent%ru%%
+<b>Перейти на верхний уровень: <span id="discussion-parent-level"></span></b>

@@ -1,0 +1,18 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/hyper/ami_datasets_common.lng"%%
+%%include_language "templates/lang/modules/_filter.lng"%%
+
+%%filter_field_admin_form%en%%
+Visibile
+%%filter_field_admin_form%ru%%
+Видимые
+
+%%admin_form_visible%en%%
+Visible only
+%%admin_form_visible%ru%%
+Только видимые
+
+%%admin_form_invisible%en%%
+Invisible only
+%%admin_form_invisible%ru%%
+Только невидимые

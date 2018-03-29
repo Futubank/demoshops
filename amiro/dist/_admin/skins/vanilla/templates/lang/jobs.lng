@@ -1,0 +1,302 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_jobs_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_jobs_items.lng"%%
+
+%%jobs_add%en%%
+Add vacancy
+%%jobs_add%ru%%
+Добавить вакансию
+
+%%jobs_apply%en%%
+Edit vacancy
+%%jobs_apply%ru%%
+Редактировать вакансию
+
+%%body%en%%
+Job body
+%%body%ru%%
+Текст вакансии
+
+%%category%en%%
+Department
+%%category%ru%%
+Отдел
+
+%%select_category%en%%
+Select Department
+%%select_category%ru%%
+Выберите Отдел
+
+%%cname%en%%
+Department
+%%cname%ru%%
+Отдел
+
+%%forum_replies%en%%
+Replies
+%%forum_replies%ru%%
+Ответы
+
+%%forum_open%en%%
+Comments
+%%forum_open%ru%%
+Комментарии
+
+%%forum_popup_title%en%%
+Vacancy comments
+%%forum_popup_title%ru%%
+Комментарии вакансии
+
+%%sublink%en%%
+Link
+%%sublink%ru%%
+Ссылка
+
+%%edate%en%%
+Expire date
+%%edate%ru%%
+Актуальна до
+
+%%fdate%en%%
+Date
+%%fdate%ru%%
+Дата
+
+%%job_status%en%%
+Status
+%%job_status%ru%%
+Статус
+
+%%opened%en%%
+opened
+%%opened%ru%%
+открыта
+
+%%closed%en%%
+closed
+%%closed%ru%%
+закрыта
+
+%%sex%en%%
+Sex
+%%sex%ru%%
+Пол
+
+%%sex_any%en%%
+any
+%%sex_any%ru%%
+неважно
+
+%%sex_male%en%%
+male
+%%sex_male%ru%%
+мужской
+
+%%sex_female%en%%
+female
+%%sex_female%ru%%
+женский
+
+%%age_from%en%%
+Age from
+%%age_from%ru%%
+Возраст от
+
+%%age_till%en%%
+Age till
+%%age_till%ru%%
+Возраст до
+
+%%experience%en%%
+Experience
+%%experience%ru%%
+Опыт работы
+
+%%exp_no%en%%
+any
+%%exp_no%ru%%
+неважно
+
+%%exp_1%en%%
+1 year
+%%exp_1%ru%%
+1 год
+
+%%exp_2%en%%
+2 years
+%%exp_2%ru%%
+2 года
+
+%%exp_3%en%%
+3 years
+%%exp_3%ru%%
+3 года
+
+%%exp_4%en%%
+4 years
+%%exp_4%ru%%
+4 года
+
+%%exp_5%en%%
+5 years
+%%exp_5%ru%%
+5 лет
+
+%%exp_more%en%%
+more than 5 years
+%%exp_more%ru%%
+более 5 лет
+
+%%title%en%%
+Vacancy
+%%title%ru%%
+Вакансия
+
+%%not viewed%en%%
+not views
+%%not viewed%ru%%
+не рассмотрена
+
+%%marked%en%%
+marked
+%%marked%ru%%
+помечена
+
+%%ignored%en%%
+ignore
+%%ignored%ru%%
+игнорировать
+
+%%replied%en%%
+replied
+%%replied%ru%%
+отвечена
+
+%%accepted%en%%
+accepted
+%%accepted%ru%%
+принят
+
+%%request%en%%
+request new position
+%%request%ru%%
+запрос на новую позицию
+
+%%phone%en%%
+Phone
+%%phone%ru%%
+Телефон
+
+%%job_name%en%%
+Name
+%%job_name%ru%%
+ФИО
+
+%%history_status%en%%
+Vacancy status
+%%history_status%ru%%
+Статус
+
+%%vacancy_title%en%%
+Vacancy
+%%vacancy_title%ru%%
+Вакансия
+
+%%vacancy_name%en%%
+Name
+%%vacancy_name%ru%%
+ФИО
+
+%%status_comments%en%%
+Comments
+%%status_comments%ru%%
+Комментарии
+
+%%job_id%en%%
+no.
+%%job_id%ru%%
+№
+
+%%vacancy_history%en%%
+Status history
+%%vacancy_history%ru%%
+История статусов
+
+%%schedule%en%%
+Schedule
+%%schedule%ru%%
+График работы
+
+%%schedule_any%en%%
+Any
+%%schedule_any%ru%%
+Любой
+
+%%schedule_full-time%en%%
+Full-time
+%%schedule_full-time%ru%%
+Полный день
+
+%%schedule_part-time%en%%
+Part-time
+%%schedule_part-time%ru%%
+Частичная занятость
+
+%%schedule_outside%en%%
+Outside work
+%%schedule_outside%ru%%
+Удалённая работа
+
+
+%%resume_answer%en%%
+Reply to competitor
+%%resume_answer%ru%%
+Ответить соискателю
+
+%%resume_topic%en%%
+Topic
+%%resume_topic%ru%%
+Тема
+
+%%user_id%en%%
+Username
+%%user_id%ru%%
+Логин
+
+%%create_subcategory%en%%
+Create department
+%%create_subcategory%ru%%
+Создать отдел
+
+%%warn_same_category_name%en%%
+There is the department with the the same name, are you sure to create new one?
+%%warn_same_category_name%ru%%
+Отдел с таким именем уже существует, Вы уверены, что хотите создать новый?
+
+%%job_active%en%%
+Active vacancy
+%%job_active%ru%%
+Активная вакансия
+
+%%categories_warn%en%%
+Please, enter new department name.
+%%categories_warn%ru%%
+Пожалуйста, введите название нового отдела.
+
+%%jobs_history_popup_title%en%%
+Add a competitor
+%%jobs_history_popup_title%ru%%
+Добавить соискателя
+
+%%icon_move%en%%
+Move to competitors
+%%icon_move%ru%%
+Переместить в соискатели
+
+%%icon_move_off%en%%
+The competitor was moved
+%%icon_move_off%ru%%
+Соискатель перемещён

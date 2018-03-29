@@ -1,0 +1,27 @@
+%%domain_susp%ru%%
+Ваш сайт заблокирован <b>_date_</b>, причина:
+<br><br>
+<b>_msg_</b>
+<br>
+%%domain_susp%en%%
+Your website is suspended <b>_date_</b>, the reason is following:
+<br><br>
+<b>_msg_</b>
+<br>
+
+
+%%admin_susp%ru%%
+Панель управления вашим сайтом заблокирована <b>_date_</b>, причина:
+<br><br>
+<b>_msg_</b>
+<br>
+%%admin_susp%en%%
+Your control panel is suspended <b>_date_</b>, the reason is following:
+<br><br>
+<b>_msg_</b>
+<br>
+
+%%no_reason%ru%%
+Не указана
+%%no_reason%en%%
+Not specified

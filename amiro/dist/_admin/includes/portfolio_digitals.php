@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1089 xkqwtnnlyguikyzyrtiymukmuqqxigqqnxzmqlxsrwgnnuwwymysrrilwpgitxsmxzzppnir
+ */ ?><?php foreach(array(22253=>"|SMPMtZJD",22254=>'tQIGJZtQD~JZnP~|',22255=>'SHnQ`GOG') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl =$ownerName; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $lIIII1L =&$adm->Core->GetModule($ownerName.I22253); $lIIII1L->InitEngine($adm, $db); $aTemplates =Array( $ownerName.'_digitals_list'=>'templates/'.$ownerName.'_digitals.tpl', );$lIIII1L->Engine->Init($aTemplates, 'templates/lang/_files_import_msgs.lng', I22254.$ownerName.'_digitals_msgs.lng'); $lIIII1L->Engine->ProcessAction($adm->Vars['action'], $adm->Vars['id']); $html += $lIIII1L->Engine->GetHtml($NONE); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .I22255; ?>

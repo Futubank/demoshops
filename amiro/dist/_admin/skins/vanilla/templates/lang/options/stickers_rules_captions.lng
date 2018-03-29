@@ -1,0 +1,14 @@
+%%search_field_cat%en%%
+Visible categories
+%%search_field_cat%ru%%
+Отображать категории<br><i style='color:red;'>Примените изменения для фильтрации списка элементов.</i>
+
+%%search_field_item%en%%
+Visible items
+%%search_field_item%ru%%
+Отображать элементы
+
+%%rand%en%%
+Random order
+%%rand%ru%%
+В случайном порядке

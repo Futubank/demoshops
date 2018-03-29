@@ -1,0 +1,119 @@
+%%required_fields%en%%
+* Required Fields
+%%required_fields%ru%%
+* Поля обязательные к заполнению
+
+%%legend%en%%
+Legend
+%%legend%ru%%
+Легенда
+
+%%unknown%en%%
+unknown
+%%unknown%ru%%
+не определен
+
+%%audit_status%en%%
+Audit status
+%%audit_status%ru%%
+Статус проверки
+
+%%audit_comments%en%%
+Audit comments
+%%audit_comments%ru%%
+Комментарий проверки
+
+%%comment_for_auditor%en%%
+Comments for auditor
+%%comment_for_auditor%ru%%
+Комментарий для проверяющего
+
+%%audit_select%en%%
+Select status
+%%audit_select%ru%%
+Выберите статус
+
+%%added%en%%
+Added
+%%added%ru%%
+Добавлен
+
+%%changed%en%%
+Changed
+%%changed%ru%%
+Изменен
+
+%%deleted%en%%
+Deleted
+%%deleted%ru%%
+Удален
+
+%%approved%en%%
+Approved
+%%approved%ru%%
+Подтвержден
+
+%%rejected%en%%
+Rejected
+%%rejected%ru%%
+Отказан
+
+%%owner_changed%en%%
+Owner is changed
+%%owner_changed%ru%%
+Изменен владелец
+
+%%audit_approve%en%%
+Approve
+%%audit_approve%ru%%
+Подтвердить
+
+%%audit_reject%en%%
+Reject
+%%audit_reject%ru%%
+Отказать
+
+%%votes_count%en%%
+Votes
+%%votes_count%ru%%
+Голосов
+
+%%votes_rate%en%%
+Rating
+%%votes_rate%ru%%
+Рейтинг
+
+%%user%en%%
+User
+%%user%ru%%
+Пользователь
+
+%%admin%en%%
+Administrator
+%%admin%ru%%
+Администратор
+
+%%moderator%en%%
+Moderator
+%%moderator%ru%%
+Модератор
+
+%%audit_comments_history%en%%
+Comments history
+%%audit_comments_history%ru%%
+История комментариев
+
+%%audit_status%en%%
+Status
+%%audit_status%ru%%
+Статус
+
+%%current_audit_comments%en%%
+Comment
+%%current_audit_comments%ru%%
+Комментарий
+
+%%no_audit_records%en%%
+No audit records
+%%no_audit_records%ru%%
+Нет записей

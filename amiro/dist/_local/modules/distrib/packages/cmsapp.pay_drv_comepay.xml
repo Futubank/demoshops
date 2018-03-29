@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="cmsapp.pay_drv_comepay" version="1.8" manifestVersion="1.0">
+    <information lang="en">
+        <title>Comepay driver</title>
+        <description>Comepay driver</description>
+        <author>CMSApp</author>
+        <source>http://www.cmsapp.ru</source>
+    </information>
+    <information lang="ru">
+        <title>Платежный драйвер Comepay</title>
+        <description>Платежный драйвер Comepay</description>
+        <author>CMSApp</author>
+        <source>http://www.cmsapp.ru</source>
+    </information>
+    <installation>
+        <install hypermodule="ami_fake" configuration="cmsapp_pay_drv_comepay" version="1.0" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_fake" version="1.0" />
+    </dependencies>
+</package>

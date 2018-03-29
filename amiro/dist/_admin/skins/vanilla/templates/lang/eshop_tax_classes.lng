@@ -1,0 +1,46 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_news_msgs.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/taxes.lng"%%
+
+%%is_default%en%%
+Default tax class
+%%is_default%ru%%
+Тип налога по умолчанию
+
+%%tax_class_type%en%%
+Tax class rate type
+%%tax_class_type%ru%%
+Тип налога
+
+%%tax_class_code%en%%
+Tax class code
+%%tax_class_code%ru%%
+Код
+
+%%eshop_tax_classes_add%en%%
+Add tax class
+%%eshop_tax_classes_add%ru%%
+Добавить тип налога
+
+%%eshop_tax_classes_apply%en%%
+Edit tax class
+%%eshop_tax_classes_apply%ru%%
+Редактировать тип налога
+
+%%button_select%en%%
+Select
+%%button_select%ru%%
+Выбрать
+
+%%current_tax_class%en%%
+Current tax class
+%%current_tax_class%ru%%
+Текущий тип налога
+
+%%tax_classes_us_desc%en%%
+Tax classes are not used in the current tax system.
+%%tax_classes_us_desc%ru%%
+В выбранной системе налогообложения типы налогов не используются.

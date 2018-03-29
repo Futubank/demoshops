@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       987 xkqwwpztiuxwkwglpgzrlwggpnywwlznxpisgntrrzpriqpprrrrszummnlmtlmzyglnpnir
+ */ ?><?php foreach(array(17189=>'WHSQ',17190=>'',17191=>'$1',17192=>'VqRdmhNd') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $GLOBALS['VERSIONS'] =array('cms' => array(I17189 => '7.0.2.0', 'db' => '7.0.2.0', 'act_db'=>I17190)); $GLOBALS['IlLllll'] ='1'; $GLOBALS['lLI1Ll1'] =preg_replace('/^(\d+\.\d+).*/', I17191, $GLOBALS['VERSIONS']['cms'][I17189]); $GLOBALS['lLI1LLI'] =preg_replace('/^\d+\.\d+\.(\d+\.\d+).*/', I17191, $GLOBALS[I17192]['cms'][I17189]);; $GLOBALS['CMS_VERSION'] =$GLOBALS[I17192]['cms'][I17189]; 

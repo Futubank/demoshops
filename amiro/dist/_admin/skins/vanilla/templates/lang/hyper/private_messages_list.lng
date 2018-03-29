@@ -1,0 +1,55 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_list.lng"%%
+
+%%list_col_front_view%en%%
+Front details
+%%list_col_front_view%ru%%
+Просмотр деталей
+
+%%list_col_sender_nickname%en%%
+Sender
+%%list_col_sender_nickname%ru%%
+Отправитель
+
+%%list_col_recipient_nickname%en%%
+Recipient
+%%list_col_recipient_nickname%ru%%
+Получатель
+
+%%username_admin%en%%
+Administrator
+%%username_admin%ru%%
+Администратор
+
+%%list_action_unread%en%%
+Mark unread
+%%list_action_unread%ru%%
+Пометить непрочитанным
+%%list_action_edit%en%%
+Read
+%%list_action_edit%ru%%
+Прочесть
+
+%%list_col_header%en%%
+Subject
+%%list_col_header%ru%%
+Тема сообщения
+
+##-- hidden columns { --##
+
+%%list_col_is_read%en%%
+%%list_col_is_read%ru%%
+
+%%list_col_is_broadcast%en%%
+%%list_col_is_broadcast%ru%%
+
+%%list_col_id_sender%en%%
+%%list_col_id_sender%ru%%
+
+%%list_col_sender_is_deleted%en%%
+%%list_col_sender_is_deleted%ru%%
+
+%%list_col_recipient_is_deleted%en%%
+%%list_col_recipient_is_deleted%ru%%
+
+##-- } hidden columns --##

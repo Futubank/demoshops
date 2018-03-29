@@ -1,0 +1,128 @@
+##--system info: module_owner="" module="" system="1"--##
+%%include_language "templates/lang/modules/_common.lng"%%
+
+##-- list column headers { --##
+
+%%list_col_id%en%%
+%%list_col_id%ru%%
+
+%%list_col_active%en%%
+%%list_col_active%ru%%
+
+%%list_col_actions%en%%
+%%list_col_actions%ru%%
+
+%%list_col_public%en%%
+%%list_col_public%ru%%
+
+%%list_col_date_created%en%%
+Date
+%%list_col_date_created%ru%%
+Дата
+
+%%list_col_date%en%%
+Date
+%%list_col_date%ru%%
+Дата
+
+##--
+%%list_col_header%en%%
+Header
+%%list_col_header%ru%%
+Заголовок
+
+%%list_col_announce%en%%
+Announce
+%%list_col_announce%ru%%
+Анонс
+
+%%list_col_id_page%en%%
+Page
+%%list_col_id_page%ru%%
+Страница
+--##
+
+%%list_col_position%en%%
+%%list_col_position%ru%%
+
+##-- } list column headers --##
+##-- list actions { --##
+
+%%list_action_public%en%%
+Published on site, click to make unpublished
+%%list_action_public%ru%%
+Опубликовано на сайте
+
+%%list_action_unpublic%en%%
+Not published on site, click to publish
+%%list_action_unpublic%ru%%
+Не опубликовано на сайте
+
+%%list_action_edit%en%%
+Edit
+%%list_action_edit%ru%%
+Редактировать
+
+%%list_action_delete%en%%
+Delete
+%%list_action_delete%ru%%
+Удалить
+
+%%list_action_show%en%%
+View
+%%list_action_show%ru%%
+Просмотр
+
+%%list_action_print%en%%
+Print
+%%list_action_print%ru%%
+Напечатать
+
+%%list_action_copy%en%%
+Copy
+%%list_action_copy%ru%%
+Скопировать
+
+%%list_action_active%en%%
+Active, click to deactivate
+%%list_action_active%ru%%
+Активный, нажмите чтобы сделать неактивным
+
+%%list_action_unactive%en%%
+Inactive, click to activate
+%%list_action_unactive%ru%%
+Неактивный, нажмите чтобы активировать
+
+##-- } list actions --##
+
+%%list_common_id_page%en%%
+Shared item
+%%list_common_id_page%ru%%
+Общий элемент
+
+%%notspecified_page%en%%
+<i>Not specified</i>
+%%notspecified_page%ru%%
+<i>Не задано</i>
+
+##-- list dates { --##
+
+%%list_today%en%%
+Today
+%%list_today%ru%%
+Сегодня
+
+%%list_yesterday%en%%
+Yesterday
+%%list_yesterday%ru%%
+Вчера
+
+%%list_tomorrow%en%%
+Tomorrow
+%%list_tomorrow%ru%%
+Завтра
+
+##-- } list dates --##
+
+
+

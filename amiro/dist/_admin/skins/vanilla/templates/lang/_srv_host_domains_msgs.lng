@@ -1,0 +1,46 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%alias_creation_failed%en%%
+Cannot create dns alias. Please try again later
+%%alias_creation_failed%ru%%
+Ошибка при прикреплении домена. Пожалуйста, попробуйте позже
+
+%%alias_creation_ok%en%%
+Domain has been parked successfully
+%%alias_creation_ok%ru%%
+Домен прикреплен
+
+%%alias_deletion_failed%en%%
+There was an error while removing parked domain
+%%alias_deletion_failed%ru%%
+Ошибка при удалении прикрепленного домена
+
+%%alias_deletion_ok%en%%
+Domain unparked successfully
+%%alias_deletion_ok%ru%%
+Прикрепление домена отменено
+
+%%domain_not_free%en%%
+This domain name is already used. Please choose another name
+%%domain_not_free%ru%%
+Данное имя домена уже используется. Пожалуйста, выберите другое имя
+
+%%domain_check_err%en%%
+There was an error while checking domain name
+%%domain_check_err%ru%%
+Ошибка при проверке доменного имени
+
+%%dns_not_ok%en%%
+DNS settings for parked domain are incorrect or have not propagated yet
+%%dns_not_ok%ru%%
+Настройки DNS для прикрепленного домена еще не вступили в силу или неправильны
+
+%%zone_creation_failed%en%%
+Could not set up DNS zone. Please try again later
+%%zone_creation_failed%ru%%
+Не удалось создать зону DNS. Пожалуйста, попробуйте позже
+
+%%domain_is_reserved%en%%
+Sorry, this domain name is forbidden or reserved. Please choose another name
+%%domain_is_reserved%ru%%
+Извините, это доменное имя запрещено или зарезервировано. Пожалуйста, выберите другое имя

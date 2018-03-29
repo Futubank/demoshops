@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package id="amiro.pay_drv_yandex_money_kassa" version="1.5" manifestVersion="1.0">
+    <information lang="en">
+        <title>Yandex.Money Universal Payment Solution</title>
+        <description>Yandex.Money Universal Payment Solution</description>
+        <author>amirocms.com</author>
+        <source>http://amirocms.com</source>
+    </information>
+    <information lang="ru">
+        <title>Касса Яндекс.Деньги</title>
+        <description>Касса Яндекс.Деньги</description>
+        <author>amiro.ru</author>
+        <source>http://www.amiro.ru</source>
+    </information>
+    <installation>
+        <install hypermodule="ami_fake" configuration="yandex_uni_pay_solution" version="1.2" />
+    </installation>
+    <dependencies>
+        <dependency hypermodule="ami_fake" version="1.0" />
+    </dependencies>
+</package>

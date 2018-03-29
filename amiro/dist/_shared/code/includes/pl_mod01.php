@@ -1,0 +1,5 @@
+<?php /**
+ * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
+ * @version    $Id$ 
+ * @size       1114 xkqwtrgmukignmlzklrmzswuriwxqlgniipuywwggwluizyswmzlgnksuugskwwllqwlpnir
+ */ ?><?php foreach(array(19087=>"#z?OrQf=\"",19088=>"GJ|IHS01") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $myModule =&$frn->Core->GetModule("pl_mod01"); if(isset($mode) && $mode=="small"){ $smallBlockBody =I19087.$myModule->GetFrontLink()."\"><IMG border=0 src=\"http://www.google.ru/images/logo_sm.gif\"></IMG></A>"; $frn->SetSpecialBlock($myModule->GetProperty("spec_blocks"), $smallBlockBody); }else {require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .'init.php'; $myModule =&$frn->Core->GetModule(I19088); $HtmlBody ="<IFRAME frameborder=0 height=600 width=100% src=\"http://google.com\"></IFRAME>"; require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; }?>

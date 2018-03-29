@@ -1,0 +1,26 @@
+%%include_language "templates/lang/_common_items.lng"%%
+
+%%status%en%%
+There is an answer
+%%status%ru%%
+Нет ответа
+
+%%subject_list%en%%
+Choose section
+%%subject_list%ru%%
+Выберите раздел
+
+%%subject_new%en%%
+or enter the new section
+%%subject_new%ru%%
+Или введите новый раздел
+
+%%create_subcategory%en%%
+Or create a section
+%%create_subcategory%ru%%
+Или создайте новый раздел
+
+%%warn_same_category_name%en%%
+There is the section with the the same name, are you sure to create new one?
+%%warn_same_category_name%ru%%
+Раздел с таким именем уже существует, Вы уверены, что хотите создать новый?

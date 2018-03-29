@@ -1,0 +1,80 @@
+%%include_language "_shared/code/templates/lang/common.lng"%%
+%%include_language "_shared/code/templates/lang/_common_items.lng"%%
+%%include_language "_shared/code/templates/lang/_buttons.lng"%%
+%%include_language "_shared/code/templates/lang/_eshop_item_msgs.lng"%%
+%%include_language "_shared/code/templates/lang/_common_msgs.lng"%%
+
+%%cat%en%%
+Category
+%%cat%ru%%
+Категория
+
+%%category%en%%
+Category
+%%category%ru%%
+Категория
+
+%%price%en%%
+Price
+%%price%ru%%
+Цена
+
+%%price1%en%%
+Price 1
+%%price1%ru%%
+Цена 1
+
+%%price2%en%%
+Price 2
+%%price2%ru%%
+Цена 2
+
+%%body%en%%
+Eshop item body
+%%body%ru%%
+Описание товара
+
+%%eshop_item_add%en%%
+Add eshop item
+%%eshop_item_add%ru%%
+Добавить товар
+
+%%eshop_item_apply%en%%
+Edit eshop item
+%%eshop_item_apply%ru%%
+Редактировать товар
+
+%%other_prices%en%%
+Other prices
+%%other_prices%ru%%
+Другие цены
+
+%%sku%en%%
+SKU
+%%sku%ru%%
+Код
+
+%%on_special%en%%
+Special
+%%on_special%ru%%
+Специальный
+
+%%select_cat%en%%
+Select category
+%%select_cat%ru%%
+Выберите категорию
+
+%%add_new_custom_value_confirm%en%%
+To add new reference item you should add a comment to moderator.\\nAdd comment to moderator?
+%%add_new_custom_value_confirm%ru%%
+Для добавления нового элемента справочника сделайте запрос в комментарии для проверяющего.\\nДобавить комментарий для проверяющего?
+
+%%add_new_custom_value_comment%en%%
+New value is required in reference
+%%add_new_custom_value_comment%ru%%
+Необходимо новое значение справочника
+
+%%add_new_custom_value%en%%
+Add new value
+%%add_new_custom_value%ru%%
+Добавить новый

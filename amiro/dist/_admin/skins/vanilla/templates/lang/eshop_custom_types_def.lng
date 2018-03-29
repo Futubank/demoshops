@@ -1,0 +1,536 @@
+%%eshop_custom_types_add%en%%
+Add property
+%%eshop_custom_types_add%ru%%
+Добавление свойства
+
+%%eshop_custom_types_apply%en%%
+Edit attribute
+%%eshop_custom_types_apply%ru%%
+Редактирование свойства
+
+%%sys_name%en%%
+System name
+%%sys_name%ru%%
+Системное название
+
+%%warn_missing_sys_name%en%%
+Enter System name, please!
+%%warn_missing_sys_name%ru%%
+Пожалуйста, введите системное название!
+
+%%warn_invalid_sys_name%en%%
+System name can contain only digits, Latin symbols and underscore character!
+%%warn_invalid_sys_name%ru%%
+Системное название должно содержать только латинские символы, цифры и символ подчеркивания!
+
+%%name%en%%
+Property name
+%%name%ru%%
+Название (админ)
+
+%%default_caption%en%%
+Default caption
+%%default_caption%ru%%
+Заголовок <nobr>(по умолчанию)</nobr>
+
+%%postfix%en%%
+Value postfix (e.g. lbs)
+%%postfix%ru%%
+Постфикс значения (напр. кг)
+
+%%prefix%en%%
+Value prefix (e.g. $)
+%%prefix%ru%%
+Префикс значения (напр. $)
+
+%%default_caption_warn%en%%
+Fill the default caption please
+%%default_caption_warn%ru%%
+Заполните, пожалуйста, заголовок
+
+%%flagmap_warn%en%%
+Only one flagmap is allowed for option field
+%%flagmap_warn%ru%%
+Для свойства доступен только один набор флагов
+
+%%reference_warn%en%%
+Please select or create reference
+%%reference_warn%ru%%
+Пожалуйста, выберите или создайте справочник
+
+%%fnum%en%%
+Property number
+%%fnum%ru%%
+Номер свойства
+
+%%ftype%en%%
+Type
+%%ftype%ru%%
+Тип
+
+%%ftype_char%en%%
+String
+%%ftype_char%ru%%
+Строка
+
+%%ftype_text%en%%
+Text
+%%ftype_text%ru%%
+Текст
+
+%%ftype_int%en%%
+Integer
+%%ftype_int%ru%%
+Целое число
+
+%%ftype_float%en%%
+Float
+%%ftype_float%ru%%
+Дробное число
+
+%%ftype_date%en%%
+Date
+%%ftype_date%ru%%
+Дата
+
+%%ftype_picture%en%%
+Picture
+%%ftype_picture%ru%%
+Изображение
+
+%%ftype_flagmap%en%%
+Flags
+%%ftype_flagmap%ru%%
+Набор флагов
+
+%%ftype_related_cats%en%%
+Related categories
+%%ftype_related_cats%ru%%
+Связанные категории
+
+%%related_cats_items%en%%
+Items output
+%%related_cats_items%ru%%
+Вывод товаров в категориях
+
+%%related_cats_items_num%en%%
+Count
+%%related_cats_items_num%ru%%
+Количество
+
+%%related_cats_items_sort_field%en%%
+Sort field
+%%related_cats_items_sort_field%ru%%
+Поле сортировки
+
+%%related_cats_items_sort_field_name%en%%
+Name
+%%related_cats_items_sort_field_name%ru%%
+Название
+
+%%related_cats_items_sort_field_price%en%%
+Price
+%%related_cats_items_sort_field_price%ru%%
+Цена
+
+
+%%related_cats_items_sort_order%en%%
+Sort order
+%%related_cats_items_sort_order%ru%%
+Порядок сортировки
+
+%%related_cats_items_sort_order_up%en%%
+Normal
+%%related_cats_items_sort_order_up%ru%%
+Прямой
+
+%%related_cats_items_sort_order_down%en%%
+Descent
+%%related_cats_items_sort_order_down%ru%%
+Обратный
+
+%%value_type%en%%
+Save As
+%%value_type%ru%%
+Хранить как
+
+%%value_type_scalar%en%%
+Value
+%%value_type_scalar%ru%%
+По значению
+
+%%value_type_ref_value%en%%
+Reference value
+%%value_type_ref_value%ru%%
+По значению из справочника
+
+%%value_type_ref_reference%en%%
+Reference pointer
+%%value_type_ref_reference%ru%%
+Ссылка на значение справочника
+
+%%value_type_ref_set%en%%
+Multiple data selection from reference
+%%value_type_ref_set%ru%%
+Множественный выбор из справочника
+
+%%ref_table_num%en%%
+Reference - data source
+%%ref_table_num%ru%%
+Справочник - источник данных
+
+%%ref_table_num_sort%en%%
+Filter sort
+%%ref_table_num_sort%ru%%
+Сортировка в фильтре
+
+%%ref_table_num_sort_id%en%%
+By ID
+%%ref_table_num_sort_id%ru%%
+По ID
+
+%%ref_table_num_sort_name%en%%
+By name
+%%ref_table_num_sort_name%ru%%
+По названию
+
+%%ref_table_num_sort_date%en%%
+By creation date
+%%ref_table_num_sort_date%ru%%
+По дате создания
+
+%%ref_table_num_sort_position%en%%
+By position
+%%ref_table_num_sort_position%ru%%
+По позиции
+
+%%default_gui_type%en%%
+Show in filter as
+%%default_gui_type%ru%%
+Показывать в фильтре как
+
+%%default_gui_type_none%en%%
+Do not show
+%%default_gui_type_none%ru%%
+Не показывать
+
+%%default_gui_type_text%en%%
+Text
+%%default_gui_type_text%ru%%
+Текстовое поле
+
+%%default_gui_type_textarea%en%%
+Textarea
+%%default_gui_type_textarea%ru%%
+Текстовый блок
+
+%%default_gui_type_checkbox%en%%
+Checkboxes
+%%default_gui_type_checkbox%ru%%
+Флажки
+
+%%default_gui_type_radio%en%%
+Radio
+%%default_gui_type_radio%ru%%
+Радиокнопки
+
+%%default_gui_type_select%en%%
+List
+%%default_gui_type_select%ru%%
+Список
+
+%%default_gui_type_multiple_select%en%%
+Multi select list
+%%default_gui_type_multiple_select%ru%%
+Список с множественным выбором
+
+%%is_prop%en%%
+Property type
+%%is_prop%ru%%
+Тип свойства
+
+%%is_prop_no%en%%
+General property
+%%is_prop_no%ru%%
+Обычный
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%ftype_flagmap_set%en%%
+Flag map
+%%ftype_flagmap_set%ru%%
+Набор флагов
+
+%%flag_set_active%en%%
+Active
+%%flag_set_active%ru%%
+Активен
+
+%%flag_set_filter%en%%
+Filter
+%%flag_set_filter%ru%%
+Фильтр
+
+%%flag_set_splitter%en%%
+Splitter<br>after
+%%flag_set_splitter%ru%%
+Разделитель<br>после
+
+%%flag_set_caption%en%%
+Caption
+%%flag_set_caption%ru%%
+Заголовок
+
+%%ftype_flagmap_set_more%en%%
+Add more
+%%ftype_flagmap_set_more%ru%%
+Добавить
+
+%%show_in_admin_filter%en%%
+Show in admin filter
+%%show_in_admin_filter%ru%%
+Показывать в фильтре администратора
+
+%%ref_table_num_current%en%%
+Current
+%%ref_table_num_current%ru%%
+Текущий
+
+%%ref_table_num_new%en%%
+Create new
+%%ref_table_num_new%ru%%
+Создать новый
+
+%%ref_table_num_no%en%%
+Not exists
+%%ref_table_num_no%ru%%
+Не существует
+
+%%ftype_change%en%%
+Save attribute data
+%%ftype_change%ru%%
+Сохранить данные свойства
+
+%%body_type%en%%
+Show in filter on pages
+%%body_type%ru%%
+Показывать в фильтре на страницах
+
+%%body_type_body_search%en%%
+Search page
+%%body_type_body_search%ru%%
+Страница поиска
+
+%%value_type_description%en%%
+<b>Value:</b> all symbols allowed, filter list is not available.<br>
+<b>Reference value: </b> you can select value only from reference, filter list is allowed.<br>
+<b>Reference pointer: </b> the same as reference value. Works slower in case of data filter, but increases speed of changing reference data updates; allows setting reference item descriptions.<br>
+<b>Multiple data selection from reference: </b> allows selection of multiple definitions for one property; allows setting reference item descriptions.<br>
+%%value_type_description%ru%%
+<b>По значению:</b> ввод произвольных данных, нельзя в фильтре использовать список.<br>
+<b>По значению из справочника:</b> выбором значений только из справочника, можно использовать список в фильтре.<br>
+<b>Ссылка на значение справочника:</b> то же что и по значению из справочника. Замедляет быстродействие при выборке на сайте, но ускоряет администрирование при частом обновлении справочника. Позволяет установить описания элементов справочника для сайта.<br>
+<b>Множественный выбор из справочника:</b> позволяет выбрать из справочника несколько значений для одного свойства. Позволяет установить описания элементов справочника для сайта.<br>
+
+%%flagmap_method%en%%
+Filter method
+%%flagmap_method%ru%%
+Метод поиска
+
+%%flagmap_method_have%en%%
+Contains all flags (have)
+%%flagmap_method_have%ru%%
+Включает все значения (have)
+
+%%flagmap_method_like%en%%
+Contains one of flags (like)
+%%flagmap_method_like%ru%%
+Включает как минимум одно значение (like)
+
+%%flagmap_method_equal%en%%
+Equal to selected flags (equal)
+%%flagmap_method_equal%ru%%
+Равно выбранному набору значений (equal)
+
+%%show_method%en%%
+Show next values
+%%show_method%ru%%
+Показывать значения
+
+%%show_method_all%en%%
+All
+%%show_method_all%ru%%
+Все
+
+%%show_method_selected%en%%
+Selected only
+%%show_method_selected%ru%%
+Только выбранные
+
+%%used_datasets%en%%
+Property sets
+%%used_datasets%ru%%
+Наборы свойств
+
+%%reference_desc%en%%
+You can select the reference of such kind of type as the attribute. Edit reference data in "Reference data" part.
+%%reference_desc%ru%%
+Выбрать можно справочник того же типа, что и данное свойство. Данные для справочников редактируются в модуле "Данные справочников".
+
+%%description%en%%
+Description
+%%description%ru%%
+Описание
+
+%%description_help%en%%
+Property hint. Displayed on site
+%%description_help%ru%%
+Отображается как подсказка к свойству на сайте, если задано
+
+%%datasets%en%%
+Use in property sets
+%%datasets%ru%%
+Использовать в наборах свойств
+
+%%field_shared%en%%
+This field is shared. Removing this field from one dataset at least will produce unshare this field!
+%%field_shared%ru%%
+Это поле общее. Удаление его хотя бы из одного набора свойств сделает его частным!
+
+%%datasets_desc%en%%
+This property must be added to the required property set to allow editing. See "Property sets" module.
+%%datasets_desc%ru%%
+Для возможности работы с полем его необходимо добавить в нужные наборы свойств. Наборы свойств задаются в одноименном модуле.
+
+%%show_body_type%en%%
+Show on pages
+%%show_body_type%ru%%
+Показывать на страницах
+
+%%isnot_all%en%%
+Do not use in shared list
+%%isnot_all%ru%%
+Не использовать в общем списке
+
+%%isnot_all_desc%en%%
+Required for complex designs. See manual.
+%%isnot_all_desc%ru%%
+Требуется для индивидуального оформления свойства на сайте, подробности в документации.
+
+%%admin_form_0%en%%
+Do not show
+%%admin_form_0%ru%%
+Не показывать
+
+%%admin_form_1%en%%
+Main form (up)
+%%admin_form_1%ru%%
+Основная форма (верх)
+
+%%admin_form_2%en%%
+Main form (down)
+%%admin_form_2%ru%%
+Основная форма (низ)
+
+%%flt_admin_form_yes%en%%
+Visible only
+%%flt_admin_form_yes%ru%%
+Только видимые
+
+%%flt_admin_form_no%en%%
+Invisible only
+%%flt_admin_form_no%ru%%
+Только невидимые
+
+%%body_type_price_list%en%%
+Price list
+%%body_type_price_list%ru%%
+Прайс лист
+
+%%text_comparison%en%%
+Comparison method
+%%text_comparison%ru%%
+Метод сравнения
+
+%%disable_noindex%en%%
+Allow for robots to index filter result
+%%disable_noindex%ru%%
+Разрешить индексирование результатов фильтра для поля
+
+%%disable_noindex_notice%en%%
+This page will not by hidden from search spiders if this field is the single in filter.
+%%disable_noindex_notice%ru%%
+Если отмечено и данное поле единственное, по которому произведена фильтрация данных, то страница не будет закрыта от поисковых роботов.
+
+%%text_comparison_inc%en%%
+contains
+%%text_comparison_inc%ru%%
+содержит
+
+%%text_comparison_ninc%en%%
+not contains
+%%text_comparison_ninc%ru%%
+не содержит
+
+%%text_comparison_eq%en%%
+equal
+%%text_comparison_eq%ru%%
+равно
+
+%%text_comparison_ne%en%%
+not equal
+%%text_comparison_ne%ru%%
+не равно
+
+%%text_comparison_gt%en%%
+greater
+%%text_comparison_gt%ru%%
+больше
+
+%%text_comparison_gte%en%%
+greater or equal
+%%text_comparison_gte%ru%%
+больше или равно
+
+%%text_comparison_lt%en%%
+less
+%%text_comparison_lt%ru%%
+меньше
+
+%%text_comparison_lte%en%%
+less or equal
+%%text_comparison_lte%ru%%
+меньше или равно
+
+%%text_comparison_nint%en%%
+inclusive interval
+%%text_comparison_nint%ru%%
+интервал, включающий границы
+
+%%text_comparison_iint%en%%
+exclusive interval
+%%text_comparison_iint%ru%%
+интервал, исключающий границы
+
+%%is_link%en%%
+Is URL
+%%is_link%ru%%
+Оформить как ссылку
+
+%%filter_existent_items%en%%
+Show data in filter
+%%filter_existent_items%ru%%
+Показывать в фильтре данные
+
+%%filter_existent_items_all%en%%
+All from reference
+%%filter_existent_items_all%ru%%
+Все из справочника
+
+%%filter_existent_items_existent%en%%
+Only existing items for current category and nearest subcategories
+%%filter_existent_items_existent%ru%%
+Только существующие данные справочника для товаров категории

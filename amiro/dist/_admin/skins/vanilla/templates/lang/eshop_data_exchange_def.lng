@@ -1,0 +1,86 @@
+%%import_currencies_logheader%en%%
+CURRENCIES:<br>
+%%import_currencies_logheader%ru%%
+ВАЛЮТЫ:<br>
+
+%%import_references_logheader%en%%
+REFERENCES DATA:<br>
+%%import_references_logheader%ru%%
+ДАННЫЕ СПРАВОЧНИКОВ:<br>
+
+%%import_categories_logheader%en%%
+CATEGORIES:<br>
+%%import_categories_logheader%ru%%
+КАТЕГОРИИ:<br>
+
+%%import_images_logheader%en%%
+IMAGES:<br>
+%%import_images_logheader%ru%%
+ИЗОБРАЖЕНИЯ:<br>
+
+%%dest_category%en%%
+Destination category
+%%dest_category%ru%%
+Категория назначения
+
+%%order_date_from%en%%
+Date from
+%%order_date_from%ru%%
+Дата от
+
+%%order_date_to%en%%
+Date to
+%%order_date_to%ru%%
+Дата до
+
+%%imported_data%en%%
+Data for import
+%%imported_data%ru%%
+Импортируемые данные
+
+%%delete_mode%en%%
+Delete
+%%delete_mode%ru%%
+Удалить
+
+%%delete_none%en%%
+None
+%%delete_none%ru%%
+Ничего не удалять
+
+%%delete_all%en%%
+All categories and items in destination category
+%%delete_all%ru%%
+Все категории и товары в категории назначения
+
+%%delete_notmodif_items%en%%
+All non-modified products
+%%delete_notmodif_items%ru%%
+Все не измененные товары
+
+%%delete_owner_notmodif_items%en%%
+All not modified user items
+%%delete_owner_notmodif_items%ru%%
+Все не измененные товары пользователя
+
+%%delete_items%en%%
+All items
+%%delete_items%ru%%
+Все товары
+
+%%meta_update_mode%en%%
+Do not change <font class="meta_import_block" onmouseover="AMI.find('#popup-tooltip-meta').style.display = 'block'" onmouseout="AMI.find('#popup-tooltip-meta').style.display = 'none'">metadata</font> during products and categories update
+<span style="display: none;" class="popup-tooltip" id="popup-tooltip-meta">Page heading in the browser, keywords, the description</span>
+%%meta_update_mode%ru%%
+Не изменять <font class="meta_import_block" onmouseover="AMI.find('#popup-tooltip-meta').style.display = 'block'" onmouseout="AMI.find('#popup-tooltip-meta').style.display = 'none'">метаданные</font> при обновлении товаров и категорий
+<span style="display: none;" class="popup-tooltip" id="popup-tooltip-meta">Заголовок страницы в браузере, ключевые слова, описание</span>
+
+%%warn_wizard_check_fields%en%%
+Select at least one field
+%%warn_wizard_check_fields%ru%%
+Выберите хотя бы одно поле
+
+%%warn_wizard_return_to_tab%en%%
+Return to "Setup" tab to continue configurating
+%%warn_wizard_return_to_tab%ru%%
+Для продолжения настройки вернитесь на вкладку "Настройка"

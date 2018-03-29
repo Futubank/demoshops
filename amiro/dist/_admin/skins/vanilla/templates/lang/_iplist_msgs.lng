@@ -1,0 +1,16 @@
+%%include_language "templates/lang/_common_msgs.lng"%%
+
+%%status_add%en%%
+IP range was added.
+%%status_add%ru%%
+IP адрес добавлен
+
+%%status_apply%en%%
+IP range was updated.
+%%status_apply%ru%%
+IP адрес изменен
+
+%%your_ip%en%%
+Your IP address is _ip_
+%%your_ip%ru%%
+Ваш IP адрес _ip_

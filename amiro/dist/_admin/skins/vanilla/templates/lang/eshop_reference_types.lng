@@ -1,0 +1,17 @@
+%%include_language "templates/lang/main.lng"%%
+%%include_language "templates/lang/_buttons.lng"%%
+%%include_language "templates/lang/_common_items.lng"%%
+%%include_language "templates/lang/_common_msgs.lng"%%
+%%include_language "templates/lang/_eshop_def_msgs.lng"%%
+%%include_language "templates/lang/_eshop_msgs.lng"%%
+%%include_language "templates/lang/eshop_reference_types_def.lng"%%
+
+%%ftype_related_items%en%%
+Related products
+%%ftype_related_items%ru%%
+Связанные товары
+
+%%delete_ref_warn%en%%
+Delete?\nAll product's attributes that uses this reference will be removed as well.
+%%delete_ref_warn%ru%%
+Удалить?\nТак же будут удалены все свойства товаров, которые опираются на данный справочник.

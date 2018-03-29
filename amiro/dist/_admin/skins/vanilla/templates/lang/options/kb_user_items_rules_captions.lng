@@ -1,6 +1,0 @@
-%%include_language "templates/lang/options/eshop_user_items_rules_captions.lng"%%
-
-%%publish%en%%
-Auto-publish new user elements
-%%publish%ru%%
-Автоматически публиковать новые элементы пользователя

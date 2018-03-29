@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       960 xkqwnqprrkltyyskusnglnyxntqznkmxwtmxlsyixzmrrkrqtylulquutmwpskkipqrkpnir
- */ ?><?php foreach(array(15107=>'yzdq|sRmVqR') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} require_once $GLOBALS['CLASSES_PATH'] .$GLOBALS['lLIll1I'][I15107] .'.php'; require_once $GLOBALS['CLASSES_PATH'] .'bill_kupivkredit.php'; $oTpl =AMI::getSingleton('env/template_sys'); $BILL_driver_kupivkredit =new BILL_driver_kupivkredit($oTpl); $lLIll1l =$BILL_driver_kupivkredit->TlTT1II(); $lLIll1L =false; if($lLIll1l){ $lLIll1L =true; }else{ unset($_POST); unset($_GET); }require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .'eshop_final.php'; 

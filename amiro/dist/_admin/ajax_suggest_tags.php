@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       812 xkqwnykqwqkxyxkkmrlswzyprmgxnpgqikgmkyyupmrgqpnyrupxsizwksmypnwpsxytpnir
- */ ?><?php foreach(array(20153=>'!') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $l1II1IL =true; $l1II1I1 =','; $l1II1lI ='|'; $sql ='select tag, count from cms_tags where lang="'.$dataLanguage.'" and tag like "'.addslashes($l1II1Il).'%" order by length(tag) limit '.$l1IIL11; $db->query($sql); while($data =$db->nextRecord()){ $result .= ($result == '' ?'' :I20153).$data['tag'].'|'.$data['count']; }

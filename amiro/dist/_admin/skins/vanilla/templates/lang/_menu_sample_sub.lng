@@ -1,8 +1,0 @@
-%%include_language "templates/lang/_menu_all.lng"%%
-%%__file_comment__%en%%
--- there you can redefine names for sample menu bar --
-
-%%smpl_sample%en%%
-Sample Module in submenu
-%%smpl_sample%ru%%
-Sample Module in submenu

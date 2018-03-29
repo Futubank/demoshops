@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       1027 xkqwnkutyrtpqmusiynsntrmxpktnmkxzzmsgrwtwtzmtinlpiyyqqqrxilxmmxzmnptpnir
- */ ?><?php foreach(array(20092=>'WI|MnM`GOG',20093=>'wid|DMIGJQsY`GOG',20094=>'GrMvZtQ|IQDDZPQD',20095=>'') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} $SKIP_CONST =TRUE; $l1IIlLL =TRUE; require I20092; if(isset($_GET['html_encoding'])){ header('Content-Type: text/plain; charset='.$_GET['html_encoding']); }require_once $GLOBALS['CLASSES_PATH'] .I20093; $db =new CMS_simpleDb(); $db->connect(DB_Host, DB_User, DB_Password, DB_Database); $l1IIlL1 =''; $l1IIl1I =array('cookie', 'suggest', 'customfields', I20094, 'stats', 'ami_market'); $l1IIl1l =isset($_GET['type']) ?$_GET['type'] :I20095; if(in_array($l1IIl1l, $l1IIl1I)){ include('ajax_'.$l1IIl1l.'.php'); }else{ $l1IIlL1 ='/* AMI.AJAX.Error: unsupported type */'; }echo $l1IIlL1; 

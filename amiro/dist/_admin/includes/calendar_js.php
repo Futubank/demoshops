@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       905 xkqwwyyygutypptwgqrwikqnrwlpypqksumqpszsspwppykpmwmqnluxigpmqlziltkwpnir
- */ ?><?php foreach(array(20648=>"WZJQnSZr") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $l1IIllL =true; $ILlIlIl=1; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $conn->AddHeader("Content-Type: application/x-javascript; charset=UTF-8"); AMI_Service::hideDebug(); $Core->Cache->SetDebug(false); $adm->Gui->addBlock("calendar", "templates/calendar/calendar_js.tpl"); $l1Il1Ll["date_format"] =$adm->DFMT["conf"]; $l1Il1Ll =$adm->Gui->get(I20648, $l1Il1Ll); echo $l1Il1Ll; $conn->Out(); 

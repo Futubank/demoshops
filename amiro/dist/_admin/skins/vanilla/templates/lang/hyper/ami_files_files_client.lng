@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_client.lng"%%
-
-%%form_field_file_empty_warn%en%%
-File is not uploaded!
-%%form_field_file_empty_warn%ru%%
-Файл не загружен!

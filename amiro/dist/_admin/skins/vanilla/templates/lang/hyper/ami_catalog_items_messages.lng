@@ -1,4 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_messages.lng"%%
-%%include_language "templates/lang/_eshop_def_msgs.lng"%%
-%%include_language "templates/lang/_eshop_msgs.lng"%%

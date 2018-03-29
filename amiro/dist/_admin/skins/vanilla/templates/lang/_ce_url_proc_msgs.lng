@@ -1,8 +1,0 @@
-%%include_language "templates/lang/_common_msgs.lng"%%
-
-%%choose_page%en%%
-Choose an Item you want to refer to, use tabs to select area you need
-%%choose_page%ru%%
-Выберите объект на который вы хотите поставить ссылку, 
-используйте закладки чтобы переключаться между разделами
-

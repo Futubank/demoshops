@@ -1,3 +1,0 @@
-%%include_language "templates/lang/_menu_all.lng"%%
-%%__file_comment__%en%%
--- there you can redefine names for modules duplicated as submodules. For pmanager menu bar --

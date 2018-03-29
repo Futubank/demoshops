@@ -1,9 +1,0 @@
-%%invalid_symbol%en%%
-Link contains invalid symbol or is the absolute link to the site,\nplease use only a-zA-Z0-9-=+_/?&#
-%%invalid_symbol%ru%%
-Ссылка содержит недопустимый символ или является абсолютной ссылкой на сайт.\nДопустимые символы: a-zA-Z0-9-=+_/?&#
-
-%%unallowed_symbols%en%%
-Link contains unallowed symbols combination:
-%%unallowed_symbols%ru%%
-Ссылка содержит недопустимое сочетание символов:

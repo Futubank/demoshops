@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_client.lng"%%
-
-%%form_field_unisender_api_key_empty_warn%en%%
-Please, enter the API key!
-%%form_field_unisender_api_key_empty_warn%ru%%
-Пожалуйста, введите ключ доступа к API!

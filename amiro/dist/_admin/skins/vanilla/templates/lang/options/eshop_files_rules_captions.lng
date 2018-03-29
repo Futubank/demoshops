@@ -1,9 +1,0 @@
-%%allow_external_files%en%%
-To allow external files link
-%%allow_external_files%ru%%
-Разрешить ссылки на внешние файлы
-
-%%check_external_files%en%%
-To check external files before addition
-%%check_external_files%ru%%
-Проверять внешние файлы перед добавлением

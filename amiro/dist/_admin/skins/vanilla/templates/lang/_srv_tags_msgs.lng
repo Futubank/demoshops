@@ -1,7 +1,0 @@
-%%include_language "templates/lang/_common_msgs.lng"%%
-%%include_language "templates/lang/tags.lng"%%
-
-%%warn_enable_search_module%en%%
-Interactive module &quot;Search&quot; is required
-%%warn_enable_search_module%ru%%
-Необходим модуль управления &quot;Поиск&quot;

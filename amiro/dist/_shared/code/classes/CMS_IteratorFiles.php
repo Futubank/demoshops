@@ -1,6 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @package    core 
- * @version    $Id$ 
- * @size       1877 xkqwiuumixrywyslrlktkgumsyyzximpgupmmwruxmnnwxwxxnzqzpytkzgqzukkgpyspnir
- */ ?><?php foreach(array(1946=>"ihsUjq|gmwTURqd|gzTo",1947=>'MIGHrt|GZtO') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class CMS_IteratorFiles extends CMS_IteratorArray {function CMS_IteratorFiles(&$IlI1LlL) {require_once($GLOBALS["FUNC_INCLUDES_PATH"]."func_file_system.php"); parent::CMS_IteratorArray($IlI1LlL); }function query($IlI1LLI, $flags =0){ $files =getDirFileList($GLOBALS[I1946].$this->Module->GetOption(I1947)); sort($files); $array =Array(); for($i =0; $i <count($files); $i++){ $array[] =Array("id" => $i +1, "name" => $files[$i], "file" => $files[$i], "size" => filesize($GLOBALS[I1946].$this->Module->GetOption(I1947).$files[$i])); }$this->SetArray($array); parent::query($IlI1LLI, $flags); return true; }}

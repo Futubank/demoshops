@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_form.lng"%%
-
-%%caption_id_page%en%%
-Page
-%%caption_id_page%ru%%
-Страница

@@ -1,7 +1,0 @@
-%%include_language "templates/lang/_common_msgs.lng"%%
-%%include_language "templates/lang/_eshop_item_props_def_msgs.lng"%%
-
-%%properties_saved%en%%
-Number of saved options: _num_
-%%properties_saved%ru%%
-Количество сохраненных подвидов товара: _num_

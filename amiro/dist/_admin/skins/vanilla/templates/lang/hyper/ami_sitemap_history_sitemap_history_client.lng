@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_client.lng"%%
-
-%%list_add_new_button%en%%
-%%list_add_new_button%ru%%
-
-

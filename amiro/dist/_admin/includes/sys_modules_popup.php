@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       1060 xkqwgyzywxwpmwnmxkpxlyrstlqipsxzsuluyngkrlmznuqnqkiukpkxpnmpmrxtzmkppnir
- */ ?><?php foreach(array(22783=>'MnMt`GOG',22784=>"DBD|IHSuJQD|GHGuG",22785=>'DBD|IHSuJQD|GHGuG',22786=>'tQIGJZtQD~DBD|IHSuJQD|GHGuG`tGJ',22787=>'tQIGJZtQD~JZnP~|DBD|IHSuJQD|GHGuG|IDPD`JnP',22788=>'tQIGJZtQD~JZnP~DBD|IHSuJQD|GHGuG`JnP') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl ="services"; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. I22783; $l1LlLl1 =&$adm->Core->GetModule(I22784); $l1LlLl1->InitEngine($adm, $db); $aTemplates =Array( I22785=>I22786, );$l1LlLl1->Engine->Init($aTemplates, I22787, I22788); $l1LlLl1->Engine->ProcessAction($adm->Vars['action'], $adm->Vars['id']); $html += $l1LlLl1->Engine->GetHtml($NONE); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; ?>

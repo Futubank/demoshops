@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/hyper/ami_modules_templates_templates_list.lng"%%
-
-%%list_col_icon_content_not_default%en%%
-The localization content is not default
-%%list_col_icon_content_not_default%ru%%
-Содержимое локализации отличается от содержимого по умолчанию

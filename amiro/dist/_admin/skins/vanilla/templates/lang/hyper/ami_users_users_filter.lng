@@ -1,8 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_filter.lng"%%
-%%include_language "templates/lang/hyper/ami_users_common.lng"%%
-
-%%filter_field_edit_front_allowed%en%%
-Allow to edit at front side
-%%filter_field_edit_front_allowed%ru%%
-С правами редактирования на фронте

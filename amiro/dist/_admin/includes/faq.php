@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       1050 xkqwlwkryipsslxsuzssskkkuqwtyynkuzsukskxwmqplgnyunsqumiutlqillripziupnir
- */ ?><?php foreach(array(21013=>"IHSuJQD",21014=>"fZE",21015=>'fZE|fHrI',21016=>'MS') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl =I21013; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $l1I111I =&$adm->Core->GetModule(I21014); $l1I111I->InitEngine($adm, $db); $lLlIIIl =Array( 'faq_list'=>'templates/faq_list.tpl', 'faq_subform'=>'templates/faq_form.tpl', I21015=>'templates/form.tpl' );$l1I111I->Engine->Init($lLlIIIl, 'templates/lang/_faq_msgs.lng', 'templates/lang/faq.lng'); $l1I111I->Engine->ProcessAction($adm->Vars['action'], $adm->Vars[I21016]); $html += $l1I111I->Engine->GetHtml($NONE); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; ?>

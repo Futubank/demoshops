@@ -1,7 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @package    core 
- * @subpackage api 
- * @version    $Id$ 
- * @size       2902 xkqwpsgkmytytpiqrnlpytlktgixwmnqiklpztiqwxuxigurtmnzswqmtgtiwqsggnsnpnir
- */ ?><?php foreach(array(317=>'jHPMn',318=>'rQEuMrQ|WHnnQWt') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class API_Member extends CMS_API {function Init(&$dbCMS, &$cms) {if(!is_array($this->_events)) {$this->_events =array ();}$this->_events += array ('login' => array ('handler' => I317 ,'require_connect' => false), 'update_profile' => array ('handler' => 'UpdateProfile', I318 => true), 'logout' => array ('handler' => 'Logout' ,I318 => false) );return parent::Init($dbCMS, $cms); }function Login(&$input, &$output) {die("Method 'Login' could be implemented in successor class"); }function UpdateProfile(&$input, &$output) {die("Method 'UpdateProfile' could be implemented in successor class"); }function Logout(&$input, &$output) {die("Method 'Logout' could be implemented in successor class"); }}?>

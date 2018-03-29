@@ -1,9 +1,0 @@
-%%cache_l3_enable_TRUE%en%%
-3rd level is on
-%%cache_l3_enable_TRUE%ru%%
-Уровень 3 включен
-
-%%cache_l3_enable_FALSE%en%%
-3rd level is off
-%%cache_l3_enable_FALSE%ru%%
-Уровень 3 отключен

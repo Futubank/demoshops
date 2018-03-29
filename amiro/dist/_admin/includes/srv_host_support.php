@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       976 xkqwyttgnqpxpqiirqknzunrrxzqztlqiznxnswziiinzzglpnkqznyqqzqtmwlkzgwspnir
- */ ?><?php foreach(array(22337=>'MnMt`GOG',22338=>'OQJG|SQDK|urJ',22339=>'urJ') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl ='services'; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. I22337; $vMod =&$Core->GetModule('srv_host_support'); $url =$vMod->issetOption('help_desk_url') ?$vMod->GetOption('help_desk_url') :''; if (empty($url)) {$url =$vMod->GetProperty(I22338); }$adm->Gui->addBlock('srv_host_support', 'templates/srv_host_support.tpl'); $html['list_table'] =$adm->Gui->getAbs('srv_host_support', array (I22339 => $url)); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; ?>

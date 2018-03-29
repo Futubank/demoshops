@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       768 xkqwrmsmgxutumptulipswsksgplxxstmnqsmqslgqywrqylntqyrqzuxxptumnxssugpnir
- */ ?><?php foreach(array(20176=>'szqihN|jhpmN|hk',20177=>'yMJJMnPsZQIHn`GOG',20178=>"IZDDGZBIQntD",20179=>'FUNw|mNwjUsqd|gzTo') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} define(I20176, TRUE); require 'cm_ini.php'; $ActiveModule ="pages"; require $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath. 'init.php'; $file =I20177; if($_GET["action"] == "payment_add") {$file ='PaymentAdd.php'; }elseif($_GET["action"] == I20178) {$file ='MassPayments.php'; }elseif ($_GET["action"] == "massmail") {$file ='MassMail.php'; }require $GLOBALS[I20179] .$file; 

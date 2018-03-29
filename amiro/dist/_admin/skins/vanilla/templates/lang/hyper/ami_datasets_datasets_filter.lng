@@ -1,8 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/hyper/ami_datasets_common.lng"%%
-%%include_language "templates/lang/modules/_filter.lng"%%
-
-%%all_modules%en%%
-All
-%%all_modules%ru%%
-Все

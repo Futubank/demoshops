@@ -1,7 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_filter.lng"%%
-
-%%filter_field_header%en%%
-Question
-%%filter_field_header%ru%%
-Вопрос

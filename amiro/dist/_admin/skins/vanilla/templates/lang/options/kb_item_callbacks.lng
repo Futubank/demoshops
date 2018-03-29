@@ -1,6 +1,0 @@
-%%include_language "templates/lang/options/eshop_item_callbacks.lng"%%
-
-%%current_eshop_category%en%%
-The current knowledge base category
-%%current_eshop_category%ru%%
-Текущая категория базы знаний

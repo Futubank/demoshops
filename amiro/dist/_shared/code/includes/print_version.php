@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       805 xkqwqwimsyqytuqxtuqnlrylmtmltmsigwppsuuiykugxkyqgxpsrspzxlqxtlsmknwnpnir
- */ ?><?php foreach(array(19125=>'dqRVqR|gRhThwhj') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} echo ' '; $Core->Cache->pageIsComplitedForSave =true; $conn->DelHeader('Status: 200 OK'); $conn->DelHeader($GLOBALS[I19125] .' 200 OK'); $conn->AddHeader($GLOBALS[I19125] .' 404 Not Found', true); $conn->SetSkip200Status(true); $conn->Out(); $Core->Cache->markPageIsSkipped(); die; 

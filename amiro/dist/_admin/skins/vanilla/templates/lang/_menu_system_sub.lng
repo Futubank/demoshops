@@ -1,7 +1,0 @@
-%%include_language "templates/lang/_menu_all.lng"%%
-%%__file_comment__%en%%
-
-%%sys_groups%en%%
-Groups
-%%sys_groups%ru%%
-Группы

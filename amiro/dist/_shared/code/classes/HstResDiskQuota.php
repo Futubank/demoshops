@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       966 xkqwsxykxmmrqsktpksxqqkwsnszrzqipqzzisiirwtpsuxtksmtxpiizsizuqnnkqyrpnir
- */ ?><?php foreach(array(5669=>'PrHuGnZIQ',5670=>'DQt') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class HstResDiskQuota extends HstRes {function HstResDiskQuota($id, $type, $I1ILIII, $IIlIIL1, $I1ILIIl, $flags) {parent::HstRes($id, $type, $I1ILIII, $IIlIIL1, $I1ILIIl, $flags); $this->args += array( 'set' => array('groupname'=>I5669, 'username'=>'username', 'quota'=>'quota'), );}function TITl1IT($args =null, $id =null) {$this->TITll1T(I5670, $this->TITll11($args, I5670), $id); return $this->Execute(); }}?>

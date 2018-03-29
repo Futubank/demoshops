@@ -1,6 +1,0 @@
-%%include_language "templates/lang/main.lng"%%
-%%include_language "templates/lang/_buttons.lng"%%
-%%include_language "templates/lang/_common_items.lng"%%
-%%include_language "templates/lang/_common_msgs.lng"%%
-%%include_language "templates/lang/_files_import_msgs.lng"%%
-%%include_language "templates/lang/eshop_digitals_def.lng"%%

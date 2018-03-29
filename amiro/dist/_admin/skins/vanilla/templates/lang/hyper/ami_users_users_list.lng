@@ -1,8 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_list.lng"%%
-%%include_language "templates/lang/hyper/ami_users_common.lng"%%
-
-%%list_action_reset_password%en%%
-Reset password
-%%list_action_reset_password%ru%%
-Сбросить пароль

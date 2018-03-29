@@ -1,6 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @package    core 
- * @version    $Id$ 
- * @size       1770 xkqwsgrpkzywwgwqrzzlzqxusiznsqlqlrxrqiqsgwutqqsrkumnkrrlkwuimrrwzswipnir
- */ ?><?php foreach(array(4901=>"Qxt|") as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class ExtEshopItemAudit extends ExtAudit {function ExtEshopItemAudit() {parent::ExtAudit(); }function GetModuleName() {return "ext_".$this->activeModule->GetName()."_audit"; }function TITTl1l(&$modEngine){ if(is_object($modEngine) && is_object($modEngine->oEshop)) {$IIlLIIl =I4901.$modEngine->oEshop->ownerName."_custom_fields"; $aExt =$modEngine->TTT1lIl($IIlLIIl); if(is_object($aExt[$IIlLIIl])) {$aExt[$IIlLIIl]->TITIITT(0); }}parent::TITTl1l($modEngine); }}?>

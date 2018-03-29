@@ -1,8 +1,0 @@
-##--system info: module_owner="" module="" system="1"--##
-%%include_language "templates/lang/modules/_filter.lng"%%
-%%include_language "templates/lang/hyper/ami_discussion_common.lng"%%
-
-%%path_all%en%%
-<b>Move to the upper level: <span id="discussion-parent-level"></span></b>
-%%path_all%ru%%
-<b>Перейти на верхний уровень: <span id="discussion-parent-level"></span></b>

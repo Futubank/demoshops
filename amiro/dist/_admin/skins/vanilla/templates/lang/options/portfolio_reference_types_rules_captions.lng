@@ -1,6 +1,0 @@
-%%include_language "templates/lang/options/eshop_reference_types_rules_captions.lng"%%
-
-%%search_field_cat%en%%
-Category
-%%search_field_cat%ru%%
-Категория проектов

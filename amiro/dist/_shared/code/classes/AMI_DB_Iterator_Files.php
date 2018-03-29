@@ -1,6 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @package    db 
- * @version    $Id$ 
- * @size       1697 xkqwuqpglnwzsggzipqixgytmpmyxzwptlkusqqkmmgisyqqgpzlrsygltrixtrsnxtwpnir
- */ ?><?php foreach(array(316=>'MS') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} class AMI_DB_Iterator_Files extends AMI_DB_Iterator_Array{ private $path; public function __construct($path){ require_once $GLOBALS['FUNC_INCLUDES_PATH'] .'func_file_system.php'; $this->path =$path; }public function query($query, $flags =0){ $files =getDirFileList($this->path); sort($files); $array =array(); for($i =0, $q =sizeof($files); $i <$q; $i++){ $array[] =array( I316 => $i +1, 'name' => $files[$i], 'file' => $files[$i], 'size' => filesize($this->path .$files[$i]) );}$this->SetArray($array); parent::query($query, $flags); }}

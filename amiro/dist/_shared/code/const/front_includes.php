@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       960 xkqwqqtpwzykrnrnpxlmztyikynklgmirxigxzkkxxswwmslsxmlymptstriqgpyqlrrpnir
- */ ?><?php foreach(array(17187=>'wjzddqd|gzTo',17188=>'sZtQTHHJD`GOG') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} require_once $GLOBALS['CLASSES_PATH'] .'template.php'; require_once $GLOBALS[I17187] .'CMS_Base.php'; require_once $GLOBALS[I17187] .'guiFront.php'; require_once $GLOBALS[I17187] .'Pager.php'; require_once $GLOBALS[I17187] .'Front.php'; require_once $GLOBALS[I17187] .I17188; require_once $GLOBALS[I17187] .'Tree.php'; require_once $GLOBALS["CLASSES_PATH"] .files_subpath. 'Page.php'; require_once $GLOBALS[I17187] .'CMS_Session.php'; ?>

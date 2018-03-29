@@ -1,5 +1,0 @@
-<?php /**
- * @copyright  2000-2016 Amiro.CMS. All rights reserved. 
- * @version    $Id$ 
- * @size       1112 xkqwtiyksgkkymruwsmgzlwmrlnyqnmqiunlqilmztupqnutlysitgunmtullssrxwwgpnir
- */ ?><?php foreach(array(22581=>'MnMt`GOG',22582=>'ZWtMHn') as $i1=>$i2){$i3=strrev("rtrts");define("I".$i1,$i3($i2,'abcdeghijklmopqswyz ~`!@#%^&*()_-+|{}[];:<>,./?ABCDEGHIJKLMOPQSWYZ','ZYWSQPOMLKJIHGEDCBA?/.,><:;][}{|+-_)(*&^%#@!`~ zywsqpomlkjihgedcba'));} if(!defined('AMI_ENVIRONMENT')){header('HTTP/1.0 403 Forbidden');die('Forbidden, invalid URL! '.__FILE__.' at '.__LINE__);} $lLIlIIl ="pmanager"; require_once $GLOBALS['DEFAULT_INCLUDES_PATH'] .files_subpath .I22581; $lLL1Il1 =&$adm->Core->GetModule("stickers"); $lLL1Il1->InitEngine($adm, $db); $aTemplates =Array( 'stickers_list'=>'templates/stickers_list.tpl', 'stickers_subform'=>'templates/stickers_form.tpl', 'stickers_form'=>'templates/form.tpl' );$lLL1Il1->Engine->Init($aTemplates, 'templates/lang/_stickers_msgs.lng', 'templates/lang/stickers.lng'); $lLL1Il1->Engine->ProcessAction($adm->Vars[I22582], $adm->Vars['id']); $html += $lLL1Il1->Engine->GetHtml($NONE); require $GLOBALS['DEFAULT_INCLUDES_PATH'] .'done.php'; ?>

@@ -1,0 +1,16 @@
+AMIRO CMS
+Bitrix
+Django/Python — ЕСТЬ
+Drupal Commerce
+HOST.CMS
+InSales
+Joomla Virtuemart2
+MODX
+NETCAT
+Opencart
+Prestashop
+SIMPLA
+UMI.CMS
+Web Asyst
+Woo Commerce
+Wordpress — ЕСТЬ

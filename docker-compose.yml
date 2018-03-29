@@ -9,8 +9,10 @@ services:
       - phpfpm
       - django
       - wordpress
+      - amiro
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
+      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
   mysql:
     build: ./mysql
     restart: always
@@ -21,6 +23,7 @@ services:
       - mysql
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
+      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
   django:
     build: ./django
     restart: always
@@ -34,3 +37,8 @@ services:
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
+  amiro:
+    build: ./amiro
+    restart: "no"
+    volumes:
+      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/

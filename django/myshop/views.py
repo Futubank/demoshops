@@ -2,7 +2,7 @@ import uuid
 
 from django import forms
 from django.shortcuts import render
-from futupayments.forms import PaymentForm, RecieptItem
+from modulbank_django.forms import PaymentForm, RecieptItem
 
 
 class Product:

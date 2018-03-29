@@ -14,7 +14,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myshop',
-    'futupayments',
+    'modulbank_django',
 ]
 
 ROOT_URLCONF = 'myshop.urls'
@@ -60,10 +60,10 @@ MAX_POOL_SIZE = 50
 
 STATIC_URL = '/static/'
 
-FUTUPAYMENTS_MERCHANT_ID = 'demoshops'
-FUTUPAYMENTS_SECRET_KEY = 'F87939421C1826BF920927395C61BA2C'
-FUTUPAYMENTS_RECIEPTS = True
-FUTUPAYMENTS_SUCCESS_URL = '/django/futupayments/success/'
-FUTUPAYMENTS_FAIL_URL = '/django/futupayments/fail/'
-FUTUPAYMENTS_HOST = 'https://dev.futubank.com/'
-FUTUPAYMENTS_TEST_MODE = True
+MODULBANK_MERCHANT_ID = 'demoshops'
+MODULBANK_SECRET_KEY = 'F87939421C1826BF920927395C61BA2C'
+MODULBANK_RECIEPTS = True
+MODULBANK_SUCCESS_URL = '/django/modulbank_django/success/'
+MODULBANK_FAIL_URL = '/django/modulbank_django/fail/'
+MODULBANK_HOST = 'https://dev.futubank.com/'
+MODULBANK_TEST_MODE = True

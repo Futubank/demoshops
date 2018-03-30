@@ -3,13 +3,14 @@ services:
   nginx:
     build: ./nginx
     restart: always
-    ports:
-      - "80:80"
+#    ports:
+#      - "80:80"
     depends_on:
       - phpfpm
       - django
       - wordpress
       - amiro
+      - amiro-apache
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
       - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
@@ -42,3 +43,11 @@ services:
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
+  amiro-apache:
+    build: ./amiro-apache
+    hostname: amiro-apache
+    restart: "always"
+    volumes:
+      - /private/var/lib/docker-volumes/var-www-amiro-apache:/var/www/amiro-apache/
+    ports:
+      - "80:80"

@@ -12,5 +12,7 @@ RUN mkdir /opt/amiro \
     && wget 'http://amiro.ru/ftpgetfile.php?id=199&module=files' \
     && mv 'ftpgetfile.php?id=199&module=files' install.php
 
+COPY modulbank-amiro/modulbank _local/eshop/pay_drivers/modulbank
+
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 ENTRYPOINT ["/docker-entrypoint.sh"]

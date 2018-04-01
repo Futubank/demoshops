@@ -16,13 +16,15 @@ RUN apt-get update \
     && curl -sS https://getcomposer.org/installer -o composer-setup.php \
     && php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
-RUN mkdir -p /opt/netcat \
-    && cd /opt/netcat \
-    && wget https://netcat.ru/download/distrib/latest/?edition=e-commerce \
-    && mv index.html?edition=e-commerce netcat.zip \
-    && unzip netcat.zip \
-    && rm netcat.zip \
-    && ls -lah
+#RUN mkdir -p /opt/netcat \
+#    && cd /opt/netcat \
+#    && wget https://netcat.ru/download/distrib/latest/?edition=e-commerce \
+#    && mv index.html?edition=e-commerce netcat.zip \
+#    && unzip netcat.zip \
+#    && rm netcat.zip \
+#    && ls -lah
+
+COPY opt_netcat /opt/netcat
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 ENTRYPOINT ["/docker-entrypoint.sh"]

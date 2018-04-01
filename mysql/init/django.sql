@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS django CHARACTER SET utf8;
+GRANT ALL ON `django`.* TO 'django'@'%' IDENTIFIED BY 'django';

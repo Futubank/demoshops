@@ -1,30 +1,37 @@
-FROM ubuntu:xenial
+FROM centos:6.6
+# MAINTAINER "Egor Zyuskin" <ezyuskin@amaxlab.ru>
 
-RUN apt-get update \
-    && apt-get install -y \
-        mc \
-        rsync \
-        curl \
-        php-cli \
-        php-curl \
-        php-dom \
-        php-gd \
-        php-mbstring \
-        php-bcmath \
-        git \
-        wget \
-    && curl -sS https://getcomposer.org/installer -o composer-setup.php \
-    && php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+RUN yum -y install \
+    curl \
+    httpd \
+    php \
+    php-gd \
+    php-xml \
+    php-mysql \
+    php-mbstring \
+    openssh-server \
+    rsync \
+    unzip \
+    wget \
+    && useradd www-data \
+    && usermod -a -G www-data apache
 
-#RUN mkdir -p /opt/netcat \
-#    && cd /opt/netcat \
-#    && wget https://netcat.ru/download/distrib/latest/?edition=e-commerce \
-#    && mv index.html?edition=e-commerce netcat.zip \
-#    && unzip netcat.zip \
-#    && rm netcat.zip \
-#    && ls -lah
+ADD ./home/ /home/
+ADD ./root/ /root/
+ADD ./etc/ /etc/
 
-COPY opt_netcat /opt/netcat
+RUN chmod -R 700 /root/.ssh/ /etc/ssh/* /home/www-data/.ssh \
+    && chown -R apache:www-data /var/www/html \
+    && chown -R www-data:www-data /home/www-data
 
-COPY docker-entrypoint.sh /docker-entrypoint.sh
-ENTRYPOINT ["/docker-entrypoint.sh"]
+RUN mkdir -p /opt/netcat \
+    && cd /opt/netcat \
+    && wget https://netcat.ru/download/distrib/latest/?edition=e-commerce \
+    && mv index.html?edition=e-commerce netcat.zip \
+    && unzip netcat.zip \
+    && rm netcat.zip \
+    && ls -lah
+
+VOLUME ["/var/www/html", "/var/log/httpd"]
+EXPOSE 80 22
+CMD ["/root/init.sh"]

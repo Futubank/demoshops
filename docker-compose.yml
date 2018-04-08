@@ -66,11 +66,6 @@ services:
       - mysql
   netcat:
     build: ./netcat
-    restart: "no"
-    volumes:
-      - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
-  netcat2:
-    build: ./netcat2
     restart: always
     ports:
       - "8055:80"

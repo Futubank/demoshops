@@ -69,6 +69,15 @@ services:
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
+  netcat2:
+    build: ./netcat2
+    restart: always
+    ports:
+      - "8055:80"
+    volumes:
+      - /private/var/lib/docker-volumes/netcat2-var-www-html:/var/www/html
+      - /private/var/lib/docker-volumes/netcat2-var-lib-mysql:/var/lib/mysql
+      - /private/var/lib/docker-volumes/netcat2-var-log-httpd:/var/log/httpd
   amiro:
     build: ./amiro
     restart: "no"

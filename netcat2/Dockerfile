@@ -9,7 +9,6 @@ RUN yum -y install \
     php-xml \
     php-mysql \
     php-mbstring \
-    mysql-server \
     openssh-server \
     rsync \
     unzip \
@@ -33,6 +32,6 @@ RUN mkdir -p /opt/netcat \
     && rm netcat.zip \
     && ls -lah
 
-VOLUME ["/var/www/html", "/var/log/httpd", "/var/lib/mysql"]
+VOLUME ["/var/www/html", "/var/log/httpd"]
 EXPOSE 80 22
 CMD ["/root/init.sh"]

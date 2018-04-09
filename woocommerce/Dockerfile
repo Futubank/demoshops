@@ -28,7 +28,7 @@ RUN cd /tmp \
     && tar -xzvf 3.3.4.tar.gz \
     && mv woocommerce-3.3.4 /opt/woocommerce/wp-content/plugins/woocommerce
 
-COPY modulbank-woocommerce/modulbank /opt/woocommerce/wp-content/plugins/
+COPY modulbank-woocommerce/modulbank/ /opt/woocommerce/wp-content/plugins/modulbank/
 COPY wp-config.php /opt/woocommerce/wp-config.php
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh

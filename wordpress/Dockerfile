@@ -5,6 +5,7 @@ RUN apt-get update \
 
 RUN cd /tmp \
     && mkdir /opt/wordpress \
+    && echo "4.9.5" \
     && wget https://wordpress.org/latest.tar.gz \
     && tar -xzvf latest.tar.gz \
     && mv wordpress /opt/

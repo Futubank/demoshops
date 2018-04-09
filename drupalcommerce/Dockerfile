@@ -1,22 +1,28 @@
-FROM ubuntu:xenial
+FROM ubuntu:18.04
 
 RUN apt-get update \
-    && apt-get install -y \
+    && DEBIAN_FRONTEND=noninteractive apt-get install -y \
         mc \
         rsync \
         curl \
+        git \
+        software-properties-common \
         php-cli \
         php-curl \
         php-dom \
         php-gd \
         php-mbstring \
         php-bcmath \
-        git \
     && curl -sS https://getcomposer.org/installer -o composer-setup.php \
     && php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 RUN cd /opt/ \
-    && composer create-project drupalcommerce/project-base drupalcommerce --stability dev --no-interaction
+    && git clone https://github.com/AcroMedia/commerce-demo.git \
+    && cd commerce-demo \
+    && composer install
+
+#RUN cd /opt/ \
+#    && composer create-project drupalcommerce/project-base drupalcommerce --stability dev --no-interaction
 
 #RUN cat /dev/zero | ssh-keygen -q -N "" \
 #    && ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts \

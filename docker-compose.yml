@@ -5,7 +5,7 @@ services:
     restart: always
     ports:
       - "80:80"
-      - "8086:8056"
+      - "8056:8056"
     depends_on:
       - phpfpm5
       - phpfpm7
@@ -31,6 +31,12 @@ services:
       - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
       - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
+  phpfpm70:
+    build: ./phpfpm70
+    restart: always
+    depends_on:
+      - mysql
+    volumes:
       - ./umicms/var-www-umicms:/var/www/umicms/
   phpfpm5:
     build: ./phpfpm5
@@ -47,46 +53,36 @@ services:
       - ./django/myshop/:/opt/myshop
     depends_on:
       - mysql
+  netcat:
+      build: ./netcat
+      restart: always
+      ports:
+        - "8055:80"
+      volumes:
+        - /private/var/lib/docker-volumes/netcat2-var-www-html:/var/www/html
+        - /private/var/lib/docker-volumes/netcat2-var-log-httpd:/var/log/httpd
   wordpress:
     build: ./wordpress
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
-    depends_on:
-      - mysql
   woocommerce:
     build: ./woocommerce
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
-    depends_on:
-      - mysql
   drupalcommerce:
     build: ./drupalcommerce
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
-    depends_on:
-      - mysql
-  netcat:
-    build: ./netcat
-    restart: always
-    ports:
-      - "8055:80"
-    volumes:
-      - /private/var/lib/docker-volumes/netcat2-var-www-html:/var/www/html
-      - /private/var/lib/docker-volumes/netcat2-var-log-httpd:/var/log/httpd
   amiro:
     build: ./amiro
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
-    depends_on:
-      - mysql
   umicms:
     build: ./umicms
     restart: "no"
     volumes:
       - ./umicms/var-www-umicms:/var/www/umicms/
-    depends_on:
-      - mysql

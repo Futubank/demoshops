@@ -5,6 +5,7 @@ services:
     restart: always
     ports:
       - "80:80"
+      - "8086:8056"
     depends_on:
       - phpfpm5
       - phpfpm7

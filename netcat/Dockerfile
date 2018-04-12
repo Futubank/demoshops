@@ -20,10 +20,6 @@ ADD ./home/ /home/
 ADD ./root/ /root/
 ADD ./etc/ /etc/
 
-RUN chmod -R 700 /root/.ssh/ /etc/ssh/* /home/www-data/.ssh \
-    && chown -R apache:www-data /var/www/html \
-    && chown -R www-data:www-data /home/www-data
-
 RUN mkdir -p /opt/netcat \
     && cd /opt/netcat \
     && wget https://netcat.ru/download/distrib/latest/?edition=e-commerce \
@@ -31,6 +27,8 @@ RUN mkdir -p /opt/netcat \
     && unzip netcat.zip \
     && rm netcat.zip \
     && ls -lah
+
+COPY modulbank-netcat /opt/modulbank-netcat
 
 VOLUME ["/var/www/html", "/var/log/httpd"]
 EXPOSE 80 22

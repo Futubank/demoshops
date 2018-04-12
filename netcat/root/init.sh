@@ -1,11 +1,12 @@
 #!/bin/bash
-
-/etc/init.d/sshd start
-/etc/init.d/mysqld start
-
 set -e
 
 #rsync -a /opt/netcat/* /var/www/html
+
+ls -lah /opt/
+
+cp /opt/modulbank-netcat/netcat/modules/payment/classes/system/* \
+    /var/www/html/netcat/modules/payment/classes/system/
 
 rm -f /var/run/httpd/httpd.pid
 

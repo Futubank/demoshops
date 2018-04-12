@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS umicms CHARACTER SET utf8;
+GRANT ALL ON `umicms`.* TO 'umicms'@'%' IDENTIFIED BY 'umicms';

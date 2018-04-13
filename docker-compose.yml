@@ -82,7 +82,7 @@ services:
     restart: "no"
     volumes:
       - ./umicms/var-www-umicms:/var/www/umicms/
-  umicms:
+  simplacms:
     build: ./simplacms
     restart: "no"
     volumes:

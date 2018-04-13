@@ -18,6 +18,7 @@ services:
       - ./umicms/var-www-umicms:/var/www/umicms/
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
+      - ./webasyst/var-www-webasyst:/var/www/webasyst/
   mysql:
     build: ./mysql
     restart: always
@@ -40,6 +41,7 @@ services:
       - ./umicms/var-www-umicms:/var/www/umicms/
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
+      - ./webasyst/var-www-webasyst:/var/www/webasyst/
   django:
     build: ./django
     restart: always
@@ -86,3 +88,8 @@ services:
     restart: "no"
     volumes:
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
+  webasyst:
+    build: ./webasyst
+    restart: "no"
+    volumes:
+      - ./webasyst/var-www-webasyst:/var/www/webasyst/

@@ -31,19 +31,13 @@ services:
       - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
       - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
-  phpfpm70:
-    build: ./phpfpm70
-    restart: always
-    depends_on:
-      - mysql
-    volumes:
-      - ./umicms/var-www-umicms:/var/www/umicms/
   phpfpm5:
     build: ./phpfpm5
     restart: always
     depends_on:
       - mysql
     volumes:
+      - ./umicms/var-www-umicms:/var/www/umicms/
       - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
   django:
     build: ./django

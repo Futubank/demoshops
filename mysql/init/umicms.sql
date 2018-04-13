@@ -1,2 +1,2 @@
 CREATE DATABASE IF NOT EXISTS umicms CHARACTER SET utf8;
-GRANT ALL ON `netcat`.* TO 'netcat'@'%' IDENTIFIED BY 'netcat';
+GRANT ALL ON `umicms`.* TO 'umicms'@'%' IDENTIFIED BY 'umicms';

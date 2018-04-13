@@ -5,7 +5,6 @@ services:
     restart: always
     ports:
       - "80:80"
-      - "8056-8076:8056-8076"
     depends_on:
       - phpfpm5
       - phpfpm7
@@ -16,9 +15,9 @@ services:
       - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
       - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
-      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
       - ./umicms/var-www-umicms:/var/www/umicms/
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
+      - ./amirocms/var-www-amirocms:/var/www/amirocms/
   mysql:
     build: ./mysql
     restart: always
@@ -38,9 +37,9 @@ services:
     depends_on:
       - mysql
     volumes:
-      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
       - ./umicms/var-www-umicms:/var/www/umicms/
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
+      - ./amirocms/var-www-amirocms:/var/www/amirocms/
   django:
     build: ./django
     restart: always
@@ -72,11 +71,11 @@ services:
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
-  amiro:
-    build: ./amiro
+  amirocms:
+    build: ./amirocms
     restart: "no"
     volumes:
-      - /private/var/lib/docker-volumes/var-www-amiro:/var/www/amiro/
+      - ./amirocms/var-www-amirocms:/var/www/amirocms/
   umicms:
     build: ./umicms
     restart: "no"

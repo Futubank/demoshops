@@ -8,11 +8,13 @@
     <h1>Демо-магазины</h1>
     <div style="padding: 1rem; border: solid 2px #ff5a3f; font-family: Monospace; white-space: pre-line; background: #fdffd1; width: 40em"><strong># чтобы всё работало, прописать в /etc/hosts</strong>
         127.0.0.1 simplacms.local
+        127.0.0.1 umicms.local
+        127.0.0.1 amirocms.local
     </div>
 
     <ol>
-        <li><a href="http://localhost:8056">UMI.CMS</a><br>
-            <small>Установка: <a href="http://localhost:8056/install.php">install.php</a><br>
+        <li>ПРОБЛЕМА: не устанавливается до конца: <a href="http://umicms.local">UMI.CMS</a><br>
+            <small>Установка: <a href="http://umicms.local/install.php">install.php</a><br>
             База: host=mysql, user=umicms, password=umicms.</small>
         </li>
         <li><a href="http://simplacms.local">SIMPLA</a><br>
@@ -36,15 +38,16 @@
         <li>ГОТОВО: <a href="/django/">Django/Python</a></li>
         <li>ГОТОВО: <a href="/woocommerce/">Woo Commerce</a></li>
         <li>ГОТОВО: <a href="/wordpress/">Wordpress</a></li>
+        <li>ПРОБЛЕМА: после установки не работает логин: <a href="http://amirocms.local">AMIRO CMS</a><br>
+            <small>Установка: <a href="http://amirocms.local/install.php">install.php</a><br>
+                Выбираем «Пакет: cms-7.0.2.0-minimarket.tar.gz»<br>
+                База: host=mysql, user=amirocms, password=amirocms</small>
+        </li>
     </ol>
     <h2>Иное</h2>
     <ol>
         <li>InSales – saas</li>
         <li>MODX – просто CMS</li>
-    </ol>
-    <h2>FIXME: после установки не работает логин!</h2>
-    <ol>
-        <li><a href="/amiro/install.php">AMIRO CMS</a></li>
     </ol>
 </body>
 </html>

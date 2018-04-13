@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
 
-cp -f /dist/* /var/www/umicms/
+cp -f /dist/install.php /var/www/umicms/
 
 exec $@

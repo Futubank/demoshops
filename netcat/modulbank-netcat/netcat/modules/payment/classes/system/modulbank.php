@@ -57,9 +57,9 @@ class nc_payment_system_modulbank extends nc_payment_system
         }
 
         // FIXME: должно работать $NETSHOP['OrderURL'], но там пусто
-        $success_url = $this->abs_url('/');
-        $fail_url = $this->abs_url('/');
-        $cancel_url = $this->abs_url('/');
+        $success_url = $this->abs_url('/orders/');
+        $fail_url = $this->abs_url('/orders/');
+        $cancel_url = $this->abs_url('/orders/');
 
         $meta = '';
 
@@ -107,7 +107,7 @@ class nc_payment_system_modulbank extends nc_payment_system
         } else {
             $scheme = 'http://';
         }
-        return $scheme . $_SERVER['SERVER_NAME'] . $path;
+        return $scheme . $_SERVER['SERVER_NAME'] . $GLOBALS['SUB_FOLDER'] . $path;
     }
 
     public function fix_currency($s) {

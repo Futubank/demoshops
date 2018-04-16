@@ -16,9 +16,11 @@ RUN sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mysql/mysql.conf.d/mysqld.cnf
 COPY init/*.sql /init/
 
 COPY ./docker-entrypoint.sh /docker-entrypoint.sh
+COPY ./my.cnf /my.cnf
+
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
 #CMD ["mysqld", "--default-authentication-plugin=mysql_native_password", "--defaults-extra-file=/my.cnf"]
-CMD ["mysqld"]
+CMD ["mysqld", "--defaults-extra-file=/my.cnf"]
 
 VOLUME ["/var/lib/mysql", "/var/log/mysql"]

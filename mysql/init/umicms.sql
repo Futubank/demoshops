@@ -1,2 +1,2 @@
-CREATE DATABASE IF NOT EXISTS umicms CHARACTER SET utf8;
-GRANT ALL ON `umicms`.* TO 'umicms'@'%' IDENTIFIED BY 'umicms';
+CREATE DATABASE IF NOT EXISTS umitostm65 CHARACTER SET utf8;
+GRANT ALL ON `umitostm65`.* TO 'umicms'@'%' IDENTIFIED BY 'umicms';

@@ -19,6 +19,8 @@ services:
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
       - ./webasyst/var-www-webasyst:/var/www/webasyst/
+      - ./opencart/opt-volume
+      - ./opencart/modulbank-opencart
   mysql:
     build: ./mysql
     restart: always
@@ -42,6 +44,13 @@ services:
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
       - ./webasyst/var-www-webasyst:/var/www/webasyst/
+  opencart:
+    build: ./opencart
+    depends_on:
+      - mysql
+    volumes:
+      - ./opencart/opt-volume:/opt/opencart
+      - ./opencart/modulbank-opencart:/opt/modulbank-opencart
   django:
     build: ./django
     restart: always

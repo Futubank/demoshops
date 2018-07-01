@@ -1,0 +1,3 @@
+[submodule "opencart/modulbank-opencart"]
+	path = opencart/modulbank-opencart
+	url = git@bitbucket.org:futubank-modulbank/modulbank-opencart2.git

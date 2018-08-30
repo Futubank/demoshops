@@ -8,6 +8,7 @@ RUN apt-get update \
         rsync \
         php-cli \
         php-mysql \
+        php-mbstring \
         curl
 
 RUN cd /tmp \
@@ -24,11 +25,11 @@ RUN cd /tmp \
     && wp cli update
 
 RUN cd /tmp \
-    && wget https://github.com/woocommerce/woocommerce/archive/3.3.4.tar.gz \
-    && tar -xzvf 3.3.4.tar.gz \
-    && mv woocommerce-3.3.4 /opt/woocommerce/wp-content/plugins/woocommerce
+    && wget https://github.com/woocommerce/woocommerce/archive/3.4.5.tar.gz \
+    && tar -xzvf 3.4.5.tar.gz \
+    && mv woocommerce-3.4.5 /opt/woocommerce/wp-content/plugins/woocommerce
 
-COPY modulbank-woocommerce/modulbank/ /opt/woocommerce/wp-content/plugins/modulbank/
+#COPY modulbank-woocommerce/modulbank/ /opt/woocommerce/wp-content/plugins/modulbank/
 COPY wp-config.php /opt/woocommerce/wp-config.php
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh

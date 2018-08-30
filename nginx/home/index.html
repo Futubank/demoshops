@@ -11,30 +11,24 @@
 </head>
 <body>
     <h1>Демо-магазины</h1>
-    <div style="padding: 1rem; border: solid 2px #ff5a3f; font-family: Monospace; white-space: pre-line; background: #fdffd1; width: 40em"><strong># чтобы всё работало, прописать в /etc/hosts</strong>
-        127.0.0.1 simplacms.local
-        127.0.0.1 umicms.local
-        127.0.0.1 amirocms.local
-        127.0.0.1 webasyst.local
-    </div>
-
     <ol>
         <li><a href="http://simplacms.local">SIMPLA</a><br>
-            <small>Установка: <a href="http://simplacms.local/install.php">install.php</a><br>
+            <small>Установка: <a href="http://172.100.19/install.php">install.php</a><br>
             База: host=mysql, user=simplacms, password=simplacms.<br>
             Если не заработает, поменять hostname в simplacms.conf и в /etc/hosts</small>
         </li>
-        <li><a href="http://webasyst.local">Web Asyst</a><br>
+        <li><a href="http://172.100.0.20/">Web Asyst</a><br>
         </li>
+
         <li>HOST.CMS — https://www.hostcms.ru/hostcms/editions/free/</li>
         <li>Поднять: <a href="/drupalcommerce/">Drupal Commerce</a></li>
 
-        <li>Prestashop (причесать!)</li>
+        <li><a href="http://172.100.100.11/">Prestashop</li>
+        <li><a href="http://172.100.100.10/">Opencart 2.3</li>
         <li>Joomla Virtuemart2 (причесать!)</li>
-        <li>Opencart (причесать!)</li>
         <li>Bitrix (причесать!)</li>
 
-        <li>ОК: <a href="http://localhost:8055">NETCAT</a><br>
+        <li>ОК: <a href="http://182.100.0.13:8055">NETCAT</a><br>
             <small>Нужно устанавливать руками: скопировать /opt/netcat в /var/www/html, и потом запустить инсталлятор.
             База: host=mysql, user=netcat, password=netcat.</small>
         </li>
@@ -42,18 +36,13 @@
         <li>ОК: <a href="/woocommerce/">Woo Commerce</a></li>
         <li>ОК: <a href="/wordpress/">Wordpress</a></li>
         <li style="background: lightyellow">После установки не работает логин: <a href="http://amirocms.local">AMIRO CMS</a><br>
-            <small>Установка: <a href="http://amirocms.local/install.php">install.php</a><br>
+            <small>Установка: <a href="http://172.100.0.17/install.php">install.php</a><br>
                 Выбираем «Пакет: cms-7.0.2.0-minimarket.tar.gz»<br>
                 База: host=mysql, user=amirocms, password=amirocms</small>
         </li>
-        <li>Установилось!: <a href="http://umicms.local">UMI.CMS</a><br>
+        <li>Установилось!: <a href="http://172.100.0.18">UMI.CMS</a><br>
             <small>Первый раз: переименовать umicms_data_sql в umicms_data.sql, запустить, переименовать назад</small>
         </li>
-    </ol>
-    <h2>Иное</h2>
-    <ol>
-        <li>InSales – saas</li>
-        <li>MODX – просто CMS</li>
     </ol>
 </body>
 </html>

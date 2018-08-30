@@ -1,3 +1,4 @@
+# vim: sw=2
 version: '3'
 services:
   nginx:
@@ -21,9 +22,19 @@ services:
       - ./webasyst/var-www-webasyst:/var/www/webasyst/
       - ./opencart/opt-volume
       - ./opencart/modulbank-opencart
+      - ./prestashop/opt-volume:/opt/prestashop
+      - ./prestashop/modulbank-prestashop:/opt/modulbank-prestashop
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.2
+
   mysql:
     build: ./mysql
     restart: always
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.3
+
   phpfpm7:
     build: ./phpfpm7
     restart: always
@@ -34,6 +45,10 @@ services:
       - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
       - /private/var/lib/docker-volumes/var-www-netcat:/var/www/netcat/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.7
+
   phpfpm5:
     build: ./phpfpm5
     restart: always
@@ -44,6 +59,10 @@ services:
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
       - ./webasyst/var-www-webasyst:/var/www/webasyst/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.5
+
   opencart:
     build: ./opencart
     depends_on:
@@ -51,6 +70,23 @@ services:
     volumes:
       - ./opencart/opt-volume:/opt/opencart
       - ./opencart/modulbank-opencart:/opt/modulbank-opencart
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.10
+
+  prestashop:
+    build: ./prestashop
+    depends_on:
+      - mysql
+    volumes:
+      - ./prestashop/www:/var/www
+        #      - ./prestashop/modulbank-prestashop/modulbank:/var/www/html/modules/modulbank
+    cap_add:
+      - SYS_PTRACE
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.11
+
   django:
     build: ./django
     restart: always
@@ -59,46 +95,93 @@ services:
       - ./django/myshop/:/opt/myshop
     depends_on:
       - mysql
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.12
+
   netcat:
-      build: ./netcat
-      restart: always
-      ports:
-        - "8055:80"
-      volumes:
-        - /private/var/lib/docker-volumes/netcat2-var-www-html:/var/www/html
-        - /private/var/lib/docker-volumes/netcat2-var-log-httpd:/var/log/httpd
+    build: ./netcat
+    restart: always
+    ports:
+      - "8055:80"
+    volumes:
+      - /private/var/lib/docker-volumes/netcat2-var-www-html:/var/www/html
+      - /private/var/lib/docker-volumes/netcat2-var-log-httpd:/var/log/httpd
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.13
+
   wordpress:
     build: ./wordpress
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-wordpress:/var/www/wordpress/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.14
+
   woocommerce:
     build: ./woocommerce
+    depends_on:
+      - mysql
     restart: "no"
     volumes:
-      - /private/var/lib/docker-volumes/var-www-woocommerce:/var/www/woocommerce/
+      - ./woocommerce/var-www-woocommerce:/var/www/woocommerce/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.15
+
   drupalcommerce:
     build: ./drupalcommerce
     restart: "no"
     volumes:
       - /private/var/lib/docker-volumes/var-www-drupalcommerce:/var/www/drupalcommerce/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.16
+
   amirocms:
     build: ./amirocms
     restart: "no"
     volumes:
       - ./amirocms/var-www-amirocms:/var/www/amirocms/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.17
+
   umicms:
     build: ./umicms
     restart: "no"
     volumes:
       - ./umicms/var-www-umicms:/var/www/umicms/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.18
+
   simplacms:
     build: ./simplacms
     restart: "no"
     volumes:
       - ./simplacms/var-www-simplacms:/var/www/simplacms/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.19
+
   webasyst:
     build: ./webasyst
     restart: "no"
     volumes:
       - ./webasyst/var-www-webasyst:/var/www/webasyst/
+    networks:
+      shopsnet:
+        ipv4_address: 172.100.0.20
+
+
+networks:
+  shopsnet:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.100.0.0/16
+          #gateway: 172.100.0.1
